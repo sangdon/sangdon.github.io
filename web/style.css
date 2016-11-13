@@ -1,32 +1,32 @@
 .paper {
       font-size:15px;
-      font:'Verdana';        
+      font-family:'Open Sans';
       padding-top:0.5em;
       padding-bottom: 0.5em;
 }
 .edu {
       font-size:15px;
-      font:'Verdana';        
+      font-family:'Open Sans';
 }
 .edu_detail {
       font-size:12px;
-      font:'Verdana';        
+      font-family:'Open Sans';
 }
 .title {
       font-size:30px;
-      font:'Open Sans';
+      font-family:'Open Sans';
       COLOR: #eb4d00
 }
 .subtitle {
       font-size:20px;
-      font:'Verdana';        
+      font-family:'Open Sans';
 }
 ul {
       list-style-type: none;
 }
 .course {
       font-size:20px;
-      font:'Verdana';
+      font-family:'Open Sans';
 }
       
 #primarycontent {
@@ -41,7 +41,10 @@ TABLE {
 	VERTICAL-ALIGN: top; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
 }
 BODY {
-	FONT-SIZE: 15px; COLOR: black; FONT-FAMILY: Georgia, "New Century Schoolbook", Times, serif; BACKGROUND-COLOR: white
+	FONT-SIZE: 15px; 
+	COLOR: black; 
+	font-family:'Open Sans'; 
+	BACKGROUND-COLOR: white
 }
 IMG {
 	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
