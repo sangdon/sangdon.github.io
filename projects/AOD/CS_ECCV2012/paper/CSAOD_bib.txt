@@ -1,0 +1,6 @@
+@inproceedings{
+  author    = {Sangdon Park and Wonsik Kim and Kyoung Mu Lee},
+  title     = {Abnormal Object Detection by Canonical Scene-based Contextual Model},
+  booktitle = {European Conference on Computer Vision (ECCV)},
+  year      = {2012},
+}
