@@ -1,40 +1,51 @@
 .paper {
-      font-size:15px;
-      font-family:'Open Sans';
-      padding-top:0.5em;
-      padding-bottom: 0.5em;
+    font-size:15px;
+    font-family:'Open Sans';
+    padding-top:0.5em;
+    padding-bottom: 0.5em;
 }
 .edu {
-      font-size:15px;
-      font-family:'Open Sans';
+    font-size:15px;
+    font-family:'Open Sans';
 }
 .edu_detail {
-      font-size:12px;
-      font-family:'Open Sans';
+    font-size:12px;
+    font-family:'Open Sans';
 }
 .title {
-      font-size:30px;
-      font-family:'Open Sans';
-      COLOR: #eb4d00
+    font-size:30px;
+    font-family:'Open Sans';
+    COLOR: #eb4d00
 }
 .subtitle {
-      font-size:20px;
-      font-family:'Open Sans';
+    font-size:20px;
+    font-family:'Open Sans';
 }
 ul {
-      list-style-type: none;
+    list-style-type: none;
 }
 .course {
-      font-size:20px;
-      font-family:'Open Sans';
+    font-size:20px;
+    font-family:'Open Sans';
 }
-      
+    
+.button_link {
+    background-color: white;
+    border: 1px solid black;
+    padding: 2px 2px;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    border-radius: 8px;
+}  
 #primarycontent {
-      MARGIN-LEFT: auto; WIDTH: expression(document.body.clientWidth > 1000? "1000px": "auto" ); MARGIN-RIGHT: auto; TEXT-ALIGN: left; max-width: 1000px 
+    MARGIN-LEFT: auto; WIDTH: expression(document.body.clientWidth > 1000? "1000px": "auto" ); MARGIN-RIGHT: auto; TEXT-ALIGN: left; max-width: 1000px 
 }
 
 .more {
-      display: none;
+    display: none;
 }
 
 TABLE {
