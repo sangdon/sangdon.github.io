@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'Sangdon Park'
 SITENAME = u'Sangdon Park'
 #SITEURL = 'http://localhost:8000'
-SITEURL = 'http://sangdon.github.io'
+SITEURL = 'https://sangdon.github.io'
 
 PATH = 'content'
 STATIC_PATHS = ['articles', 'pages', 'images']
