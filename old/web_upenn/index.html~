@@ -1,0 +1,173 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+
+  <head>
+    <title>Sangdon Park</title>
+    <link media="all" href="web/style.css" type="text/css" rel="StyleSheet"/>
+    <style type="text/css">
+      .paper
+      {
+      font-size:15px;
+      font:'Verdana';        
+      padding-top:0.5em;
+      padding-bottom: 0.5em;
+      }
+      .edu
+      {
+      font-size:15px;
+      font:'Verdana';        
+      }
+      .edu_detail
+      {
+      font-size:12px;
+      font:'Verdana';        
+      }
+      .title
+      {
+      font-size:30px;
+      font:'Verdana';
+      COLOR: #eb4d00
+      }
+      .subtitle
+      {
+      font-size:20px;
+      font:'Verdana';        
+      }
+      ul
+      {
+      list-style-type: none;
+      }
+      .course
+      {
+      font-size:20px;
+      font:'Verdana';
+      }
+      
+      #primarycontent {
+      MARGIN-LEFT: auto; WIDTH: expression(document.body.clientWidth > 1000? "1000px": "auto" ); MARGIN-RIGHT: auto; TEXT-ALIGN: left; max-width: 1000px 
+      }
+
+      .more {
+      display: none;
+      }
+
+    </style>
+    
+    <script language="javascript" type="text/javascript">
+      function showHide(shID) {
+      if (document.getElementById(shID)) {
+      if (document.getElementById(shID+'-show').style.display != 'none') {
+      document.getElementById(shID+'-show').style.display = 'none';
+      document.getElementById(shID).style.display = 'block';
+      }
+      else {
+      document.getElementById(shID+'-show').style.display = 'inline';
+      document.getElementById(shID).style.display = 'none';
+      }
+      }
+      }
+    </script>
+    
+  </head>
+
+
+  <body style='font-family:Verdana'>
+    
+    <div id='primarycontent'>
+      
+      <font class='title'><b>Sangdon Park</b></font>
+      <br />
+      <table width="1000" border="0" >
+        <tr>
+          <td style='width:20%'><img alt='' src='web/mypic.jpg' width=180' /></td>
+          <td style='width:80%'>
+            <table>
+              <tr><td class='course'>Ph.D. Student</td></tr>
+              <tr><td>&nbsp;</td></tr> 
+              <tr><td>GRASP (General Robotics Automation, Sensing, Perception) Lab,</td></tr>
+              <tr><td>Department of Computer and Information Science,</td></tr>
+              <tr><td>University of Pennsylvania, USA</td></tr>
+              <tr><td>&nbsp;</td></tr>
+              <tr><td>Email: sangdonp@cis.upenn.edu </td></tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+      <br />
+      My research interest is in scene understanding: human/object recognition in images and videos. Now, I am a Ph.D. student in <a href='https://www.grasp.upenn.edu/'>GRASP lab</a> at University of Pennsylvania, under the supervision of Professor <a href='http://cis.upenn.edu/~jshi'>Jianbo Shi</a>! Before that, I got my M.S. degree in EECS from Seoul National University in 2012 and academic advisor was Professor <a href='http://cv.snu.ac.kr/kmlee'>Kyoung Mu Lee</a>. I have a B.S. degree in CS from Seoul National University in 2010 and my mentors were Professor <a href='http://bi.snu.ac.kr/~btzhang'>Byoung-Tak Zhang</a> and Professor <a href='http://mrl.snu.ac.kr/~jehee/'>Jehee Lee</a>.
+      <br /> <br />
+
+<!--
+      <font class='title'>Educations</font>
+      <br />
+      <ul>
+	<li class='edu'>
+          Ph.D. candidate in Department of Computer and Information Science, University of Pennsylvania, USA.
+          <ul class='edu_detail'>
+            <li>- Advisor: <a href='http://cis.upenn.edu/~jshi'>Jianbo Shi</a></li>
+	    
+          </ul>
+        </li>
+        <li class='edu'>
+          M.S. in Department of Electrical Engineering and Computer Science, Seoul National University, Korea.
+          <ul class='edu_detail'>
+            <li>- Thesis: Abnormal Object Detection by Transformed-Canonical Scene Generation</li>
+            <li>- Advisor: <a href='http://cv.snu.ac.kr/kmlee'>Kyoung Mu Lee</a></li>
+	    
+          </ul>
+        </li>
+        <li class='edu'>
+          B.S. in Department   of Computer Science and Engineering, Seoul National University, Korea.
+          <ul class='edu_detail'>
+            <li>- Thesis: Behavioral Intelligence for Crowd Avatar in 3D Virtual Worlds</li>
+            <li>- Advisor: <a href='http://bi.snu.ac.kr/~btzhang'>Byoung-Tak Zhang</a></li>
+	    
+          </ul>
+        </li>
+      </ul>      
+      <br /> <br />
+-->
+
+<!--
+      <font class='title'>News</font>
+      <br />
+
+      &bull; Started working for Jianbo Shi
+      <div align="right">
+	<a href="#" id="news-hidden-show" class="showLink" onclick="showHide('news-hidden');return false;">See more</a>
+      </div>
+      <div id="news-hidden" class="more">
+	&bull; ...
+	<br/>
+	<div align="right">
+	  <a href="#" id="news-hidden" class="hideLink" onclick="showHide('news-hidden');return false;">Hide</a>
+	</div>
+	</div>
+      <br/><br/>
+-->
+      <font class='title'>Publications</font>
+      <br />
+      <font class='subtitle'>Conference</font>
+      
+      <table cellpadding='10'>
+	<tr>
+	  <td> 
+	    <img alt='' src='AOD/CS_ECCV2012/project_page/img/paper_teaser0.jpg' width='100' /> 
+	  </td>
+	  <td class='paper'> 
+	    <b>Sangdon Park</b>, Wonsik Kim, and Kyoung Mu Lee, "<a href='http://cv.snu.ac.kr/~sangdon/AOD/CS_ECCV2012/paper/CSAOD_ECCV2012.pdf'>Abnormal Object Detection by Canonical Scene-based Contextual Model</a>," <i>Proc. European Conference on Computer Vision (<b>ECCV</b>)</i>, 2012. [<a href='http://cv.snu.ac.kr/research/~CSAOD/'>project</a>] 
+	  </td>
+	</tr>
+      </table>
+      <br />
+      <font class='subtitle'>Thesis</font>
+      <ul>
+        <li class='paper'>Sangdon Park, "Abnormal Object Detection by Transformed-Canonical Scene Generation," <i> M.S. thesis, Seoul National University</i>, Aug. 2012. (<b>Distinguished Dissertation Award</b>)</li>
+        <li class='paper'>Sangdon Park, "Behavioral Intelligence for Crowd Avatar in 3D Virtual Worlds," <i> B.S. thesis, Seoul National University</i>, Feb. 2010.</li>
+      </ul>
+    </div>
+  
+  </body>
+</html>
+  

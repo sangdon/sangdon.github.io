@@ -1,0 +1,60 @@
+<html>
+  <head>
+    <title> CPS and IoT Security Reading Group </title>
+    <link media="all" href="web/style.css" type="text/css" rel="StyleSheet"/>
+    <style type="text/css">
+      .paper
+      {
+      font-size:15px;
+      font:'Verdana';        
+      padding-top:0.5em;
+      padding-bottom: 0.5em;
+      }
+      .edu
+      {
+      font-size:15px;
+      font:'Verdana';        
+      }
+      .edu_detail
+      {
+      font-size:12px;
+      font:'Verdana';        
+      }
+      .title
+      {
+      font-size:30px;
+      font:'Verdana';
+      COLOR: #eb4d00
+      }
+      .subtitle
+      {
+      font-size:20px;
+      font:'Verdana';        
+      }
+      ul
+      {
+      list-style-type: none;
+      }
+      .course
+      {
+      font-size:20px;
+      font:'Verdana';
+      }
+      
+      #primarycontent {
+      MARGIN-LEFT: auto; WIDTH: expression(document.body.clientWidth > 1000? "1000px": "auto" ); MARGIN-RIGHT: auto; TEXT-ALIGN: left; max-width: 1000px 
+      }
+    </style>
+  </head>
+  <body style='font-family:Verdana'>
+    <div id='primarycontent'>
+      <h1 align='center'> CPS and IoT Security Reading Group, 2016 Summer</h1>
+      
+      <h3 align='left'>Schedule</h3>
+      <iframe width='1000' height='500' frameborder='0' src="https://docs.google.com/spreadsheets/d/1EFSUJjjl10aBF9dftn8DKCet8dYg27YWbRF6zIHaEkg/pubhtml?gid=473464910&amp;single=true&amp;widget=false&amp;headers=false"></iframe>
+
+      <h3 align='left'>Paper List</h3> 
+      <iframe width='1000' height='500' frameborder='0' src="https://docs.google.com/spreadsheets/d/1EFSUJjjl10aBF9dftn8DKCet8dYg27YWbRF6zIHaEkg/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false"></iframe>
+    </div>
+  </body>
+</html>

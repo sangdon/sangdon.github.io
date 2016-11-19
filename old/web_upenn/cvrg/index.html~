@@ -1,0 +1,56 @@
+<html>
+  <head>
+    <title> Computer Vision Reading Group </title>
+    <link media="all" href="web/style.css" type="text/css" rel="StyleSheet"/>
+    <style type="text/css">
+      .paper
+      {
+      font-size:15px;
+      font:'Verdana';        
+      padding-top:0.5em;
+      padding-bottom: 0.5em;
+      }
+      .edu
+      {
+      font-size:15px;
+      font:'Verdana';        
+      }
+      .edu_detail
+      {
+      font-size:12px;
+      font:'Verdana';        
+      }
+      .title
+      {
+      font-size:30px;
+      font:'Verdana';
+      COLOR: #eb4d00
+      }
+      .subtitle
+      {
+      font-size:20px;
+      font:'Verdana';        
+      }
+      ul
+      {
+      list-style-type: none;
+      }
+      .course
+      {
+      font-size:20px;
+      font:'Verdana';
+      }
+      
+      #primarycontent {
+      MARGIN-LEFT: auto; WIDTH: expression(document.body.clientWidth > 1000? "1000px": "auto" ); MARGIN-RIGHT: auto; TEXT-ALIGN: left; max-width: 1000px 
+      }
+    </style>
+  </head>
+  <body style='font-family:Verdana'>
+    <div id='primarycontent'>
+      <h1 align='center'> Computer Vision Reading Group</h1>
+      <h3 align='right'>Organizer: Andrew Yeager</h3>
+      <iframe width='1000' height='1000' frameborder='0' src='https://docs.google.com/spreadsheet/pub?key=0AlixPhogDqKIdGVJdG5tbnhJY0wxMW5tOTZfZWdqSHc&output=html&widget=true'></iframe>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,132 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD html 4.01 Transitional//EN" "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<title>
+Abnormal Object Detection 
+by Canonical Scene-based Contextual Model
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+
+<link media="all" href="glab.css" type="text/css" rel="StyleSheet"/>
+<style type="text/css" media="all">
+    
+#primarycontent {
+    MARGIN-LEFT: auto; WIDTH: expression(document.body.clientWidth > 800? "800px": "auto" ); MARGIN-RIGHT: auto; TEXT-ALIGN: left; max-width: 
+800px } 
+
+body {
+    TEXT-ALIGN: center
+}
+
+.tab { margin-left: 20px; }
+</style>
+
+<meta content="MSHTML 6.00.2800.1400" name="GENERATOR"/>
+
+<script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-35697002-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
+</head>
+
+<body>
+
+<div id="primarycontent">
+
+<center> 
+<h1>Abnormal Object Detection <br/> <small> by Canonical Scene-based Contextual Model</small> </h1>
+<table>
+<tr>
+<td><img src="img/paper_teaser1.jpg" alt="Results" width="100%" /></td>
+</tr>
+<tr>
+<td align="center"><img src="img/paper_teaser2.jpg" alt="CS model" width="60%" /></td>
+</tr>
+</table>
+
+</center>
+
+<!--------------------------------------------------------------------------------------------------------------->
+<h2>Authors</h2>
+<p class="tab">
+<a href="http://cv.snu.ac.kr/~sangdon">Sangdon Park</a> <br />
+<a href="http://cv.snu.ac.kr/wonsik_kim/">Wonsik Kim</a> <br />
+<a href="http://cv.snu.ac.kr/~kmlee">Kyoung Mu Lee</a> <br />
+</p>
+<!--------------------------------------------------------------------------------------------------------------->
+<h2>Abstract</h2>
+
+<p class="tab">
+Contextual modeling is a critical issue in scene understanding. Object detection accuracy can be improved by exploiting tendencies
+that are common among object congurations. However, conventional
+contextual models only exploit the tendencies of normal objects; abnormal objects that do not follow the same tendencies are hard to detect
+through contextual model. This paper proposes a novel generative model
+that detects abnormal objects by meeting four proposed criteria of success. This model generates normal as well as abnormal objects, each
+following their respective tendencies. Moreover, this generation is controlled by a latent scene variable. All latent variables of the proposed
+model are predicted through optimization via population-based Markov
+Chain Monte Carlo, which has a relatively short convergence time. We
+present a new abnormal dataset classied into three categories to thoroughly measure the accuracy of the proposed model for each category;
+the results demonstrate the superiority of our proposed approach over
+existing methods.
+</p>
+
+<!--------------------------------------------------------------------------------------------------------------->
+<h2>Publications</h2>
+<a href="../paper/CSAOD_ECCV2012.pdf"><img src="img/paper_thumbnail.jpg" width="25%" style="border: 1px solid black; float: right; padding: 0px; PADDING-RIGHT: 0px;" alt="paper thumbnail"" /></a> 
+
+
+<h3>Paper</h3>
+<p class="tab">
+ECCV 2012 <a href="../paper/CSAOD_ECCV2012.pdf">paper</a><br />
+ECCV 2012 <a href="../paper/CSAOD_ECCV2012_suppl.pdf">suppl.</a>
+</p>
+
+<h3>Presentation</h3>
+<p class="tab">
+ECCV 2012 <a href="../presentation/CSAOD_ECCV2012_POSTER.pdf">poster</a><br />
+<a href="../presentation/video_summary.wmv">video</a><br />
+<a href="../presentation/CSAOD_ECCV2012_slide.pptx">slides</a>
+</p>
+
+<h3>Code</h3>
+<p class="tab">
+<a href="../code/code_distribute_v.1.0.zip">matlab code</a> (zip, 19.4 MB)
+</p>
+
+<h3>Dataset</h3>
+<p class="tab">
+<a href="../dataset/dataset.zip">abnormal dataset</a> (zip, 49.3MB)
+</p>
+
+<h3>Citation</h3>
+<p class="tab">
+Sangdon Park, Wonsik Kim and Kyoung Mu Lee, "Abnormal Object Detection by Canonical Scene-based Contextual Model," Proc. of <i>European Conference on Computer Vision (ECCV)</i>, 2012. <a href="http://cv.snu.ac.kr/~sangdon/AOD/CS_ECCV2012/paper/CSAOD_bib.txt">Bibtex</a>
+</p>
+<!--------------------------------------------------------------------------------------------------------------->
+<h2>Evaluation</h2>
+<h3>Abnormal dataset</h3>
+<br /><center><img src="img/AbDB_ex.jpg" alt="Abnormal dataset examples" width="80%" /></center><br /><br /><br />
+<h3>Quantitative comparison</h3>
+<br /><center><img src="img/quant_comp.jpg" alt="Quantitative comparison" width="80%" /></center><br /><br /><br />
+<h3>Qualitative comparison</h3>
+<br /><center><img src="img/qual_comp.jpg" alt="Qualitative comparison" width="80%" /></center><br /><br /><br />
+<h3>Qualitative results</h3>
+<br /><center><img src="img/qual_results.jpg" alt="Qualitative results" width="80%" /></center><br /><br /><br />
+
+
+<div id="footer">
+<a href="http://cv.snu.ac.kr/"><img style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px" alt="Seoul National Univ. Computer Vision Lab." src="img/logoSNUCVL.gif"/></a> 
+</div>
+</div>
+</body>
+</html>

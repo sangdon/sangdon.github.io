@@ -1,0 +1,3 @@
+AuthType Kerberos 
+AuthName "PennKey Login"
+Require user sangdonp@UPENN.EDU
