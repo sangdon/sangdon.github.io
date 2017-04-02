@@ -23,7 +23,27 @@ Summary: My introduction
 
 		
 
-# Projects 
+# Publications
+## Conference 
+#### asdf
+
+aassddff
+
+>    Resilient Linear Classification: An Approach to Deal with Attacks on Training Dat <br>
+>    Sangdon Park, James Weimer, and Insup Lee <br>
+     **ICCPS 2017** (to appear)
+---
+
+#### 
+> **Integrated Intelligence for Human Robot Teams** <br/>
+Jean Oh, Thomas Howard, Matthew Walter, Daniel Barber, Menglong Zhu, Sangdon Park, Arne Suppe, Luis NavarroSerment, Felix Duvallet, Abdeslam Boularias, Oscar Romero, Jerry Vinokurov, Terence Keegan, Robert Dean, Craig Lennon, Barry Bodt, Marshal Childers, Jianbo Shi, Kostas Daniilidis, Nicholas Roy, Christian Lebiere, Martial Hebert, and Anthony Stentz <br/>
+**ISER 2016**
+---
+
+> **Abnormal Object Detection by Canonical Scene-based Contextual Model** <br/>
+Sangdon Park, Wonsik Kim, and Kyoung Mu Lee <br/>
+**ECCV 2012**
+
 # Publications
 ## Conference
 
