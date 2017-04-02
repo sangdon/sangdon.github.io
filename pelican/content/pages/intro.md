@@ -26,79 +26,32 @@ Summary: My introduction
 # Publications
 ## Conference 
 
-> **Resilient Linear Classification: An Approach to Deal with Attacks on Training Dat** <br>
-> Sangdon Park, James Weimer, and Insup Lee <br>
+> **Resilient Linear Classification: An Approach to Deal with Attacks on Training Dat** <br/>
+> *Sangdon Park*, James Weimer, and Insup Lee <br/>
 > **ICCPS 2017** (to appear)
 ---
 
 > **Integrated Intelligence for Human Robot Teams** <br/>
-> Jean Oh, Thomas Howard, Matthew Walter, Daniel Barber, Menglong Zhu, Sangdon Park, Arne Suppe, Luis NavarroSerment, Felix Duvallet, Abdeslam Boularias, Oscar Romero, Jerry Vinokurov, Terence Keegan, Robert Dean, Craig Lennon, Barry Bodt, Marshal Childers, Jianbo Shi, Kostas Daniilidis, Nicholas Roy, Christian Lebiere, Martial Hebert, and Anthony Stentz <br/>
-> **ISER 2016**
+> Jean Oh, Thomas Howard, Matthew Walter, Daniel Barber, Menglong Zhu, *Sangdon Park*, Arne Suppe, Luis NavarroSerment, Felix Duvallet, Abdeslam Boularias, Oscar Romero, Jerry Vinokurov, Terence Keegan, Robert Dean, Craig Lennon, Barry Bodt, Marshal Childers, Jianbo Shi, Kostas Daniilidis, Nicholas Roy, Christian Lebiere, Martial Hebert, and Anthony Stentz <br/>
+> **ISER 2016** <br/>
+> [PDF](http://www.ri.cmu.edu/pub_files/2016/10/oh2016-iser.pdf)
 ---
 
 > **Abnormal Object Detection by Canonical Scene-based Contextual Model** <br/>
-> Sangdon Park, Wonsik Kim, and Kyoung Mu Lee <br/>
-> **ECCV 2012**
+> *Sangdon Park*, Wonsik Kim, and Kyoung Mu Lee <br/>
+> **ECCV 2012** <br/>
+> [PDF](http://cv.snu.ac.kr/~sangdon/AOD/CS_ECCV2012/paper/CSAOD_ECCV2012.pdf),
+> [Project Page](http://cv.snu.ac.kr/research/~CSAOD/), 
+> [Code](http://cv.snu.ac.kr/research/~CSAOD/code/code_distribute_v.1.0.zip),
+> [Dataset](http://cv.snu.ac.kr/research/~CSAOD/dataset/dataset.zip)
 
 ## Thesis
+
 > Sangdon Park, "Abnormal Object Detection by Transformed-Canonical Scene Generation," *M.S. thesis, Seoul National University*, Aug. 2012. (**Distinguished Dissertation Award**)
+
+---
 
 > Sangdon Park, "Behavioral Intelligence for Crowd Avatar in 3D Virtual Worlds," *B.S. thesis, Seoul National University*, Feb. 2010.
 
-
-# Publications
-## Conference
-
-<table border=0>
-	<!-- 3 -->
-	<tr>
-	  <td style="padding: 10px"> 
-	    <!-- <img src='project/AOD/CS_ECCV2012/project_page/img/paper_teaser0.jpg' width='100' /> -->
-	  </td>
-	  <td style="padding: 10px"> 
-	    <b>Resilient Linear Classification: An Approach to Deal with Attacks on Training Data</b> <br/>
-	    Sangdon Park, James Weimer, and Insup Lee <br/>
-	    <b>ICCPS 2017 (submitted)</b><br/>
-	    <a class="button_link"> PDF </a>
-	  </td>
-	</tr>
-	<!-- 2 -->
-	<tr>
-	  <td style="padding: 10px"> 
-	    <!-- <img src='project/AOD/CS_ECCV2012/project_page/img/paper_teaser0.jpg' width='100' /> -->
-	  </td>
-	  <td style="padding: 10px"> 
-	    <b>Integrated Intelligence for Human Robot Teams</b> <br/>
-	    Jean Oh, Thomas Howard, Matthew Walter, Daniel Barber, Menglong Zhu, Sangdon Park, Arne Suppe, Luis NavarroSerment, Felix Duvallet, Abdeslam Boularias, Oscar Romero, Jerry Vinokurov, Terence Keegan, Robert Dean, Craig Lennon, Barry Bodt, Marshal Childers, Jianbo Shi, Kostas Daniilidis, Nicholas Roy, Christian Lebiere, Martial Hebert, and Anthony Stentz <br/>
-	    <b>ISER 2016</b> <br/>
-	    <a class="button_link"> PDF </a>
-	  </td>
-	</tr>
-	<!-- 1 -->
-	<tr>
-	  <td style="width:10%; text-align:center; padding: 10px"> 
-	    <img src='{attach}paper_teaser0.jpg' width='200' /> 
-	  </td>
-	  <td style="padding: 10px"> 
-	    <b>Abnormal Object Detection by Canonical Scene-based Contextual Model</b> <br/>
-	    Sangdon Park, Wonsik Kim, and Kyoung Mu Lee <br/>
-	    <b>ECCV 2012</b> <br/>
-	    <!-- resources -->
-	    <a href='http://cv.snu.ac.kr/research/~CSAOD/' class='button_link'>Page</a> 
-	    <a href='http://cv.snu.ac.kr/~sangdon/AOD/CS_ECCV2012/paper/CSAOD_ECCV2012.pdf' class="button_link"> PDF </a>
-	    <a href='http://cv.snu.ac.kr/~sangdon/AOD/CS_ECCV2012/paper/CSAOD_ECCV2012.pdf' class="button_link"> Code </a>
-	    <a href='http://cv.snu.ac.kr/~sangdon/AOD/CS_ECCV2012/paper/CSAOD_ECCV2012.pdf' class="button_link"> Dataset </a>	    
-	  </td>
-	</tr>
-      </table>
-## Thesis
-<table border=0>
-       <tr><td style="padding: 10px"> 
-           Sangdon Park, "Abnormal Object Detection by Transformed-Canonical Scene Generation," <i> M.S. thesis, Seoul National University</i>, Aug. 2012. (<b>Distinguished Dissertation Award</b>)
-       </tr></td>
-       <tr><td style="padding: 10px"> 
-       	   Sangdon Park, "Behavioral Intelligence for Crowd Avatar in 3D Virtual Worlds," <i> B.S. thesis, Seoul National University</i>, Feb. 2010.
-       </tr></td>
-</table>
 
 
