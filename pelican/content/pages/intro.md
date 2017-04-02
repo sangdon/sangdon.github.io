@@ -9,13 +9,13 @@ Summary: My introduction
 
 		
 <table border=0><tr>
-	<td style="text-align:center; padding: 10px">
+<td style="text-align:left; width: 15%">
 		<img src="{attach}sangdon_pic.jpg" width="150px">
 	</td>
-	<td style="padding: 10px; width: 80%">
-	    My research interests focus on building secure AI systems. 
+	<td style="padding: 0%; width: 80%">
+	    My research interests focus on cyber-physical systems, security, and machine learning in collaboration with Prof. <a href='http://cis.upenn.edu/~lee'>Insup Lee</a> and Prof. <a href='http://www.seas.upenn.edu/~weimerj/'>James Weimer</a> at University of Pennsylvania.
 	    </br></br>
-	    Now, I am a Ph.D. student of University at Pennsylvania under the supervision of Professor <a href='http://cis.upenn.edu/~lee'>Insup Lee</a>. I got my M.S. degree in EECS from Seoul National University in 2012 and academic advisor was Professor <a href='http://cv.snu.ac.kr/kmlee'>Kyoung Mu Lee</a>. I have a B.S. degree in CS from Seoul National University in 2010 and my mentors were Professor <a href='http://bi.snu.ac.kr/~btzhang'>Byoung-Tak Zhang</a> and Professor <a href='http://mrl.snu.ac.kr/~jehee/'>Jehee Lee</a>.
+	    Previousely, I got my M.S. degree in EECS from Seoul National University in 2012 and my academic advisor was Prof. <a href='http://cv.snu.ac.kr/kmlee'>Kyoung Mu Lee</a>. I have a B.S. degree in CS from Seoul National University in 2010 and my mentors were Prof. <a href='http://bi.snu.ac.kr/~btzhang'>Byoung-Tak Zhang</a> and Prof. <a href='http://mrl.snu.ac.kr/~jehee/'>Jehee Lee</a>.
        	    </br></br>
 	    Email: sangdonp@cis.upenn.edu
 	</td>
