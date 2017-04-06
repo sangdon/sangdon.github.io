@@ -29,7 +29,9 @@ Summary: My introduction
 > **Resilient Linear Classification: An Approach to Deal with Attacks on Training Dat** <br/>
 > *Sangdon Park*, James Weimer, and Insup Lee <br/>
 > **ICCPS 2017** <br/>
-> [PDF](http://repository.upenn.edu/cis_papers/828/)
+> [PDF](http://repository.upenn.edu/cis_papers/828/), 
+> [BibTex](http://cis.upenn.edu/~sangdonp/project/rlc-ICCPS17/rlc-ICCPS17.bib)
+
 ---
 
 > **Integrated Intelligence for Human Robot Teams** <br/>
