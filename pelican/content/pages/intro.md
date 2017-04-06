@@ -30,7 +30,7 @@ Summary: My introduction
 > *Sangdon Park*, James Weimer, and Insup Lee <br/>
 > **ICCPS 2017** <br/>
 > [PDF](http://repository.upenn.edu/cis_papers/828/), 
-> [BibTex](http://cis.upenn.edu/~sangdonp/project/rlc-ICCPS17/rlc-ICCPS17.bib)
+> <a href="http://cis.upenn.edu/~sangdonp/projects/rlc-ICCPS17/rlc-ICCPS17.bib" target="_blank">BibTex</a>
 
 ---
 
