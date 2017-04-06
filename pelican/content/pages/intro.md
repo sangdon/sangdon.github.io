@@ -26,7 +26,7 @@ Summary: My introduction
 # Publications
 ## Conference 
 
-> **Resilient Linear Classification: An Approach to Deal with Attacks on Training Dat** <br/>
+> **Resilient Linear Classification: An Approach to Deal with Attacks on Training Data** <br/>
 > *Sangdon Park*, James Weimer, and Insup Lee <br/>
 > **ICCPS 2017** <br/>
 > [PDF](http://repository.upenn.edu/cis_papers/828/), 
