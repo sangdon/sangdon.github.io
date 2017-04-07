@@ -30,7 +30,7 @@ Summary: My introduction
 > *Sangdon Park*, James Weimer, and Insup Lee <br/>
 > *International Conference on Cyber-Physical Systems* (**ICCPS 2017**) <br/>
 > [PDF](http://repository.upenn.edu/cis_papers/828/), 
-> [BibTex](http://sangdon.github.io/projects/rlc-ICCPS17/rlc-ICCPS17.bib.txt)
+> [BibTex](http://sangdon.github.io/projects/rlc-ICCPS17/rlc-ICCPS17_bib.txt)
 
 ---
 
