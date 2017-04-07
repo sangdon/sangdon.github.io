@@ -30,7 +30,7 @@ Summary: My introduction
 > *Sangdon Park*, James Weimer, and Insup Lee <br/>
 > *International Conference on Cyber-Physical Systems* (**ICCPS 2017**) <br/>
 > [PDF](http://repository.upenn.edu/cis_papers/828/), 
-> <a href="http://sangdon.github.io/projects/rlc-ICCPS17/rlc-ICCPS17.bib" target="_blank">BibTex</a>
+> [BibTex](http://sangdon.github.io/projects/rlc-ICCPS17/rlc-ICCPS17.bib.txt)
 
 ---
 
@@ -44,6 +44,7 @@ Summary: My introduction
 > *Sangdon Park*, Wonsik Kim, and Kyoung Mu Lee <br/>
 > *European Conference on Computer Vision* (**ECCV 2012**) <br/>
 > [PDF](http://cv.snu.ac.kr/~sangdon/AOD/CS_ECCV2012/paper/CSAOD_ECCV2012.pdf),
+> [BibTex](http://cv.snu.ac.kr/~sangdon/AOD/CS_ECCV2012/paper/CSAOD_bib.txt)
 > [Project Page](http://cv.snu.ac.kr/research/~CSAOD/), 
 > [Code](http://cv.snu.ac.kr/research/~CSAOD/code/code_distribute_v.1.0.zip),
 > [Dataset](http://cv.snu.ac.kr/research/~CSAOD/dataset/dataset.zip)
