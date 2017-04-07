@@ -28,7 +28,7 @@ Summary: My introduction
 
 > **Resilient Linear Classification: An Approach to Deal with Attacks on Training Data** <br/>
 > *Sangdon Park*, James Weimer, and Insup Lee <br/>
-> International Conference on Cyber-Physical Systems (**ICCPS 2017**) <br/>
+> *International Conference on Cyber-Physical Systems* (**ICCPS 2017**) <br/>
 > [PDF](http://repository.upenn.edu/cis_papers/828/), 
 > <a href="http://sangdon.github.io/projects/rlc-ICCPS17/rlc-ICCPS17.bib" target="_blank">BibTex</a>
 
@@ -36,13 +36,13 @@ Summary: My introduction
 
 > **Integrated Intelligence for Human Robot Teams** <br/>
 > Jean Oh, Thomas Howard, Matthew Walter, Daniel Barber, Menglong Zhu, *Sangdon Park*, Arne Suppe, Luis NavarroSerment, Felix Duvallet, Abdeslam Boularias, Oscar Romero, Jerry Vinokurov, Terence Keegan, Robert Dean, Craig Lennon, Barry Bodt, Marshal Childers, Jianbo Shi, Kostas Daniilidis, Nicholas Roy, Christian Lebiere, Martial Hebert, and Anthony Stentz <br/>
-> International Symposium on Experimental Robotics (**ISER 2016**) <br/>
+> *International Symposium on Experimental Robotics* (**ISER 2016**) <br/>
 > [PDF](http://www.ri.cmu.edu/pub_files/2016/10/oh2016-iser.pdf)
 ---
 
 > **Abnormal Object Detection by Canonical Scene-based Contextual Model** <br/>
 > *Sangdon Park*, Wonsik Kim, and Kyoung Mu Lee <br/>
-> European Conference on Computer Vision (**ECCV 2012**) <br/>
+> *European Conference on Computer Vision* (**ECCV 2012**) <br/>
 > [PDF](http://cv.snu.ac.kr/~sangdon/AOD/CS_ECCV2012/paper/CSAOD_ECCV2012.pdf),
 > [Project Page](http://cv.snu.ac.kr/research/~CSAOD/), 
 > [Code](http://cv.snu.ac.kr/research/~CSAOD/code/code_distribute_v.1.0.zip),
