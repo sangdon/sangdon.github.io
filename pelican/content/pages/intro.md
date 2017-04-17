@@ -23,7 +23,7 @@ Email: sangdonp@cis.upenn.edu
 > *Sangdon Park*, James Weimer, and Insup Lee <br/>
 > *International Conference on Cyber-Physical Systems* (**ICCPS 2017**) <br/>
 > [PDF](http://repository.upenn.edu/cis_papers/828/), 
-> [BibTex](http://sangdon.github.io/projects/rlc-ICCPS17/rlc-ICCPS17_bib.txt),
+> [BibTex](http://cis.upenn.edu/~sangdonp/projects/rlc-ICCPS17/rlc-ICCPS17_bib.txt),
 > [DOI](https://doi.org/10.1145/3055004.3055006)
 
 ---
