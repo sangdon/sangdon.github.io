@@ -22,9 +22,11 @@ Email: sangdonp@cis.upenn.edu
 > **Resilient Linear Classification: An Approach to Deal with Attacks on Training Data** <br/>
 > *Sangdon Park*, James Weimer, and Insup Lee <br/>
 > *International Conference on Cyber-Physical Systems* (**ICCPS 2017**) <br/>
-> [PDF](http://repository.upenn.edu/cis_papers/828/), 
+> [PDF](http://repository.upenn.edu/cis_papers/828/),
+> [arXiv](https://arxiv.org/abs/1708.03366v1),
 > [BibTex](http://cis.upenn.edu/~sangdonp/projects/rlc-ICCPS17/rlc-ICCPS17_bib.txt),
 > [DOI](https://doi.org/10.1145/3055004.3055006)
+
 
 ---
 
