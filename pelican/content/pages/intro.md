@@ -33,6 +33,7 @@ Email: sangdonp@cis.upenn.edu
 > **Integrated Intelligence for Human Robot Teams** <br/>
 > Jean Oh, Thomas Howard, Matthew Walter, Daniel Barber, Menglong Zhu, *Sangdon Park*, Arne Suppe, Luis NavarroSerment, Felix Duvallet, Abdeslam Boularias, Oscar Romero, Jerry Vinokurov, Terence Keegan, Robert Dean, Craig Lennon, Barry Bodt, Marshal Childers, Jianbo Shi, Kostas Daniilidis, Nicholas Roy, Christian Lebiere, Martial Hebert, and Anthony Stentz <br/>
 > *International Symposium on Experimental Robotics* (**ISER 2016**) <br/>
+> [PDF](http://www.ri.cmu.edu/pub_files/2016/10/oh2016-iser.pdf)
 > [DOI](https://link.springer.com/chapter/10.1007/978-3-319-50115-4_28)
 ---
 
