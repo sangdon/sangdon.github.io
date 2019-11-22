@@ -1,5 +1,5 @@
 theme: jekyll-theme-dinky
 title: Sangdon Park
-public: false
-github.public: false
-site.github.public: false
+site:
+  github:
+    public: false
