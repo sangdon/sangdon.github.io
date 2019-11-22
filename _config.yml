@@ -2,5 +2,4 @@ theme: jekyll-theme-dinky
 title: Sangdon Park
 show_downloads: true
 logo: ./pages/sangdon_pic.jpg
-is_project_page: false
 
