@@ -1,4 +1,4 @@
 theme: jekyll-theme-dinky
 title: Sangdon Park
-show_downloads: true
+site.show_downloads: true
 site.github.public: false
