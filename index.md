@@ -17,30 +17,30 @@ Email: sangdonp@cis.upenn.edu</p>
 </blockquote>
 
 <blockquote>
-<p><strong>Integrated Intelligence for Human Robot Teams</strong> <br/>
+<strong>Integrated Intelligence for Human Robot Teams</strong> <br/>
 Jean Oh, Thomas Howard, Matthew Walter, Daniel Barber, Menglong Zhu, <em>Sangdon Park</em>, Arne Suppe, Luis NavarroSerment, Felix Duvallet, Abdeslam Boularias, Oscar Romero, Jerry Vinokurov, Terence Keegan, Robert Dean, Craig Lennon, Barry Bodt, Marshal Childers, Jianbo Shi, Kostas Daniilidis, Nicholas Roy, Christian Lebiere, Martial Hebert, and Anthony Stentz <br/>
 <em>International Symposium on Experimental Robotics</em> (<strong>ISER 2016</strong>) <br/>
 <a href="http://www.ri.cmu.edu/pub_files/2016/10/oh2016-iser.pdf">PDF</a>,
-<a href="https://link.springer.com/chapter/10.1007/978-3-319-50115-4_28">DOI</a></p>
+<a href="https://link.springer.com/chapter/10.1007/978-3-319-50115-4_28">DOI</a>
 </blockquote>
 
 <blockquote>
-<p><strong>Abnormal Object Detection by Canonical Scene-based Contextual Model</strong> <br/>
+<strong>Abnormal Object Detection by Canonical Scene-based Contextual Model</strong> <br/>
 <em>Sangdon Park</em>, Wonsik Kim, and Kyoung Mu Lee <br/>
 <em>European Conference on Computer Vision</em> (<strong>ECCV 2012</strong>) <br/>
 <a href="http://cv.snu.ac.kr/~sangdon/AOD/CS_ECCV2012/paper/CSAOD_ECCV2012.pdf">PDF</a>,
 <a href="http://cv.snu.ac.kr/~sangdon/AOD/CS_ECCV2012/paper/CSAOD_bib.txt">BibTex</a>,
 <a href="http://cv.snu.ac.kr/research/~CSAOD/">Project Page</a>, 
 <a href="http://cv.snu.ac.kr/research/~CSAOD/code/code_distribute_v.1.0.zip">Code</a>,
-<a href="http://cv.snu.ac.kr/research/~CSAOD/dataset/dataset.zip">Dataset</a></p>
+<a href="http://cv.snu.ac.kr/research/~CSAOD/dataset/dataset.zip">Dataset</a>
 </blockquote>
 
 ## Thesis
 <blockquote>
-<p>Sangdon Park, "Abnormal Object Detection by Transformed-Canonical Scene Generation," <em>M.S. thesis, Seoul National University</em>, Aug. 2012. <br/>
-<strong>Distinguished Dissertation Award</strong></p>
+Sangdon Park, "Abnormal Object Detection by Transformed-Canonical Scene Generation," <em>M.S. thesis, Seoul National University</em>, Aug. 2012. <br/>
+<strong>Distinguished Dissertation Award</strong>
 </blockquote>
 
 <blockquote>
-<p>Sangdon Park, "Behavioral Intelligence for Crowd Avatar in 3D Virtual Worlds," <em>B.S. thesis, Seoul National University</em>, Feb. 2010.</p>
+Sangdon Park, "Behavioral Intelligence for Crowd Avatar in 3D Virtual Worlds," <em>B.S. thesis, Seoul National University</em>, Feb. 2010.
 </blockquote>
