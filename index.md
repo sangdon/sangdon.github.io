@@ -57,6 +57,6 @@ Sangdon Park, "Abnormal Object Detection by Transformed-Canonical Scene Generati
 <strong>Distinguished Dissertation Award</strong>
 </blockquote>
 
-<blockquote>
-Sangdon Park, "Behavioral Intelligence for Crowd Avatar in 3D Virtual Worlds," <em>B.S. thesis, Seoul National University</em>, Feb. 2010.
-</blockquote>
+
+> Sangdon Park, "Behavioral Intelligence for Crowd Avatar in 3D Virtual Worlds," <em>B.S. thesis, Seoul National University</em>, Feb. 2010.
+
