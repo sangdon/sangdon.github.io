@@ -34,12 +34,12 @@ Jean Oh, Thomas Howard, Matthew Walter, Daniel Barber, Menglong Zhu, <em>Sangdon
 <a href="http://cv.snu.ac.kr/research/~CSAOD/dataset/dataset.zip">Dataset</a></p>
 </blockquote>
 
-# Thesis
+## Thesis
 <blockquote>
 <p>Sangdon Park, "Abnormal Object Detection by Transformed-Canonical Scene Generation," <em>M.S. thesis, Seoul National University</em>, Aug. 2012. <br/>
 <strong>Distinguished Dissertation Award</strong></p>
 </blockquote>
-<hr />
+
 <blockquote>
 <p>Sangdon Park, "Behavioral Intelligence for Crowd Avatar in 3D Virtual Worlds," <em>B.S. thesis, Seoul National University</em>, Feb. 2010.</p>
 </blockquote>
