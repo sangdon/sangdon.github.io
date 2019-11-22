@@ -9,6 +9,13 @@ Email: sangdonp@cis.upenn.edu
 # Publications
 ## Conference
 
+> **PAC Confidence Sets for Deep Neural Networks via Calibrated Prediction**
+> *Sangdon Park*, Osbert Bastani, Nikolai Matni, and, Insup Lee
+> In submission
+	
+> **Calibrated Predictions with Covariate Shift via Unsupervised Domain Adaptation**
+> *Sangdon Park*, Osbert Bastani, and Insup Lee
+> In submission to AISTATS20
 
 > <strong>From Verification to Learning for Defense against Adversarial Examples in Neural Networks</strong> <br/>
 > <em>Sangdon Park</em>,  Radoslav Ivanov, James Weimer, and Insup Lee <br/>
