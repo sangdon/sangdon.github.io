@@ -5,14 +5,15 @@ I received Bachelor's Degree in Computer Science from Seoul National University 
 Email: sangdonp@cis.upenn.edu</p>
 # Publications
 ## Conference
+
 <blockquote>
-<p><strong>Resilient Linear Classification: An Approach to Deal with Attacks on Training Data</strong> <br/>
+<strong>Resilient Linear Classification: An Approach to Deal with Attacks on Training Data</strong> <br/>
 <em>Sangdon Park</em>, James Weimer, and Insup Lee <br/>
-<em>International Conference on Cyber-Physical Systems</em> (<strong>ICCPS 2017</strong>) <br/>
+<em>International Conference on Cyber-Physical Systems</em> (<strong>ICCPS 2017</strong>) <br/>
 <a href="http://repository.upenn.edu/cis_papers/828/">PDF</a>,
 <a href="https://arxiv.org/abs/1708.03366v2">arXiv (longer)</a>,
 <a href="http://cis.upenn.edu/~sangdonp/projects/rlc-ICCPS17/rlc-ICCPS17_bib.txt">BibTex</a>,
-<a href="https://doi.org/10.1145/3055004.3055006">DOI</a></p>
+<a href="https://doi.org/10.1145/3055004.3055006">DOI</a>
 </blockquote>
 
 <blockquote>
