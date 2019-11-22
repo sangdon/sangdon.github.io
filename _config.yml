@@ -1,5 +1,5 @@
 theme: jekyll-theme-dinky
 title: Sangdon Park
-image: ./pages/sangdon_pic.jpg
+logo: ./pages/sangdon_pic.jpg
 is_project_page: false
 site.github.public: false
