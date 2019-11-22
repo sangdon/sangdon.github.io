@@ -9,11 +9,11 @@ Email: sangdonp@cis.upenn.edu
 # Publications
 ## Conference
 
-<blockquote>
-<strong>From Verification to Learning for Defense against Adversarial Examples in Neural Networks</strong> <br/>
-<em>Sangdon Park</em>,  Radoslav Ivanov, James Weimer, and Insup Lee <br/>
-<em>Korea Cyber-security Competition</em> (**Best paper award**) <br/>
-</blockquote>    
+
+> <strong>From Verification to Learning for Defense against Adversarial Examples in Neural Networks</strong> <br/>
+> <em>Sangdon Park</em>,  Radoslav Ivanov, James Weimer, and Insup Lee <br/>
+> <em>Korea Cyber-security Competition</em> (**Best paper award**) <br/>
+
     
 <blockquote>
 <strong>Resilient Linear Classification: An Approach to Deal with Attacks on Training Data</strong> <br/>
