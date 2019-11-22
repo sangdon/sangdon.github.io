@@ -1,11 +1,20 @@
+
+
 My research interests focus on cyber-physical systems, security, and machine learning in collaboration with Prof. <a href='http://cis.upenn.edu/~lee'>Insup Lee</a> and Prof. <a href='http://www.seas.upenn.edu/~weimerj/'>James Weimer</a> at University of Pennsylvania.
 
 I received Bachelor's Degree in Computer Science from Seoul National University in 2010 under the mentorship of Prof. <a href='http://bi.snu.ac.kr/~btzhang'>Byoung-Tak Zhang</a> and Prof. <a href='http://mrl.snu.ac.kr/~jehee/'>Jehee Lee</a>. I continued my graduate studies and received a Master's Degree in Electrical and Computer Engineering from Seoul National University in 2012 under the supervision of Prof. <a href='http://cv.snu.ac.kr/kmlee'>Kyoung Mu Lee</a>.
 
-Email: sangdonp@cis.upenn.edu</p>
+Email: sangdonp@cis.upenn.edu
+
 # Publications
 ## Conference
 
+<blockquote>
+<strong>From Verification to Learning for Defense against Adversarial Examples in Neural Networks</strong> <br/>
+<em>Sangdon Park</em>,  Radoslav Ivanov, James Weimer, and Insup Lee <br/>
+<em>Korea Cyber-security Competition</em> (**Best paper award**) <br/>
+</blockquote>    
+    
 <blockquote>
 <strong>Resilient Linear Classification: An Approach to Deal with Attacks on Training Data</strong> <br/>
 <em>Sangdon Park</em>, James Weimer, and Insup Lee <br/>
