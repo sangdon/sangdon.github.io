@@ -18,8 +18,8 @@ Email: sangdonp@cis.upenn.edu
 > In submission
 
 > <strong>From Verification to Learning for Defense against Adversarial Examples in Neural Networks</strong> <br/>
-> <em>Sangdon Park</em>,  Radoslav Ivanov, James Weimer, and Insup Lee <br/>
-> <em>Korea Cyber-security Competition</em> (**Best paper award**) <br/>
+> *Sangdon Park*,  Radoslav Ivanov, James Weimer, and Insup Lee <br/>
+> *Korea Cyber-security Competition* 2018 (**Best paper award**) <br/>
 
     
 <blockquote>
