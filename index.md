@@ -39,9 +39,9 @@ I received Bachelor's degree in Computer Science from Seoul National University 
 > **Abnormal Object Detection by Canonical Scene-based Contextual Model** <br/>
 > *Sangdon Park*, Wonsik Kim, and Kyoung Mu Lee <br/>
 > *European Conference on Computer Vision* (**ECCV 2012**) <br/>
+> <a href="http://cv.snu.ac.kr/research/~CSAOD/">Project Page</a>, 
 > <a href="http://cv.snu.ac.kr/~sangdon/AOD/CS_ECCV2012/paper/CSAOD_ECCV2012.pdf">PDF</a>,
 > <a href="http://cv.snu.ac.kr/~sangdon/AOD/CS_ECCV2012/paper/CSAOD_bib.txt">BibTex</a>,
-> <a href="http://cv.snu.ac.kr/research/~CSAOD/">Project Page</a>, 
 > <a href="http://cv.snu.ac.kr/research/~CSAOD/code/code_distribute_v.1.0.zip">Code</a>,
 > <a href="http://cv.snu.ac.kr/research/~CSAOD/dataset/dataset.zip">Dataset</a>
 
