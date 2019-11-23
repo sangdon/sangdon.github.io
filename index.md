@@ -4,7 +4,7 @@
 
 My research interests focus on designing safe and secure learning-enabled systems by understanding from theory to implementation. I collaborate with <a href='http://cis.upenn.edu/~lee'>Insup Lee</a> and <a href='https://obastani.github.io/'>Osbert Bastani</a> at University of Pennsylvania.
 
-I received Bachelor's Degree in Computer Science from Seoul National University in 2010 under the mentorship of Prof. <a href='http://bi.snu.ac.kr/~btzhang'>Byoung-Tak Zhang</a> and Prof. <a href='http://mrl.snu.ac.kr/~jehee/'>Jehee Lee</a>. I continued my graduate study and received a Master's Degree in Electrical and Computer Engineering from Seoul National University in 2012 under the supervision of Prof. <a href='http://cv.snu.ac.kr/kmlee'>Kyoung Mu Lee</a>.
+I received Bachelor's degree in Computer Science from Seoul National University in 2010 under the mentorship of Prof. <a href='http://bi.snu.ac.kr/~btzhang'>Byoung-Tak Zhang</a> and Prof. <a href='http://mrl.snu.ac.kr/~jehee/'>Jehee Lee</a>. I continued my graduate study and received a Master's degree in Electrical and Computer Engineering in 2012 under the supervision of Prof. <a href='http://cv.snu.ac.kr/kmlee'>Kyoung Mu Lee</a>.
 
 # Publications
 ## Conference
