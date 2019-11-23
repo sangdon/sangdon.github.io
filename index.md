@@ -7,9 +7,11 @@ I received Bachelor's Degree in Computer Science from Seoul National University 
 # Publications
 ## Conference
 
-> **PAC Confidence Sets for Deep Neural Networks via Calibrated Prediction** <br/>
-> *Sangdon Park*, Osbert Bastani, Nikolai Matni, and, Insup Lee <br/>
-> In submission
+<blockquote-box>
+**PAC Confidence Sets for Deep Neural Networks via Calibrated Prediction** <br/>
+*Sangdon Park*, Osbert Bastani, Nikolai Matni, and, Insup Lee <br/>
+In submission
+<\blockquote-box>
 	
 > **Calibrated Predictions with Covariate Shift via Unsupervised Domain Adaptation** <br/>
 > *Sangdon Park*, Osbert Bastani, and Insup Lee <br/>
