@@ -14,7 +14,7 @@ I received Bachelor's degree in Computer Science from Seoul National University 
 > In submission
 	
 > **Calibrated Predictions with Covariate Shift via Unsupervised Domain Adaptation** <br/>
-> *Sangdon Park*, Osbert Bastani, and Insup Lee <br/>
+> *Sangdon Park*, Osbert Bastani, James Weimer, and Insup Lee <br/>
 > In submission
 
 > **From Verification to Learning for Defense against Adversarial Examples in Neural Networks** <br/>
