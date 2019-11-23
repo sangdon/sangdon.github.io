@@ -1,5 +1,3 @@
-<title> Sangdon Park </title>
-
 # Short Bio
 
 My research interests focus on cyber-physical systems, security, and machine learning in collaboration with <a href='http://cis.upenn.edu/~lee'>Insup Lee</a>, <a href='http://www.seas.upenn.edu/~weimerj/'>James Weimer</a>, and <a href='https://obastani.github.io/'>Osbert Bastani</a> at University of Pennsylvania.
