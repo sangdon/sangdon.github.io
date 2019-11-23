@@ -10,9 +10,14 @@ h1,h2,h3,h4,h5,h6 {
   font-family: Tahoma, Verdana, Segoe, sans-serif
 }
 
-*.header {
+.header {
   font-family: Tahoma, Verdana, Segoe, sans-serif
 }
+
+h1.header {
+  font-family: Tahoma, Verdana, Segoe, sans-serif
+}
+
 .wrapper{width:1000px}
 header{width:200px}
 
