@@ -4,8 +4,6 @@ My research interests focus on cyber-physical systems, security, and machine lea
 
 I received Bachelor's Degree in Computer Science from Seoul National University in 2010 under the mentorship of Prof. <a href='http://bi.snu.ac.kr/~btzhang'>Byoung-Tak Zhang</a> and Prof. <a href='http://mrl.snu.ac.kr/~jehee/'>Jehee Lee</a>. I continued my graduate studies and received a Master's Degree in Electrical and Computer Engineering from Seoul National University in 2012 under the supervision of Prof. <a href='http://cv.snu.ac.kr/kmlee'>Kyoung Mu Lee</a>.
 
-Email: sangdonp@cis.upenn.edu
-
 # Publications
 ## Conference
 
