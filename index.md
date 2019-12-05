@@ -19,7 +19,7 @@ I received Bachelor's degree in Computer Science from Seoul National University 
 
 > **From Verification to Learning for Defense against Adversarial Examples in Neural Networks** <br/>
 > *Sangdon Park*,  Radoslav Ivanov, James Weimer, and Insup Lee <br/>
-> *Korea Cyber-security Competition* 2018 
+> *Korea Cyber-security Competition* 2018 <br/>
 > (**Best paper award**)
     
 
