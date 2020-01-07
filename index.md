@@ -16,7 +16,7 @@ I received Bachelor's degree in Computer Science from Seoul National University 
 	
 > **Calibrated Predictions with Covariate Shift via Unsupervised Domain Adaptation** <br/>
 > *Sangdon Park*, Osbert Bastani, James Weimer, and Insup Lee <br/>
-> In submission
+> *International Conference on Artificial Intelligence and Statistics* (**AISTSTS 2020**)
 
 > **From Verification to Learning for Defense against Adversarial Examples in Neural Networks** <br/>
 > *Sangdon Park*,  Radoslav Ivanov, James Weimer, and Insup Lee <br/>
