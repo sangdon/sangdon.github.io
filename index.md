@@ -2,7 +2,7 @@
 
 # Short Bio
 
-My research interest focuses on designing safe and secure learning-enabled autonomous systems by understanding from theory to implementation. I collaborate with <a href='http://cis.upenn.edu/~lee'>Insup Lee</a>, James Weimer, and <a href='https://obastani.github.io/'>Osbert Bastani</a> at University of Pennsylvania.
+My research interest focuses on designing safe and secure learning-enabled autonomous systems by understanding from theory to implementation. I collaborate with [Insup Lee](http://cis.upenn.edu/~lee), [James Weimer](https://www.seas.upenn.edu/~weimerj/), and [Osbert Bastani](https://obastani.github.io/) at University of Pennsylvania.
 
 I received Bachelor's degree in Computer Science from Seoul National University in 2010 under the mentorship of Prof. <a href='http://bi.snu.ac.kr/~btzhang'>Byoung-Tak Zhang</a> and Prof. <a href='http://mrl.snu.ac.kr/~jehee/'>Jehee Lee</a>. I continued my graduate study and received a Master's degree in Electrical and Computer Engineering in 2012 under the supervision of Prof. <a href='http://cv.snu.ac.kr/kmlee'>Kyoung Mu Lee</a>.
 
