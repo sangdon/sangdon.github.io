@@ -11,7 +11,7 @@ I received Bachelor's degree in Computer Science from Seoul National University 
 
 > **Calibrated Predictions with Covariate Shift via Unsupervised Domain Adaptation** <br/>
 > *Sangdon Park*, Osbert Bastani, James Weimer, and Insup Lee <br/>
-> *International Conference on Artificial Intelligence and Statistics* (**AISTATS**) *2020*
+> *International Conference on Artificial Intelligence and Statistics* (**AISTATS**) *2020*<br/>
 > [[arXiv](https://arxiv.org/abs/2003.00343)]
 
 > **PAC Confidence Sets for Deep Neural Networks via Calibrated Prediction** <br/>
