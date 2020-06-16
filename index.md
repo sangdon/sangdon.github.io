@@ -2,6 +2,8 @@
 
 # Short Bio
 
+I start a research internship at Google Cloud AI!
+
 My research interest focuses on designing safe and secure learning-enabled autonomous systems by understanding from theory to implementation. I collaborate with [Insup Lee](http://cis.upenn.edu/~lee), [James Weimer](https://www.seas.upenn.edu/~weimerj/), and [Osbert Bastani](https://obastani.github.io/) at University of Pennsylvania.
 
 I received Bachelor's degree in Computer Science from Seoul National University in 2010 under the mentorship of Prof. <a href='http://bi.snu.ac.kr/~btzhang'>Byoung-Tak Zhang</a> and Prof. <a href='http://mrl.snu.ac.kr/~jehee/'>Jehee Lee</a>. I continued my graduate study and received a Master's degree in Electrical and Computer Engineering in 2012 under the supervision of Prof. <a href='http://cv.snu.ac.kr/kmlee'>Kyoung Mu Lee</a>.
@@ -13,12 +15,13 @@ I received Bachelor's degree in Computer Science from Seoul National University 
 > *Sangdon Park*, Osbert Bastani, James Weimer, and Insup Lee <br/>
 > *International Conference on Artificial Intelligence and Statistics* (**AISTATS**) *2020*<br/>
 > [[arXiv](https://arxiv.org/abs/2003.00343)]
+> [[Paper](http://proceedings.mlr.press/v108/park20b/park20b.pdf)]
 
 > **PAC Confidence Sets for Deep Neural Networks via Calibrated Prediction** <br/>
 > *Sangdon Park*, Osbert Bastani, Nikolai Matni, and Insup Lee <br/>
 > *International Conference on Learning Representations* (**ICLR**) *2020*<br/>
-> [[Paper](https://openreview.net/forum?id=BJxVI04YvB)]
 > [[arXiv](https://arxiv.org/abs/2001.00106)] 
+> [[Paper](https://openreview.net/forum?id=BJxVI04YvB)]
 > [[Code](https://github.com/sangdon/PAC-confidence-set)]
 	
 > **From Verification to Learning for Defense against Adversarial Examples in Neural Networks** <br/>
