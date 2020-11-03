@@ -9,6 +9,11 @@ I received Bachelor's degree in Computer Science from Seoul National University 
 # Publications
 ## Conference
 
+> **PAC Confidence Predictions for Deep Neural Network Classifiers** <br/>
+> *Sangdon Park*, Shuo Li, Osbert Bastani, and Insup Lee <br/>
+> In submission<br/>
+> [[arXiv](http://arxiv.org/abs/2011.00716)]
+
 > **Calibrated Predictions with Covariate Shift via Unsupervised Domain Adaptation** <br/>
 > *Sangdon Park*, Osbert Bastani, James Weimer, and Insup Lee <br/>
 > *International Conference on Artificial Intelligence and Statistics* (**AISTATS**) *2020*<br/>
