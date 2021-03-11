@@ -27,6 +27,7 @@ I received Bachelor's degree in Computer Science from Seoul National University 
 > [[arXiv](https://arxiv.org/abs/2001.00106)] 
 > [[Paper](https://openreview.net/forum?id=BJxVI04YvB)]
 > [[Code](https://github.com/sangdon/PAC-confidence-set)]
+> [[Video](https://iclr.cc/virtual_2020/poster_BJxVI04YvB.html)]
 > [[Short, ICML UDL20](http://www.gatsby.ucl.ac.uk/~balaji/udl2020/accepted-papers/UDL2020-paper-023.pdf)]
 	
 > **From Verification to Learning for Defense against Adversarial Examples in Neural Networks** <br/>
