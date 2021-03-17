@@ -13,7 +13,7 @@ I received Bachelor's degree in Computer Science from Seoul National University 
 > *Sangdon Park*, Shuo Li, Osbert Bastani, and Insup Lee <br/>
 > *International Conference on Learning Representations* (**ICLR**) *2021*<br/>
 > [[arXiv](http://arxiv.org/abs/2011.00716)]
-> [Paper (to appear)]
+> [[Paper](https://openreview.net/forum?id=Qk-Wq5AIjpq)]
 
 > **Calibrated Predictions with Covariate Shift via Unsupervised Domain Adaptation** <br/>
 > *Sangdon Park*, Osbert Bastani, James Weimer, and Insup Lee <br/>
