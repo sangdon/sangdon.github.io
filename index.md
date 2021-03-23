@@ -10,7 +10,7 @@ I received Bachelor's degree in Computer Science from Seoul National University 
 ## Conference
 
 > **PAC Confidence Predictions for Deep Neural Network Classifiers** <br/>
-> *Sangdon Park*, Shuo Li, Osbert Bastani, and Insup Lee <br/>
+> *Sangdon Park*, Shuo Li, Insup Lee, and Osbert Bastani <br/>
 > *International Conference on Learning Representations* (**ICLR**) *2021*<br/>
 > [[arXiv](http://arxiv.org/abs/2011.00716)]
 > [[Paper](https://openreview.net/forum?id=Qk-Wq5AIjpq)]
