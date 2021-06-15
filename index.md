@@ -10,15 +10,17 @@ I received Bachelor's degree in Computer Science from Seoul National University 
 ## Conference
 
 > **PAC Confidence Predictions for Deep Neural Network Classifiers** <br/>
-> *Sangdon Park*, Shuo Li, Osbert Bastani, and Insup Lee <br/>
-> In submission<br/>
+> *Sangdon Park*, Shuo Li, Insup Lee, and Osbert Bastani <br/>
+> *International Conference on Learning Representations* (**ICLR**) *2021*<br/>
 > [[arXiv](http://arxiv.org/abs/2011.00716)]
+> [[Paper](https://openreview.net/forum?id=Qk-Wq5AIjpq)]
 
 > **Calibrated Predictions with Covariate Shift via Unsupervised Domain Adaptation** <br/>
 > *Sangdon Park*, Osbert Bastani, James Weimer, and Insup Lee <br/>
 > *International Conference on Artificial Intelligence and Statistics* (**AISTATS**) *2020*<br/>
 > [[arXiv](https://arxiv.org/abs/2003.00343)]
 > [[Paper](http://proceedings.mlr.press/v108/park20b/park20b.pdf)]
+> [[Code](https://github.com/sangdon/calibration-under-covariateshift)]
 
 > **PAC Confidence Sets for Deep Neural Networks via Calibrated Prediction** <br/>
 > *Sangdon Park*, Osbert Bastani, Nikolai Matni, and Insup Lee <br/>
@@ -26,6 +28,7 @@ I received Bachelor's degree in Computer Science from Seoul National University 
 > [[arXiv](https://arxiv.org/abs/2001.00106)] 
 > [[Paper](https://openreview.net/forum?id=BJxVI04YvB)]
 > [[Code](https://github.com/sangdon/PAC-confidence-set)]
+> [[Video](https://iclr.cc/virtual_2020/poster_BJxVI04YvB.html)]
 > [[Short, ICML UDL20](http://www.gatsby.ucl.ac.uk/~balaji/udl2020/accepted-papers/UDL2020-paper-023.pdf)]
 	
 > **From Verification to Learning for Defense against Adversarial Examples in Neural Networks** <br/>
