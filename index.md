@@ -9,6 +9,13 @@ I received Bachelor's degree in Computer Science from Seoul National University 
 # Publications
 ## Conference
 
+> **PAC Prediction Sets Under Covariate Shift** <br/>
+> *Sangdon Park*, Edgar Dobriban, Insup Lee, and Osbert Bastani <br/>
+> In preprint<br/>
+> [[arXiv](http://arxiv.org/abs/2106.09848)]
+
+
+
 > **PAC Confidence Predictions for Deep Neural Network Classifiers** <br/>
 > *Sangdon Park*, Shuo Li, Insup Lee, and Osbert Bastani <br/>
 > *International Conference on Learning Representations* (**ICLR**) *2021*<br/>
