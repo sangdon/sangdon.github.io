@@ -2,9 +2,9 @@
 
 # Short Bio
 
-My research interest focuses on designing safe and secure learning-enabled autonomous systems by understanding from theory to implementation. I collaborate with [Insup Lee](http://cis.upenn.edu/~lee) and [Osbert Bastani](https://obastani.github.io/) at University of Pennsylvania.
+My research interest focuses on designing safe and secure learning-enabled autonomous systems by understanding from theory to implementation. 
 
-I received Bachelor's degree in Computer Science from Seoul National University in 2010 under the mentorship of Prof. <a href='http://bi.snu.ac.kr/~btzhang'>Byoung-Tak Zhang</a> and Prof. <a href='http://mrl.snu.ac.kr/~jehee/'>Jehee Lee</a>. I continued my graduate study and received a Master's degree in Electrical and Computer Engineering in 2012 under the supervision of Prof. <a href='http://cv.snu.ac.kr/kmlee'>Kyoung Mu Lee</a>. I had a research internship at Google Cloud AI, hosted by [Kihyuk Sohn](https://sites.google.com/site/kihyuksml/).
+I'm exicted to join Prof. [Taesoo Kim](https://taesoo.kim/)'s group at GaTech as a postdoc researcher. Previously, I obtained a PhD degree in Computer and Information Science from University of Pennsylvania, where I was fortunate to work with Prof. [Insup Lee](http://cis.upenn.edu/~lee) and Prof. [Osbert Bastani](https://obastani.github.io/). I received a Bachelor's degree in Computer Science from Seoul National University in 2010 under the mentorship of Prof. <a href='http://bi.snu.ac.kr/~btzhang'>Byoung-Tak Zhang</a> and Prof. <a href='http://mrl.snu.ac.kr/~jehee/'>Jehee Lee</a>. I continued my graduate study and received a Master's degree in Electrical and Computer Engineering in 2012 under the supervision of Prof. <a href='http://cv.snu.ac.kr/kmlee'>Kyoung Mu Lee</a>. I had a research internship at Google Cloud AI, hosted by [Kihyuk Sohn](https://sites.google.com/site/kihyuksml/).
 
 # Publications
 ## Conference
@@ -68,8 +68,10 @@ I received Bachelor's degree in Computer Science from Seoul National University 
 > [<a href="http://cv.snu.ac.kr/research/~CSAOD/dataset/dataset.zip">Dataset</a>]
 
 ## Thesis
-> Sangdon Park, "Abnormal Object Detection by Transformed-Canonical Scene Generation," <em>M.S. thesis, Seoul National University</em>, Aug. 2012. <br/>
+> Sangdon Park, "Uncertainty Estimation Toward Safe AI," **PhD thesis, UPenn**, Aug. 2021. <br/>
+
+> Sangdon Park, "Abnormal Object Detection by Transformed-Canonical Scene Generation," <em>MS thesis, Seoul National University</em>, Aug. 2012. <br/>
 > **Distinguished Dissertation Award**
 
-> Sangdon Park, "Behavioral Intelligence for Crowd Avatar in 3D Virtual Worlds," <em>B.S. thesis, Seoul National University</em>, Feb. 2010.
+> Sangdon Park, "Behavioral Intelligence for Crowd Avatar in 3D Virtual Worlds," <em>BS thesis, Seoul National University</em>, Feb. 2010.
 
