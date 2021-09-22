@@ -68,10 +68,13 @@ I'm exicted to join Prof. [Taesoo Kim](https://taesoo.kim/)'s group at GaTech as
 > [<a href="http://cv.snu.ac.kr/research/~CSAOD/dataset/dataset.zip">Dataset</a>]
 
 ## Thesis
-> Sangdon Park, "Uncertainty Estimation Toward Safe AI," PhD thesis, UPenn, Aug. 2021. <br/>
+> **Uncertainty Estimation Toward Safe AI** <br/>
+> PhD thesis, UPenn, Aug. 2021. 
 
-> Sangdon Park, "Abnormal Object Detection by Transformed-Canonical Scene Generation," <em>MS thesis, Seoul National University</em>, Aug. 2012. <br/>
+> **Abnormal Object Detection by Transformed-Canonical Scene Generation** <br/>
+> MS thesis, Seoul National University, Aug. 2012. <br/>
 > **Distinguished Dissertation Award**
 
-> Sangdon Park, "Behavioral Intelligence for Crowd Avatar in 3D Virtual Worlds," <em>BS thesis, Seoul National University</em>, Feb. 2010.
+> **Behavioral Intelligence for Crowd Avatar in 3D Virtual Worlds** <br/>
+> BS thesis, Seoul National University, Feb. 2010.
 
