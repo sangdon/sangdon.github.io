@@ -30,6 +30,7 @@ I'm exicted to join Prof. [Taesoo Kim](https://taesoo.kim/)'s group at GaTech as
 > [[arXiv](https://arxiv.org/abs/2003.00343)]
 > [[Paper](http://proceedings.mlr.press/v108/park20b/park20b.pdf)]
 > [[Code](https://github.com/sangdon/calibration-under-covariateshift)]
+> [[Video]](https://slideslive.at/38930244/calibrated-predictions-with-covariate-shift-via-unsupervised-domain-adaptation?ref=speaker-16331-latest&locale=en)
 
 > **PAC Confidence Sets for Deep Neural Networks via Calibrated Prediction** <br/>
 > *Sangdon Park*, Osbert Bastani, Nikolai Matni, and Insup Lee <br/>
