@@ -11,10 +11,13 @@ I'm exicted to join Prof. [Taesoo Kim](https://taesoo.kim/)'s group at GaTech as
 
 > **PAC Prediction Sets Under Covariate Shift** <br/>
 > *Sangdon Park*, Edgar Dobriban, Insup Lee, and Osbert Bastani <br/>
-> In preprint<br/>
+> *International Conference on Learning Representations* (**ICLR**) *2022* <br/>
 > [[arXiv](http://arxiv.org/abs/2106.09848)]
 
-
+> **iDECODe: In-distribution Equivariance for Conformal Out-of-distribution Detection** <br/>
+> Ramneet Kaur, Susmit Jha, Anirban Roy, *Sangdon Park*, Edgar Dobriban, Oleg Sokolsky, and Insup Lee <br/>
+> Association for the Advancement of Artificial Intelligence (**AAAI**) *2022*<br/>
+> [[arXiv](https://arxiv.org/pdf/2201.02331.pdf)]
 
 > **PAC Confidence Predictions for Deep Neural Network Classifiers** <br/>
 > *Sangdon Park*, Shuo Li, Insup Lee, and Osbert Bastani <br/>
