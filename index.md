@@ -13,6 +13,8 @@ I'm exicted to join Prof. [Taesoo Kim](https://taesoo.kim/)'s group at GaTech as
 > *Sangdon Park*, Edgar Dobriban, Insup Lee, and Osbert Bastani <br/>
 > *International Conference on Learning Representations* (**ICLR**) *2022* <br/>
 > [[arXiv](http://arxiv.org/abs/2106.09848)]
+> [[Paper](https://openreview.net/pdf?id=DhP9L8vIyLc)]
+> [[Code](https://github.com/sangdon/pac-ps-w)]
 
 > **iDECODe: In-distribution Equivariance for Conformal Out-of-distribution Detection** <br/>
 > Ramneet Kaur, Susmit Jha, Anirban Roy, *Sangdon Park*, Edgar Dobriban, Oleg Sokolsky, and Insup Lee <br/>
