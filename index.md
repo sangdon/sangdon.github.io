@@ -15,7 +15,7 @@ I'm exicted to join Prof. [Taesoo Kim](https://taesoo.kim/)'s group at GaTech as
 > [[arXiv](http://arxiv.org/abs/2106.09848)]
 > [[Paper](https://openreview.net/pdf?id=DhP9L8vIyLc)]
 > [[Code](https://github.com/sangdon/pac-ps-w)]
-> [[Video]](https://iclr.cc/virtual/2022/poster/6314)
+> [[Video](https://iclr.cc/virtual/2022/poster/6314)]
 
 > **iDECODe: In-distribution Equivariance for Conformal Out-of-distribution Detection** <br/>
 > Ramneet Kaur, Susmit Jha, Anirban Roy, *Sangdon Park*, Edgar Dobriban, Oleg Sokolsky, and Insup Lee <br/>
