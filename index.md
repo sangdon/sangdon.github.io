@@ -28,7 +28,7 @@ I'm exicted to join Prof. [Taesoo Kim](https://taesoo.kim/)'s group at GaTech as
 > [[arXiv](http://arxiv.org/abs/2011.00716)]
 > [[Paper](https://openreview.net/forum?id=Qk-Wq5AIjpq)]
 > [Code]
-> [[Video]](https://iclr.cc/virtual/2021/poster/3264)
+> [[Video](https://iclr.cc/virtual/2021/poster/3264)]
 
 > **Calibrated Predictions with Covariate Shift via Unsupervised Domain Adaptation** <br/>
 > *Sangdon Park*, Osbert Bastani, James Weimer, and Insup Lee <br/>
