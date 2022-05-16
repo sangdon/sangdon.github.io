@@ -9,6 +9,11 @@ I'm exicted to join Prof. [Taesoo Kim](https://taesoo.kim/)'s group at GaTech as
 # Publications
 ## Conference
 
+
+> **Sequential Covariate Shift Detection Using Classifier Two-Sample Tests** <br/>
+> Sooyong Jang, *Sangdon Park*, Insup Lee, and Osbert Bastani <br/>
+> *International Conference on Machine Learning* (**ICML**) *2022* <br/>
+
 > **PAC Prediction Sets Under Covariate Shift** <br/>
 > *Sangdon Park*, Edgar Dobriban, Insup Lee, and Osbert Bastani <br/>
 > *International Conference on Learning Representations* (**ICLR**) *2022* <br/>
