@@ -14,11 +14,14 @@ I'm exicted to join Prof. [Taesoo Kim](https://taesoo.kim/)'s group at GaTech as
 > *2022* <br/>
 > [[arXiv](https://arxiv.org/abs/2207.02440)]
 
-
-
 > **Sequential Covariate Shift Detection Using Classifier Two-Sample Tests** <br/>
 > Sooyong Jang, *Sangdon Park*, Insup Lee, and Osbert Bastani <br/>
 > *International Conference on Machine Learning* (**ICML**) *2022* <br/>
+
+> **Towards PAC Multi-Object Detection and Tracking** <br/>
+> Shuo Li, *Sangdon Park*, Xiayan Ji, Insup Lee, Osbert Bastani <br/>
+> *2022* <br/>
+> [[arXiv](https://arxiv.org/abs/2204.07482)]
 
 > **PAC Prediction Sets Under Covariate Shift** <br/>
 > *Sangdon Park*, Edgar Dobriban, Insup Lee, and Osbert Bastani <br/>
