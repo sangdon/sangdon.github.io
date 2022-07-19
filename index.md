@@ -17,6 +17,8 @@ I'm exicted to join Prof. [Taesoo Kim](https://taesoo.kim/)'s group at GaTech as
 > **Sequential Covariate Shift Detection Using Classifier Two-Sample Tests** <br/>
 > Sooyong Jang, *Sangdon Park*, Insup Lee, and Osbert Bastani <br/>
 > *International Conference on Machine Learning* (**ICML**) *2022* <br/>
+>[[paper](https://proceedings.mlr.press/v162/jang22a/jang22a.pdf)]
+
 
 > **Towards PAC Multi-Object Detection and Tracking** <br/>
 > Shuo Li, *Sangdon Park*, Xiayan Ji, Insup Lee, Osbert Bastani <br/>
