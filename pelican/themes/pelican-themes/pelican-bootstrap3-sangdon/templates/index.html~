@@ -1,7 +1,0 @@
-{% extends "includes/aboutme.html" %}
-
-{% block canonical_rel %}<link rel="canonical" href="{{ SITEURL }}">{% endblock %}
-
-{% block banner %}
-	{% include 'includes/banner.html' %}
-{% endblock %}
