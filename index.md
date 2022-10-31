@@ -17,7 +17,6 @@ College of Computing,<br/>
 Georgia Tech<br/>
 </font>
 
-<br/>
 
 My research interest focuses on designing safe and secure learning-enabled autonomous systems by understanding from theory to implementation. 
 
