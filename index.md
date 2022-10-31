@@ -5,7 +5,7 @@
     Sangdon Park (박상돈) 
     <span style="float:right;">
         <a href="https://scholar.google.com/citations?user=Vi2E2F4AAAAJ&hl=en"><i class="ai ai-google-scholar-square ai-1x"></i></a>
-	<a href="assets/cv.pdf"><i class="ai cv-square ai-1x"></i></a>
+	<a href="https://sangdon.github.io/assets/cv.pdf"><i class="ai cv-square ai-1x"></i></a>
     </span>
 </div>
 </h1>
