@@ -1,6 +1,6 @@
 <title></title>
 
-# Sangdon Park (박상돈) <i class="ai ai-google-scholar-square ai-3x"></i>
+# Sangdon Park (박상돈) <i class="ai ai-google-scholar-square ai-1x">https://scholar.google.com/citations?user=Vi2E2F4AAAAJ&hl=en</i>
 
 <font size="3">
 Postdoc Researcher,<br/>
