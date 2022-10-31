@@ -1,6 +1,6 @@
 <title></title>
 
-# Short Bio
+# Sangdon Park (박상돈)
 
 My research interest focuses on designing safe and secure learning-enabled autonomous systems by understanding from theory to implementation. 
 
