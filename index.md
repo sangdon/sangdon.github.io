@@ -1,10 +1,12 @@
 <title></title>
 
 <h1>
-Sangdon Park (박상돈) 
-    <div style="text-align: right">
-	<a href="https://scholar.google.com/citations?user=Vi2E2F4AAAAJ&hl=en"><i class="ai ai-google-scholar-square ai-1x"></i></a>
-    </div>
+<p style="text-align:left;">
+    Sangdon Park (박상돈) 
+    <span style="float:right;">
+        <a href="https://scholar.google.com/citations?user=Vi2E2F4AAAAJ&hl=en"><i class="ai ai-google-scholar-square ai-1x"></i></a>
+    </span>
+</p>
 </h1>
 
 <font size="3">
