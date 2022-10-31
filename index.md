@@ -2,7 +2,7 @@
 
 # Sangdon Park (박상돈)
 
-<font size="5">
+<font size="2">
 Postdoc Researcher,<br/>
 School of Cybersecurity and Privacy (SCP),<br/>
 College of Computing,<br/>
