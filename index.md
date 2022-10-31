@@ -9,13 +9,14 @@ I'm exicted to join Prof. [Taesoo Kim](https://taesoo.kim/)'s group at GaTech as
 # Publications
 ## Conference
 
-> **Conformal Prediction Consensus Learning for Provable Blockchain Oracles**
-> *Sangdon Park*, Osbert Bastani, and Taesoo Kim
-> S. Park, O. Bastani, and T. Kim, 
+> **Conformal Prediction Consensus Learning for Provable Blockchain Oracles** <br/>
+> *Sangdon Park*, Osbert Bastani, and Taesoo Kim <br/>
+> 2023 <br/>
 > [arXiv]
 
-> **Unsafe’s Betrayal: Abusing Unsafe Rust in Binary Reverse Engineering toward Finding Memory-safety Bugs via Machine Learning**
-> *Sangdon Park*, Xiang Cheng, and Taesoo Kim
+> **Unsafe’s Betrayal: Abusing Unsafe Rust in Binary Reverse Engineering toward Finding Memory-safety Bugs via Machine Learning** <br/>
+> *Sangdon Park*, Xiang Cheng, and Taesoo Kim <br/>
+> 2023 <br/>
 > [arXiv]
 
 > **PAC Prediction Sets for Meta-Learning** <br/>
