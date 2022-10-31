@@ -11,6 +11,10 @@ h1,h2,h3,h4,h5,h6 {
   font-family: Tahoma, Verdana, Segoe, sans-serif
 }
 
+h2,h3,h4,h5,h6 {
+  border-bottom:0px
+}
+
 h1 {
   font-weight: bold;
   border-bottom:5px solid #ca2124;
