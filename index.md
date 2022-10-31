@@ -2,11 +2,12 @@
 
 # Sangdon Park (박상돈)
 
+<font size="5">
 Postdoc Researcher,<br/>
 School of Cybersecurity and Privacy (SCP),<br/>
 College of Computing,<br/>
 Georgia Tech
-
+</font>
 
 My research interest focuses on designing safe and secure learning-enabled autonomous systems by understanding from theory to implementation. 
 
