@@ -6,9 +6,16 @@
 body {
   font-family: Tahoma, Verdana, Segoe, sans-serif
 }
+
 h1,h2,h3,h4,h5,h6 {
   font-family: Tahoma, Verdana, Segoe, sans-serif
 }
+
+h1 {
+  font-weight: bold;
+  border-bottom:5px solid #ca2124;
+}
+
 
 .header {
   font-family: Tahoma, Verdana, Segoe, sans-serif

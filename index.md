@@ -2,16 +2,16 @@
 
 # Sangdon Park (박상돈)
 
-<font size="5">
+<font size="3">
 Postdoc Researcher,<br/>
 School of Cybersecurity and Privacy (SCP),<br/>
 College of Computing,<br/>
-Georgia Tech
+Georgia Tech<br/>
 </font>
 
+<br/>
+
 My research interest focuses on designing safe and secure learning-enabled autonomous systems by understanding from theory to implementation. 
-
-
 
 I'm exicted to join Prof. [Taesoo Kim](https://taesoo.kim/)'s group at GaTech as a postdoc researcher. Previously, I obtained a PhD degree in Computer and Information Science from University of Pennsylvania, where I was fortunate to work with Prof. [Insup Lee](http://cis.upenn.edu/~lee) and Prof. [Osbert Bastani](https://obastani.github.io/). I received a Bachelor's degree in Computer Science from Seoul National University in 2010 under the mentorship of Prof. <a href='http://bi.snu.ac.kr/~btzhang'>Byoung-Tak Zhang</a> and Prof. <a href='http://mrl.snu.ac.kr/~jehee/'>Jehee Lee</a>. I continued my graduate study and received a Master's degree in Electrical and Computer Engineering in 2012 under the supervision of Prof. <a href='http://cv.snu.ac.kr/kmlee'>Kyoung Mu Lee</a>. I was a research intern at Google Cloud AI, hosted by [Kihyuk Sohn](https://sites.google.com/site/kihyuksml/).
 
