@@ -4,6 +4,7 @@
 <div style="text-align:left;">
     Sangdon Park (박상돈) 
     <span style="float:right;">
+	<a href="mailto:sangdon@gatech.edu"><i class="fa-solid fa-envelope"></i></a>
         <a href="https://scholar.google.com/citations?user=Vi2E2F4AAAAJ&hl=en"><i class="ai ai-google-scholar-square ai-1x"></i></a>
 	<a href="https://github.com/sangdon"><i class="fa-brands fa-github"></i></a>    
 	<a href="https://twitter.com/sangdon_ml"><i class="fa-brands fa-twitter"></i></a>    
