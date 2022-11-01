@@ -13,7 +13,7 @@
 </h1>
 
 <font size="4">
-<i class="fa-solid fa-seedling"></i> sangdon@gatech.edu,<br/>
+<i class="fa-solid fa-envelope"></i> sangdon@gatech.edu,<br/>
 Postdoc Researcher,<br/>
 School of Cybersecurity and Privacy (SCP),<br/>
 College of Computing,<br/>
