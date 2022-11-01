@@ -3,13 +3,15 @@
 
 @import 'jekyll-theme-dinky';
 @import 'fonts/ComputerModern/Bright/cmun-bright.css';
+@import 'fonts/ComputerModern/Sans/cmun-sans.css';
 
 body {
-  font-family: "Computer Modern Bright", Verdana, Georgia, Tahoma, Segoe, sans-serif
+  font-family: "Computer Modern Sans", Verdana, Georgia, Tahoma, Segoe, sans-serif;
+  font-size: 18px;
 }
 
 h1,h2,h3,h4,h5,h6 {
-  font-family: "Computer Modern Bright", Verdana, Georgia, Tahoma, Segoe, sans-serif
+  font-family: "Computer Modern Sans", Verdana, Georgia, Tahoma, Segoe, sans-serif;
 }
 
 h2,h3,h4,h5,h6 {
