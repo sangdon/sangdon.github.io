@@ -28,8 +28,8 @@ Georgia Tech
 
 Machine Learning, Uncertainty Quantification, Computer Security
 
-My research interest focuses on designing safe and secure learning-enabled autonomous systems by understanding from theory to implementation. 
-
+My research interest focuses on designing safe and secure AI systems by understanding from theory to implementation and applications 
+for computer security, computer vision, robotics, and natural language processing.
 
 ## Publications
 
