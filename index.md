@@ -22,7 +22,7 @@ Georgia Tech
 
 ## News
 
-<i class="fa fa-spinner fa-pulse fa-1x fa-fw"></i> I'm looking for academic or research positions! <br/>
+<i class="fa fa-spinner fa-pulse fa-1x fa-fw"></i> I'm looking for an academic or research position! <br/>
 <i class="fa-solid fa-square-rss"></i> One paper accepted to NeurIPS22.
 
 ## Research Interests
