@@ -34,15 +34,13 @@ for computer security, computer vision, robotics, and natural language processin
 
 ## Publications
 
-<blockquote>
-<i class="fa-solid fa-solid fa-square-rss"></i> **Conformal Prediction Consensus Learning for Provable Blockchain Oracles** <br/>
-<ins>Sangdon Park</ins>, Osbert Bastani, and Taesoo Kim <br/>
-2022 <br/>
-[arXiv]
-</blockquote>
+> <i class="fa-sharp fa-solid fa-star-christmas"></i> **Conformal Prediction Consensus Learning for Provable Blockchain Oracles** <br/>
+> <ins>Sangdon Park</ins>, Osbert Bastani, and Taesoo Kim <br/>
+> 2022 <br/>
+> [arXiv]
 
 
-> <i class="fa-solid fa-solid fa-square-rss"></i> **Unsafe’s Betrayal: Abusing Unsafe Rust in Binary Reverse Engineering toward Finding Memory-safety Bugs via Machine Learning** <br/>
+> <i class="fa-sharp fa-solid fa-star-christmas"></i> **Unsafe’s Betrayal: Abusing Unsafe Rust in Binary Reverse Engineering toward Finding Memory-safety Bugs via Machine Learning** <br/>
 > <ins>Sangdon Park</ins>, Xiang Cheng, and Taesoo Kim <br/>
 > 2022 <br/>
 > [arXiv]
