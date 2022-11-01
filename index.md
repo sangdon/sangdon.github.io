@@ -6,7 +6,7 @@
     <span style="float:right;">
         <a href="https://scholar.google.com/citations?user=Vi2E2F4AAAAJ&hl=en"><i class="ai ai-google-scholar-square ai-1x"></i></a>
 	<a href="https://github.com/sangdon"><i class="fa-brands fa-github"></i></a>    
-	<a href="https://twitter.com/sangdonpk"><i class="fa-brands fa-twitter"></i></a>    
+	<a href="https://twitter.com/sangdon_ml"><i class="fa-brands fa-twitter"></i></a>    
 	<a href="https://sangdon.github.io/assets/cv.pdf"><i class="ai ai-cv-square ai-1x"></i></a>
     </span>
 </div>
@@ -43,7 +43,7 @@ in computer security, computer vision, robotics, and natural language processing
 > 2022 <br/>
 > [arXiv]
 
-> <i class="fa-solid fa-thumbs-up"></i> **PAC Prediction Sets for Meta-Learning** <br/>
+> <i class="fa-solid fa-tree"></i> **PAC Prediction Sets for Meta-Learning** <br/>
 > <ins>Sangdon Park</ins>, Edgar Dobriban, Insup Lee, and Osbert Bastani <br/>
 > *Neural Information Processing Systems* (**NeurIPS**) *2022* <br/>
 > [[arXiv](https://arxiv.org/abs/2207.02440)]
