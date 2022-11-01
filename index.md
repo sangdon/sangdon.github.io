@@ -23,7 +23,7 @@ Georgia Tech
 ## News
 
 <i class="fa fa-spinner fa-pulse fa-1x fa-fw"></i> I'm looking for academic or research positions! <br/>
-<i class="fa-solid fa-square-rss"></i> One paper accepted to NeurIPS22.
+<i class="fa-solid fa-thumbs-up"></i> One paper accepted to NeurIPS22.
 
 ## Research Interests
 
@@ -45,7 +45,7 @@ for computer security, computer vision, robotics, and natural language processin
 > 2022 <br/>
 > [arXiv]
 
-> **PAC Prediction Sets for Meta-Learning** <br/>
+> <i class="fa-solid fa-thumbs-up"></i> **PAC Prediction Sets for Meta-Learning** <br/>
 > <ins>Sangdon Park</ins>, Edgar Dobriban, Insup Lee, and Osbert Bastani <br/>
 > *Neural Information Processing Systems* (**NeurIPS**) *2022* <br/>
 > [[arXiv](https://arxiv.org/abs/2207.02440)]
