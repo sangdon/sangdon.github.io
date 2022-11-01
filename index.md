@@ -22,7 +22,7 @@ Georgia Tech
 
 <br/>
 
-<i class="fa-solid fa-rss"></i> I'm looking for academic or research positions!
+<i class="fa fa-spinner fa-pulse fa-1x fa-fw"></i> I'm looking for academic or research positions!
 
 ## Research Interests
 
