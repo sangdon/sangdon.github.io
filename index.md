@@ -20,27 +20,27 @@ College of Computing,<br/>
 Georgia Tech
 </font>
 
-<br/>
+## News
 
-<i class="fa-solid fa-rss"></i> I'm looking for academic or research positions!
+<i class="fa fa-spinner fa-pulse fa-1x fa-fw"></i> I'm looking for academic or research positions! <br/>
+<i class="fa-solid fa-square-rss"></i> One paper accepted to NeurIPS22.
 
-# Research Interests
+## Research Interests
 
 Machine Learning, Uncertainty Quantification, Computer Security
 
-My research interest focuses on designing safe and secure learning-enabled autonomous systems by understanding from theory to implementation. 
+My research interest focuses on designing safe and secure AI systems by understanding from theory to implementation and applications 
+for computer security, computer vision, robotics, and natural language processing.
 
-I'm exicted to join Prof. [Taesoo Kim](https://taesoo.kim/)'s group at GaTech as a postdoc researcher. Previously, I obtained a PhD degree in Computer and Information Science from University of Pennsylvania, where I was fortunate to work with Prof. [Insup Lee](http://cis.upenn.edu/~lee) and Prof. [Osbert Bastani](https://obastani.github.io/). I received a Bachelor's degree in Computer Science from Seoul National University in 2010 under the mentorship of Prof. <a href='http://bi.snu.ac.kr/~btzhang'>Byoung-Tak Zhang</a> and Prof. <a href='http://mrl.snu.ac.kr/~jehee/'>Jehee Lee</a>. I continued my graduate study and received a Master's degree in Electrical and Computer Engineering in 2012 under the supervision of Prof. <a href='http://cv.snu.ac.kr/kmlee'>Kyoung Mu Lee</a>. I was a research intern at Google Cloud AI, hosted by [Kihyuk Sohn](https://sites.google.com/site/kihyuksml/).
+## Publications
 
-# Publications
-## Conference
-
-> **Conformal Prediction Consensus Learning for Provable Blockchain Oracles** <br/>
+> <i class="fa-sharp fa-solid fa-star-christmas"></i> **Conformal Prediction Consensus Learning for Provable Blockchain Oracles** <br/>
 > <ins>Sangdon Park</ins>, Osbert Bastani, and Taesoo Kim <br/>
 > 2022 <br/>
 > [arXiv]
 
-> **Unsafe’s Betrayal: Abusing Unsafe Rust in Binary Reverse Engineering toward Finding Memory-safety Bugs via Machine Learning** <br/>
+
+> <i class="fa-sharp fa-solid fa-star-christmas"></i> **Unsafe’s Betrayal: Abusing Unsafe Rust in Binary Reverse Engineering toward Finding Memory-safety Bugs via Machine Learning** <br/>
 > <ins>Sangdon Park</ins>, Xiang Cheng, and Taesoo Kim <br/>
 > 2022 <br/>
 > [arXiv]
@@ -73,6 +73,9 @@ I'm exicted to join Prof. [Taesoo Kim](https://taesoo.kim/)'s group at GaTech as
 > Ramneet Kaur, Susmit Jha, Anirban Roy, <ins>Sangdon Park</ins>, Edgar Dobriban, Oleg Sokolsky, and Insup Lee <br/>
 > Association for the Advancement of Artificial Intelligence (**AAAI**) *2022*<br/>
 > [[arXiv](https://arxiv.org/pdf/2201.02331.pdf)]
+
+> **Uncertainty Estimation Toward Safe AI** <br/>
+> PhD thesis, UPenn, Aug. 2021. 
 
 > **PAC Confidence Predictions for Deep Neural Network Classifiers** <br/>
 > <ins>Sangdon Park</ins>, Shuo Li, Insup Lee, and Osbert Bastani <br/>
@@ -119,6 +122,12 @@ I'm exicted to join Prof. [Taesoo Kim](https://taesoo.kim/)'s group at GaTech as
 > [<a href="http://www.ri.cmu.edu/pub_files/2016/10/oh2016-iser.pdf">Paper</a>]
 > [<a href="https://link.springer.com/chapter/10.1007/978-3-319-50115-4_28">DOI</a>]
 
+
+> **Abnormal Object Detection by Transformed-Canonical Scene Generation** <br/>
+> MS thesis, Seoul National University, Aug. 2012. <br/>
+> **Distinguished Dissertation Award**
+
+
 > **Abnormal Object Detection by Canonical Scene-based Contextual Model** <br/>
 > <ins>Sangdon Park</ins>, Wonsik Kim, and Kyoung Mu Lee <br/>
 > *European Conference on Computer Vision* (**ECCV**) *2012*<br/>
@@ -128,13 +137,6 @@ I'm exicted to join Prof. [Taesoo Kim](https://taesoo.kim/)'s group at GaTech as
 > [<a href="http://cv.snu.ac.kr/research/~CSAOD/code/code_distribute_v.1.0.zip">Code</a>]
 > [<a href="http://cv.snu.ac.kr/research/~CSAOD/dataset/dataset.zip">Dataset</a>]
 
-## Thesis
-> **Uncertainty Estimation Toward Safe AI** <br/>
-> PhD thesis, UPenn, Aug. 2021. 
-
-> **Abnormal Object Detection by Transformed-Canonical Scene Generation** <br/>
-> MS thesis, Seoul National University, Aug. 2012. <br/>
-> **Distinguished Dissertation Award**
 
 > **Behavioral Intelligence for Crowd Avatar in 3D Virtual Worlds** <br/>
 > BS thesis, Seoul National University, Feb. 2010.
