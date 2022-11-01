@@ -5,12 +5,14 @@
     Sangdon Park (박상돈) 
     <span style="float:right;">
         <a href="https://scholar.google.com/citations?user=Vi2E2F4AAAAJ&hl=en"><i class="ai ai-google-scholar-square ai-1x"></i></a>
+	<a href="https://github.com/sangdon"><i class="fa fa-github-square fa-1x"></i></a>    
 	<a href="https://sangdon.github.io/assets/cv.pdf"><i class="ai ai-cv-square ai-1x"></i></a>
     </span>
 </div>
 </h1>
 
-<font size="3">
+<font size="4">
+sangdon@gatech.edu,<br/>
 Postdoc Researcher,<br/>
 School of Cybersecurity and Privacy (SCP),<br/>
 College of Computing,<br/>
