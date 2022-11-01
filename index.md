@@ -11,6 +11,7 @@
 </h1>
 
 <font size="4">
+sangdon@gatech.edu,<br/>
 Postdoc Researcher,<br/>
 School of Cybersecurity and Privacy (SCP),<br/>
 College of Computing,<br/>
