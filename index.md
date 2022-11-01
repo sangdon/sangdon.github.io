@@ -1,4 +1,4 @@
-<title></title>
+
 
 <h1>
 <div style="text-align:left;">
@@ -23,16 +23,16 @@ Georgia Tech
 ## News
 
 [comment]: <> (<i class="fa fa-spinner fa-pulse fa-1x fa-fw"></i> I'm looking for an academic or research position! <br/>)
-<i class="fa-solid fa-square-rss"></i> Meta PAC Prediction Sets is accepted to NeurIPS22.
+<i class="fa-solid fa-square-rss"></i> [Meta PAC Prediction Sets](https://arxiv.org/abs/2207.02440) is accepted to NeurIPS22.
 
 ## Research Interests
 
-Machine Learning, Uncertainty Quantification, Computer Security &mdash My research interest focuses on designing safe and secure AI systems by understanding from theory to implementation and applications 
-for computer security, computer vision, robotics, and natural language processing.
+Machine Learning, Trustworthy Machine Learning, Uncertainty Quantification, and Computer Security &mdash; My research interest focuses on designing safe and secure AI systems by understanding from theory to implementation and applications 
+in computer security, computer vision, robotics, and natural language processing.
 
 ## Publications
 
-> <i class="fa-solid fa-seedling"></i> **Conformal Prediction Consensus Learning for Provable Blockchain Oracles** <br/>
+> <i class="fa-solid fa-seedling"></i> **Conformal Prediction Consensus for Provable Blockchain Oracles** <br/>
 > <ins>Sangdon Park</ins>, Osbert Bastani, and Taesoo Kim <br/>
 > 2022 <br/>
 > [arXiv]
