@@ -13,7 +13,7 @@
 </h1>
 
 <font size="4">
-sangdon@gatech.edu,<br/>
+<i class="fa-solid fa-envelope"></i> sangdon@gatech.edu,<br/>
 Postdoc Researcher,<br/>
 School of Cybersecurity and Privacy (SCP),<br/>
 College of Computing,<br/>
@@ -22,30 +22,28 @@ Georgia Tech
 
 ## News
 
-<i class="fa fa-spinner fa-pulse fa-1x fa-fw"></i> I'm looking for academic or research positions! <br/>
-<i class="fa-solid fa-square-rss"></i> One paper accepted to NeurIPS22.
+[comment]: <> (<i class="fa fa-spinner fa-pulse fa-1x fa-fw"></i> I'm looking for an academic or research position! <br/>)
+<i class="fa-solid fa-square-rss"></i> Meta PAC Prediction Sets is accepted to NeurIPS22.
 
 ## Research Interests
 
-Machine Learning, Uncertainty Quantification, Computer Security
-
-My research interest focuses on designing safe and secure AI systems by understanding from theory to implementation and applications 
+Machine Learning, Uncertainty Quantification, Computer Security &mdash My research interest focuses on designing safe and secure AI systems by understanding from theory to implementation and applications 
 for computer security, computer vision, robotics, and natural language processing.
 
 ## Publications
 
-> <i class="fa-sharp fa-solid fa-star-christmas"></i> **Conformal Prediction Consensus Learning for Provable Blockchain Oracles** <br/>
+> <i class="fa-solid fa-seedling"></i> **Conformal Prediction Consensus Learning for Provable Blockchain Oracles** <br/>
 > <ins>Sangdon Park</ins>, Osbert Bastani, and Taesoo Kim <br/>
 > 2022 <br/>
 > [arXiv]
 
 
-> <i class="fa-sharp fa-solid fa-star-christmas"></i> **Unsafe’s Betrayal: Abusing Unsafe Rust in Binary Reverse Engineering toward Finding Memory-safety Bugs via Machine Learning** <br/>
+> <i class="fa-solid fa-seedling"></i> **Unsafe’s Betrayal: Abusing Unsafe Rust in Binary Reverse Engineering toward Finding Memory-safety Bugs via Machine Learning** <br/>
 > <ins>Sangdon Park</ins>, Xiang Cheng, and Taesoo Kim <br/>
 > 2022 <br/>
 > [arXiv]
 
-> **PAC Prediction Sets for Meta-Learning** <br/>
+> <i class="fa-solid fa-thumbs-up"></i> **PAC Prediction Sets for Meta-Learning** <br/>
 > <ins>Sangdon Park</ins>, Edgar Dobriban, Insup Lee, and Osbert Bastani <br/>
 > *Neural Information Processing Systems* (**NeurIPS**) *2022* <br/>
 > [[arXiv](https://arxiv.org/abs/2207.02440)]
@@ -74,7 +72,7 @@ for computer security, computer vision, robotics, and natural language processin
 > Association for the Advancement of Artificial Intelligence (**AAAI**) *2022*<br/>
 > [[arXiv](https://arxiv.org/pdf/2201.02331.pdf)]
 
-> **Uncertainty Estimation Toward Safe AI** <br/>
+> <i class="fa-solid fa-graduation-cap"></i> **Uncertainty Estimation Toward Safe AI** <br/>
 > PhD thesis, UPenn, Aug. 2021. 
 
 > **PAC Confidence Predictions for Deep Neural Network Classifiers** <br/>
@@ -105,7 +103,7 @@ for computer security, computer vision, robotics, and natural language processin
 > **From Verification to Learning for Defense against Adversarial Examples in Neural Networks** <br/>
 > <ins>Sangdon Park</ins>, Radoslav Ivanov, James Weimer, and Insup Lee <br/>
 > *Korea Cyber-security Competition 2018* <br/>
-> **Best paper award**
+> <i class="fa-solid fa-trophy"></i> **Best paper award**
     
 
 > **Resilient Linear Classification: An Approach to Deal with Attacks on Training Data** <br/>
@@ -123,9 +121,9 @@ for computer security, computer vision, robotics, and natural language processin
 > [<a href="https://link.springer.com/chapter/10.1007/978-3-319-50115-4_28">DOI</a>]
 
 
-> **Abnormal Object Detection by Transformed-Canonical Scene Generation** <br/>
+> <i class="fa-solid fa-graduation-cap"></i> **Abnormal Object Detection by Transformed-Canonical Scene Generation** <br/>
 > MS thesis, Seoul National University, Aug. 2012. <br/>
-> **Distinguished Dissertation Award**
+> <i class="fa-solid fa-trophy"></i> **Distinguished Dissertation Award**
 
 
 > **Abnormal Object Detection by Canonical Scene-based Contextual Model** <br/>
@@ -138,6 +136,6 @@ for computer security, computer vision, robotics, and natural language processin
 > [<a href="http://cv.snu.ac.kr/research/~CSAOD/dataset/dataset.zip">Dataset</a>]
 
 
-> **Behavioral Intelligence for Crowd Avatar in 3D Virtual Worlds** <br/>
+> <i class="fa-solid fa-graduation-cap"></i> **Behavioral Intelligence for Crowd Avatar in 3D Virtual Worlds** <br/>
 > BS thesis, Seoul National University, Feb. 2010.
 
