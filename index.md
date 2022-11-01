@@ -28,7 +28,7 @@ Georgia Tech
 ## Research Interests
 
 Machine Learning, Trustworthy Machine Learning, Uncertainty Quantification, and Computer Security &mdash; My research interest focuses on designing safe and secure AI systems by understanding from theory to implementation and applications 
-for computer security, computer vision, robotics, and natural language processing.
+in computer security, computer vision, robotics, and natural language processing.
 
 ## Publications
 
