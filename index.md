@@ -22,7 +22,10 @@ Georgia Tech
 
 <br/>
 
+## News
+
 <i class="fa fa-spinner fa-pulse fa-1x fa-fw"></i> I'm looking for academic or research positions!
+<i class="fa-solid fa-square-rss"></i> One paper accepted to NeurIPS22.
 
 ## Research Interests
 
@@ -33,12 +36,12 @@ for computer security, computer vision, robotics, and natural language processin
 
 ## Publications
 
-> **Conformal Prediction Consensus Learning for Provable Blockchain Oracles** <br/>
+> <i class="fa-solid fa-sparkles"></i> **Conformal Prediction Consensus Learning for Provable Blockchain Oracles** <br/>
 > <ins>Sangdon Park</ins>, Osbert Bastani, and Taesoo Kim <br/>
 > 2022 <br/>
 > [arXiv]
 
-> **Unsafe’s Betrayal: Abusing Unsafe Rust in Binary Reverse Engineering toward Finding Memory-safety Bugs via Machine Learning** <br/>
+> <i class="fa-solid fa-sparkles"></i> **Unsafe’s Betrayal: Abusing Unsafe Rust in Binary Reverse Engineering toward Finding Memory-safety Bugs via Machine Learning** <br/>
 > <ins>Sangdon Park</ins>, Xiang Cheng, and Taesoo Kim <br/>
 > 2022 <br/>
 > [arXiv]
