@@ -34,7 +34,7 @@ for computer security, computer vision, robotics, and natural language processin
 
 ## Publications
 
-> <i class="fa-solid fa-sparkles"></i> **Conformal Prediction Consensus Learning for Provable Blockchain Oracles** <br/>
+> <i class="fa-solid fa-square-sparkles"></i> **Conformal Prediction Consensus Learning for Provable Blockchain Oracles** <br/>
 > <ins>Sangdon Park</ins>, Osbert Bastani, and Taesoo Kim <br/>
 > 2022 <br/>
 > [arXiv]
