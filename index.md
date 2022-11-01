@@ -74,7 +74,7 @@ for computer security, computer vision, robotics, and natural language processin
 > Association for the Advancement of Artificial Intelligence (**AAAI**) *2022*<br/>
 > [[arXiv](https://arxiv.org/pdf/2201.02331.pdf)]
 
-> **Uncertainty Estimation Toward Safe AI** <br/>
+> <i class="fa-solid fa-graduation-cap"></i> **Uncertainty Estimation Toward Safe AI** <br/>
 > PhD thesis, UPenn, Aug. 2021. 
 
 > **PAC Confidence Predictions for Deep Neural Network Classifiers** <br/>
@@ -123,7 +123,7 @@ for computer security, computer vision, robotics, and natural language processin
 > [<a href="https://link.springer.com/chapter/10.1007/978-3-319-50115-4_28">DOI</a>]
 
 
-> **Abnormal Object Detection by Transformed-Canonical Scene Generation** <br/>
+> <i class="fa-solid fa-graduation-cap"></i> **Abnormal Object Detection by Transformed-Canonical Scene Generation** <br/>
 > MS thesis, Seoul National University, Aug. 2012. <br/>
 > **Distinguished Dissertation Award**
 
@@ -138,6 +138,6 @@ for computer security, computer vision, robotics, and natural language processin
 > [<a href="http://cv.snu.ac.kr/research/~CSAOD/dataset/dataset.zip">Dataset</a>]
 
 
-> **Behavioral Intelligence for Crowd Avatar in 3D Virtual Worlds** <br/>
+> <i class="fa-solid fa-graduation-cap"></i> **Behavioral Intelligence for Crowd Avatar in 3D Virtual Worlds** <br/>
 > BS thesis, Seoul National University, Feb. 2010.
 
