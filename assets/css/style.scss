@@ -2,14 +2,14 @@
 ---
 
 @import 'jekyll-theme-dinky';
-@import "https://cdn.jsdelivr.net/gh/dreampulse/computer-modern-web-font@master/fonts.css"
+@import 'fonts/ComputerModern/Bright/cmun-bright'
 
 body {
-  font-family: "Computer Modern Sans", Verdana, Georgia, Tahoma, Segoe, sans-serif
+  font-family: "Computer Modern Bright", Verdana, Georgia, Tahoma, Segoe, sans-serif
 }
 
 h1,h2,h3,h4,h5,h6 {
-  font-family: "Computer Modern Sans", Verdana, Georgia, Tahoma, Segoe, sans-serif
+  font-family: "Computer Modern Bright", Verdana, Georgia, Tahoma, Segoe, sans-serif
 }
 
 h2,h3,h4,h5,h6 {
