@@ -73,7 +73,7 @@ in computer security, computer vision, robotics, and natural language processing
 > [[arXiv](https://arxiv.org/pdf/2201.02331.pdf)]
 
 > <i class="fa-solid fa-graduation-cap"></i> **Uncertainty Estimation Toward Safe AI** <br/>
-> PhD thesis, UPenn, Aug. 2021.  <br/>
+> PhD thesis, UPenn, Aug. 2021  <br/>
 > [[Thesis](https://repository.upenn.edu/edissertations/4440/)]
 
 > **PAC Confidence Predictions for Deep Neural Network Classifiers** <br/>
@@ -123,7 +123,7 @@ in computer security, computer vision, robotics, and natural language processing
 
 
 > <i class="fa-solid fa-graduation-cap"></i> **Abnormal Object Detection by Transformed-Canonical Scene Generation** <br/>
-> MS thesis, Seoul National University, Aug. 2012. <br/>
+> MS thesis, Seoul National University, Aug. 2012 <br/>
 > <i class="fa-solid fa-trophy"></i> **Distinguished Dissertation Award**
 
 
@@ -138,5 +138,5 @@ in computer security, computer vision, robotics, and natural language processing
 
 
 > <i class="fa-solid fa-graduation-cap"></i> **Behavioral Intelligence for Crowd Avatar in 3D Virtual Worlds** <br/>
-> BS thesis, Seoul National University, Feb. 2010.
+> BS thesis, Seoul National University, Feb. 2010
 
