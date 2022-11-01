@@ -20,8 +20,6 @@ College of Computing,<br/>
 Georgia Tech
 </font>
 
-<br/>
-
 ## News
 
 <i class="fa fa-spinner fa-pulse fa-1x fa-fw"></i> I'm looking for academic or research positions! <br/>
