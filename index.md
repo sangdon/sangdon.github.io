@@ -5,7 +5,8 @@
     Sangdon Park (박상돈) 
     <span style="float:right;">
         <a href="https://scholar.google.com/citations?user=Vi2E2F4AAAAJ&hl=en"><i class="ai ai-google-scholar-square ai-1x"></i></a>
-	<a href="https://github.com/sangdon"><i class="fa fa-github-square fa-1x"></i></a>    
+	<a href="https://github.com/sangdon"><i class="fa-brands fa-github"></i></a>    
+	<a href="https://twitter.com/sangdonpk"><i class="fa-brands fa-twitter"></i></a>    
 	<a href="https://sangdon.github.io/assets/cv.pdf"><i class="ai ai-cv-square ai-1x"></i></a>
     </span>
 </div>
@@ -20,6 +21,12 @@ Georgia Tech
 </font>
 
 <br/>
+
+<i class="fa-solid fa-rss"></i> I'm looking for academic or research positions!
+
+# Research Interests
+
+Machine Learning, Uncertainty Quantification, Computer Security
 
 My research interest focuses on designing safe and secure learning-enabled autonomous systems by understanding from theory to implementation. 
 
