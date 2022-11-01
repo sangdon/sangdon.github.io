@@ -105,7 +105,7 @@ for computer security, computer vision, robotics, and natural language processin
 > **From Verification to Learning for Defense against Adversarial Examples in Neural Networks** <br/>
 > <ins>Sangdon Park</ins>, Radoslav Ivanov, James Weimer, and Insup Lee <br/>
 > *Korea Cyber-security Competition 2018* <br/>
-> **Best paper award**
+> <i class="fa-solid fa-trophy"></i> **Best paper award**
     
 
 > **Resilient Linear Classification: An Approach to Deal with Attacks on Training Data** <br/>
@@ -125,7 +125,7 @@ for computer security, computer vision, robotics, and natural language processin
 
 > <i class="fa-solid fa-graduation-cap"></i> **Abnormal Object Detection by Transformed-Canonical Scene Generation** <br/>
 > MS thesis, Seoul National University, Aug. 2012. <br/>
-> **Distinguished Dissertation Award**
+> <i class="fa-solid fa-trophy"></i> **Distinguished Dissertation Award**
 
 
 > **Abnormal Object Detection by Canonical Scene-based Contextual Model** <br/>
