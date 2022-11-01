@@ -74,6 +74,7 @@ in computer security, computer vision, robotics, and natural language processing
 
 > <i class="fa-solid fa-graduation-cap"></i> **Uncertainty Estimation Toward Safe AI** <br/>
 > PhD thesis, UPenn, Aug. 2021. 
+> [[Thesis](https://repository.upenn.edu/edissertations/4440/)]
 
 > **PAC Confidence Predictions for Deep Neural Network Classifiers** <br/>
 > <ins>Sangdon Park</ins>, Shuo Li, Insup Lee, and Osbert Bastani <br/>
