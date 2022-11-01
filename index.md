@@ -69,7 +69,7 @@ in computer security, computer vision, robotics, and natural language processing
 
 > **iDECODe: In-distribution Equivariance for Conformal Out-of-distribution Detection** <br/>
 > Ramneet Kaur, Susmit Jha, Anirban Roy, <ins>Sangdon Park</ins>, Edgar Dobriban, Oleg Sokolsky, and Insup Lee <br/>
-> Association for the Advancement of Artificial Intelligence (**AAAI**) *2022*<br/>
+> *Association for the Advancement of Artificial Intelligence* (**AAAI**) *2022*<br/>
 > [[arXiv](https://arxiv.org/pdf/2201.02331.pdf)]
 
 > <i class="fa-solid fa-graduation-cap"></i> **Uncertainty Estimation Toward Safe AI** <br/>
