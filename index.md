@@ -42,7 +42,7 @@ in computer security, computer vision, robotics, and natural language processing
 > <i class="fa-solid fa-seedling"></i> **Unsafe’s Betrayal: Abusing Unsafe Rust in Binary Reverse Engineering toward Finding Memory-safety Bugs via Machine Learning** <br/>
 > <ins>Sangdon Park</ins>, Xiang Cheng, and Taesoo Kim <br/>
 > 2022 <br/>
-> [arXiv]
+> [[arXiv](https://arxiv.org/abs/2211.00111)]
 
 > <i class="fa-solid fa-tree"></i> **PAC Prediction Sets for Meta-Learning** <br/>
 > <ins>Sangdon Park</ins>, Edgar Dobriban, Insup Lee, and Osbert Bastani <br/>
