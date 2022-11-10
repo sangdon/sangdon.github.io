@@ -4,6 +4,7 @@
 <div style="text-align:left;">
     Sangdon Park (박상돈) 
     <span style="float:right;">
+	<a href="mailto:sangdon@gatech.edu"><i class="fa-solid fa-envelope"></i></a>
         <a href="https://scholar.google.com/citations?user=Vi2E2F4AAAAJ&hl=en"><i class="ai ai-google-scholar-square ai-1x"></i></a>
 	<a href="https://github.com/sangdon"><i class="fa-brands fa-github"></i></a>    
 	<a href="https://twitter.com/sangdon_ml"><i class="fa-brands fa-twitter"></i></a>    
@@ -14,7 +15,7 @@
 
 <font size="4">
 <i class="fa-solid fa-envelope"></i> sangdon@gatech.edu,<br/>
-Postdoc Researcher,<br/>
+	Postdoc Researcher (Mentor: Prof. <a href="https://taesoo.kim/">Taesoo Kim</a>),<br/>
 School of Cybersecurity and Privacy (SCP),<br/>
 College of Computing,<br/>
 Georgia Tech
@@ -41,7 +42,7 @@ in computer security, computer vision, robotics, and natural language processing
 > <i class="fa-solid fa-seedling"></i> **Unsafe’s Betrayal: Abusing Unsafe Rust in Binary Reverse Engineering toward Finding Memory-safety Bugs via Machine Learning** <br/>
 > <ins>Sangdon Park</ins>, Xiang Cheng, and Taesoo Kim <br/>
 > 2022 <br/>
-> [arXiv]
+> [[arXiv](https://arxiv.org/abs/2211.00111)]
 
 > <i class="fa-solid fa-tree"></i> **PAC Prediction Sets for Meta-Learning** <br/>
 > <ins>Sangdon Park</ins>, Edgar Dobriban, Insup Lee, and Osbert Bastani <br/>
@@ -69,11 +70,12 @@ in computer security, computer vision, robotics, and natural language processing
 
 > **iDECODe: In-distribution Equivariance for Conformal Out-of-distribution Detection** <br/>
 > Ramneet Kaur, Susmit Jha, Anirban Roy, <ins>Sangdon Park</ins>, Edgar Dobriban, Oleg Sokolsky, and Insup Lee <br/>
-> Association for the Advancement of Artificial Intelligence (**AAAI**) *2022*<br/>
+> *Association for the Advancement of Artificial Intelligence* (**AAAI**) *2022*<br/>
 > [[arXiv](https://arxiv.org/pdf/2201.02331.pdf)]
 
 > <i class="fa-solid fa-graduation-cap"></i> **Uncertainty Estimation Toward Safe AI** <br/>
-> PhD thesis, UPenn, Aug. 2021. 
+> PhD thesis, UPenn, Aug. 2021  <br/>
+> [[Thesis](https://repository.upenn.edu/edissertations/4440/)]
 
 > **PAC Confidence Predictions for Deep Neural Network Classifiers** <br/>
 > <ins>Sangdon Park</ins>, Shuo Li, Insup Lee, and Osbert Bastani <br/>
@@ -122,7 +124,7 @@ in computer security, computer vision, robotics, and natural language processing
 
 
 > <i class="fa-solid fa-graduation-cap"></i> **Abnormal Object Detection by Transformed-Canonical Scene Generation** <br/>
-> MS thesis, Seoul National University, Aug. 2012. <br/>
+> MS thesis, Seoul National University, Aug. 2012 <br/>
 > <i class="fa-solid fa-trophy"></i> **Distinguished Dissertation Award**
 
 
@@ -137,5 +139,5 @@ in computer security, computer vision, robotics, and natural language processing
 
 
 > <i class="fa-solid fa-graduation-cap"></i> **Behavioral Intelligence for Crowd Avatar in 3D Virtual Worlds** <br/>
-> BS thesis, Seoul National University, Feb. 2010.
+> BS thesis, Seoul National University, Feb. 2010
 
