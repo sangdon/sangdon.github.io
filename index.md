@@ -24,7 +24,6 @@ Georgia Tech
 ## News
 
 [comment]: <> (<i class="fa fa-spinner fa-pulse fa-1x fa-fw"></i> I'm looking for an academic or research position! <br/>)
-<i class="fa fa-spinner fa-pulse fa-1x fa-fw"></i> I'm looking for an academic or research position! <br/>
 <i class="fa-solid fa-square-rss"></i> [Meta PAC Prediction Sets](https://arxiv.org/abs/2207.02440) is accepted to NeurIPS22.
 
 ## Research Interests
