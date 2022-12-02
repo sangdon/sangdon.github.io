@@ -48,6 +48,10 @@ in computer security, computer vision, robotics, and natural language processing
 > <ins>Sangdon Park</ins>, Edgar Dobriban, Insup Lee, and Osbert Bastani <br/>
 > *Neural Information Processing Systems* (**NeurIPS**) *2022* <br/>
 > [[arXiv](https://arxiv.org/abs/2207.02440)]
+> [[Paper](https://openreview.net/forum?id=s6ygs1UCOw1)]
+> [[Code](https://github.com/sangdon/meta-pac-ps)]
+> [[Video](https://nips.cc/virtual/2022/poster/53122)]
+
 
 > **Sequential Covariate Shift Detection Using Classifier Two-Sample Tests** <br/>
 > Sooyong Jang, <ins>Sangdon Park</ins>, Insup Lee, and Osbert Bastani <br/>
