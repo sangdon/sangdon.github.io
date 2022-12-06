@@ -39,7 +39,7 @@ in computer security, computer vision, robotics, and natural language processing
 > [[arXiv](https://arxiv.org/abs/2211.09330)]
 
 
-> <i class="fa-solid fa-seedling"></i> **Unsafe’s Betrayal: Abusing Unsafe Rust in Binary Reverse Engineering toward Finding Memory-safety Bugs via Machine Learning** <br/>
+> <i class="fa-solid fa-seedling"></i> **Unsafe’s Betrayal: Abusing Unsafe Rust in Binary Reverse Engineering via Machine Learning** <br/>
 > <ins>Sangdon Park</ins>, Xiang Cheng, and Taesoo Kim <br/>
 > 2022 <br/>
 > [[arXiv](https://arxiv.org/abs/2211.00111)]
