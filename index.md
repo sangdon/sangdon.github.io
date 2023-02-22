@@ -24,8 +24,8 @@ Georgia Tech
 ## News
 
 [comment]: <> (<i class="fa fa-spinner fa-pulse fa-1x fa-fw"></i> I'm looking for an academic or research position! <br/>)
-<i class="fa-solid fa-square-rss"></i> ACon&#178 is accepted to Security23.
-<i class="fa-solid fa-square-rss"></i> CODiT is accepted to ICCPS23. Congrat Ramneet!
+<i class="fa-solid fa-square-rss"></i> ACon&#178; is accepted to Security23. <br/>
+<i class="fa-solid fa-square-rss"></i> CODiT is accepted to ICCPS23. Congrat Ramneet! <br/>
 <i class="fa-solid fa-square-rss"></i> [Meta PAC Prediction Sets](https://arxiv.org/abs/2207.02440) is accepted to NeurIPS22.
 
 ## Research Interests
@@ -35,12 +35,12 @@ in computer security, computer vision, robotics, and natural language processing
 
 ## Publications
 
-> <i class="fa-solid fa-seedling"></i> **ACon&#178;: Adaptive Conformal Consensus for Provable Blockchain Oracles** <br/>
+> <i class="fa-solid fa-tree"></i> **ACon&#178;: Adaptive Conformal Consensus for Provable Blockchain Oracles** <br/>
 > <ins>Sangdon Park</ins>, Osbert Bastani, and Taesoo Kim <br/>
 > *USENIX Security Symposium* (**Security**) *2023* (to appear) <br/>
 > [[arXiv](https://arxiv.org/abs/2211.09330)]
 
-> <i class="fa-solid fa-seedling"></i> **CODiT: Conformal
+> <i class="fa-solid fa-tree"></i> **CODiT: Conformal
 Out-of-distribution Detection in Time-series Data for Cyber-Physical Systems** <br/>
 > Ramneet Kaur, Kaustubh Sridhar, <ins>Sangdon Park</ins>, Yahan Yang, Susmit Jha, Anirban Roy, Oleg Sokolsky, and Insup Lee
 > *International Conference on Cyber-Physical Systems* (**ICCPS**) (to appear) <br/>
