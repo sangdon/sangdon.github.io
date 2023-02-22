@@ -35,8 +35,14 @@ in computer security, computer vision, robotics, and natural language processing
 
 > <i class="fa-solid fa-seedling"></i> **ACon&#178;: Adaptive Conformal Consensus for Provable Blockchain Oracles** <br/>
 > <ins>Sangdon Park</ins>, Osbert Bastani, and Taesoo Kim <br/>
-> 2022 <br/>
+> *USENIX Security Symposium* (**Security**) *2023* (to appear) <br/>
 > [[arXiv](https://arxiv.org/abs/2211.09330)]
+
+> <i class="fa-solid fa-seedling"></i> **CODiT: Conformal
+Out-of-distribution Detection in Time-series Data for Cyber-Physical Systems** <br/>
+> Ramneet Kaur, Kaustubh Sridhar, <ins>Sangdon Park</ins>, Yahan Yang, Susmit Jha, Anirban Roy, Oleg Sokolsky, and Insup Lee
+> *International Conference on Cyber-Physical Systems* (**ICCPS**) (to appear) <br/>
+> [paper]
 
 
 > <i class="fa-solid fa-seedling"></i> **Unsafe’s Betrayal: Abusing Unsafe Rust in Binary Reverse Engineering via Machine Learning** <br/>
