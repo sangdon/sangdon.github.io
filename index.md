@@ -6,7 +6,7 @@
     <span style="float:right;">
 	<a href="mailto:sangdon@gatech.edu"><i class="fa-solid fa-envelope"></i></a>
         <a href="https://scholar.google.com/citations?user=Vi2E2F4AAAAJ&hl=en"><i class="ai ai-google-scholar-square ai-1x"></i></a>
-	<a href="https://dblp.org/pid/119/1530-1><i class="ai ai-dblp-square ai-1x"></i></a>
+	<a href="https://dblp.org/pid/119/1530-1.html><i class="ai ai-dblp-square ai-1x"></i></a>
 	<a href="https://github.com/sangdon"><i class="fa-brands fa-github"></i></a>    
 	<a href="https://twitter.com/sangdon_ml"><i class="fa-brands fa-twitter"></i></a>    
 	<a href="https://sangdon.github.io/assets/cv.pdf"><i class="ai ai-cv-square ai-1x"></i></a>
