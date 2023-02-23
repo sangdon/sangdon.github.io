@@ -46,7 +46,7 @@ Robotics, and Cyber-Physical Systems.
 > <i class="fa-solid fa-tree"></i> **CODiT: Conformal
 Out-of-distribution Detection in Time-series Data for Cyber-Physical Systems** <br/>
 > Ramneet Kaur, Kaustubh Sridhar, <ins>Sangdon Park</ins>, Yahan Yang, Susmit Jha, Anirban Roy, Oleg Sokolsky, and Insup Lee
-> *International Conference on Cyber-Physical Systems* (**ICCPS**) (to appear) <br/>
+> *International Conference on Cyber-Physical Systems* (**ICCPS**) *2023* (to appear) <br/>
 > [paper]
 
 
