@@ -25,8 +25,9 @@ Georgia Tech
 ## News
 
 [comment]: <> (<i class="fa fa-spinner fa-pulse fa-1x fa-fw"></i> I'm looking for an academic or research position! <br/>)
+<i class="fa-solid fa-square-rss"></i> Angelic Patches is accepted to CVPR23. Congrats Wenwen! <br/>
 <i class="fa-solid fa-square-rss"></i> ACon&#178; is accepted to Security23. <br/>
-<i class="fa-solid fa-square-rss"></i> CODiT is accepted to ICCPS23. Congrat Ramneet! <br/>
+<i class="fa-solid fa-square-rss"></i> CODiT is accepted to ICCPS23. Congrats Ramneet! <br/>
 <i class="fa-solid fa-square-rss"></i> [Meta PAC Prediction Sets](https://arxiv.org/abs/2207.02440) is accepted to NeurIPS22.
 
 ## Research Interests
@@ -37,6 +38,12 @@ implementation and applications for Computer Security, Computer Vision, Natural 
 Robotics, and Cyber-Physical Systems.
 
 ## Publications
+
+> <i class="fa-solid fa-tree"></i> **Angelic Patches for Improving Third-Party Object Detector Performance** <br/>
+> Wenwen Si, Shuo Li, <ins>Sangdon Park</ins>, Insup Lee, and Osbert Bastani <br/>
+> *Computer Vision and Pattern Recognition* (**CVPR**) *2023* (to appear) <br/>
+> [paper]
+
 
 > <i class="fa-solid fa-tree"></i> **ACon&#178;: Adaptive Conformal Consensus for Provable Blockchain Oracles** <br/>
 > <ins>Sangdon Park</ins>, Osbert Bastani, and Taesoo Kim <br/>
