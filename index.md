@@ -55,7 +55,8 @@ Robotics, and Cyber-Physical Systems.
 Out-of-distribution Detection in Time-series Data for Cyber-Physical Systems** <br/>
 > Ramneet Kaur, Kaustubh Sridhar, <ins>Sangdon Park</ins>, Yahan Yang, Susmit Jha, Anirban Roy, Oleg Sokolsky, and Insup Lee <br/>
 > *International Conference on Cyber-Physical Systems* (**ICCPS**) *2023* (to appear) <br/>
-> [[paper](https://doi.acm.org?doi=3576841.3585931)]
+> [[paper](https://doi.acm.org?doi=3576841.3585931)] <br/>
+> <i class="fa-solid fa-trophy"></i> **Best Paper Award Finalist**
 
 
 > <i class="fa-solid fa-seedling"></i> **Unsafe’s Betrayal: Abusing Unsafe Rust in Binary Reverse Engineering via Machine Learning** <br/>
@@ -128,7 +129,7 @@ Out-of-distribution Detection in Time-series Data for Cyber-Physical Systems** <
 > **From Verification to Learning for Defense against Adversarial Examples in Neural Networks** <br/>
 > <ins>Sangdon Park</ins>, Radoslav Ivanov, James Weimer, and Insup Lee <br/>
 > *Korea Cyber-security Competition 2018* <br/>
-> <i class="fa-solid fa-trophy"></i> **Best paper award**
+> <i class="fa-solid fa-trophy"></i> **Best Paper Award**
     
 
 > **Resilient Linear Classification: An Approach to Deal with Attacks on Training Data** <br/>
