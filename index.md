@@ -49,8 +49,9 @@ Robotics, and Cyber-Physical Systems.
 
 > <i class="fa-solid fa-tree"></i> **ACon&#178;: Adaptive Conformal Consensus for Provable Blockchain Oracles** <br/>
 > <ins>Sangdon Park</ins>, Osbert Bastani, and Taesoo Kim <br/>
-> *USENIX Security Symposium* (**Security**) *2023* (to appear) <br/>
+> *USENIX Security Symposium* (**Security**) *2023* <br/>
 > [[arXiv](https://arxiv.org/abs/2211.09330)]
+> [[Paper]([https://openreview.net/forum?id=s6ygs1UCOw1](https://www.usenix.org/conference/usenixsecurity23/presentation/park))]
 
 > <i class="fa-solid fa-tree"></i> **CODiT: Conformal
 Out-of-distribution Detection in Time-series Data for Cyber-Physical Systems** <br/>
