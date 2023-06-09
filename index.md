@@ -51,15 +51,14 @@ Robotics, and Cyber-Physical Systems.
 > <ins>Sangdon Park</ins>, Osbert Bastani, and Taesoo Kim <br/>
 > *USENIX Security Symposium* (**Security**) *2023* <br/>
 > [[arXiv](https://arxiv.org/abs/2211.09330)]
-> [[Paper]([https://openreview.net/forum?id=s6ygs1UCOw1](https://www.usenix.org/conference/usenixsecurity23/presentation/park))]
+> [[Paper](https://www.usenix.org/conference/usenixsecurity23/presentation/park)]
 
 > <i class="fa-solid fa-tree"></i> **CODiT: Conformal
 Out-of-distribution Detection in Time-series Data for Cyber-Physical Systems** <br/>
 > Ramneet Kaur, Kaustubh Sridhar, <ins>Sangdon Park</ins>, Yahan Yang, Susmit Jha, Anirban Roy, Oleg Sokolsky, and Insup Lee <br/>
 > *International Conference on Cyber-Physical Systems* (**ICCPS**) *2023* <br/>
-> <i class="fa-solid fa-trophy"></i> **Best Paper Award Finalist**
+> <i class="fa-solid fa-trophy"></i> **Best Paper Award Finalist** <br/>
 > [[paper](https://doi.acm.org?doi=3576841.3585931)] <br/>
-
 
 
 > <i class="fa-solid fa-seedling"></i> **Unsafe’s Betrayal: Abusing Unsafe Rust in Binary Reverse Engineering via Machine Learning** <br/>
