@@ -44,7 +44,7 @@ Robotics, and Cyber-Physical Systems.
 > <i class="fa-solid fa-tree"></i> **Angelic Patches for Improving Third-Party Object Detector Performance** <br/>
 > Wenwen Si, Shuo Li, <ins>Sangdon Park</ins>, Insup Lee, and Osbert Bastani <br/>
 > *Computer Vision and Pattern Recognition* (**CVPR**) *2023* <br/>
-> [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Si_Angelic_Patches_for_Improving_Third-Party_Object_Detector_Performance_CVPR_2023_paper.pdf)
+> [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Si_Angelic_Patches_for_Improving_Third-Party_Object_Detector_Performance_CVPR_2023_paper.pdf)]
 
 
 > <i class="fa-solid fa-tree"></i> **ACon&#178;: Adaptive Conformal Consensus for Provable Blockchain Oracles** <br/>
