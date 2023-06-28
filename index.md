@@ -1,5 +1,9 @@
+---
+layout: default
+---
 
-
+# Sangdon Park (박상돈)
+<!---
 <h1>
 <div style="text-align:left;">
     Sangdon Park (박상돈) 
@@ -14,6 +18,7 @@
     </span>
 </div>
 </h1>
+-->
 
 <font size="4">
 <i class="fa-solid fa-envelope"></i> sangdon@gatech.edu,<br/>
@@ -25,12 +30,7 @@ Georgia Tech
 
 ## News
 
-[comment]: <> (<i class="fa fa-spinner fa-pulse fa-1x fa-fw"></i> I'm looking for an academic or research position! <br/>)
-<i class="fa-solid fa-square-rss"></i> CODiT is a Best Paper Award finalist at ICCPS23. <br/>
-<i class="fa-solid fa-square-rss"></i> Angelic Patches is accepted to CVPR23. Congrats Wenwen! <br/>
-<i class="fa-solid fa-square-rss"></i> ACon&#178; is accepted to Security23. <br/>
-<i class="fa-solid fa-square-rss"></i> CODiT is accepted to ICCPS23. Congrats Ramneet! <br/>
-<i class="fa-solid fa-square-rss"></i> [Meta PAC Prediction Sets](https://arxiv.org/abs/2207.02440) is accepted to NeurIPS22.
+{% include_relative _pages/news.md %}
 
 ## Research Interests
 
@@ -53,8 +53,7 @@ Robotics, and Cyber-Physical Systems.
 > [[arXiv](https://arxiv.org/abs/2211.09330)]
 > [[Paper](https://www.usenix.org/conference/usenixsecurity23/presentation/park)]
 
-> <i class="fa-solid fa-tree"></i> **CODiT: Conformal
-Out-of-distribution Detection in Time-series Data for Cyber-Physical Systems** <br/>
+> <i class="fa-solid fa-tree"></i> **CODiT: Conformal Out-of-distribution Detection in Time-series Data for Cyber-Physical Systems** <br/>
 > Ramneet Kaur, Kaustubh Sridhar, <ins>Sangdon Park</ins>, Yahan Yang, Susmit Jha, Anirban Roy, Oleg Sokolsky, and Insup Lee <br/>
 > *International Conference on Cyber-Physical Systems* (**ICCPS**) *2023* <br/>
 > <i class="fa-solid fa-trophy"></i> **Best Paper Award Finalist** <br/>

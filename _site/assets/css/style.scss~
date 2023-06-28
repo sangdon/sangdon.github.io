@@ -1,0 +1,49 @@
+@import 'jekyll-theme-dinky';
+@import '../fonts/ComputerModern/Bright/cmun-bright.css';
+@import '../fonts/ComputerModern/Sans/cmun-sans.css';
+@import '../fonts/ComputerModern/Serif/cmun-serif.css';
+@import '../fonts/academicons/css/academicons.min.css';
+@import '../fonts/fontawesome/css/all.min.css';
+
+body {
+  font-family: "Computer Modern Sans", Verdana, Georgia, Tahoma, Segoe, sans-serif;
+  font-size: 16px;
+  line-height: 1.5em;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: "Computer Modern Sans", Verdana, Georgia, Tahoma, Segoe, sans-serif;
+}
+
+h2,h3,h4,h5,h6 {
+  border-bottom:0px
+}
+
+h1 {
+  font-weight: bold;
+  border-bottom:5px solid #ca2124;
+}
+
+h2 {
+  font-weight: bold;
+  border-bottom:3px solid #ca2124;
+}
+
+
+.header {
+  font-family: Tahoma, Verdana, Segoe, sans-serif
+}
+
+h1.header {
+  font-family: Tahoma, Verdana, Segoe, sans-serif
+}
+
+.wrapper{width:1000px}
+header{width:200px}
+
+blockquote {
+  border-left: 1px solid #ca2124;
+  quotes: "\201C""\201D""\2018""\2019";
+  font-style: normal;
+  padding-left: 10px;
+}

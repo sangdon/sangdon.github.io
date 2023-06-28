@@ -6,8 +6,6 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <link rel="stylesheet" href="assets/academicons/css/academicons.min.css"/>
-    <link rel="stylesheet" href="assets/fontawesome/css/all.min.css"/>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
     <meta name="viewport" content="width=device-width, shrink-to-fit=no, initial-scale=1, user-scalable=yes">
     <!--<meta name="viewport" content="width=1500px, initial-scale=1, user-scalable=no"> -->
@@ -19,8 +17,22 @@
     <div class="wrapper">
       <header>
         <!--<h1 class="header" align="center">{{ site.title | default: site.github.repository_name }}</h1> -->
-        <p class="header" align="center">{{ site.description | default: site.github.project_tagline }}</p>
-        <p class="header" align="center"><img src="assets/sangdon_pic.jpg" style="width:150px"> </p>
+        <!---<p class="header" align="center">{{ site.description | default: site.github.project_tagline }}</p>-->
+        <p class="header" align="right"> <img src="assets/images/sangdon_pic.jpg" style="width:150px"> </p>
+
+	<a class="icons" href="mailto:sangdon@gatech.edu"><i class="fa-solid fa-envelope"></i></a>
+        <a class="icons" href="https://scholar.google.com/citations?user=Vi2E2F4AAAAJ&hl=en"><i class="ai ai-google-scholar-square ai-1x"></i></a>
+	<a class="icons" href="https://dblp.org/pid/119/1530-1"><i class="ai ai-dblp-square"></i></a>
+	<a class="icons" href="https://orcid.org/0000-0002-9184-5652"><i class="ai ai-orcid-square"></i></a>
+	<a class="icons" href="https://github.com/sangdon"><i class="fa-brands fa-github"></i></a>    
+	<a class="icons" href="https://twitter.com/sangdon_ml"><i class="fa-brands fa-twitter"></i></a>    
+	<a class="icons" href="https://sangdon.github.io/assets/cv.pdf"><i class="ai ai-cv-square ai-1x"></i></a>
+	<!---
+	<p class="header" align="right"> <a href="#">Introduction</a> </p>
+	<p class="header" align="right"> <a href="#publications">Publications</a> </p>
+	<p class="header" align="right"> <a href="#students">Students</a> </p>
+	-->
+
         <!--<p class="header" style="color:white;" align="center"> sangdon@gatech.edu </p>-->
         <!--
         <ul>
