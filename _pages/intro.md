@@ -16,11 +16,9 @@
 -->
 
 ## Sangdon Park (박상돈)
-<huge>
 <i class="fa-solid fa-envelope"></i>
 sangdon@gatech.edu,<br/>
 Postdoc Researcher (Mentor: Prof. <a href="https://taesoo.kim/">Taesoo Kim</a>),<br/>
 School of Cybersecurity and Privacy (SCP),<br/>
 College of Computing,<br/>
 Georgia Tech
-</huge>
