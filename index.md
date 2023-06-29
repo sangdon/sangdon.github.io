@@ -2,8 +2,6 @@
 layout: default
 ---
 
-## Sangdon Park (박상돈)
-
 {% include_relative _pages/intro.md %}
 {% include_relative _pages/news.md %}
 {% include_relative _pages/research.md %}
