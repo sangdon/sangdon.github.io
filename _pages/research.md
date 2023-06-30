@@ -27,7 +27,7 @@ In particular, I'm currently interested in the following questions but open to b
    The related keywords include LLMs and static code analysis.
 <br/>
 
-<i class="fa-solid fa-circle-question"></i> *Can we discover and mitigate security and privacy issues in LLMs?*
+<i class="fa-solid fa-circle-question"></i> *Can we discover and unlearn security and privacy issues in LLMs?*
    The power of LLMs and their daily life use brings concerns on security and privacy issues (e.g., vulnerable code generation and privacy leakage).
-   Then, how severe are the security and privacy issues? How to mitigate the issues in LLMs?
+   Then, how severe are the security and privacy issues? How to unlearn the issues in LLMs?
    This is an exciting direction and we have several on-going projects.
