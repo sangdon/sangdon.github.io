@@ -28,6 +28,6 @@ In particular, I'm currently interested in the following questions but open to b
 <br/>
 
 <i class="fa-solid fa-circle-question"></i> *Can we discover and unlearn security and privacy issues in LLMs?*
-   The power of LLMs and their daily life use brings concerns on security and privacy issues (e.g., vulnerable code generation and privacy leakage).
+   The power of LLMs and their daily life use bring concerns on security and privacy issues (e.g., vulnerable code generation and privacy leakage).
    Then, how severe are the security and privacy issues? How to unlearn the issues in LLMs?
    This is an exciting direction and we have several on-going projects.
