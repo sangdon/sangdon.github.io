@@ -4,7 +4,7 @@ Artificial Intelligence (AI), Trustworthy AI, Uncertainty Quantification, and Co
 research interest focuses on designing safe and secure AI systems by understanding from theory to
 implementation and applications for Computer Security, Computer Vision, Natural Language Processing,
 and Cyber-Physical Systems, including Robotics.
-In particular, I'm currently interested in the following questions but open to broader topics.
+In particular, I'm currently interested in the following questions but very open to broader topics.
 
 <i class="fa-solid fa-circle-question"></i> *Can we rigorously quantify the uncertainty of AI models, e.g., Large Language Models (LLMs) or drones, under distribution shift and adversarial manipulation?*
    Quantified uncertainty of AI models' predictions provides a basis of the trust on predictions.
@@ -30,4 +30,4 @@ In particular, I'm currently interested in the following questions but open to b
 <i class="fa-solid fa-circle-question"></i> *Can we discover and unlearn security and privacy issues in LLMs?*
    The power of LLMs and their daily life use bring concerns on security and privacy issues (e.g., vulnerable code generation and privacy leakage).
    Then, how severe are the security and privacy issues? How to unlearn the issues in LLMs?
-   This is an exciting direction and we have several on-going projects.
+   This is an exciting direction and we have several on-going projects, including a loosely related paper [[CVPR23](https://openaccess.thecvf.com/content/CVPR2023/papers/Si_Angelic_Patches_for_Improving_Third-Party_Object_Detector_Performance_CVPR_2023_paper.pdf)].
