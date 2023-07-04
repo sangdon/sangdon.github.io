@@ -7,7 +7,7 @@ and Cyber-Physical Systems, including Robotics.
 
 In particular, I'm currently interested in the following questions but very open to broader topics.
 
-<i class="fa-solid fa-circle-question"></i> *Can we rigorously quantify the uncertainty of AI models, e.g., Large Language Models (LLMs) or drones, under distribution shift and adversarial manipulation?*
+<i class="fa-solid fa-circle-question"></i> *Can we rigorously quantify the uncertainty of AI models, e.g., Large Language Models (LLMs), price predictors, or drones, under distribution shift and adversarial manipulation?*
    Quantified uncertainty of AI models' predictions provides a basis of the trust on predictions.
    To rigorously quantify uncertainty, 
    we have mainly leveraged learning theory and conformal prediction in 
@@ -19,10 +19,10 @@ In particular, I'm currently interested in the following questions but very open
    [NeurIPS22](https://openreview.net/forum?id=s6ygs1UCOw1),
    [Security23](https://www.usenix.org/conference/usenixsecurity23/presentation/park),
    arXiv23].
-   The related keywords include uncertainty quantification, conformal prediction, distribution shift, adversarial learning, and LLMs.
+   The related keywords include uncertainty quantification, learning theory, conformal prediction, distribution shift, adversarial learning, and LLMs.
 <br/>
 
-<i class="fa-solid fa-circle-question"></i> *Can we leverage LLMs to mitigate System Security issues?*
+<i class="fa-solid fa-circle-question"></i> *Can we leverage LLMs to mitigate system security issues?*
    The powerful LLMs potentially aid to address system security issues, like weakness finding in code. 
    We have explored this in [[arXiv22](https://arxiv.org/abs/2211.00111)].
    The related keywords include LLMs and static code analysis.

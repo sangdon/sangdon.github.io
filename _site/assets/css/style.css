@@ -664,6 +664,10 @@ footer {
     color: #444;
   }
 }
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: "Computer Modern Sans", Verdana, Georgia, Tahoma, Segoe, sans-serif;
   font-size: 16px;
@@ -702,11 +706,9 @@ header {
 }
 
 .header {
-  font-family: Tahoma, Verdana, Segoe, sans-serif;
-}
-
-h1.header {
-  font-family: Tahoma, Verdana, Segoe, sans-serif;
+  font-family: "Computer Modern Sans", Verdana, Georgia, Tahoma, Segoe, sans-serif;
+  font-weight: bold;
+  font-size: 18px;
 }
 
 .wrapper {
@@ -715,6 +717,10 @@ h1.header {
 
 header {
   width: 150px;
+}
+
+mark {
+  background: rgba(255, 0, 0, 0.2);
 }
 
 blockquote {
