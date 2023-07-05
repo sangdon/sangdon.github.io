@@ -9,7 +9,7 @@ layout: default
 
 ## Publications
 
-> <i class="fa-solid fa-seedling"></i> **PAC Neural Prediction Set Learning to Quantify the Uncertainty of Generative Language Modelse** <br/>
+> <i class="fa-solid fa-seedling"></i> **PAC Neural Prediction Set Learning to Quantify the Uncertainty of Generative Language Models** <br/>
 > <ins>Sangdon Park</ins> and Taesoo Kim <br/>
 > *2023* <br/>
 > [arXiv]
