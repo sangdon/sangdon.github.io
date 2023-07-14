@@ -726,8 +726,10 @@ mark {
 blockquote {
   border-left: 1px solid #ca2124;
   quotes: "“" "”" "‘" "’";
+  background: rgba(255, 0, 0, 0.02);
   font-style: normal;
   padding-left: 10px;
+  border-radius: 5px;
 }
 
 /*# sourceMappingURL=style.css.map */

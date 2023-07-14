@@ -15,7 +15,7 @@
 </h1>
 -->
 
-## Sangdon Park (박상돈)
+# Sangdon Park <font size="3"> (박상돈) </font>
 <i class="fa-solid fa-envelope"></i>
 sangdon@gatech.edu,<br/>
 Postdoc Researcher (Mentor: Prof. <a href="https://taesoo.kim/">Taesoo Kim</a>),<br/>
