@@ -2,7 +2,7 @@
 
 Trustworthy AI/ML and Computer Security — My
 research interest focuses on designing safe and secure AI/ML systems by understanding from theory to
-implementation and applications for Computer Security, Computer Vision, Natural Language Processing,
+implementation and by considering practical applications to Computer Security, Computer Vision, Natural Language Processing,
 and Cyber-Physical Systems, including Robotics.
 
 In particular, I'm currently interested in the following questions but very open to broader topics.
