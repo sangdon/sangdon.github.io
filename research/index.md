@@ -4,8 +4,7 @@ layout: default
 
 # Research Interests
 
-Trustworthy AI/ML and Computer Security — My
-research interest focuses on designing trustworthy AI/ML systems by understanding from theory to
+My research interest focuses on designing <mark>trustworthy AI/ML systems</mark> by understanding from theory to
 implementation and by considering practical applications in computer security, computer vision, natural language processing,
 and cyber-physical systems, including robotics.
 
@@ -25,7 +24,7 @@ In particular, I'm currently interested in the following questions but very open
 > [Security23](https://www.usenix.org/conference/usenixsecurity23/presentation/park),
 > arXiv23].
 > <br/>
-> **Keywords**: `uncertainty quantification`, `learning theory`, `conformal prediction`, `distribution shift`, `adversarial learning`, `LLMs`
+> **Keywords**: `uncertainty quantification`, `learning theory`, `distribution shift`, `adversarial learning`, `conformal prediction`, `secure conformal prediction for security`, `LLMs`
 
 
 > <i class="fa-solid fa-circle-question"></i> **Can we leverage MLs to mitigate system security issues?**

@@ -17,11 +17,12 @@
 
 # Sangdon Park <font size="3"> (박상돈) </font>
 <i class="fa-solid fa-envelope"></i>
-sangdon@gatech.edu,<br/>
-Postdoc Researcher (Mentor: Prof. <a href="https://taesoo.kim/">Taesoo Kim</a>),<br/>
-School of Cybersecurity and Privacy (SCP),<br/>
-College of Computing,<br/>
-Georgia Tech
+sangdon@gatech.edu<br/>
+Postdoc Researcher (Mentor: Prof. <a href="https://taesoo.kim/">Taesoo Kim</a>)<br/>
+School of Cybersecurity and Privacy (SCP)<br/>
+College of Computing<br/>
+Georgia Tech<br/>
+**Research Interests**: Trustworthy AI/ML and Computer Security
 
 <a class="icons" href="mailto:sangdon@gatech.edu"><i class="fa-solid fa-envelope"></i></a>
 <a class="icons" href="https://scholar.google.com/citations?user=Vi2E2F4AAAAJ&hl=en"><i class="ai ai-google-scholar-square ai-1x"></i></a>
