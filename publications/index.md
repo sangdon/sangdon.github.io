@@ -8,7 +8,7 @@ layout: default
 > <i class="fa-solid fa-seedling"></i> **PAC Neural Prediction Set Learning to Quantify the Uncertainty of Generative Language Models** <br/>
 > <ins>Sangdon Park</ins> and Taesoo Kim <br/>
 > *2023* <br/>
-> [arXiv]
+> [[arXiv](https://arxiv.org/abs/2307.09254)]
 
 > <i class="fa-solid fa-tree"></i> **Angelic Patches for Improving Third-Party Object Detector Performance** <br/>
 > Wenwen Si, Shuo Li, <ins>Sangdon Park</ins>, Insup Lee, and Osbert Bastani <br/>

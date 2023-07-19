@@ -22,7 +22,7 @@ In particular, I'm currently interested in the following questions but very open
 > [arXiv22](https://arxiv.org/abs/2204.07482),
 > [NeurIPS22](https://openreview.net/forum?id=s6ygs1UCOw1),
 > [Security23](https://www.usenix.org/conference/usenixsecurity23/presentation/park),
-> arXiv23].
+> [arXiv23](https://arxiv.org/abs/2307.09254)].
 > <br/>
 > **Keywords**: `uncertainty quantification`, `learning theory`, `distribution shift`, `adversarial learning`, `conformal prediction`, `secure conformal prediction for security`, `LLMs`
 
