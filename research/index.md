@@ -27,6 +27,19 @@ In particular, I'm currently interested in the following questions but very open
 > **Keywords**: `uncertainty quantification`, `learning theory`, `distribution shift`, `adversarial learning`, `conformal prediction`, `secure conformal prediction for security`, `LLMs`
 
 
+
+> <i class="fa-solid fa-circle-question"></i> **How to mitigate the hallucination problem of LLMs?**
+> <br/>
+> LMMs confidently generate wrong information, which undermines the trust of LLMs as a knowledge base.
+> How to mitigate this?
+> One way is leveraging conformal prediction to measure uncertainty as a basis for trust
+> (e.g., [[arXiv23](https://arxiv.org/abs/2307.09254)]).
+> What other possibilities?
+> <br/>
+> **Keywords**: `uncertainty quantification`, `conformal prediction`, `LLMs`
+
+
+
 > <i class="fa-solid fa-circle-question"></i> **Can we leverage MLs to mitigate system security issues?**
 > <br/>
 > The powerful LLMs potentially aid to address system security issues, like weakness finding in code.
