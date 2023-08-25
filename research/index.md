@@ -10,6 +10,8 @@ and cyber-physical systems, including robotics.
 
 In particular, I'm currently interested in the following questions but very open to broader topics.
 
+## Uncertainty Quantification and Conformal Prediction
+
 > <i class="fa-solid fa-circle-question"></i> **Can we rigorously quantify the uncertainty of AI models, e.g., Large Language Models (LLMs), price predictors, or drones, under distribution shift and adversarial manipulation?**
 > <br/>
 > Quantified uncertainty of AI models' predictions provides a basis of the trust on predictions.
@@ -27,7 +29,6 @@ In particular, I'm currently interested in the following questions but very open
 > **Keywords**: `uncertainty quantification`, `learning theory`, `distribution shift`, `adversarial learning`, `conformal prediction`, `secure conformal prediction for security`, `LLMs`
 
 
-
 > <i class="fa-solid fa-circle-question"></i> **How to mitigate the hallucination problem of LLMs?**
 > <br/>
 > LMMs confidently generate wrong information, which undermines the trust of LLMs as a knowledge base.
@@ -38,14 +39,7 @@ In particular, I'm currently interested in the following questions but very open
 > <br/>
 > **Keywords**: `uncertainty quantification`, `conformal prediction`, `LLMs`
 
-
-
-> <i class="fa-solid fa-circle-question"></i> **Can we leverage MLs to mitigate system security issues?**
-> <br/>
-> The powerful LLMs potentially aid to address system security issues, like weakness finding in code.
-> We have explored this in [[arXiv22](https://arxiv.org/abs/2211.00111)].
-> <br/>
-> **keywords**: `LLMs`, `static code analysis`.
+## Security and Privacy of LLMs
 
 > <i class="fa-solid fa-circle-question"></i> **Can we discover and unlearn security and privacy issues in LLMs?**
 > <br/>
@@ -54,3 +48,13 @@ In particular, I'm currently interested in the following questions but very open
 > This is an exciting direction and we have several on-going projects, including a loosely related paper [[CVPR23](https://openaccess.thecvf.com/content/CVPR2023/papers/Si_Angelic_Patches_for_Improving_Third-Party_Object_Detector_Performance_CVPR_2023_paper.pdf)].
 > <br/>
 > **keywords**: `LLMs`, `prompt tuning`, `machine unlearning`
+
+## LLMs for Security
+
+> <i class="fa-solid fa-circle-question"></i> **Can we leverage LLMs to mitigate system security issues?**
+> <br/>
+> The powerful LLMs potentially aid to address system security issues, like weakness finding in code.
+> We have explored this in [[arXiv22](https://arxiv.org/abs/2211.00111)].
+> <br/>
+> **keywords**: `LLMs`, `static code analysis`.
+
