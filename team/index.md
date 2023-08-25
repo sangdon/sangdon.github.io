@@ -12,7 +12,7 @@ layout: default
 > <br/>
 > * For **prospective MS/PhD/MS+PhD students**, please either email me with your CV or fill out <a href="https://forms.gle/djYvYmZF7jxZm1ti6" target="_blank">this form</a>.
 
-## Leader
+## Leaders
 
 * Sangdon Park (POSTECH Assistant Professor)
 
