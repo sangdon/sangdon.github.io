@@ -20,6 +20,7 @@
 sangdon@postech.ac.kr<br/>
 PIAI <font size="1">(인공지능연구원)</font> Room 216<br/>
 Assistant Professor <br/>
+[Machine Learning Lab](https://ml.postech.ac.kr) (ML Lab) <br/> 
 [Computer Science and Engineering](https://ecse.postech.ac.kr/) (CSE) <br/>
 [Graduate School of Artificial Intelligence](https://ai.postech.ac.kr/) (GSAI) <br/>
 [POSTECH](https://postech.ac.kr/eng/)<br/>
