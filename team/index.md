@@ -11,7 +11,7 @@ layout: default
 > * For **POSTECH undergraduate research** (intern/CSED399/CSED499), feel free to email me for discussion on research directions.
 > <br/>
 > * For **prospective MS/PhD/MS+PhD students**, please either email me with your CV or fill out <a href="https://forms.gle/djYvYmZF7jxZm1ti6" target="_blank">this form</a>.
-> For undergraduate students who wish to apply, we recommend to have an internship. 
+> For undergraduate students who wish to apply, I recommend having an internship with me. 
 
 ## Leaders
 
