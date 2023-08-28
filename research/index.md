@@ -53,8 +53,9 @@ In particular, I'm currently interested in the following questions but very open
 
 > <i class="fa-solid fa-circle-question"></i> **Can we leverage LLMs to mitigate system security issues?**
 > <br/>
-> The powerful LLMs potentially aid to address system security issues, like weakness finding in code.
+> The powerful LLMs potentially aid to address system security issues.
+> In particular, we are interested in finding weaknesses in code.
 > We have explored this in [[arXiv22](https://arxiv.org/abs/2211.00111)].
 > <br/>
-> **keywords**: `LLMs`, `static code analysis`.
+> **keywords**: `LLMs`, `vulnerability analysis`.
 
