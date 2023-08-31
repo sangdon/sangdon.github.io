@@ -29,6 +29,8 @@ In particular, I'm currently interested in the following questions but very open
 > **Keywords**: `uncertainty quantification`, `learning theory`, `distribution shift`, `adversarial learning`, `conformal prediction`, `secure conformal prediction for security`, `LLMs`
 
 
+## Trustworthy LLMs
+
 > <i class="fa-solid fa-circle-question"></i> **How to mitigate the hallucination problem of LLMs?**
 > <br/>
 > LMMs confidently generate wrong information, which undermines the trust of LLMs as a knowledge base.
@@ -39,7 +41,6 @@ In particular, I'm currently interested in the following questions but very open
 > <br/>
 > **Keywords**: `uncertainty quantification`, `conformal prediction`, `LLMs`
 
-## Security and Privacy of LLMs
 
 > <i class="fa-solid fa-circle-question"></i> **Can we discover and unlearn security and privacy issues in LLMs?**
 > <br/>
@@ -49,12 +50,13 @@ In particular, I'm currently interested in the following questions but very open
 > <br/>
 > **keywords**: `LLMs`, `prompt tuning`, `machine unlearning`
 
-## LLMs for Security
+## Trustworthy LLMs for Security
 
-> <i class="fa-solid fa-circle-question"></i> **Can we leverage LLMs to mitigate system security issues?**
+> <i class="fa-solid fa-circle-question"></i> **Can we leverage trustworthy LLMs to mitigate system security issues?**
 > <br/>
-> The powerful LLMs potentially aid to address system security issues.
-> In particular, we are interested in finding weaknesses in code.
+> Finding source or binary code vulnerabilities is a long-standing and never-ending problem.
+> The recent advance in LLMs potentially provides clues to further advance the current code vulnerability discovery performance.
+> Can we leverage trustworthy LLMs for vulnerability discovery?
 > We have explored this in [[arXiv22](https://arxiv.org/abs/2211.00111)].
 > <br/>
 > **keywords**: `LLMs`, `vulnerability analysis`.
