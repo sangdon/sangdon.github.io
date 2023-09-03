@@ -10,7 +10,7 @@ As machine learning and deep learning models are impacting on real world environ
 * Instructor: Sangdon Park
 
 
-## Schedule (tentative)
+### Schedule (tentative)
 
 | Date | Topic | 
 | --- | --- |
