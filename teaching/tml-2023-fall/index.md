@@ -8,7 +8,7 @@ As machine learning and deep learning models are impacting on real world environ
 
 ### Location
 
-B2 Room 102
+B2 Room 107
 
 ### Instructor
 
