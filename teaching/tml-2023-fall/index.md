@@ -20,7 +20,7 @@ Sangdon Park
 | Date | Topic | 
 | --- | --- |
 |  [Week 1]  9/5  | [Trustworthy ML Introduction](./notes/0-intro.pdf) | 
-|  [Week 1]  9/7  | Learning Theory: PAC learning |
+|  [Week 1]  9/7  | [Learning Theory: PAC learning](./notes/1-theory-pac.pdf) |
 |  [Week 2]  9/12 | Learning Theory: beyond PAC learning |
 |  [Week 2]  9/14 | Learning Theory: beyond PAC learning |
 |  [Week 3]  9/19 | Learning Theory: Statitical Query |
