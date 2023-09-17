@@ -31,32 +31,32 @@ Sangdon Park
 |  [Week  5]  10/3 | Uncertainty Learning: Conformal Prediction |
 |  [Week  5]  10/5 | Uncertainty Learning: PAC Conformal Prediction |
 |  [Week  6] 10/10 | Uncertainty Learning: Adaptive Conformal Prediction |
-|  [Week  6] 10/12 | Student presentation 1 |
+|  [Week  6] 10/12 | Student Presentation 1 |
 | --- | --- |
 |  [Week  7] 10/17 | Adversarial Learning: Adversarial Example |
 |  [Week  7] 10/19 | Adversarial Learning: Heuristic Adversarial Learning |
 |  [Week  8] 10/24 | Adversarial Learning: Certified Adversarial Learning |
-|  [Week  8] 10/26 | Student presentation 2 |
+|  [Week  8] 10/26 | Student Presentation 2 |
 | --- | --- |
 |  [Week  9] 10/31 | Machine Unlearning: Overview |
-|  [Week  9]  11/2 | Machine Unlearning: Practice |
-|  [Week 10]  11/7 | Student presentation 3 |
+|  [Week  9]  11/2 | Machine Unlearning: Applications |
+|  [Week 10]  11/7 | Student Presentation 3 |
 | --- | --- |
 |  [Week 10]  11/9 | Differential Privacy: Overview |
 |  [Week 11] 11/14 | Differential Privacy: Applications |
-|  [Week 11] 11/16 | Student presentation 4 |
+|  [Week 11] 11/16 | Student Presentation 4 |
 | --- | --- |
 |  [Week 12] 11/21 | Fairness in Learning: Overview |
 |  [Week 12] 11/23 | Fairness in Learning: Applications |
-|  [Week 13] 11/28 | Student presentation 5 |
+|  [Week 13] 11/28 | Student Presentation 5 |
 | --- | --- |
-|  [Week 13] 11/30 | Miscellaneous topics |
-|  [Week 14] 12/5  | Miscellaneous topics |
-|  [Week 14] 12/7  | Student presentation 6 |
+|  [Week 13] 11/30 | Miscellaneous Topics |
+|  [Week 14] 12/5  | Miscellaneous Topics |
+|  [Week 14] 12/7  | Student Presentation 6 |
 | --- | --- |
-|  [Week 15] 12/12 | Student presentation 7 |
-|  [Week 15] 12/14 | Student presentation 8 |
-|  [Week 16] 12/19 | Student presentation 9 |
+|  [Week 15] 12/12 | Student Presentation 7 |
+|  [Week 15] 12/14 | Student Presentation 8 |
+|  [Week 16] 12/19 | Student Presentation 9 |
 
 
 
