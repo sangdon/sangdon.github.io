@@ -23,7 +23,7 @@ Sangdon Park
 |  [Week  1]  9/7  | [Learning Theory: PAC learning](./notes/1-theory-pac.pdf) |
 |  [Week  2]  9/12 | [Learning Theory: Beyond PAC learning](./notes/1-theory-uc.pdf) |
 |  [Week  2]  9/14 | [Learning Theory: Beyond PAC learning](./notes/1-theory-uc.pdf) |
-|  [Week  3]  9/19 | Learning Theory: Online learning |
+|  [Week  3]  9/19 | [Learning Theory: Online learning](./notes/1-theory-online.pdf) |
 |  [Week  3]  9/21 | Learning Theory: Online learning |
 |  [Week  4]  9/26 | Learning Theory: Statistical Query |
 |  [Week  4]  9/28 | Korean Thanksgiving holiday |
