@@ -30,7 +30,7 @@ Sangdon Park
 |  [Week  4]  9/28 | Korean Thanksgiving holiday |
 |  [Week  5]  10/3 | National Foundation Day |
 |  [Week  5]  10/5 | [Uncertainty Learning: Conformal Prediction](./notes/2-cp.pdf) |
-|  [Week  6] 10/10 | Uncertainty Learning: PAC Conformal Prediction |
+|  [Week  6] 10/10 | [Uncertainty Learning: PAC Conformal Prediction](./notes/2-paccp.pdf) |
 |  [Week  6] 10/12 | Uncertainty Learning: Adaptive Conformal Prediction |
 |  [Week  7] 10/17 | Student Presentation 1 |
 | --- | --- |
