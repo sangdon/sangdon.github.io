@@ -31,7 +31,7 @@ Sangdon Park
 |  [Week  5]  10/3 | National Foundation Day |
 |  [Week  5]  10/5 | [Uncertainty Learning: Conformal Prediction](./notes/2-cp.pdf) |
 |  [Week  6] 10/10 | [Uncertainty Learning: PAC Conformal Prediction](./notes/2-paccp.pdf) |
-|  [Week  6] 10/12 | Uncertainty Learning: Adaptive Conformal Prediction |
+|  [Week  6] 10/12 | [Uncertainty Learning: Adaptive Conformal Prediction](./notes/2-acp.pdf) |
 |  [Week  7] 10/17 | Student Presentation 1 |
 | --- | --- |
 |  [Week  7] 10/19 | Adversarial Learning: Adversarial Example |
