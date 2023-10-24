@@ -59,6 +59,7 @@ header{
 .wrapper{
     width:1000px;
 }
+
 header{
     width:150px;
 }
@@ -135,45 +136,3 @@ caption::before {
   font-weight: bold;
 }
 
-
-
-// table {
-//     border-collapse: collapse;
-//     font-family: "Computer Modern Sans", Verdana, Georgia, Tahoma, Segoe, sans-serif;
-//     font-size: 15px;
-
-// }
-
-// td {
-//     padding: 5px;
-// }
-
-
-// table th {
-//     font-family: "Computer Modern Sans", Verdana, Georgia, Tahoma, Segoe, sans-serif;
-//     font-weight: bold;
-//     color: black;
-//     background-color: white;
-//     padding: 5px;
-//     text-align: center;
-// }
-
-// table thead td {
-//     background-color: #54585d;
-//     color: #ffffff;
-//     font-weight: bold;
-//     border: 1px solid #54585d;
-// }
-
-// table tbody td {
-// 	color: black;
-// 	border: 1px solid #dddfe1;
-// }
-
-// table tbody tr {
-// 	background-color: #f9fafb;
-// }
-
-// table tbody tr:nth-child(odd) {
-// 	background-color: #ffffff;
-// }
