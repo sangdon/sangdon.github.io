@@ -34,7 +34,7 @@ Sangdon Park
 |  [Week  6] 10/12 | [Uncertainty Learning: Adaptive Conformal Prediction](./notes/2-acp.pdf) |
 |  [Week  7] 10/17 | Student Presentation 1 |
 | --- | --- |
-|  [Week  7] 10/19 | [Adversarial Learning: Adversarial Example and Heuristic Adversarial Learning](./notes/3-ae.pdf) |
+|  [Week  7] 10/19 | [Adversarial Learning: Adversarial Example / Heuristic Adversarial Learning](./notes/3-ae.pdf) |
 |  [Week  8] 10/24 | [Adversarial Learning: Certified Adversarial Learning](./notes/3-cert.pdf) |
 | --- | --- |
 |  [Week  8] 10/26 | [Machine Unlearning 1](./notes/4-cul.pdf) |
