@@ -36,13 +36,14 @@ Sangdon Park
 | --- | --- |
 |  [Week  7] 10/19 | [Adversarial Learning: Adversarial Example and Heuristic Adversarial Learning](./notes/3-ae.pdf) |
 |  [Week  8] 10/24 | [Adversarial Learning: Certified Adversarial Learning](./notes/3-cert.pdf) |
+| --- | --- |
 |  [Week  8] 10/26 | [Machine Unlearning 1](./notes/4-cul.pdf) |
 |  [Week  9] 10/31 | Student Presentation 2 |
-| --- | --- |
 |  [Week  9]  11/2 | Machine Unlearning 2 |
+| --- | --- |
 |  [Week 10]  11/7 | Differential Privacy 1 |
 |  [Week 10]  11/9 | Student Presentation 3 |
-| --- | --- |
+
 |  [Week 11] 11/14 | Student Presentation 3.5 |
 |  [Week 11] 11/16 | Differential Privacy 2 |
 |  [Week 12] 11/21 | Student Presentation 4 |
