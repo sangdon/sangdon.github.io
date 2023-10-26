@@ -43,7 +43,6 @@ Sangdon Park
 | --- | --- |
 |  [Week 10]  11/7 | Differential Privacy 1 |
 |  [Week 10]  11/9 | Student Presentation 3 |
-
 |  [Week 11] 11/14 | Student Presentation 3.5 |
 |  [Week 11] 11/16 | Differential Privacy 2 |
 |  [Week 12] 11/21 | Student Presentation 4 |
