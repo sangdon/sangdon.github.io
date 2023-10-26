@@ -5,6 +5,16 @@ layout: default
 # Publications
 
 ### 2023
+
+> <i class="fa-solid fa-seedling"></i> **PAC Prediction Sets Under Label Shift** <br/>
+> Wenwen Si, <ins>Sangdon Park</ins>, Insup Lee, Edgar Dobriban, Osbert Bastani <br/>
+> *2023* <br/>
+> [[arXiv](https://arxiv.org/abs/2310.12964)]
+
+
+
+
+
 > <i class="fa-solid fa-seedling"></i> **PAC Neural Prediction Set Learning to Quantify the Uncertainty of Generative Language Models** <br/>
 > <ins>Sangdon Park</ins> and Taesoo Kim <br/>
 > *2023* <br/>
