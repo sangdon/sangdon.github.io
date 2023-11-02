@@ -39,7 +39,7 @@ Sangdon Park
 | --- | --- |
 |  [Week  8] 10/26 | [Machine Unlearning 1](./notes/4-cul.pdf) |
 |  [Week  9] 10/31 | Student Presentation 2 |
-|  [Week  9]  11/2 | Machine Unlearning 2 |
+|  [Week  9]  11/2 | [Machine Unlearning 2](./notes/4-cul2.pdf) |
 | --- | --- |
 |  [Week 10]  11/7 | Differential Privacy 1 |
 |  [Week 10]  11/9 | Student Presentation 3 |
