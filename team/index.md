@@ -21,5 +21,4 @@ layout: default
 * Minjae Lee (Undergrad, POSTECH CSE)
 * Junseok Lee (Undergrad, POSTECH CSE)
 * Minjae Gwon (Undergrad, POSTECH CSE)
-* Le Dieu Linh (Undergrad/GYP Student, POSTECH CSE)
 * Junseok Kim (Undergrad, POSTECH CiTE)
