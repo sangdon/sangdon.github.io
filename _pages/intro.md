@@ -18,7 +18,7 @@
 # Sangdon Park <font size="3"> (박상돈) </font>
 <i class="fa-solid fa-envelope"></i>
 sangdon@postech.ac.kr<br/>
-PIAI <font size="1">(인공지능연구원)</font> Room 216<br/>
+RIST-4 Room 4409<br/>
 Assistant Professor <br/>
 [Machine Learning Lab](https://ml.postech.ac.kr) (ML Lab) <br/> 
 [Computer Science and Engineering](https://ecse.postech.ac.kr/) (CSE) <br/>
