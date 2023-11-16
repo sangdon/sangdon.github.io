@@ -45,10 +45,10 @@ Sangdon Park
 |  [Week 10]  11/9 | Student Presentation 3 |
 |  [Week 11] 11/14 | Student Presentation 3.5 |
 |  [Week 11] 11/16 | [Differential Privacy 2](./notes/5-dp2.pdf) |
-|  [Week 12] 11/21 | Student Presentation 4 |
 | --- | --- |
-|  [Week 12] 11/23 | Fairness in Learning 1 |
-|  [Week 13] 11/28 | Fairness in Learning 2 |
+|  [Week 12] 11/21 | Fairness in Learning 1 |
+|  [Week 12] 11/23 | Fairness in Learning 2 |
+|  [Week 13] 11/28 | Student Presentation 4 |
 |  [Week 13] 11/30 | Student Presentation 5 |
 | --- | --- |
 |  [Week 14] 12/5  | Miscellaneous Topics |
