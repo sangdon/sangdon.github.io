@@ -52,7 +52,7 @@ Sangdon Park
 |  [Week 13] 11/30 | Student Presentation 5 |
 | --- | --- |
 |  [Week 14] 12/5  | Miscellaneous Topics |
-|  [Week 14] 12/7  | Miscellaneous Topics |
+|  [Week 14] 12/7  | [Copyright](./notes/7-copyright.pdf) |
 |  [Week 15] 12/12 | Student Presentation 6 |
 | --- | --- |
 |  [Week 15] 12/14 | Student Presentation 7 |

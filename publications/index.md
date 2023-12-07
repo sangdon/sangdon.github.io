@@ -85,6 +85,7 @@ layout: default
 > Ramneet Kaur, Susmit Jha, Anirban Roy, <ins>Sangdon Park</ins>, Edgar Dobriban, Oleg Sokolsky, and Insup Lee <br/>
 > *Association for the Advancement of Artificial Intelligence* (**AAAI**) *2022*<br/>
 > [[arXiv](https://arxiv.org/pdf/2201.02331.pdf)]
+> [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20670)]
 
 ### 2021
 
