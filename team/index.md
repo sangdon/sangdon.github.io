@@ -17,12 +17,28 @@ layout: default
 
 ## Active Members
 
+### Leaders
 * Sangdon Park <font size="1">(Assistant Professor, POSTECH GSAI/CSE)</font>
-* Minjae Lee <font size="1">(Undergrad, POSTECH CSE, 2023 summer - 2024 winter → POSTECH AI MS+PhD)</font>
-* Junseok Lee <font size="1">(Undergrad, POSTECH CSE, 2023 fall)</font>
-* Minjae Gwon <font size="1">(Undergrad, POSTECH CSE, 2023 fall - 2024 winter → POSTECH CSE MS)</font>
-* Junseok Kim <font size="1">(Undergrad, POSTECH CiTE, 2023 fall - )</font>
-* Chiheon Kim <font size="1">(Undergrad, POSTECH CSE, 2023 fall - )</font>
-* Byungjun Yoon <font size="1">(Undergrad, POSTECH CSE, 2023 fall - )</font>
-* Wongi Lee <font size="1">(Undergrad, POSTECH CSE, 2023 fall - )</font>
 
+### PhD Students
+
+* Minjae Lee <font size="1">(POSTECH AI MS+PhD from 2024 spring)</font>
+* Kyungmin Kim <font size="1">(POSTECH AI MS+PhD from 2024 spring)</font>
+
+### MS Students
+
+* Minjae Gwon <font size="1">(POSTECH CSE MS from 2024 spring)</font>
+
+
+### Undergraduate Interns
+
+* Chiheon Kim <font size="1">(POSTECH CSE Undergrad,  2023 fall - )</font>
+* Byungjun Yoon <font size="1">(POSTECH CSE Undergrad,  2023 fall - )</font>
+* Wongi Lee <font size="1">(POSTECH CSE Undergrad, 2023 fall - )</font>
+
+## Alumni
+
+* Minjae Lee <font size="1">(Undergrad, POSTECH CSE, 2023 summer - 2024 winter → POSTECH AI MS+PhD)</font>
+* Minjae Gwon <font size="1">(Undergrad, POSTECH CSE, 2023 fall - 2024 winter → POSTECH CSE MS)</font>
+* Junseok Lee <font size="1">(Undergrad, POSTECH CSE, 2023 fall)</font>
+* Junseok Kim <font size="1">(Undergrad, POSTECH CiTE, 2023 fall - 2024 winter)</font>

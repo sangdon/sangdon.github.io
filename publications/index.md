@@ -4,16 +4,16 @@ layout: default
 
 # Publications
 
-### 2023
 
-> <i class="fa-solid fa-seedling"></i> **PAC Prediction Sets Under Label Shift** <br/>
+### 2024
+
+> <i class="fa-solid fa-tree"></i> **PAC Prediction Sets Under Label Shift** <br/>
 > Wenwen Si, <ins>Sangdon Park</ins>, Insup Lee, Edgar Dobriban, Osbert Bastani <br/>
-> *2023* <br/>
+> *International Conference on Learning Representations* (**ICLR**) *2024* <br/>
 > [[arXiv](https://arxiv.org/abs/2310.12964)]
 
 
-
-
+### 2023
 
 > <i class="fa-solid fa-seedling"></i> **PAC Neural Prediction Set Learning to Quantify the Uncertainty of Generative Language Models** <br/>
 > <ins>Sangdon Park</ins> and Taesoo Kim <br/>
@@ -53,7 +53,7 @@ layout: default
 > 2022 <br/>
 > [[arXiv](https://arxiv.org/abs/2211.00111)]
 
-> <i class="fa-solid fa-tree"></i> **PAC Prediction Sets for Meta-Learning** <br/>
+> **PAC Prediction Sets for Meta-Learning** <br/>
 > <ins>Sangdon Park</ins>, Edgar Dobriban, Insup Lee, and Osbert Bastani <br/>
 > *Neural Information Processing Systems* (**NeurIPS**) *2022* <br/>
 > [[arXiv](https://arxiv.org/abs/2207.02440)]
