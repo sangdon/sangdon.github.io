@@ -34,7 +34,13 @@ layout: default
 
 * Chiheon Kim <font size="1">(POSTECH CSE Undergrad,  2023 fall - )</font>
 * Byungjun Yoon <font size="1">(POSTECH CSE Undergrad,  2023 fall - )</font>
-* Wongi Lee <font size="1">(POSTECH CSE Undergrad, 2023 fall - )</font>
+* Yoonjae Jung <font size="1">(POSTECH CSE Undergrad, 2024 winter - )</font>
+* Junho Choi <font size="1">(POSTECH CSE Undergrad, 2024 winter - )</font>
+* Jaewan Choi <font size="1">(POSTECH CSE Undergrad, 2024 winter - )</font>
+* Junha Choi <font size="1">(POSTECH CSE Undergrad, 2024 winter - )</font>
+* Byeonggyu Kim <font size="1">(POSTECH ME Undergrad, 2024 winter - )</font>
+
+
 
 ## Alumni
 
@@ -42,3 +48,4 @@ layout: default
 * Minjae Gwon <font size="1">(Undergrad, POSTECH CSE, 2023 fall - 2024 winter → POSTECH CSE MS)</font>
 * Junseok Lee <font size="1">(Undergrad, POSTECH CSE, 2023 fall)</font>
 * Junseok Kim <font size="1">(Undergrad, POSTECH CiTE, 2023 fall - 2024 winter)</font>
+* Wongi Lee <font size="1">(POSTECH CSE Undergrad, 2023 fall - 2024 winter)</font>
