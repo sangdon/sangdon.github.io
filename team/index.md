@@ -18,7 +18,7 @@ layout: default
 ## Active Members
 
 ### Leaders
-* Sangdon Park <font size="1">(Assistant Professor, POSTECH GSAI/CSE)</font>
+* [Sangdon Park](https://sangdon.github.io/) <font size="1">(Assistant Professor, POSTECH GSAI/CSE)</font>
 
 ### PhD Students
 
@@ -27,7 +27,7 @@ layout: default
 
 ### MS Students
 
-* Minjae Gwon <font size="1">(POSTECH CSE MS from 2024 spring)</font>
+* [Minjae Gwon](https://bxta.kr/) <font size="1">(POSTECH CSE MS from 2024 spring)</font>
 
 
 ### Undergraduate Interns
