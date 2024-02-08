@@ -21,6 +21,7 @@ sangdon@postech.ac.kr<br/>
 RIST-4 Room 4409<br/>
 Assistant Professor <br/>
 [Machine Learning Lab](https://ml.postech.ac.kr) (ML Lab) <br/> 
+[Computer Security Lab](http://compsec.postech.ac.kr) (CompSec Lab) <br/> 
 [Computer Science and Engineering](https://ecse.postech.ac.kr/) (CSE) <br/>
 [Graduate School of Artificial Intelligence](https://ai.postech.ac.kr/) (GSAI) <br/>
 [POSTECH](https://postech.ac.kr/eng/)<br/>
