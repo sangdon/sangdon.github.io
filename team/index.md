@@ -40,6 +40,8 @@ layout: default
 * Junha Choi <font size="1">(POSTECH CSE Undergrad, 2024 winter - )</font>
 * Byeonggyu Kim <font size="1">(POSTECH ME Undergrad, 2024 winter - )</font>
 
+### Admin
+* Jiyoung Choi
 
 
 ## Alumni
