@@ -24,6 +24,7 @@ layout: default
 
 * Minjae Lee <font size="1">(POSTECH AI MS+PhD from 2024 spring)</font>
 * Kyungmin Kim <font size="1">(POSTECH AI MS+PhD from 2024 spring)</font>
+* Namgyu Park <font size="1">(POSTECH CSE PhD from 2024 spring, co-advised with Jong Kim)</font>
 
 ### MS Students
 
