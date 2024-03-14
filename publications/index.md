@@ -7,6 +7,13 @@ layout: default
 
 ### 2024
 
+> <i class="fa-solid fa-seedling"></i> **TRAQ: Trustworthy Retrieval Augmented Question Answering via Conformal Prediction** <br/>
+> Shuo Li, <ins>Sangdon Park</ins>, Insup Lee, Osbert Bastani <br/>
+> *North American Chapter of the Association for Computational Linguistics* (**NAACL**) *2024* <br/>
+> <i class="fa-solid fa-trophy"></i> **Best Paper Award** at ICML23 TEACH Workshop<br/>
+> [[arXiv](https://arxiv.org/abs/2307.04642)], [[ICML23 TEACH Workshop](https://sites.google.com/view/teach-icml-23/accepted-papers)]
+
+
 > <i class="fa-solid fa-tree"></i> **MedBN: Robust Test Time Adaptation against Malicious Test Samples** <br/>
 > Hyejin Park, Jeongyeon Hwang, Sunung Mun, <ins>Sangdon Park</ins>, Jungseul Ok <br/>
 > *Computer Vision and Pattern Recognition* (**CVPR**) *2024* <br/>
@@ -24,13 +31,6 @@ layout: default
 > <ins>Sangdon Park</ins> and Taesoo Kim <br/>
 > *2023* <br/>
 > [[arXiv](https://arxiv.org/abs/2307.09254)]
-
-> <i class="fa-solid fa-seedling"></i> **TRAC: Trustworthy Retrieval Augmented Chatbot** <br/>
-> Shuo Li, <ins>Sangdon Park</ins>, Insup Lee, Osbert Bastani <br/>
-> *2023* <br/>
-> <i class="fa-solid fa-trophy"></i> **Best Paper Award** at ICML23 TEACH Workshop<br/>
-> [[arXiv](https://arxiv.org/abs/2307.04642)], [[ICML23 TEACH Workshop](https://sites.google.com/view/teach-icml-23/accepted-papers)]
-
 
 > <i class="fa-solid fa-tree"></i> **Angelic Patches for Improving Third-Party Object Detector Performance** <br/>
 > Wenwen Si, Shuo Li, <ins>Sangdon Park</ins>, Insup Lee, and Osbert Bastani <br/>
