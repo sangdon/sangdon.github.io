@@ -44,6 +44,7 @@ layout: default
 * Daehwan Kim <font size="1">(POSTECH CiTE Undergrad, 2024 spring - )</font>
 * Seungheon Hyun <font size="1">(POSTECH Math Undergrad, 2024 spring - )</font>
 * Seonwoong Kim <font size="1">(POSTECH CSE Undergrad, 2024 spring - )</font>
+* Dieu Linh <font size="1">(POSTECH CSE Undergrad, 2024 spring - )</font>
 
 
 
