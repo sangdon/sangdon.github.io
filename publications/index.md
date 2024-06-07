@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Publications
+# Publication
 
 
 ### 2024
