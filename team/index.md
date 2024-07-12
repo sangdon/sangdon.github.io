@@ -22,14 +22,52 @@ layout: default
 
 ### PhD Students
 
-* Minjae Lee <font size="1">(POSTECH AI MS+PhD from 2024 spring)</font>
-* Kyungmin Kim <font size="1">(POSTECH AI MS+PhD from 2024 spring)</font>
-* Namgyu Park <font size="1">(POSTECH CSE PhD from 2024 spring, co-advised with Jong Kim)</font>
+<div class="team-item">
+
+  <div class="team-content">
+    <img class="team-content-img" src="../assets/team/minjae.lee.jpg">
+    <p class="team-content-name"> Minjae Lee </p>
+    <p class="team-content-deg"> AI MS+PhD </p>
+    <p class="team-content-date"> 2024 spring </p>
+  </div>
+
+  <div class="team-content">
+    <img class="team-content-img" src="../assets/team/kyungmin.kim.jpg">
+    <p class="team-content-name"> Kyungmin Kim </p>
+    <p class="team-content-deg"> AI MS+PhD </p>
+    <p class="team-content-date"> 2024 spring </p>
+  </div>
+
+  <div class="team-content">
+    <img class="team-content-img" src="../assets/team/namgyu.park.jpg">
+    <p class="team-content-name"> Namgyu Park </p>
+    <p class="team-content-deg">CSE MS+PhD </p>
+    <p class="team-content-date"> 2024 spring </p>
+    <p class="team-content-note"> co-advised with Jong Kim </p>
+  </div>
+</div>
+    
 
 ### MS Students
 
-* [Minjae Gwon](https://bxta.kr/) <font size="1">(POSTECH CSE MS from 2024 spring)</font>
-* Byeonggyu Kim <font size="1">(POSTECH CSE MS, 2024 fall)</font>
+<div class="team-item">
+
+  <div class="team-content">
+    <img class="team-content-img" src="../assets/team/minjae.gwon.png">
+    <p class="team-content-name"> Minjae Gwon <a href="https://bxta.kr"><i class="fa-solid fa-house-chimney"></i></a> </p>
+    <p class="team-content-deg"> CSE MS </p>
+    <p class="team-content-date"> 2024 spring </p>
+  </div>
+
+  <div class="team-content">
+    <img class="team-content-img" src="../assets/team/byeonggyu.kim.png">
+    <p class="team-content-name"> Byeonggyu Kim </p>
+    <p class="team-content-deg"> CSE MS </p>
+    <p class="team-content-date"> 2024 fall </p>
+  </div>
+
+</div>
+
 
 ### Undergraduate Interns
 
