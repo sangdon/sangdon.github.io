@@ -29,23 +29,17 @@ layout: default
 ### MS Students
 
 * [Minjae Gwon](https://bxta.kr/) <font size="1">(POSTECH CSE MS from 2024 spring)</font>
-
+* Byeonggyu Kim <font size="1">(POSTECH CSE MS, 2024 fall)</font>
 
 ### Undergraduate Interns
 
-* Chiheon Kim <font size="1">(POSTECH CSE Undergrad,  2023 fall - )</font>
-* Byungjun Yoon <font size="1">(POSTECH CSE Undergrad,  2023 fall - )</font>
 * Yoonjae Jung <font size="1">(POSTECH CSE Undergrad, 2024 winter - )</font>
 * Junho Choi <font size="1">(POSTECH CSE Undergrad, 2024 winter - )</font>
 * Jaewan Choi <font size="1">(POSTECH CSE Undergrad, 2024 winter - )</font>
 * Junha Choi <font size="1">(POSTECH CSE Undergrad, 2024 winter - )</font>
-* Byeonggyu Kim <font size="1">(POSTECH ME Undergrad, 2024 winter - )</font>
 * Jaewoo Jeong <font size="1">(POSTECH CSE Undergrad, 2024 winter - )</font>
-* Daehwan Kim <font size="1">(POSTECH CiTE Undergrad, 2024 spring - )</font>
 * Seungheon Hyun <font size="1">(POSTECH Math Undergrad, 2024 spring - )</font>
 * Seonwoong Kim <font size="1">(POSTECH CSE Undergrad, 2024 spring - )</font>
-* Dieu Linh <font size="1">(POSTECH CSE Undergrad, 2024 spring - )</font>
-
 
 
 ### Admin
@@ -54,8 +48,13 @@ layout: default
 
 ## Alumni
 
-* Minjae Lee <font size="1">(Undergrad, POSTECH CSE, 2023 summer - 2024 winter → POSTECH AI MS+PhD)</font>
-* Minjae Gwon <font size="1">(Undergrad, POSTECH CSE, 2023 fall - 2024 winter → POSTECH CSE MS)</font>
+* Minjae Lee <font size="1">(Undergrad, POSTECH CSE, 2023 summer - 2024 winter, POSTECH AI MS+PhD)</font>
+* Minjae Gwon <font size="1">(Undergrad, POSTECH CSE, 2023 fall - 2024 winter, POSTECH CSE MS)</font>
 * Junseok Lee <font size="1">(Undergrad, POSTECH CSE, 2023 fall)</font>
 * Junseok Kim <font size="1">(Undergrad, POSTECH CiTE, 2023 fall - 2024 winter)</font>
 * Wongi Lee <font size="1">(POSTECH CSE Undergrad, 2023 fall - 2024 winter)</font>
+* Chiheon Kim <font size="1">(POSTECH CSE Undergrad,  2023 fall - 2024 spring )</font>
+* Byungjun Yoon <font size="1">(POSTECH CSE Undergrad,  2023 fall - 2024 spring)</font>
+* Byeonggyu Kim <font size="1">(POSTECH ME Undergrad, 2023 fall - 2024 spring, POSTECH CSE MS)</font>
+* Daehwan Kim <font size="1">(POSTECH CiTE Undergrad, 2024 spring - 2024 spring)</font>
+* Dieu Linh <font size="1">(POSTECH CSE Undergrad, 2024 spring - 2024 summer)</font>
