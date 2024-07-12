@@ -10,25 +10,6 @@ and cyber-physical systems, including robotics.
 
 In particular, I'm currently interested in the following questions but very open to broader topics.
 
-## Uncertainty Learning and Conformal Prediction
-
-> <i class="fa-solid fa-circle-question"></i> **Can we rigorously learn and quantify the uncertainty of AI models, e.g., Large Language Models (LLMs), price predictors, or drones, under distribution shift and adversarial manipulation?**
-> <br/>
-> Quantified uncertainty of AI models' predictions provides a basis of the trust on predictions.
-> To rigorously quantify uncertainty, 
-> we have mainly leveraged learning theory and conformal prediction. 
-> <br/>
-> **Keywords**: `uncertainty quantification`, `learning theory`, `distribution shift`, `adversarial learning`, `conformal prediction`, `secure conformal prediction for security`, `LLMs` <br/>
-> **Related Work**:
-> [ICLR20](https://openreview.net/forum?id=BJxVI04YvB),
-> [AISTATS20](http://proceedings.mlr.press/v108/park20b/park20b.pdf),
-> [ICLR21](https://openreview.net/forum?id=Qk-Wq5AIjpq),
-> [ICLR22](https://openreview.net/pdf?id=DhP9L8vIyLc),
-> [arXiv22](https://arxiv.org/abs/2204.07482),
-> [NeurIPS22](https://openreview.net/forum?id=s6ygs1UCOw1),
-> [Security23](https://www.usenix.org/conference/usenixsecurity23/presentation/park),
-> [arXiv23](https://arxiv.org/abs/2307.09254)
-
 ## Trustworthy LLMs
 
 > <i class="fa-solid fa-circle-question"></i> **How to mitigate the <mark>hallucination problem</mark> of LLMs?**
@@ -70,3 +51,24 @@ In particular, I'm currently interested in the following questions but very open
 > **keywords**: `LLMs`, `vulnerability analysis` <br/>
 > **Related Work**:
 > [arXiv22](https://arxiv.org/abs/2211.00111)
+
+## Uncertainty Learning and Conformal Prediction
+
+> <i class="fa-solid fa-circle-question"></i> **Can we rigorously learn and quantify the uncertainty of AI models, e.g., Large Language Models (LLMs), price predictors, or drones, under distribution shift and adversarial manipulation?**
+> <br/>
+> Quantified uncertainty of AI models' predictions provides a basis of the trust on predictions.
+> To rigorously quantify uncertainty, 
+> we have mainly leveraged learning theory and conformal prediction. 
+> <br/>
+> **Keywords**: `uncertainty quantification`, `learning theory`, `distribution shift`, `adversarial learning`, `conformal prediction`, `secure conformal prediction for security`, `LLMs` <br/>
+> **Related Work**:
+> [ICLR20](https://openreview.net/forum?id=BJxVI04YvB),
+> [AISTATS20](http://proceedings.mlr.press/v108/park20b/park20b.pdf),
+> [ICLR21](https://openreview.net/forum?id=Qk-Wq5AIjpq),
+> [ICLR22](https://openreview.net/pdf?id=DhP9L8vIyLc),
+> [arXiv22](https://arxiv.org/abs/2204.07482),
+> [NeurIPS22](https://openreview.net/forum?id=s6ygs1UCOw1),
+> [Security23](https://www.usenix.org/conference/usenixsecurity23/presentation/park),
+> [arXiv23](https://arxiv.org/abs/2307.09254)
+
+
