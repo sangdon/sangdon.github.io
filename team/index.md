@@ -14,7 +14,7 @@ layout: default
 > For undergraduate students who wish to apply, I recommend having an internship with me. 
 >
 > You may love our lab if you are interested in the following:
-> * exploiting your statistics and mathematics talent to prove the trustworthiness of AI,
+> * exploiting your statistics or mathematics talent to prove the trustworthiness of AI,
 > * entrusting and securing all kinds of AI, including, but not limited to, generative language, vision, action, code models; smart contracts; and robots,
 > * or having fun!
 
