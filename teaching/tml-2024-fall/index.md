@@ -24,7 +24,7 @@ Kyungmin Kim (kkm959595@postech.ac.kr)
 | Date | Topic | 
 | --- | --- |
 |  [Week  1] 9/3   | [Trustworthy ML Introduction](./notes/0-intro.pdf) | 
-|  [Week  1] 9/5   | [Measure Theory: Introduction]() |
+|  [Week  1] 9/5   | [Measure Theory: Introduction] |
 |  [Week  2] 9/10  | [Learning Theory: PAC learning](./notes/1-theory-pac.pdf) |
 |  [Week  2] 9/12  | [Learning Theory: Beyond PAC learning](./notes/1-theory-uc.pdf) |
 |  [Week  3] 9/17  | Korean Thanksgiving holiday |
@@ -36,20 +36,20 @@ Kyungmin Kim (kkm959595@postech.ac.kr)
 |  [Week  5] 10/3  | National Foundation Day |
 |  [Week  6] 10/8  | [Controllable Uncertainty Learning: PAC Conformal Prediction](./notes/2-paccp.pdf) |
 |  [Week  6] 10/10 | [Controllable Uncertainty Learning: Adaptive Conformal Prediction](./notes/2-acp.pdf) |
-|  [Week  7] 10/15 | [Controllable Uncertainty Learning: Selective Prediction]() |
+|  [Week  7] 10/15 | [Controllable Uncertainty Learning: Selective Prediction] |
 | --- | --- |
 |  [Week  7] 10/17 | [Adversarial Learning: Adversarial Examples, Prompts, and More]()   |
 |  [Week  8] 10/22 | [Adversarial Learning: Heuristic Adversarial Learning](./notes/3-ae.pdf) |
 |  [Week  8] 10/24 | [Adversarial Learning: Certified Adversarial Learning](./notes/3-cert.pdf) * |
 | --- | --- |
-|  [Week  9] 10/29 | [Privacy in ML]() |
+|  [Week  9] 10/29 | [Privacy in ML] |
 |  [Week  9] 10/31 | [Differential Privacy: Basics](./notes/5-dp1.pdf) |
 |  [Week 10] 11/5  | [Differential Privacy: Practice](./notes/5-dp2.pdf) |
 | --- | --- |
 |  [Week 10] 11/7  | [Machine Unlearning: Classification](./notes/4-cul.pdf) |
-|  [Week 11] 11/12 | [Machine Unlearning: Generation]() |
+|  [Week 11] 11/12 | [Machine Unlearning: Generation] |
 |  [Week 11] 11/14 | [Fairness in Learning: Foundation](./notes/6-fair1.pdf) |
-|  [Week 12] 11/19 | [Fairness in Learning: NLP Application]() |
+|  [Week 12] 11/19 | [Fairness in Learning: NLP Application] |
 | --- | --- |
 |  [Week 12] 11/21 | Final Exam |
 | --- | --- |
