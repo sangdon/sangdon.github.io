@@ -60,7 +60,7 @@ layout: default
   </div>
 
   <div class="team-content">
-    <img class="team-content-img" src="../assets/team/byeonggyu.kim.png">
+    <img class="team-content-img" src="../assets/team/byeonggyu.kim.jpg">
     <p class="team-content-name"> Byeonggyu Kim </p>
     <p class="team-content-deg"> CSE MS </p>
     <p class="team-content-date"> 2024 fall </p>
