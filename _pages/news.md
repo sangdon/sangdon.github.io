@@ -5,6 +5,8 @@
 <i class="fa fa-spinner fa-pulse fa-1x fa-fw"></i> I'm looking for motivated students, interested in trustworthy AI/ML and computer security! Please check out [hiring steps](./team). <br/>
 <i class="fa fa-spinner fa-pulse fa-1x fa-fw"></i> For POSTECH undergraduate research (intern/CSED399/CSED499), please check out [here](./team)! <br/>
 <br/>
+
+<i class="fa-solid fa-square-rss"></i> We, POSTECH, provide a breakout session at [Responsible AI in the Military Domain (REAIM)](https://reaim2024.kr/reaimeng/index.do) Summit <br/>
 <i class="fa-solid fa-square-rss"></i> We, [Team Atlanta](https://team-atlanta.github.io/), advance to the [DARPA AIxCC](https://aicyberchallenge.com/) finals. <br/>
 <i class="fa-solid fa-square-rss"></i> I will serve as an area chair for NeurIPS 2024. <br/>
 <i class="fa-solid fa-square-rss"></i> TRAQ is accepted to NAACL24. <br/>
