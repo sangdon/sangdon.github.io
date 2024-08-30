@@ -73,13 +73,12 @@ layout: default
 
 * Yoonjae Jung <font size="1">(Undergrad, POSTECH CSE, 2024 winter - )</font>
 * Junho Choi <font size="1">(Undergrad, POSTECH CSE, 2024 winter - )</font>
-* Junha Choi <font size="1">(Undergrad, POSTECH CSE, 2024 winter - )</font>
 * Jaewoo Jeong <font size="1">(Undergrad, POSTECH CSE, 2024 winter - )</font>
 * Seungheon Hyun <font size="1">(Undergrad, POSTECH Math, 2024 spring - )</font>
 * Seonwoong Kim <font size="1">(Undergrad, POSTECH CSE, 2024 spring - )</font>
 * Minseok Kim <font size="1">(Undergrad, POSTECH CiTE, 2024 summer - )</font>
 * Jeongjin Shin <font size="1">(Undergrad, ACBS CS, 2024 summer - )</font>
-
+* Sangwon Park <font size="1">(Grad, GIST MS, 2024 summer - )</font> 
 
 ### Admin
 * Jiyoung Choi
@@ -98,3 +97,4 @@ layout: default
 * Daehwan Kim <font size="1">(Undergrad, POSTECH CiTE, 2024 spring - 2024 spring)</font>
 * Jaewan Choi <font size="1">(Undergrad, POSTECH CSE, 2024 winter -2024 spring )</font>
 * Dieu Linh <font size="1">(Undergrad, POSTECH CSE, 2024 spring - 2024 summer)</font>
+* Junha Choi <font size="1">(Undergrad, POSTECH CSE, 2024 winter - 2024 summer )</font>
