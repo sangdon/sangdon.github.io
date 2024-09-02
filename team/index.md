@@ -72,9 +72,7 @@ layout: default
 ### Undergraduate Interns
 
 * Yoonjae Jung <font size="1">(Undergrad, POSTECH CSE, 2024 winter - )</font>
-* Junho Choi <font size="1">(Undergrad, POSTECH CSE, 2024 winter - )</font>
 * Jaewoo Jeong <font size="1">(Undergrad, POSTECH CSE, 2024 winter - )</font>
-* Seungheon Hyun <font size="1">(Undergrad, POSTECH Math, 2024 spring - )</font>
 * Seonwoong Kim <font size="1">(Undergrad, POSTECH CSE, 2024 spring - )</font>
 * Minseok Kim <font size="1">(Undergrad, POSTECH CiTE, 2024 summer - )</font>
 * Jeongjin Shin <font size="1">(Undergrad, ACBS CS, 2024 summer - )</font>
@@ -96,5 +94,8 @@ layout: default
 * Byeonggyu Kim <font size="1">(Undergrad, POSTECH ME, 2023 fall - 2024 spring, POSTECH CSE MS)</font>
 * Daehwan Kim <font size="1">(Undergrad, POSTECH CiTE, 2024 spring - 2024 spring)</font>
 * Jaewan Choi <font size="1">(Undergrad, POSTECH CSE, 2024 winter -2024 spring )</font>
+* Junho Choi <font size="1">(Undergrad, POSTECH CSE, 2024 winter - 2024 spring)</font>
+* Seungheon Hyun <font size="1">(Undergrad, POSTECH Math, 2024 spring - 2024 spring)</font>
 * Dieu Linh <font size="1">(Undergrad, POSTECH CSE, 2024 spring - 2024 summer)</font>
 * Junha Choi <font size="1">(Undergrad, POSTECH CSE, 2024 winter - 2024 summer )</font>
+
