@@ -24,7 +24,7 @@ Kyungmin Kim (kkm959595@postech.ac.kr)
 | Date | Topic | 
 | --- | --- |
 |  [Week  1] 9/3   | [Trustworthy ML Introduction](./notes/0-intro.pdf) | 
-|  [Week  1] 9/5   | [Measure Theory: Introduction] |
+|  [Week  1] 9/5   | [Measure Theory: Introduction](.notes/1-theory-measure.pdf) |
 |  [Week  2] 9/10  | [Learning Theory: PAC learning](./notes/1-theory-pac.pdf) |
 |  [Week  2] 9/12  | [Learning Theory: Beyond PAC learning](./notes/1-theory-uc.pdf) |
 |  [Week  3] 9/17  | Korean Thanksgiving holiday |
