@@ -48,6 +48,7 @@ Kyungmin Kim (kkm959595@postech.ac.kr)
 | --- | --- |
 |  [Week 10] 11/7  | [Machine Unlearning: Classification](./notes/4-cul.pdf) |
 |  [Week 11] 11/12 | [Machine Unlearning: Generation] |
+| --- | --- |
 |  [Week 11] 11/14 | [Fairness in Learning: Foundation](./notes/6-fair1.pdf) |
 |  [Week 12] 11/19 | [Fairness in Learning: NLP Application] |
 | --- | --- |
