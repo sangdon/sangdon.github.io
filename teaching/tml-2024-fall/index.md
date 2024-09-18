@@ -8,7 +8,7 @@ As machine learning and deep learning models are impacting on real world environ
 
 ### Location
 
-B? Room ?
+TJ Park Lib. Room 501
 
 ### Instructor
 
