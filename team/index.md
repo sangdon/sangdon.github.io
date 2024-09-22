@@ -80,6 +80,7 @@ layout: default
 * Daehwan Kim <font size="1">(Undergrad, POSTECH CiTE, 2024 spring - )</font>
 * Jungi Hong <font size="1">(Undergrad, POSTECH CSE, 2024 fall - )</font>
 * Yoonsung Jung <font size="1">(Undergrad, POSTECH CiTE, 2024 fall - )</font>
+* Yinan Rao <font size="1">(Undergrad, Nanjing University, 2024 fall - )</font>
 
 
 ### Admin
