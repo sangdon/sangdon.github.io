@@ -9,8 +9,7 @@ layout: default
 
 > <i class="fa-solid fa-tree fa-flip"></i> **Selective Generation for Language Models** <br/>
 > Minjae Lee<sup>\*</sup>, Kyungmin Kim<sup>\*</sup>, Taesoo Kim, and <ins>Sangdon Park</ins> <font size="1">(<sup>*</sup> indicates equal contribution)</font> <br/>
-> *Neural Information Processing Systems* (**NeurIPS**) *2024* (to appear) <br/>
-
+> *Neural Information Processing Systems* (**NeurIPS**) *2024* -- **Spotlight** <br/>
 
 > <i class="fa-solid fa-tree"></i> **TRAQ: Trustworthy Retrieval Augmented Question Answering via Conformal Prediction** <br/>
 > Shuo Li, <ins>Sangdon Park</ins>, Insup Lee, Osbert Bastani <br/>
