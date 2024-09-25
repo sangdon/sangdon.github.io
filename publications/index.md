@@ -7,7 +7,12 @@ layout: default
 
 ### 2024
 
-> <i class="fa-solid fa-seedling"></i> **TRAQ: Trustworthy Retrieval Augmented Question Answering via Conformal Prediction** <br/>
+> <i class="fa-solid fa-tree fa-flip"></i> **Selective Generation for Language Models** <br/>
+> Minjae Lee<sup>\*</sup>, Kyungmin Kim<sup>\*</sup>, Taesoo Kim, and <ins>Sangdon Park</ins> <font size="1">(<sup>*</sup> indicates equal contribution)</font> <br/>
+> *Neural Information Processing Systems* (**NeurIPS**) *2024* (to appear) <br/>
+
+
+> <i class="fa-solid fa-tree"></i> **TRAQ: Trustworthy Retrieval Augmented Question Answering via Conformal Prediction** <br/>
 > Shuo Li, <ins>Sangdon Park</ins>, Insup Lee, Osbert Bastani <br/>
 > *North American Chapter of the Association for Computational Linguistics* (**NAACL**) *2024* <br/>
 > <i class="fa-solid fa-trophy"></i> **Best Paper Award** at ICML23 TEACH Workshop<br/>
@@ -27,25 +32,20 @@ layout: default
 
 ### 2023
 
-> <i class="fa-solid fa-seedling"></i> **PAC Neural Prediction Set Learning to Quantify the Uncertainty of Generative Language Models** <br/>
-> <ins>Sangdon Park</ins> and Taesoo Kim <br/>
-> *2023* <br/>
-> [[arXiv](https://arxiv.org/abs/2307.09254)]
-
-> <i class="fa-solid fa-tree"></i> **Angelic Patches for Improving Third-Party Object Detector Performance** <br/>
+> **Angelic Patches for Improving Third-Party Object Detector Performance** <br/>
 > Wenwen Si, Shuo Li, <ins>Sangdon Park</ins>, Insup Lee, and Osbert Bastani <br/>
 > *Computer Vision and Pattern Recognition* (**CVPR**) *2023* <br/>
 > [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Si_Angelic_Patches_for_Improving_Third-Party_Object_Detector_Performance_CVPR_2023_paper.pdf)]
 
 
-> <i class="fa-solid fa-tree"></i> **ACon&#178;: Adaptive Conformal Consensus for Provable Blockchain Oracles** <br/>
+> **ACon&#178;: Adaptive Conformal Consensus for Provable Blockchain Oracles** <br/>
 > <ins>Sangdon Park</ins>, Osbert Bastani, and Taesoo Kim <br/>
 > *USENIX Security Symposium* (**Security**) *2023* <br/>
 > [[arXiv](https://arxiv.org/abs/2211.09330)]
 > [[Paper](https://www.usenix.org/conference/usenixsecurity23/presentation/park)]
 > [[Code](https://github.com/sslab-gatech/ACon2)]
 
-> <i class="fa-solid fa-tree"></i> **CODiT: Conformal Out-of-distribution Detection in Time-series Data for Cyber-Physical Systems** <br/>
+> **CODiT: Conformal Out-of-distribution Detection in Time-series Data for Cyber-Physical Systems** <br/>
 > Ramneet Kaur, Kaustubh Sridhar, <ins>Sangdon Park</ins>, Yahan Yang, Susmit Jha, Anirban Roy, Oleg Sokolsky, and Insup Lee <br/>
 > *International Conference on Cyber-Physical Systems* (**ICCPS**) *2023* <br/>
 > <i class="fa-solid fa-trophy"></i> **Best Paper Award Finalist** <br/>
@@ -53,7 +53,7 @@ layout: default
 
 
 ### 2022 
-> <i class="fa-solid fa-seedling"></i> **Unsafe’s Betrayal: Abusing Unsafe Rust in Binary Reverse Engineering via Machine Learning** <br/>
+> **Unsafe’s Betrayal: Abusing Unsafe Rust in Binary Reverse Engineering via Machine Learning** <br/>
 > <ins>Sangdon Park</ins>, Xiang Cheng, and Taesoo Kim <br/>
 > 2022 <br/>
 > [[arXiv](https://arxiv.org/abs/2211.00111)]
