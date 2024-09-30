@@ -33,7 +33,7 @@ layout: default
 
   <div class="team-content">
     <img class="team-content-img" src="../assets/team/kyungmin.kim.jpg">
-    <p class="team-content-name"> Kyungmin Kim </p>
+    <p class="team-content-name"> Kyungmin Kim <a href="https://kmkim95.github.io/"><i class="fa-solid fa-house-chimney"></i></a> </p>
     <p class="team-content-deg"> AI MS+PhD </p>
     <p class="team-content-date"> 2024 spring </p>
   </div>
