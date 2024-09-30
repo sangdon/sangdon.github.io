@@ -52,7 +52,7 @@ layout: default
 
 
 ### 2022 
-> **Unsafe’s Betrayal: Abusing Unsafe Rust in Binary Reverse Engineering via Machine Learning** <br/>
+> <i class="fa-solid fa-seedling"></i> **Unsafe’s Betrayal: Abusing Unsafe Rust in Binary Reverse Engineering via Machine Learning** <br/>
 > <ins>Sangdon Park</ins>, Xiang Cheng, and Taesoo Kim <br/>
 > 2022 <br/>
 > [[arXiv](https://arxiv.org/abs/2211.00111)]
@@ -72,7 +72,7 @@ layout: default
 >[[paper](https://proceedings.mlr.press/v162/jang22a/jang22a.pdf)]
 
 
-> **Towards PAC Multi-Object Detection and Tracking** <br/>
+> <i class="fa-solid fa-seedling"></i> **Towards PAC Multi-Object Detection and Tracking** <br/>
 > Shuo Li, <ins>Sangdon Park</ins>, Xiayan Ji, Insup Lee, Osbert Bastani <br/>
 > *2022* <br/>
 > [[arXiv](https://arxiv.org/abs/2204.07482)]
