@@ -26,7 +26,7 @@ layout: default
 
   <div class="team-content">
     <img class="team-content-img" src="../assets/team/minjae.lee.jpg">
-    <p class="team-content-name"> Minjae Lee </p>
+    <p class="team-content-name"> Minjae Lee <a href="https://saemin21.github.io"><i class="fa-solid fa-house-chimney"></i></a> </p>
     <p class="team-content-deg"> AI MS+PhD </p>
     <p class="team-content-date"> 2024 spring </p>
   </div>
