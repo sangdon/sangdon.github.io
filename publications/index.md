@@ -7,6 +7,11 @@ layout: default
 
 ### 2024
 
+> <i class="fa-solid fa-seedling"></i> **Holistic Unlearning Benchmark: A Multi-Faceted Evaluation for Text-to-Image Diffusion Model Unlearning** <br/>
+> Saemi Moon, Minjong Lee, <ins>Sangdon Park</ins>, Dongwoo Kim <br/>
+> 2024 <br/>
+> [[arXiv](https://arxiv.org/abs/2410.05664)]
+
 > <i class="fa-solid fa-tree fa-flip"></i> **Selective Generation for Language Models** <br/>
 > Minjae Lee<sup>\*</sup>, Kyungmin Kim<sup>\*</sup>, Taesoo Kim, and <ins>Sangdon Park</ins> <font size="1">(<sup>*</sup> indicates equal contribution)</font> <br/>
 > *Neural Information Processing Systems* (**NeurIPS**) *2024* -- **Spotlight** <br/>
