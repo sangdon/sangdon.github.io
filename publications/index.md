@@ -8,7 +8,7 @@ layout: default
 ### 2024
 
 > <i class="fa-solid fa-seedling"></i> **Holistic Unlearning Benchmark: A Multi-Faceted Evaluation for Text-to-Image Diffusion Model Unlearning** <br/>
-> Saemi Moon, Minjong Lee, <ins>Sangdon Park</ins>, Dongwoo Kim <br/>
+> Saemi Moon<sup>\*</sup>, Minjong Lee<sup>\*</sup>, <ins>Sangdon Park</ins>, Dongwoo Kim <font size="1">(<sup>*</sup> indicates equal contribution)</font> <br/>
 > 2024 <br/>
 > [[arXiv](https://arxiv.org/abs/2410.05664)]
 
