@@ -27,6 +27,7 @@ layout: default
 > <i class="fa-solid fa-tree"></i> **MedBN: Robust Test Time Adaptation against Malicious Test Samples** <br/>
 > Hyejin Park, Jeongyeon Hwang, Sunung Mun, <ins>Sangdon Park</ins>, Jungseul Ok <br/>
 > *Computer Vision and Pattern Recognition* (**CVPR**) *2024* <br/>
+> [[arXiv](https://arxiv.org/abs/2403.19326)]
 
 
 > <i class="fa-solid fa-tree"></i> **PAC Prediction Sets Under Label Shift** <br/>
