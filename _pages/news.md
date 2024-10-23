@@ -10,7 +10,7 @@
 <i class="fa-solid fa-square-rss"></i> I give an invited talk at [Samsung Security Tech Forum 2024](https://research.samsung.com/sstf). <br/>
 <i class="fa-solid fa-square-rss"></i> We, POSTECH GSAI, provide a breakout session at [Responsible AI in the Military Domain (REAIM)](https://reaim2024.kr/) Summit. <br/>
 <i class="fa-solid fa-square-rss"></i> I give a talk at [National Statistics Development Forum](http://forumkostat.kr/). <br/>
-<i class="fa-solid fa-square-rss"></i> We, [Team Atlanta](https://team-atlanta.github.io/), advance to the [DARPA AIxCC](https://aicyberchallenge.com/) finals. <br/>
+<i class="fa-solid fa-square-rss"></i> We, [Team Atlanta](https://team-atlanta.github.io/), advance to the [DARPA AIxCC](https://aicyberchallenge.com/) finals with a $2M team award. <br/>
 <i class="fa-solid fa-square-rss"></i> I will serve as an area chair for NeurIPS 2024. <br/>
 <i class="fa-solid fa-square-rss"></i> TRAQ is accepted to NAACL24. <br/>
 <i class="fa-solid fa-square-rss"></i> MedBN is accepted to CVPR24. <br/>
