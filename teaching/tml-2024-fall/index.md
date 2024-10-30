@@ -36,7 +36,7 @@ Kyungmin Kim (kkm959595@postech.ac.kr)
 |  [Week  5] 10/3  | National Foundation Day |
 |  [Week  6] 10/8  | [Controllable Uncertainty Learning: PAC Conformal Prediction](./notes/2-paccp.pdf) |
 |  [Week  6] 10/10 | [Controllable Uncertainty Learning: Adaptive Conformal Prediction](./notes/2-acp.pdf) |
-|  [Week  7] 10/15 | [Controllable Uncertainty Learning: Selective Prediction] |
+|  [Week  7] 10/15 | [Controllable Uncertainty Learning: Selective Prediction](./notes/2-sp.pdf) |
 | --- | --- |
 |  [Week  7] 10/17 | [Adversarial Learning: Adversarial Examples, Prompts, and More]()   |
 |  [Week  8] 10/22 | [Adversarial Learning: Heuristic Adversarial Learning](./notes/3-ae.pdf) |
