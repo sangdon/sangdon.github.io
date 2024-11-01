@@ -23,6 +23,9 @@ layout: default
 > Minjae Lee<sup>\*</sup>, Kyungmin Kim<sup>\*</sup>, Taesoo Kim, and <ins>Sangdon Park</ins> <font size="1">(<sup>*</sup> indicates equal contribution)</font> <br/>
 > *Neural Information Processing Systems* (**NeurIPS**) *2024* <br/>
 > <i class="fa-solid fa-trophy"></i> **Spotlight paper** <br/>
+> [[Paper](https://openreview.net/forum?id=jHU3tpL5Of)]
+
+
 
 > <i class="fa-solid fa-tree"></i> **TRAQ: Trustworthy Retrieval Augmented Question Answering via Conformal Prediction** <br/>
 > Shuo Li, <ins>Sangdon Park</ins>, Insup Lee, and Osbert Bastani <br/>
