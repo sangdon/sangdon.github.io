@@ -7,31 +7,39 @@ layout: default
 
 ### 2024
 
+
+> <i class="fa-solid fa-seedling"></i> **Retrieval-Augmented Generation with Estimation of Source Reliability** <br/>
+> Jeongyeon Hwang, Junyoung Park, Hyejin Park, <ins>Sangdon Park</ins>, Jungseul Ok <br/>
+> 2024 <br/>
+> [[arXiv](https://arxiv.org/abs/2410.22954)]
+
+
 > <i class="fa-solid fa-seedling"></i> **Holistic Unlearning Benchmark: A Multi-Faceted Evaluation for Text-to-Image Diffusion Model Unlearning** <br/>
-> Saemi Moon<sup>\*</sup>, Minjong Lee<sup>\*</sup>, <ins>Sangdon Park</ins>, Dongwoo Kim <font size="1">(<sup>*</sup> indicates equal contribution)</font> <br/>
+> Saemi Moon<sup>\*</sup>, Minjong Lee<sup>\*</sup>, <ins>Sangdon Park</ins>, and Dongwoo Kim <font size="1">(<sup>*</sup> indicates equal contribution)</font> <br/>
 > 2024 <br/>
 > [[arXiv](https://arxiv.org/abs/2410.05664)]
 
-> <i class="fa-solid fa-tree"></i> **Selective Generation for Language Models** <br/>
+> <i class="fa-solid fa-tree"></i> **Selective Generation for Controllable Language Models** <br/>
 > Minjae Lee<sup>\*</sup>, Kyungmin Kim<sup>\*</sup>, Taesoo Kim, and <ins>Sangdon Park</ins> <font size="1">(<sup>*</sup> indicates equal contribution)</font> <br/>
 > *Neural Information Processing Systems* (**NeurIPS**) *2024* <br/>
 > <i class="fa-solid fa-trophy"></i> **Spotlight paper** <br/>
+> [[paper](https://arxiv.org/abs/2410.05664)]
 
 > <i class="fa-solid fa-tree"></i> **TRAQ: Trustworthy Retrieval Augmented Question Answering via Conformal Prediction** <br/>
-> Shuo Li, <ins>Sangdon Park</ins>, Insup Lee, Osbert Bastani <br/>
+> Shuo Li, <ins>Sangdon Park</ins>, Insup Lee, and Osbert Bastani <br/>
 > *North American Chapter of the Association for Computational Linguistics* (**NAACL**) *2024* <br/>
 > <i class="fa-solid fa-trophy"></i> **Best Paper Award** at ICML23 TEACH Workshop<br/>
 > [[arXiv](https://arxiv.org/abs/2307.04642)], [[ICML23 TEACH Workshop](https://sites.google.com/view/teach-icml-23/accepted-papers)]
 
 
 > <i class="fa-solid fa-tree"></i> **MedBN: Robust Test Time Adaptation against Malicious Test Samples** <br/>
-> Hyejin Park, Jeongyeon Hwang, Sunung Mun, <ins>Sangdon Park</ins>, Jungseul Ok <br/>
+> Hyejin Park, Jeongyeon Hwang, Sunung Mun, <ins>Sangdon Park</ins>, and Jungseul Ok <br/>
 > *Computer Vision and Pattern Recognition* (**CVPR**) *2024* <br/>
 > [[arXiv](https://arxiv.org/abs/2403.19326)]
 
 
 > <i class="fa-solid fa-tree"></i> **PAC Prediction Sets Under Label Shift** <br/>
-> Wenwen Si, <ins>Sangdon Park</ins>, Insup Lee, Edgar Dobriban, Osbert Bastani <br/>
+> Wenwen Si, <ins>Sangdon Park</ins>, Insup Lee, Edgar Dobriban, and Osbert Bastani <br/>
 > *International Conference on Learning Representations* (**ICLR**) *2024* <br/>
 > [[arXiv](https://arxiv.org/abs/2310.12964)]
 
