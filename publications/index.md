@@ -22,7 +22,7 @@ layout: default
 > <i class="fa-solid fa-tree"></i> **Selective Generation for Controllable Language Models** <br/>
 > Minjae Lee<sup>\*</sup>, Kyungmin Kim<sup>\*</sup>, Taesoo Kim, and <ins>Sangdon Park</ins> <font size="1">(<sup>*</sup> indicates equal contribution)</font> <br/>
 > *Neural Information Processing Systems* (**NeurIPS**) *2024* <br/>
-> <i class="fa-solid fa-trophy"></i> **Spotlight paper** <br/>
+> <i class="fa-solid fa-trophy"></i> **Spotlight Paper** <br/>
 > [[Paper](https://openreview.net/forum?id=jHU3tpL5Of)]
 
 
