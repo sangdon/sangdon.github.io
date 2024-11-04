@@ -39,7 +39,7 @@ Kyungmin Kim (kkm959595@postech.ac.kr)
 |  [Week  7] 10/15 | [Controllable Uncertainty Learning: Adaptive Conformal Prediction](./notes/2-acp.pdf) |
 |  [Week  7] 10/17 | [Controllable Uncertainty Learning: Selective Prediction](./notes/2-sp.pdf) |
 | --- | --- |
-|  [Week  8] 10/22 | [Adversarial Learning: Adversarial Examples and Heuristic Adversarial Learning](./notes/3-ae.pdf) |
+|  [Week  8] 10/22 | [Adversarial Learning: Adversarial Examples and Learning](./notes/3-ae.pdf) |
 |  [Week  8] 10/24 | [Adversarial Learning: Certified Adversarial Learning](./notes/3-cert.pdf) * |
 | --- | --- |
 |  [Week  9] 10/29 | [Differential Privacy: Basics](./notes/5-dp1.pdf) |
