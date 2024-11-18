@@ -45,8 +45,8 @@ Kyungmin Kim (kkm959595@postech.ac.kr)
 |  [Week  9] 10/29 | [Differential Privacy: Basics](./notes/5-dp1.pdf) |
 |  [Week  9] 10/31 | [Differential Privacy: Practice](./notes/5-dp2.pdf) |
 | --- | --- |
-|  [Week 10] 11/5  | [Machine Unlearning: Classification](./notes/4-cul.pdf) |
-|  [Week 10] 11/7  | [Machine Unlearning: Generation] |
+|  [Week 10] 11/5  | [Machine Unlearning: Linear Models](./notes/4-cul.pdf) |
+|  [Week 10] 11/7  | [Machine Unlearning: Deep Models] |
 | --- | --- |
 |  [Week 11] 11/12 | [Fairness in Learning: Foundation](./notes/6-fair1.pdf) |
 |  [Week 11] 11/14 | [Fairness in Learning: NLP Application] |
