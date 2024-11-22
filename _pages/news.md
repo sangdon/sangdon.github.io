@@ -6,6 +6,7 @@
 <i class="fa fa-spinner fa-pulse fa-1x fa-fw"></i> For POSTECH undergraduate research (intern/CSED399/CSED499), please check out [here](./team)! <br/>
 <br/>
 
+<i class="fa-solid fa-square-rss"></i> I will serve as an area chair for ICML 2025. <br/>
 <i class="fa-solid fa-square-rss fa-flip"></i> Selective Generation is accepted to NeurIPS24 (spotlight). <br/>
 <i class="fa-solid fa-square-rss"></i> I give an invited talk at [Samsung Security Tech Forum 2024](https://research.samsung.com/sstf). <br/>
 <i class="fa-solid fa-square-rss"></i> We, POSTECH GSAI, provide a breakout session at [Responsible AI in the Military Domain (REAIM)](https://reaim2024.kr/) Summit. <br/>
