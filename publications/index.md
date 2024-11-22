@@ -23,7 +23,9 @@ layout: default
 > Minjae Lee<sup>\*</sup>, Kyungmin Kim<sup>\*</sup>, Taesoo Kim, and <ins>Sangdon Park</ins> <font size="1">(<sup>*</sup> indicates equal contribution)</font> <br/>
 > *Neural Information Processing Systems* (**NeurIPS**) *2024* <br/>
 > <i class="fa-solid fa-trophy"></i> **Spotlight Paper** (top 2.08%) <br/>
+> [[arXiv](https://arxiv.org/abs/2307.09254)]
 > [[Paper](https://openreview.net/forum?id=jHU3tpL5Of)]
+
 
 
 
