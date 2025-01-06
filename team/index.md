@@ -61,7 +61,7 @@ layout: default
 
   <div class="team-content">
     <img class="team-content-img" src="../assets/team/byeonggyu.kim.jpg">
-    <p class="team-content-name"> Byeonggyu Kim </p>
+    <p class="team-content-name"> Byeonggyu Kim <a href="https://byeonggyu-kim.github.io"><i class="fa-solid fa-house-chimney"></i></a> </p>
     <p class="team-content-deg"> CSE MS </p>
     <p class="team-content-date"> 2024 fall </p>
   </div>
