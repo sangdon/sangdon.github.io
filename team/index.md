@@ -85,20 +85,27 @@ layout: default
 
 ## Alumni
 
-* Minjae Lee <font size="1">(Undergrad, POSTECH CSE, 2023 summer - 2024 winter, POSTECH AI MS+PhD)</font>
-* Minjae Gwon <font size="1">(Undergrad, POSTECH CSE, 2023 fall - 2024 winter, POSTECH CSE MS)</font>
-* Junseok Lee <font size="1">(Undergrad, POSTECH CSE, 2023 fall)</font>
-* Junseok Kim <font size="1">(Undergrad, POSTECH CiTE, 2023 fall - 2024 winter)</font>
-* Wongi Lee <font size="1">(Undergrad, POSTECH CSE, 2023 fall - 2024 winter)</font>
-* Chiheon Kim <font size="1">(Undergrad, POSTECH CSE,  2023 fall - 2024 spring )</font>
-* Byungjun Yoon <font size="1">(Undergrad, POSTECH CSE,  2023 fall - 2024 spring)</font>
-* Byeonggyu Kim <font size="1">(Undergrad, POSTECH ME, 2023 fall - 2024 spring, POSTECH CSE MS)</font>
-* Jaewan Choi <font size="1">(Undergrad, POSTECH CSE, 2024 winter -2024 spring )</font>
-* Junho Choi <font size="1">(Undergrad, POSTECH CSE, 2024 winter - 2024 spring)</font>
-* Seungheon Hyun <font size="1">(Undergrad, POSTECH Math, 2024 spring - 2024 spring)</font>
-* Dieu Linh <font size="1">(Undergrad, POSTECH CSE, 2024 spring - 2024 summer)</font>
-* Junha Choi <font size="1">(Undergrad, POSTECH CSE, 2024 winter - 2024 summer )</font>
-* Seonwoong Kim <font size="1">(Undergrad, POSTECH CSE, 2024 spring - 2024 fall)</font>
-* Daehwan Kim <font size="1">(Undergrad, POSTECH CiTE, 2024 spring - 2024 fall)</font>
-* Jungi Hong <font size="1">(Undergrad, POSTECH CSE, 2024 fall - 2024 fall)</font>
+### PhD
 
+
+<details>
+  <summary><strong><font size="4">Undergraduate Interns</font></strong></summary>
+  <ul>
+  <li> Minjae Lee <font size="1">(Undergrad, POSTECH CSE, 2023 summer - 2024 winter, POSTECH AI MS+PhD)</font> </li>
+  <li> Minjae Gwon <font size="1">(Undergrad, POSTECH CSE, 2023 fall - 2024 winter, POSTECH CSE MS)</font> </li>
+  <li> Junseok Lee <font size="1">(Undergrad, POSTECH CSE, 2023 fall)</font> </li>
+  <li> Junseok Kim <font size="1">(Undergrad, POSTECH CiTE, 2023 fall - 2024 winter)</font> </li>
+  <li> Wongi Lee <font size="1">(Undergrad, POSTECH CSE, 2023 fall - 2024 winter)</font> </li>
+  <li> Chiheon Kim <font size="1">(Undergrad, POSTECH CSE,  2023 fall - 2024 spring )</font> </li>
+  <li> Byungjun Yoon <font size="1">(Undergrad, POSTECH CSE,  2023 fall - 2024 spring)</font> </li>
+  <li> Byeonggyu Kim <font size="1">(Undergrad, POSTECH ME, 2023 fall - 2024 spring, POSTECH CSE MS)</font> </li>
+  <li> Jaewan Choi <font size="1">(Undergrad, POSTECH CSE, 2024 winter -2024 spring )</font> </li>
+  <li> Junho Choi <font size="1">(Undergrad, POSTECH CSE, 2024 winter - 2024 spring)</font> </li>
+  <li> Seungheon Hyun <font size="1">(Undergrad, POSTECH Math, 2024 spring - 2024 spring)</font> </li>
+  <li> Dieu Linh <font size="1">(Undergrad, POSTECH CSE, 2024 spring - 2024 summer)</font> </li>
+  <li> Junha Choi <font size="1">(Undergrad, POSTECH CSE, 2024 winter - 2024 summer )</font> </li>
+  <li> Seonwoong Kim <font size="1">(Undergrad, POSTECH CSE, 2024 spring - 2024 fall)</font> </li>
+  <li> Daehwan Kim <font size="1">(Undergrad, POSTECH CiTE, 2024 spring - 2024 fall)</font> </li>
+  <li> Jungi Hong <font size="1">(Undergrad, POSTECH CSE, 2024 fall - 2024 fall)</font> </li>
+  </ul>
+</details>
