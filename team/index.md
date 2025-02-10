@@ -75,7 +75,7 @@ layout: default
 
   <div class="team-content">
     <img class="team-content-img" src="../assets/team/freshman.png">
-    <p class="team-content-name"> Jaewoo Jeong  </p>
+    <p class="team-content-name"> Jaewoo Jeong <a href="https://jeongjjw.github.io"><i class="fa-solid fa-house-chimney"></i></a> </p>
     <p class="team-content-deg"> CSE MS </p>
     <p class="team-content-date"> 2025 Spring </p>
   </div>
