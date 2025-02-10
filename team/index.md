@@ -39,7 +39,7 @@ layout: default
   </div>
 
   <div class="team-content">
-    <img class="team-content-img" src="../assets/team/Junyoung.yang.png">
+    <img class="team-content-img" src="../assets/team/junyoung.yang.png">
     <p class="team-content-name"> Junyoung Yang </p>
     <p class="team-content-deg">CSE MS+PhD </p>
     <p class="team-content-date"> 2025 Spring </p>
