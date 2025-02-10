@@ -28,23 +28,30 @@ layout: default
     <img class="team-content-img" src="../assets/team/minjae.lee.jpg">
     <p class="team-content-name"> Minjae Lee <a href="https://saemin21.github.io"><i class="fa-solid fa-house-chimney"></i></a> </p>
     <p class="team-content-deg"> AI MS+PhD </p>
-    <p class="team-content-date"> 2024 spring </p>
+    <p class="team-content-date"> 2024 Spring </p>
   </div>
 
   <div class="team-content">
     <img class="team-content-img" src="../assets/team/kyungmin.kim.jpg">
     <p class="team-content-name"> Kyungmin Kim <a href="https://kmkim95.github.io/"><i class="fa-solid fa-house-chimney"></i></a> </p>
     <p class="team-content-deg"> AI MS+PhD </p>
-    <p class="team-content-date"> 2024 spring </p>
+    <p class="team-content-date"> 2024 Spring </p>
   </div>
 
   <div class="team-content">
-    <img class="team-content-img" src="../assets/team/namgyu.park.jpg">
-    <p class="team-content-name"> Namgyu Park </p>
+    <img class="team-content-img" src="../assets/team/Junyoung.yang.png">
+    <p class="team-content-name"> Junyoung Yang </p>
     <p class="team-content-deg">CSE MS+PhD </p>
-    <p class="team-content-date"> 2024 spring </p>
-    <p class="team-content-note"> co-advised with Jong Kim </p>
+    <p class="team-content-date"> 2025 Spring </p>
   </div>
+
+  <div class="team-content">
+    <img class="team-content-img" src="../assets/team/freshman.png">
+    <p class="team-content-name"> Sangwon Park </p>
+    <p class="team-content-deg">AI PhD </p>
+    <p class="team-content-date"> 2025 Spring </p>
+  </div>
+
 </div>
     
 
@@ -56,14 +63,21 @@ layout: default
     <img class="team-content-img" src="../assets/team/minjae.gwon.png">
     <p class="team-content-name"> Minjae Gwon <a href="https://bxta.kr"><i class="fa-solid fa-house-chimney"></i></a> </p>
     <p class="team-content-deg"> CSE MS </p>
-    <p class="team-content-date"> 2024 spring </p>
+    <p class="team-content-date"> 2024 Spring </p>
   </div>
 
   <div class="team-content">
     <img class="team-content-img" src="../assets/team/byeonggyu.kim.jpg">
     <p class="team-content-name"> Byeonggyu Kim <a href="https://byeonggyu-kim.github.io"><i class="fa-solid fa-house-chimney"></i></a> </p>
     <p class="team-content-deg"> CSE MS </p>
-    <p class="team-content-date"> 2024 fall </p>
+    <p class="team-content-date"> 2024 Fall </p>
+  </div>
+
+  <div class="team-content">
+    <img class="team-content-img" src="../assets/team/freshman.png">
+    <p class="team-content-name"> Jaewoo Jeong  </p>
+    <p class="team-content-deg"> CSE MS </p>
+    <p class="team-content-date"> 2025 Spring </p>
   </div>
 
 </div>
@@ -72,11 +86,8 @@ layout: default
 ### Undergraduate Interns
 
 * Yoonjae Jung <font size="1">(Undergrad, POSTECH CSE, 2024 winter - )</font>
-* Jaewoo Jeong <font size="1">(Undergrad, POSTECH CSE, 2024 winter - )</font>
 * Minseok Kim <font size="1">(Undergrad, POSTECH CiTE, 2024 summer - )</font>
 * Jeongjin Shin <font size="1">(Undergrad, ACBS CS, 2024 summer - )</font>
-* Sangwon Park <font size="1">(Grad, GIST MS, 2024 summer - )</font> 
-* Yoonsung Jung <font size="1">(Undergrad, POSTECH CiTE, 2024 fall - )</font>
 * Jaewan Choi <font size="1">(Undergrad, POSTECH CSE, 2025 winter - )</font>
 
 ### Admin
@@ -87,6 +98,16 @@ layout: default
 
 ### PhD
 
+<div class="team-item">
+  <div class="team-content">
+    <img class="team-content-img" src="../assets/team/namgyu.park.jpg">
+    <p class="team-content-name"> Namgyu Park </p>
+    <p class="team-content-job"> Samsung </p>
+    <p class="team-content-note"> co-advised with Jong Kim </p>
+  </div>
+</div>
+
+<br>
 
 <details>
   <summary><strong><font size="4">Undergraduate Interns</font></strong></summary>
@@ -107,5 +128,8 @@ layout: default
   <li> Seonwoong Kim <font size="1">(Undergrad, POSTECH CSE, 2024 spring - 2024 fall)</font> </li>
   <li> Daehwan Kim <font size="1">(Undergrad, POSTECH CiTE, 2024 spring - 2024 fall)</font> </li>
   <li> Jungi Hong <font size="1">(Undergrad, POSTECH CSE, 2024 fall - 2024 fall)</font> </li>
+  <li> Yoonsung Jung <font size="1">(Undergrad, POSTECH CiTE, 2024 fall - 2024 fall)</font> </li>
+  <li> Jaewoo Jeong <font size="1">(Undergrad, POSTECH CSE, 2024 winter - 2025 winter, POSTECH CSE MS)</font> </li>
+  <li> Sangwon Park <font size="1">(Grad, GIST MS, 2024 summer - 2025 winter, POSTECH AI PhD)</font> </li>
   </ul>
 </details>
