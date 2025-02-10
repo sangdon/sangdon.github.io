@@ -77,7 +77,7 @@ layout: default
 * Jeongjin Shin <font size="1">(Undergrad, ACBS CS, 2024 summer - )</font>
 * Sangwon Park <font size="1">(Grad, GIST MS, 2024 summer - )</font> 
 * Yoonsung Jung <font size="1">(Undergrad, POSTECH CiTE, 2024 fall - )</font>
-
+* Jaewan Choi <font size="1">(Undergrad, POSTECH CSE, 2025 winter - )</font>
 
 ### Admin
 * Jiyoung Choi
