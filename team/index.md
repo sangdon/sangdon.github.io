@@ -46,7 +46,7 @@ layout: default
   </div>
 
   <div class="team-content">
-    <img class="team-content-img" src="../assets/team/freshman.png">
+    <img class="team-content-img" src="../assets/team/sangwon.park.jpg">
     <p class="team-content-name"> Sangwon Park </p>
     <p class="team-content-deg">AI PhD </p>
     <p class="team-content-date"> 2025 Spring </p>
