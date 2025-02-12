@@ -23,7 +23,8 @@ Assistant Professor <br/>
 [Machine Learning Lab](https://ml.postech.ac.kr) (ML Lab) <br/> 
 [National AI Research Lab](https://nairl.kr/) <br/>
 [Global AI Frontier Lab](https://www.nyu.edu/research/research-centers-and-institutes/global-ai-frontier-lab.html) <br/>
-[Computer Security Lab -- Adjunct](https://compsec.postech.ac.kr/)  <br/> 
+[Team Atlanta](https://team-atlanta.github.io/) <br/>
+[Computer Security Lab](https://compsec.postech.ac.kr/) <br/> 
 [Computer Science and Engineering](https://ecse.postech.ac.kr/) (CSE) <br/>
 [Graduate School of Artificial Intelligence](https://ai.postech.ac.kr/) (GSAI) <br/>
 [POSTECH](https://postech.ac.kr/eng/)<br/>
