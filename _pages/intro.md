@@ -25,8 +25,8 @@ Assistant Professor <br/>
 [Global AI Frontier Lab](https://www.nyu.edu/research/research-centers-and-institutes/global-ai-frontier-lab.html) <br/>
 [Team Atlanta](https://team-atlanta.github.io/) <br/>
 [Computer Security Lab](https://compsec.postech.ac.kr/) <br/> 
-[Computer Science and Engineering](https://ecse.postech.ac.kr/) (CSE) <br/>
 [Graduate School of Artificial Intelligence](https://ai.postech.ac.kr/) (GSAI) <br/>
+[Computer Science and Engineering](https://ecse.postech.ac.kr/) (CSE) <br/>
 [POSTECH](https://postech.ac.kr/eng/)<br/>
 **Research Interests**: Trustworthy AI/ML and Computer Security
 
