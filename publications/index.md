@@ -5,7 +5,7 @@ layout: default
 # Publication
 
 
-### 2024
+## 2024
 
 
 > <i class="fa-solid fa-seedling"></i> **Retrieval-Augmented Generation with Estimation of Source Reliability** <br/>
@@ -52,7 +52,7 @@ layout: default
 
 
 
-### 2023
+## 2023
 
 > **Angelic Patches for Improving Third-Party Object Detector Performance** <br/>
 > Wenwen Si, Shuo Li, <ins>Sangdon Park</ins>, Insup Lee, and Osbert Bastani <br/>
@@ -74,7 +74,7 @@ layout: default
 > [[paper](https://doi.acm.org?doi=3576841.3585931)] <br/>
 
 
-### 2022 
+## 2022 
 > <i class="fa-solid fa-seedling"></i> **Unsafe’s Betrayal: Abusing Unsafe Rust in Binary Reverse Engineering via Machine Learning** <br/>
 > <ins>Sangdon Park</ins>, Xiang Cheng, and Taesoo Kim <br/>
 > 2022 <br/>
@@ -114,7 +114,7 @@ layout: default
 > [[arXiv](https://arxiv.org/pdf/2201.02331.pdf)]
 > [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20670)]
 
-### 2021
+## 2021
 
 > <i class="fa-solid fa-graduation-cap"></i> **Uncertainty Estimation Toward Safe AI** <br/>
 > PhD thesis, UPenn, Aug. 2021  <br/>
@@ -128,7 +128,7 @@ layout: default
 > [Code]
 > [[Video](https://iclr.cc/virtual/2021/poster/3264)]
 
-### 2020 and before
+## 2020 and before
 
 > **Calibrated Predictions with Covariate Shift via Unsupervised Domain Adaptation** <br/>
 > <ins>Sangdon Park</ins>, Osbert Bastani, James Weimer, and Insup Lee <br/>
