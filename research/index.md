@@ -17,7 +17,7 @@ In particular, I'm currently interested in the following questions but very open
 > LMMs confidently generate wrong information, which undermines the trust of LLMs as a knowledge base.
 > How to mitigate this?
 > One way could be leveraging conformal prediction to measure uncertainty as a basis for trust
-> (e.g., [[arXiv23](https://arxiv.org/abs/2307.09254)]).
+> (e.g., [[NeurIPS24](https://arxiv.org/abs/2307.09254)]).
 > What other possibilities?
 > <br/>
 > **Keywords**: `uncertainty quantification`, `conformal prediction`, `LLMs` <br/>
@@ -29,7 +29,7 @@ In particular, I'm currently interested in the following questions but very open
 > [arXiv22](https://arxiv.org/abs/2204.07482),
 > [NeurIPS22](https://openreview.net/forum?id=s6ygs1UCOw1),
 > [Security23](https://www.usenix.org/conference/usenixsecurity23/presentation/park),
-> [arXiv23](https://arxiv.org/abs/2307.09254)
+> [NeurIPS24](https://arxiv.org/abs/2307.09254)
 
 > <i class="fa-solid fa-circle-question"></i> **Can we discover and unlearn security and privacy issues in LLMs?**
 > <br/>
@@ -69,6 +69,6 @@ In particular, I'm currently interested in the following questions but very open
 > [arXiv22](https://arxiv.org/abs/2204.07482),
 > [NeurIPS22](https://openreview.net/forum?id=s6ygs1UCOw1),
 > [Security23](https://www.usenix.org/conference/usenixsecurity23/presentation/park),
-> [arXiv23](https://arxiv.org/abs/2307.09254)
+> [NeurIPS24](https://arxiv.org/abs/2307.09254)
 
 
