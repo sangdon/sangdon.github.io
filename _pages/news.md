@@ -6,6 +6,7 @@
 <i class="fa fa-spinner fa-pulse fa-1x fa-fw"></i> For POSTECH undergraduate research (intern/CSED399/CSED499), please check out [here](./team)! <br/>
 <br/>
 **2025** <br/>
+<i class="fa-solid fa-square-rss"></i> I will serve as an area chair for NeurIPS 2025. <br/>
 <i class="fa-solid fa-square-rss"></i> [Selective Generation](https://openreview.net/forum?id=glfYOAzh2f) got the Best Paper Award from POSTECH GSAI BK21. <br/>
 <i class="fa-solid fa-square-rss"></i> I will serve as an area chair for ICML 2025. <br/>
 <br/> **2024** <br/>
