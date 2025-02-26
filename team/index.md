@@ -89,6 +89,10 @@ layout: default
 * Minseok Kim <font size="1">(Undergrad, POSTECH CiTE, 2024 summer - )</font>
 * Jeongjin Shin <font size="1">(Undergrad, ACBS CS, 2024 summer - )</font>
 * Jaewan Choi <font size="1">(Undergrad, POSTECH CSE, 2025 winter - )</font>
+* Youngin Jang <font size="1">(Undergrad, POSTECH CSE, 2025 spring - )</font>
+* Jun Young Park <font size="1">(Undergrad, POSTECH CSE, 2025 spring - )</font>
+
+
 
 ### Admin
 * Jiyoung Choi
