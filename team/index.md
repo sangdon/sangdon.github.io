@@ -87,7 +87,6 @@ layout: default
 
 * Yoonjae Jung <font size="1">(Undergrad, POSTECH CSE, 2024 winter - )</font>
 * Minseok Kim <font size="1">(Undergrad, POSTECH CiTE, 2024 summer - )</font>
-* Jeongjin Shin <font size="1">(Undergrad, ACBS CS, 2024 summer - )</font>
 * Jaewan Choi <font size="1">(Undergrad, POSTECH CSE, 2025 winter - )</font>
 * Youngin Jang <font size="1">(Undergrad, POSTECH CSE, 2025 spring - )</font>
 * Jun Young Park <font size="1">(Undergrad, POSTECH CSE, 2025 spring - )</font>
@@ -135,5 +134,6 @@ layout: default
   <li> Yoonsung Jung <font size="1">(Undergrad, POSTECH CiTE, 2024 fall - 2024 fall)</font> </li>
   <li> Jaewoo Jeong <font size="1">(Undergrad, POSTECH CSE, 2024 winter - 2025 winter, POSTECH CSE MS)</font> </li>
   <li> Sangwon Park <font size="1">(Grad, GIST MS, 2024 summer - 2025 winter, POSTECH AI PhD)</font> </li>
+  <li> Jeongjin Shin <font size="1">(Undergrad, ACBS CS, 2024 summer - 2025 winter)</font>  </li>
   </ul>
 </details>
