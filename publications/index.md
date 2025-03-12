@@ -18,6 +18,7 @@ layout: default
 > Saemi Moon<sup>\*</sup>, Minjong Lee<sup>\*</sup>, <ins>Sangdon Park</ins>, and Dongwoo Kim <font size="1">(<sup>*</sup> indicates equal contribution)</font> <br/>
 > 2024 <br/>
 > [[arXiv](https://arxiv.org/abs/2410.05664)]
+> [[Project](https://saemi410.github.io/HUB/)]
 
 > <i class="fa-solid fa-tree"></i> **Selective Generation for Controllable Language Models** <br/>
 > Minjae Lee<sup>\*</sup>, Kyungmin Kim<sup>\*</sup>, Taesoo Kim, and <ins>Sangdon Park</ins> <font size="1">(<sup>*</sup> indicates equal contribution)</font> <br/>
