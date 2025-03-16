@@ -90,7 +90,9 @@ layout: default
 * Jaewan Choi <font size="1">(Undergrad, POSTECH CSE, 2025 winter - )</font>
 * Youngin Jang <font size="1">(Undergrad, POSTECH CSE, 2025 spring - )</font>
 * Jun Young Park <font size="1">(Undergrad, POSTECH CSE, 2025 spring - )</font>
+* Dongeun Ha <font size="1">(Undergrad, POSTECH CSE, 2025 spring - )</font>
 * Jemin Jeon <font size="1">(Undergrad, POSTECH CSE, 2025 spring - )</font>
+
 
 
 ### Admin
