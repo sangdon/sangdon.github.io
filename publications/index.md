@@ -4,6 +4,13 @@ layout: default
 
 # Publication
 
+## 2025
+
+> <i class="fa-solid fa-tree"></i> **SOUNDBOOST: Effective RCA and Attack Detection for UAV via Acoustic Side-Channel** <br/>
+> Haoran Wang, Zheng Yang, <ins>Sangdon Park</ins>, Yibin Yang, Seulbae Kim, Willian Lunardi, Martin Andreoni, Taesoo Kim, and Wenke Lee <br/>
+> *International Conference on Dependable Systems and Networks* (**DSN**) *2025* <br/>
+> [paper (to appear)]
+
 
 ## 2024
 
@@ -20,7 +27,7 @@ layout: default
 > [[arXiv](https://arxiv.org/abs/2410.05664)]
 > [[Project](https://saemi410.github.io/HUB/)]
 
-> <i class="fa-solid fa-tree"></i> **Selective Generation for Controllable Language Models** <br/>
+> **Selective Generation for Controllable Language Models** <br/>
 > Minjae Lee<sup>\*</sup>, Kyungmin Kim<sup>\*</sup>, Taesoo Kim, and <ins>Sangdon Park</ins> <font size="1">(<sup>*</sup> indicates equal contribution)</font> <br/>
 > *Neural Information Processing Systems* (**NeurIPS**) *2024* <br/>
 > <i class="fa-solid fa-trophy"></i> **Spotlight Paper** (top 2.08%) <br/>
@@ -30,20 +37,20 @@ layout: default
 
 
 
-> <i class="fa-solid fa-tree"></i> **TRAQ: Trustworthy Retrieval Augmented Question Answering via Conformal Prediction** <br/>
+> **TRAQ: Trustworthy Retrieval Augmented Question Answering via Conformal Prediction** <br/>
 > Shuo Li, <ins>Sangdon Park</ins>, Insup Lee, and Osbert Bastani <br/>
 > *North American Chapter of the Association for Computational Linguistics* (**NAACL**) *2024* <br/>
 > <i class="fa-solid fa-trophy"></i> **Best Paper Award** at ICML23 TEACH Workshop<br/>
 > [[arXiv](https://arxiv.org/abs/2307.04642)], [[ICML23 TEACH Workshop](https://sites.google.com/view/teach-icml-23/accepted-papers)]
 
 
-> <i class="fa-solid fa-tree"></i> **MedBN: Robust Test Time Adaptation against Malicious Test Samples** <br/>
+> **MedBN: Robust Test Time Adaptation against Malicious Test Samples** <br/>
 > Hyejin Park, Jeongyeon Hwang, Sunung Mun, <ins>Sangdon Park</ins>, and Jungseul Ok <br/>
 > *Computer Vision and Pattern Recognition* (**CVPR**) *2024* <br/>
 > [[arXiv](https://arxiv.org/abs/2403.19326)]
 
 
-> <i class="fa-solid fa-tree"></i> **PAC Prediction Sets Under Label Shift** <br/>
+> **PAC Prediction Sets Under Label Shift** <br/>
 > Wenwen Si, <ins>Sangdon Park</ins>, Insup Lee, Edgar Dobriban, and Osbert Bastani <br/>
 > *International Conference on Learning Representations* (**ICLR**) *2024* <br/>
 > [[arXiv](https://arxiv.org/abs/2310.12964)]
