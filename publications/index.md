@@ -9,7 +9,7 @@ layout: default
 > <i class="fa-solid fa-tree"></i> **SOUNDBOOST: Effective RCA and Attack Detection for UAV via Acoustic Side-Channel** <br/>
 > Haoran Wang, Zheng Yang, <ins>Sangdon Park</ins>, Yibin Yang, Seulbae Kim, Willian Lunardi, Martin Andreoni, Taesoo Kim, and Wenke Lee <br/>
 > *International Conference on Dependable Systems and Networks* (**DSN**) *2025* <br/>
-> [paper (to appear)]
+> [Paper (to appear)]
 
 
 ## 2024
