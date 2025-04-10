@@ -33,6 +33,8 @@ layout: default
 > <i class="fa-solid fa-trophy"></i> **Spotlight Paper** (top 2.08%) <br/>
 > [[arXiv](https://arxiv.org/abs/2307.09254)]
 > [[Paper](https://openreview.net/forum?id=glfYOAzh2f)]
+> [[Slide](https://neurips.cc/media/neurips-2024/Slides/94121.pdf)]
+> [[Video](https://neurips.cc/virtual/2024/poster/94121)]
 
 
 
