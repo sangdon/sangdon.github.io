@@ -6,6 +6,12 @@ layout: default
 
 ## 2025
 
+> <i class="fa-solid fa-seedling"></i> **Selective Code Generation for Functional Guarantees** <br/>
+> Jaewoo Jeong, Taesoo Kim, <ins>Sangdon Park</ins> <br/>
+> 2025 <br/>
+> [[arXiv](http://arxiv.org/abs/2505.13553)]
+
+
 > <i class="fa-solid fa-tree"></i> **SOUNDBOOST: Effective RCA and Attack Detection for UAV via Acoustic Side-Channel** <br/>
 > Haoran Wang, Zheng Yang, <ins>Sangdon Park</ins>, Yibin Yang, Seulbae Kim, Willian Lunardi, Martin Andreoni, Taesoo Kim, and Wenke Lee <br/>
 > *International Conference on Dependable Systems and Networks* (**DSN**) *2025* <br/>
@@ -35,8 +41,6 @@ layout: default
 > [[Paper](https://openreview.net/forum?id=glfYOAzh2f)]
 > [[Slide](https://neurips.cc/media/neurips-2024/Slides/94121.pdf)]
 > [[Video](https://neurips.cc/virtual/2024/poster/94121)]
-
-
 
 
 > **TRAQ: Trustworthy Retrieval Augmented Question Answering via Conformal Prediction** <br/>
