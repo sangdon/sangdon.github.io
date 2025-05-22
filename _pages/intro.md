@@ -9,7 +9,7 @@
 	<a href="https://orcid.org/0000-0002-9184-5652"><i class="ai ai-orcid-square"></i></a>
 	<a href="https://github.com/sangdon"><i class="fa-brands fa-github"></i></a>    
 	<a href="https://twitter.com/sangdon_ml"><i class="fa-brands fa-twitter"></i></a>    
-	<a href="https://sangdon.github.io/assets/cv.pdf"><i class="ai ai-cv-square ai-1x"></i></a>
+	<a href="https://sangdon.github.io/assets/CV.pdf"><i class="ai ai-cv-square ai-1x"></i></a>
     </span>
 </div>
 </h1>
