@@ -80,6 +80,15 @@ layout: default
     <p class="team-content-date"> 2025 Spring </p>
   </div>
 
+  <div class="team-content">
+    <img class="team-content-img" src="../assets/team/minseok.kim.jpg">
+    <p class="team-content-name"> Minseok Kim <a href="https://bigmbigk.github.io"><i class="fa-solid fa-house-chimney"></i></a> </p>
+    <p class="team-content-deg"> CSE MS </p>
+    <p class="team-content-date"> 2025 Fall </p>
+  </div>
+
+
+
 </div>
 
 
