@@ -6,6 +6,12 @@ layout: default
 
 ## 2025
 
+> <i class="fa-solid fa-seedling"></i> **A Regret Perspective on Online Selective Generation** <br/>
+> Minjae Lee, Yoonjae Jung, <ins>Sangdon Park</ins> <br/>
+> 2025 <br/>
+> [[arXiv](https://arxiv.org/abs/2506.14067)]
+
+
 > <i class="fa-solid fa-seedling"></i> **Selective Code Generation for Functional Guarantees** <br/>
 > Jaewoo Jeong, Taesoo Kim, <ins>Sangdon Park</ins> <br/>
 > 2025 <br/>
