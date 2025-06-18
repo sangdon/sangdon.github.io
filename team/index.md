@@ -95,7 +95,6 @@ layout: default
 ### Undergraduate Interns
 
 * Yoonjae Jung <font size="1">(Undergrad, POSTECH CSE, 2024 winter - )</font>
-* Minseok Kim <font size="1">(Undergrad, POSTECH CiTE, 2024 summer - )</font>
 * Jaewan Choi <font size="1">(Undergrad, POSTECH CSE, 2025 winter - )</font>
 * Jun Young Park <font size="1">(Undergrad, POSTECH CSE, 2025 spring - )</font>
 
@@ -145,5 +144,6 @@ layout: default
   <li> Jeongjin Shin <font size="1">(Undergrad, ACBS CS, 2024 summer - 2025 winter)</font> </li>
   <li> Youngin Jang <font size="1">(Undergrad, POSTECH CSE, 2025 spring - 2025 spring)</font> </li>
   <li> Jemin Jeon <font size="1">(Undergrad, POSTECH CSE, 2025 spring - spring)</font> </li>
+  <li> Minseok Kim <font size="1">(Undergrad, POSTECH CiTE, 2024 summer - 2025 spring)</font> </li>
   </ul>
 </details>
