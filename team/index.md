@@ -97,7 +97,8 @@ layout: default
 * Yoonjae Jung <font size="1">(Undergrad, POSTECH CSE, 2024 winter - )</font>
 * Jaewan Choi <font size="1">(Undergrad, POSTECH CSE, 2025 winter - )</font>
 * Jun Young Park <font size="1">(Undergrad, POSTECH CSE, 2025 spring - )</font>
-
+* Junghoon Lee <font size="1">(Undergrad, POSTECH CSE, 2025 summer - )</font>
+* Dongeun Ha <font size="1">(Undergrad, POSTECH CSE, 2025 summer - )</font>
 
 
 ### Admin
