@@ -1,8 +1,7 @@
 ## News
 
-[comment]: <> (<i class="fa fa-spinner fa-pulse fa-1x fa-fw"></i> I'm looking for an academic or research position! <br/>)
 
-<i class="fa fa-spinner fa-pulse fa-1x fa-fw"></i> I'm looking for motivated students, interested in trustworthy AI/ML and computer security! Please check out [hiring steps](./team). <br/>
+<i class="fa fa-spinner fa-pulse fa-1x fa-fw"></i> I'm looking for motivated students, interested in <mark>trustworthy AI</mark>, <mark>AI Alignment</mark>, and <mark>Code Generation</mark>! Please check out [hiring steps](./team). <br/>
 <i class="fa fa-spinner fa-pulse fa-1x fa-fw"></i> For POSTECH undergraduate research (intern/CSED399/CSED499), please check out [here](./team)! <br/>
 <br/>
 **2025** <br/>

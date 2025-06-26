@@ -6,7 +6,7 @@ layout: default
 
 > <i class="fa fa-spinner fa-pulse fa-1x fa-fw"></i> **Hiring!**
 > <br/>
-> I'm looking for motivated students, interested in trustworthy AI/ML and computer security!
+> I'm looking for self-motivated students!
 > Please check out our [research interests](../research) for details.
 > * For **POSTECH undergraduate research** (intern/CSED399/CSED499), feel free to email me (possibly with your CV) for discussion on research directions.
 > <br/>
