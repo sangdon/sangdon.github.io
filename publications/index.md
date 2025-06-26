@@ -6,6 +6,13 @@ layout: default
 
 ## 2025
 
+> <i class="fa-solid fa-tree"></i> **Holistic Unlearning Benchmark: A Multi-Faceted Evaluation for Text-to-Image Diffusion Model Unlearning** <br/>
+> Saemi Moon<sup>\*</sup>, Minjong Lee<sup>\*</sup>, <ins>Sangdon Park</ins>, and Dongwoo Kim <font size="1">(<sup>*</sup> indicates equal contribution)</font> <br/>
+> *International Conference on Computer Vision* (**ICCV**) *2025* <br/>
+> [[arXiv](https://arxiv.org/abs/2410.05664)]
+> [[Project](https://saemi410.github.io/HUB/)]
+
+
 > <i class="fa-solid fa-seedling"></i> **A Regret Perspective on Online Selective Generation** <br/>
 > Minjae Lee, Yoonjae Jung, <ins>Sangdon Park</ins> <br/>
 > 2025 <br/>
@@ -32,12 +39,6 @@ layout: default
 > 2024 <br/>
 > [[arXiv](https://arxiv.org/abs/2410.22954)]
 
-
-> <i class="fa-solid fa-seedling"></i> **Holistic Unlearning Benchmark: A Multi-Faceted Evaluation for Text-to-Image Diffusion Model Unlearning** <br/>
-> Saemi Moon<sup>\*</sup>, Minjong Lee<sup>\*</sup>, <ins>Sangdon Park</ins>, and Dongwoo Kim <font size="1">(<sup>*</sup> indicates equal contribution)</font> <br/>
-> 2024 <br/>
-> [[arXiv](https://arxiv.org/abs/2410.05664)]
-> [[Project](https://saemi410.github.io/HUB/)]
 
 > **Selective Generation for Controllable Language Models** <br/>
 > Minjae Lee<sup>\*</sup>, Kyungmin Kim<sup>\*</sup>, Taesoo Kim, and <ins>Sangdon Park</ins> <font size="1">(<sup>*</sup> indicates equal contribution)</font> <br/>
