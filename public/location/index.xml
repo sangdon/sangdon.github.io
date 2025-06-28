@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Locations | Sangdon Park</title><link>http://localhost:1313/location/</link><atom:link href="http://localhost:1313/location/index.xml" rel="self" type="application/rss+xml"/><description>Locations</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><image><url>http://localhost:1313/media/icon_hu_a0dc1595079f9789.png</url><title>Locations</title><link>http://localhost:1313/location/</link></image><item><title>Location</title><link>http://localhost:1313/location/location/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/location/location/</guid><description>&lt;p>XX&lt;/p>
+&lt;p>The idea of a Uses page is to tell you about the stuff I use.&lt;/p>
+&lt;p>Make sure to check out &lt;a href="https://uses.tech/" target="_blank" rel="noopener">uses.tech&lt;/a> for a list of everyone&amp;rsquo;s Uses pages!&lt;/p>
+&lt;p>I often get asked about what software or hardware I use, so this page will serve as a living document and a place to point curious readers to when I get asked.&lt;/p>
+&lt;h2 id="website">Website&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://hugoblox.com" target="_blank" rel="noopener">Hugo Blox&lt;/a> (see the tutorial on &lt;a href="http://localhost:1313/blog/get-started/">Getting Started&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;h2 id="editor--terminal">Editor + Terminal&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://code.visualstudio.com/" target="_blank" rel="noopener">Visual Studio Code&lt;/a> is my current editor&lt;/li>
+&lt;li>Chrome is my main browser&lt;/li>
+&lt;li>iTerm2 is my terminal&lt;/li>
+&lt;/ul>
+&lt;h2 id="desktop-apps">Desktop Apps&lt;/h2>
+&lt;ul>
+&lt;li>Better Touch Tool for window management and custom keyboard shortcuts&lt;/li>
+&lt;/ul></description></item></channel></rss>

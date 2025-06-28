@@ -16,8 +16,8 @@ sections:
     content:
       filters:
         folders:
-          - blog
+          - news
     design:
       spacing:
-        padding: ['3rem', 0, '6rem', 0]
+        padding: ['1rem', 0, '0rem', 0]
 ---

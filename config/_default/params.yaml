@@ -14,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo blog theme powered by Hugo Blox Builder.'
+    description: ''
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -30,17 +30,21 @@ marketing:
 header:
   navbar:
     enable: true
-    show_search: true
+    show_search: false
     show_theme_chooser: true
+    # Align menu links: `left`, `center`, or `right`
+    align: "center"
+    # Fix the navigation bar to the top of the page
+    fixed_to_top: true
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice:
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
@@ -51,10 +55,11 @@ locale:
 # Site features
 features:
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
-  repository:
-    url: 'https://github.com/HugoBlox/hugo-blox-builder/'
-    content_dir: starters/blog/content
-    branch: main
+
+#  repository:
+#    url: 'https://github.com/HugoBlox/hugo-blox-builder/'
+#    content_dir: starters/blog/content
+#    branch: main
