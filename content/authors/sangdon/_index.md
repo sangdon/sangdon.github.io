@@ -12,6 +12,11 @@ last_name: Park
 # Status emoji
 status:
   icon: 
+  
+# Username (this should match the folder name)
+authors:
+  - sangdon
+
 
 # Is this the primary user of the site?
 superuser: true
@@ -50,6 +55,11 @@ highlight_name: true
 
 # Author's website URL
 website: ""
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+  - Researchers
 ---
 
 Sangdon Park is an assistant professor of [Graduate School of Artificial Intelligence (GSAI)](https://ai.postech.ac.kr) and [Computer Science and Engineering (CSE)](https://cse.postech.ac.kr/) at POSTECH. 
