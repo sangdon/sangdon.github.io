@@ -21,7 +21,7 @@
   {{ with $text }}<p class="prose prose-slate lg:prose-xl dark:prose-invert max-w-prose">{{ . }}</p>{{ end }}
 </div>
 
-<div class="mx-auto container max-w-6xl">
+<div class="mx-auto container max-w-2xl">
 
   <div class="mt-14 grid grid-cols-1 items-start gap-x-8 gap-y-8 sm:mt-16 sm:gap-y-16 lg:mt-24 lg:grid-cols-3">
     <div class="lg:col-span-3">
@@ -64,7 +64,7 @@
                 {{/* $avatar_shape := site.Params.features.avatar.shape | default "circle" */}}
                 <a href="{{$person.Page.RelPermalink}}">
                   <img src="{{ $image.RelPermalink }}" alt="Avatar" width="{{$image.Width}}" height="{{$image.Height}}" loading="lazy"
-                      class="avatar rounded-full bg-white dark:bg-gray-800 p-1"
+                      class="avatar mx-auto rounded-full bg-white dark:bg-gray-800 p-1"
                       data-nimg="1"
                       decoding="async"
                       fetchpriority="high"
