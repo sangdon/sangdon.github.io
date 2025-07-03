@@ -1,10 +1,8 @@
-{{/* Hugo Blox: People */}}
-{{/* Documentation: https://hugoblox.com/blocks/ */}}
-{{/* License: All Access Pass Required - https://hugoblox.com/sponsor/ */}}
+{{/* Hugo Blox: People – Grouped by user_groups with optional simple view */}}
 
-{{/* Initialise */}}
 {{ $page := .wcPage }}
 {{ $block := .wcBlock }}
+
 {{ $show_social := $block.design.show_social | default true }}
 {{ $show_interests := $block.design.show_interests | default false }}
 {{ $show_role := $block.design.show_role | default true }}
@@ -13,100 +11,82 @@
 {{ $text := $block.content.text | emojify | $page.RenderString }}
 
 <div class="flex flex-col items-center max-w-prose mx-auto gap-3 justify-center">
-
   <div class="mb-6 text-3xl font-bold text-gray-900 dark:text-white">
     {{ $title }}
   </div>
-
-  {{ with $text }}<p class="prose prose-slate lg:prose-xl dark:prose-invert max-w-prose">{{ . }}</p>{{ end }}
+  {{ with $text }}
+    <p class="prose prose-slate lg:prose-xl dark:prose-invert max-w-prose">{{ . }}</p>
+  {{ end }}
 </div>
 
 <div class="mx-auto container max-w-2xl">
+  {{ range $group := $block.content.user_groups }}
+    <h2 class="text-2xl font-semibold text-gray-800 dark:text-white mt-12 mb-6">{{ $group }}</h2>
 
-  <div class="mt-14 grid grid-cols-1 items-start gap-x-8 gap-y-8 sm:mt-16 sm:gap-y-16 lg:mt-24 lg:grid-cols-3">
-    <div class="lg:col-span-3">
-      <div
-        class="grid grid-cols-1 gap-x-8 gap-y-10 ui-not-focus-visible:outline-none sm:grid-cols-2 sm:gap-y-16 md:grid-cols-3">
+    {{ $simpleGroups := $block.content.view_simple | default slice }}
+    {{ $isSimple := in $simpleGroups $group }}
 
-        {{ range $block.content.user_groups }}
-        {{ $query := where (where site.Pages "Section" "authors") ".Params.user_groups" "intersect" (slice .) }}
+    {{ if $isSimple }}
+      {{ $groupPage := site.GetPage (printf "authors/%s.md" (lower $group)) }}
+      {{ if $groupPage }}
+        {{ $names := $groupPage.Params.profiles }}
+        <ul class="list-disc list-inside text-lg text-slate-800 dark:text-slate-100 space-y-2">
+          {{ range $names }}
+            <li>{{ . }}</li>
+          {{ end }}
+        </ul>
+      {{ else }}
+        <p class="text-slate-500 dark:text-slate-400">No profiles found for group "{{ $group }}".</p>
+      {{ end }}
+    {{ else }}
+      {{ $members := where site.Pages "Section" "authors" }}
+      {{ $groupMembers := where $members ".Params.user_groups" "intersect" (slice $group) }}
+      {{ $groupMembers := sort $groupMembers "Params.id" "asc" }}
 
-        {{/* Sort */}}
-        {{ $sort_by := $block.content.sort_by | default "Params.last_name" }}
-        {{ $sort_by = partial "functions/get_sort_by_parameter" $sort_by }}
-        {{ $sort_ascending := $block.content.sort_ascending | default true }}
-        {{ $sort_order := cond $sort_ascending "asc" "desc" }}
-        {{ $query = sort $query $sort_by $sort_order }}
+      <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
+        {{ range $person := $groupMembers }}
+          {{ $avatar := ($person.Resources.ByType "image").GetMatch "*avatar*" }}
+          {{ $image := "" }}
+          {{ if $avatar }}
+            {{ $image = $avatar.Fill "150x150 Center webp" }}
+          {{ end }}
+          {{ $link := "" }}
+          {{ with site.GetPage (printf "/authors/%s" (path.Base $person.File.Dir)) }}
+            {{ $link = .RelPermalink }}
+          {{ end }}
 
-        {{if $query | and (gt (len $block.content.user_groups) 1) }}
-<!--        <div class="col-md-12">-->
-<!--          <h2 class="mb-4">{{ . | markdownify }}</h2>-->
-<!--        </div>-->
-        {{end}}
-
-        {{ range $person := $query }}
-        {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
-        {{/* Get link to user's profile page. */}}
-        {{ $link := "" }}
-        {{ with site.GetPage (printf "/authors/%s" (path.Base .File.Dir)) }}
-        {{ $link = .RelPermalink }}
-        {{ end }}
-        <div>
-          <div class="group relative h-[17.5rem] transform overflow-hidden rounded-4xl">
-            <div
-              class="absolute bottom-6 left-0 right-4 top-0 rounded-4xl border transition duration-300 group-hover:scale-95 xl:right-6 border-primary-300"></div>
-            <div class="absolute inset-0 bg-primary-50">
-              {{ $image := "" }}
-              {{ if $avatar }}
-                {{ $image = $avatar.Fill "150x150 Center webp" }}
-              {{ end }}
-              {{ if $image }}
-                {{/* $avatar_shape := site.Params.features.avatar.shape | default "circle" */}}
-                <a href="{{$person.Page.RelPermalink}}">
-                  <img src="{{ $image.RelPermalink }}" alt="Avatar" width="{{$image.Width}}" height="{{$image.Height}}" loading="lazy"
-                      class="avatar mx-auto rounded-full bg-white dark:bg-gray-800 p-1"
-                      data-nimg="1"
-                      decoding="async"
-                      fetchpriority="high"
-                      style="color:transparent">
-
-    
-              {{ end }}
+          <div class="rounded-xl border border-slate-200 dark:border-slate-700 p-4 text-center flex flex-col items-center">
+            {{ if $image }}
+              <a href="{{ $link }}">
+                <img src="{{ $image.RelPermalink }}" alt="Avatar"
+                     class="rounded-full w-[120px] h-[120px] object-cover bg-white dark:bg-gray-800 p-1 mx-auto"
+                     loading="lazy" decoding="async" fetchpriority="low" />
               </a>
-            </div>
-          </div>
-
-          <h3 class="mt-8 font-display text-xl font-bold tracking-tight text-slate-900 dark:text-slate-100">
-            <a href="{{$person.Page.RelPermalink}}">{{.Title}}</a>
-          </h3>
-
-          {{ if ((and $show_role .Params.role) | and .Params.organizations) }}
-          <p class="mt-1 text-base tracking-tight text-slate-500 dark:text-slate-200">{{.Params.role}}
-          |
-            {{ range first 1 $person.Params.organizations }}
-              {{ .name }}
             {{ end }}
-          </p>
-          {{ end }}
 
-          {{ if and $show_interests .Params.interests }}
-          <p class="mt-1 text-base tracking-tight text-slate-600 dark:text-slate-300">{{ delimit .Params.interests ", " | markdownify }}</p>
-          {{ end }}
+            <h3 class="mt-4 font-semibold text-lg text-slate-800 dark:text-slate-100">
+              <a href="{{ $link }}">{{ $person.Title }}</a>
+            </h3>
 
-          {{ if $show_social }}
-          <div class="text-2xl sm:text-lg pt-2">
-            {{ partial "social_links" . }}
+            {{ if and $show_role $person.Params.role }}
+              <p class="mt-1 text-sm text-slate-500 dark:text-slate-300">
+                {{ $person.Params.role }}<br/>
+                {{ with index $person.Params.organizations 0 }}{{ .name }}{{ end }}
+              </p>
+            {{ end }}
+
+            {{ if and $show_interests $person.Params.interests }}
+              <p class="mt-1 text-sm text-slate-600 dark:text-slate-300">{{ delimit $person.Params.interests ", " }}</p>
+            {{ end }}
+
+            {{ if $show_social }}
+              <div class="mt-2 text-xl">
+                {{ partial "social_links" $person }}
+              </div>
+            {{ end }}
           </div>
-          {{ end }}
-
-          </div>
-
-    {{ end }}
-    {{ end }}
+        {{ end }}
       </div>
-    </div>
-  </div>
-
-
-
+    {{ end }}
+  {{ end }}
 </div>
