@@ -1,11 +1,83 @@
 ---
-title: "CODiT: Conformal Out-of-Distribution Detection in Time-Series  Data for Cyber-Physical Systems"
-date: 2023-01-01
-publishDate: 2025-07-01T13:08:41.613764Z
-authors: ["Ramneet Kaur", "Kaustubh Sridhar", "Sangdon Park", "Yahan Yang", "Susmit Jha", "Anirban Roy", "Oleg Sokolsky", "Insup Lee"]
-publication_types: ["1"]
-abstract: ""
+title: 'CODiT: Conformal Out-of-Distribution Detection in Time-Series  Data for Cyber-Physical
+  Systems'
+
+# Authors
+# A YAML list of author names
+# If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
+# write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
+authors:
+- Ramneet Kaur
+- Kaustubh Sridhar
+- Sangdon Park
+- Yahan Yang
+- Susmit Jha
+- Anirban Roy
+- Oleg Sokolsky
+- Insup Lee
+
+# Author notes (such as 'Equal Contribution')
+# A YAML list of notes for each author in the above `authors` list
+author_notes: []
+
+date: '2023-05-01'
+
+# Date to publish webpage (NOT necessarily Bibtex publication's date).
+publishDate: '2025-07-03T10:42:12.356913Z'
+
+# Publication type.
+# A single CSL publication type but formatted as a YAML list (for Hugo requirements).
+publication_types:
+- paper-conference
+
+# Publication name and optional abbreviated publication name.
+publication: '*International Conference on Cyber-Physical Systems*'
+publication_short: ''
+
+doi: ''
+
+abstract: ''
+
+# Summary. An optional shortened abstract.
+summary: ''
+
+tags:
+- ICCPS
+
+# Display this page in a list of Featured pages?
 featured: false
-publication: "*Proceedings of the 14Th ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS)*"
+
+# Links
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+# Publication image
+# Add an image named `featured.jpg/png` to your page's folder then add a caption below.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+links:
+- name: URL
+  url: https://dl.acm.org/doi/10.1145/3576841.3585931
 ---
 
+Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

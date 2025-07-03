@@ -15,8 +15,22 @@
   {{ partial "functions/render_view" (dict "fragment" "start" "page" $block "item" . "view" $view) }}
 
   {{ $paginator := .Paginate .Pages.ByDate.Reverse }}
+  {{ $currentYear := "" }}
+  {{ $isFirst := true }}
+  
   {{ range $index, $item := $paginator.Pages }}
-  {{ partial "functions/render_view" (dict "page" . "item" . "view" $view "index" $index) }}
+    {{ $year := $item.Date.Format "2006" }}
+    {{ $yearLabel := cond (ge (int $year) 2020) $year "Before 2020" }}
+
+      {{ if ne $yearLabel $currentYear }}
+        {{ if not $isFirst }}</div>{{ end }}
+        <h2 class="text-2xl font-bold mt-10 mb-0">🚀 {{ $yearLabel }}</h2>
+        <div class="space-y-6">
+        {{ $currentYear = $yearLabel }}
+        {{ $isFirst = false }}
+      {{ end }}
+    
+    {{ partial "functions/render_view" (dict "page" . "item" . "view" $view "index" $index) }}
   {{end}}
 
   {{ partial "functions/render_view" (dict "fragment" "end" "page" $block "item" . "view" $view) }}

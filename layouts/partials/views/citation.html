@@ -54,11 +54,13 @@
     {{ partial "page_metadata_authors" $item }}
   </span>
   <br/>
-  {{ if $item.Params.publication_short }}
-    {{- $item.Params.publication_short | markdownify -}},
-  {{ else if $item.Params.publication }}
-    {{- $item.Params.publication | markdownify -}},
+  {{ if $item.Params.publication }}
+    {{- $item.Params.publication | markdownify -}}
+    {{ if $item.Params.tags }}
+      {{ printf " (**%s**)" (index $item.Params.tags 0) | markdownify -}}
+    {{ end }},
   {{ end }}
+  
   {{- $item.Date.Format "2006" -}}
 
   {{ if $has_attachments }}
