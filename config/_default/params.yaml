@@ -6,8 +6,8 @@
 # Appearance
 appearance:
   mode: system
-  color: blue
-
+  color: red
+  
 # SEO
 marketing:
   seo:
@@ -58,7 +58,7 @@ features:
     enable: true
   privacy_pack:
     enable: false
-
+      
 #  repository:
 #    url: 'https://github.com/HugoBlox/hugo-blox-builder/'
 #    content_dir: starters/blog/content

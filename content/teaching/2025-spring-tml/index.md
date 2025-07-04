@@ -1,15 +1,16 @@
 ---
-title: 🎉 New page
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
-date: 2023-10-27
+title: 📚 Trustworthy ML (2025 Spring) 
+summary: Align AI to Human.
+date: 2025-02-18
+reading_time: false
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: ''
+  caption: 'Walk the Talk'
 
 authors:
-  - admin
+  - sangdon.park
 
 #tags:
 #  - Academic
@@ -17,6 +18,7 @@ authors:
   
 share: false
 toc: false
+
 ---
 
 Welcome 👋
