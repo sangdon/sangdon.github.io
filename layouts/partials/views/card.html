@@ -22,14 +22,22 @@
              alt="{{ $item.Title | plainify }}">
       {{ end }}
     </div>
-    <div class="p-4">
-      <div class="tracking-wide text-md text-primary-700 dark:text-primary-200 font-semibold ">{{ $item.Title }}</div>
+
+    <!-- Vertically center text block -->
+    <div class="p-4 flex flex-col justify-center">
+      <div class="tracking-wide text-md text-primary-700 dark:text-primary-200 font-semibold">
+        {{ $item.Title }}
+      </div>
+
       <p class="block mt-1 text-sm leading-tight font-medium text-black dark:text-white line-clamp-2">
-        {{ ($item.Params.summary | default $item.Summary) | plainify | htmlUnescape | chomp -}}
+        {{ ($item.Params.summary | default $item.Summary) | plainify | htmlUnescape | chomp }}
       </p>
-      <p class="mt-2 text-gray-500 dark:text-gray-400 text-sm">
-        {{- $item.Date | time.Format (site.Params.locale.date_format | default ":date_long") -}}
-      </p>
+
+      {{ if and $item.Date (ne ($item.Date.Year) 1) }}
+        <p class="mt-2 text-gray-500 dark:text-gray-400 text-sm">
+          {{ $item.Date | time.Format (site.Params.locale.date_format | default ":date_long") }}
+        </p>
+      {{ end }}
     </div>
   </div>
 </a>
