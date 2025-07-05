@@ -11,4 +11,11 @@ banner:
   image: ''
   
 reading_time: false
+
+sections:
+  - block: citation
+      
+    design:
+      spacing:
+        padding: ['0rem', '0rem', '0rem', '0rem']  # top, right, bottom, left
 ---

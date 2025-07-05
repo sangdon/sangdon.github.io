@@ -62,6 +62,8 @@ website: "https://sangdon.github.io/"
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Leader
+  
+disable_links: true
 ---
 
 Sangdon Park is an assistant professor of [Graduate School of Artificial Intelligence (GSAI)](https://ai.postech.ac.kr) and [Computer Science and Engineering (CSE)](https://cse.postech.ac.kr/) at POSTECH. 

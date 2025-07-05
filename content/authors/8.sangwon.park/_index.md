@@ -50,8 +50,8 @@ profiles:
   #- icon: academicons/cv
   #  url: 
   #  label: Download my CV
-  - icon: house-chimney
-    url: 
+#  - icon: house-chimney
+#    url: 
 
 
 # Highlight the author in author lists? (true/false)
@@ -64,6 +64,8 @@ website:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - PhD
+
+disable_links: true
 ---
-asdf
+
  

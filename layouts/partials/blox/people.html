@@ -54,18 +54,30 @@
           {{ with site.GetPage (printf "/authors/%s" (path.Base $person.File.Dir)) }}
             {{ $link = .RelPermalink }}
           {{ end }}
+          {{ $disable_links := $person.Params.disable_links | default false }}
 
           <div class="rounded-xl border border-slate-200 dark:border-slate-700 p-4 text-center flex flex-col items-center">
+
             {{ if $image }}
-              <a href="{{ $link }}">
+              {{ if not $disable_links }}
+                <a href="{{ $link }}">
+                  <img src="{{ $image.RelPermalink }}" alt="Avatar"
+                       class="rounded-full w-[120px] h-[120px] object-cover bg-white dark:bg-gray-800 p-1 mx-auto"
+                       loading="lazy" decoding="async" fetchpriority="low" />
+                </a>
+              {{ else }}
                 <img src="{{ $image.RelPermalink }}" alt="Avatar"
                      class="rounded-full w-[120px] h-[120px] object-cover bg-white dark:bg-gray-800 p-1 mx-auto"
                      loading="lazy" decoding="async" fetchpriority="low" />
-              </a>
+              {{ end }}
             {{ end }}
 
             <h3 class="mt-4 font-semibold text-lg text-slate-800 dark:text-slate-100">
-              <a href="{{ $link }}">{{ $person.Title }}</a>
+              {{ if not $disable_links }}
+                <a href="{{ $link }}">{{ $person.Title }}</a>
+              {{ else }}
+                {{ $person.Title }}
+              {{ end }}
             </h3>
 
             {{ if and $show_role $person.Params.role }}
