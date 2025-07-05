@@ -9,7 +9,7 @@ sections:
       username: Sangdon Park
     design:
       spacing:
-        padding: [0, 0, 0, 0]
+        padding: [0, 1rem, 0, 1rem] # top, right, bottom, left
       biography:
         style: 'text-align: justify; font-size: 0.8em;'
   - block: collection
@@ -20,5 +20,5 @@ sections:
           - news
     design:
       spacing:
-        padding: ['3rem', 0, '0rem', 0]
+        padding: ['3rem', 0, '0rem', 0] # top, right, bottom, left
 ---
