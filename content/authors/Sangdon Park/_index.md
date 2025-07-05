@@ -17,7 +17,7 @@ status:
   
 # Username (this should match the folder name)
 authors:
-  - sangdon
+  - Sangdon Park
 
 
 # Is this the primary user of the site?
@@ -56,7 +56,7 @@ profiles:
 highlight_name: true
 
 # Author's website URL
-website: ""
+website: "https://sangdon.github.io/"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -66,5 +66,9 @@ user_groups:
 
 Sangdon Park is an assistant professor of [Graduate School of Artificial Intelligence (GSAI)](https://ai.postech.ac.kr) and [Computer Science and Engineering (CSE)](https://cse.postech.ac.kr/) at POSTECH. 
 He leads [Machine Learning Lab](http://ml.postech.ac.kr/) with other faculties. 
-He is also member of 
-...  
+He is also a member of [National AI Research Lab](https://nairl.kr/), [Global AI Frontier Lab](https://www.nyu.edu/research/research-centers-and-institutes/global-ai-frontier-lab.html), and [Team Atlanta](https://team-atlanta.github.io/).
+
+His research interest lies in Artificial Intelligence (AI) and AI Alignment/Trustworthy AI — designing
+trustworthy AI systems by understanding from theory to implementation and by considering practical
+applications in computer security, computer vision, natural language processing, robotics, and cyber-physical
+systems.
