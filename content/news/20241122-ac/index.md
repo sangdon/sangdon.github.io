@@ -1,7 +1,7 @@
 ---
-title: 🧑‍⚖️ 2024 Summary
+title: 🧑‍⚖️ Area Chair
 summary: I will serve as an area chair for ICML 2025.
-date: 2024-12-31
+date: 2024-11-22
 
 authors:
   - sangdon.park
