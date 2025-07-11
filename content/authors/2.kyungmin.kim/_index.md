@@ -28,7 +28,7 @@ role: PhD+MS
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: POSTECH GSAI
+  - name: POSTECH AI
     url: ai.postech.ac.kr
 
 # Short bio (displayed in user profile at end of posts)
