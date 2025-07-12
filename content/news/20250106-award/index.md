@@ -6,8 +6,9 @@ date: 2025-01-06
 authors:
   - sangdon.park
 tags:
-  - Fellowship
-  - Bang Seung-Yang
+  - BK21
+  - Best Paper Award
+  - Award
   
 share: false
 toc: false
