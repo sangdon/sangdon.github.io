@@ -1,14 +1,14 @@
 ---
-title: Trustworthy LLMs 
-summary: Make LLMs trustful, fair, safe, and secue.
+title: Uncertainty Quantification 
+summary: Trustworthy decision making with reliable uncertainty.
 #date: 2025-02-18
 reading_time: false
-weight: 9
+weight: 8
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Walk the Talk + Midjourney'
+  caption: 'ChatGPT 4o'
 
 authors:
   - Sangdon Park
@@ -23,16 +23,14 @@ toc: false
 ---
 
 
-> **How to mitigate the <mark>hallucination, safety, security, and bias</mark> problems of LLMs?**
+> **Can we rigorously learn and quantify the uncertainty of AI models, e.g., Large Language Models (LLMs), price predictors, or drones, under distribution shift and adversarial manipulation?**
+>
+Quantified uncertainty of AI models' predictions provides a basis of the trust on predictions.
+To rigorously quantify uncertainty, 
+we have mainly leveraged learning theory, calibration, and conformal prediction. 
 
 
-LMMs confidently generate wrong information, which undermines the trust of LLMs as a knowledge base.
-How to mitigate this?
-One way could be leveraging conformal prediction and selective prediction to measure uncertainty as a basis for trust (e.g., [[NeurIPS24](https://arxiv.org/abs/2307.09254)]).
-What other possibilities?
-
-
-**Keywords**: *uncertainty quantification*, *conformal prediction*, *selective prediction*, *LLMs*
+**Keywords**: *uncertainty quantification*, *calibration*, *conformal prediction*, *learning theory*, *distribution shift*  
 
 **Related Work**:
 [ICLR'20](https://openreview.net/forum?id=BJxVI04YvB),
