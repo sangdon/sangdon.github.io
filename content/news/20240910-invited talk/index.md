@@ -9,7 +9,7 @@ image:
   caption: ''
 
 authors:
-  - sangdon.park
+  - Sangdon Park
 
 tags:
   - Talk

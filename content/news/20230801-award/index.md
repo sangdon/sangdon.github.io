@@ -4,7 +4,7 @@ summary: TRAC got a Best Paper award at ICML'23 TEACH Workshop.
 date: 2023-08-01
 
 authors:
-  - sangdon.park
+  - Sangdon Park
 tags:
   - ICML'23 Workshop
   - Best Paper Award

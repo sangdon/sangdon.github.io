@@ -4,7 +4,7 @@ summary: Selective Generation got the Best Paper Award from POSTECH GSAI BK21.
 date: 2025-01-06
 
 authors:
-  - sangdon.park
+  - Sangdon Park
 tags:
   - BK21
   - Best Paper Award

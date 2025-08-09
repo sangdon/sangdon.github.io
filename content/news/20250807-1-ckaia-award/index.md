@@ -1,10 +1,10 @@
 ---
-title: 🏆 Best Paper Finalist Award
-summary: One Selective Generation got the Best Paper Finalist Award from CKAIA.
-date: 2025-08-08
+title: 🏆 Best Paper Finalist
+summary: Online Selective Generation got the Best Paper Finalist Award from CKAIA.
+date: 2025-08-07
 
 authors:
-  - sangdon.park
+  - Sangdon Park
 tags:
   - CKAIA
   - Best Paper Finalist Award
