@@ -19,7 +19,7 @@ share: false
 toc: false
 ---
 
-Our [Team Atlanta](https://team-atlanta.github.io/) won [DARPA AIxCC](https://aicyberchallenge.com/) with a $4M award. This team consists of Samsung, GaTech, KAIST, and POSTECH (us!), led by Taesoo Kim (Samsung and GaTech). I led the POSTECH team, which includes my students, Minjae Gwon (POSTECH CSE) and Minjae Lee (POSTECH AI). My team focuses on patch generation mainly leveraging custom models. We will continue our journey to build **trustworthy** patch/code generation toward practical applications.   
+Our [Team Atlanta](https://team-atlanta.github.io/) won [DARPA AIxCC](https://aicyberchallenge.com/) with a $4M award -- [official announcement](https://www.darpa.mil/news/2025/aixcc-results). This team consists of Samsung, GaTech, KAIST, and POSTECH (us!), led by Taesoo Kim (Samsung and GaTech). I led the POSTECH team, which includes my students, Minjae Gwon (POSTECH CSE) and Minjae Lee (POSTECH AI). My team focuses on patch generation mainly leveraging custom models. We will continue our journey to build **trustworthy** patch/code generation toward practical applications.   
  
 
 
