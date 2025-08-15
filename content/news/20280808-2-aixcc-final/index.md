@@ -25,7 +25,9 @@ Our [Team Atlanta](https://team-atlanta.github.io/) won [DARPA AIxCC](https://ai
 
 
  
-I'm fortunate to be in this amazing team and appreciate GPU support from POSTECH GSAI!
+I'm fortunate to be in this amazing team and grateful to Prof. Taesoo Kim who built and led this amazing team! 
+
+POSTECH GSAI supports GPUs for our team. 
 
 ![Samsung](https://img.global.news.samsung.com/global/wp-content/uploads/2025/08/Samsung-Corporate-Technology-AIxCC-First-Place-in-AI-Cyber-Challenge_main1.jpg)
 
