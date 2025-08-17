@@ -1,7 +1,7 @@
 ---
 title: 📚 Trustworthy ML (2024 Fall) 
 summary: Align AI to Human.
-#date: 2024-09-01
+date: 2024-09-03
 reading_time: false
 
 # Featured image
