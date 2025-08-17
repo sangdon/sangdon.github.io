@@ -28,7 +28,7 @@ toc: false
 
 LMMs confidently generate wrong information, which undermines the trust of LLMs as a knowledge base.
 How to mitigate this?
-One way could be leveraging conformal prediction and selective prediction to measure uncertainty as a basis for trust (e.g., [[NeurIPS24](https://arxiv.org/abs/2307.09254)]).
+One way could be leveraging conformal prediction and selective prediction to measure uncertainty as a basis for trust (e.g., [NeurIPS'24](https://arxiv.org/abs/2307.09254)).
 What other possibilities?
 
 
