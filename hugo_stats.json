@@ -44,8 +44,14 @@
       "strong",
       "style",
       "svg",
+      "table",
+      "tbody",
+      "td",
+      "th",
+      "thead",
       "time",
       "title",
+      "tr",
       "ul"
     ],
     "classes": [
@@ -164,10 +170,12 @@
       "hb-attachment-large",
       "hb-attachment-link",
       "hb-attachment-small",
+      "hb-docs-link",
       "hb-scrollbar",
       "hb-sidebar-container",
       "hb-sidebar-custom-link",
       "hb-sidebar-list",
+      "hb-sidebar-mobile-toc",
       "hb-toc",
       "hbb-section",
       "header",
@@ -391,11 +399,15 @@
     "ids": [
       "-office",
       "hide-button",
+      "instructor",
+      "location",
       "moon",
       "nav-menu",
       "nav-toggle",
       "page-bg",
       "profile",
+      "schedule",
+      "schedule-tentative",
       "section-collection",
       "section-people",
       "section-resume-biography",
@@ -407,7 +419,9 @@
       "show-button",
       "site-header",
       "sun",
-      "top"
+      "teaching-assistant",
+      "top",
+      "trustworthy-ml-aigs703l--csed703l"
     ]
   }
 }
