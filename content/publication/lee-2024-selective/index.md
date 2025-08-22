@@ -37,7 +37,7 @@ abstract: ''
 summary: ''
 
 tags:
-- NeurIPS
+- NeurIPS, Spotlight - top 2.08%
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -75,4 +75,4 @@ links:
   url: https://arxiv.org/abs/2307.09254
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
+
