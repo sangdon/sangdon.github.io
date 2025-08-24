@@ -20,7 +20,7 @@ author_notes: []
 date: '2025-11-05'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-08-21T00:13:56.204352Z'
+publishDate: '2025-08-24T00:41:59.269975Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -28,7 +28,7 @@ publication_types:
 - paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication: '*The 2025 Conference on Empirical Methods in Natural Language Processing*'
+publication: '*Empirical Methods in Natural Language Processing*'
 publication_short: ''
 
 doi: ''
@@ -77,4 +77,4 @@ links:
   url: https://openreview.net/forum?id=SwfymlaTn3
 ---
 
-
+Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
