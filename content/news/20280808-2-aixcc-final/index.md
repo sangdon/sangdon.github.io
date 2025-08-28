@@ -29,5 +29,6 @@ I'm fortunate to be in this amazing team and grateful to Prof. Taesoo Kim who bu
 
 POSTECH GSAI supports GPUs for our team. 
 
+![POSTECH](AIxCC-POSTECH.jpg)
 ![Samsung](https://img.global.news.samsung.com/global/wp-content/uploads/2025/08/Samsung-Corporate-Technology-AIxCC-First-Place-in-AI-Cyber-Challenge_main1.jpg)
 

@@ -4,6 +4,17 @@
 &lt;p>
 &lt;figure >
 &lt;div class="flex justify-center ">
+&lt;div class="w-100" >&lt;img alt="POSTECH" srcset="
+/news/20280808-2-aixcc-final/AIxCC-POSTECH_hu_6d1233b4ff884e57.webp 400w,
+/news/20280808-2-aixcc-final/AIxCC-POSTECH_hu_c43db5e52334886f.webp 760w,
+/news/20280808-2-aixcc-final/AIxCC-POSTECH_hu_70fc609b076fa86c.webp 1200w"
+src="http://localhost:1313/news/20280808-2-aixcc-final/AIxCC-POSTECH_hu_6d1233b4ff884e57.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="flex justify-center ">
 &lt;div class="w-100" >&lt;img src="https://img.global.news.samsung.com/global/wp-content/uploads/2025/08/Samsung-Corporate-Technology-AIxCC-First-Place-in-AI-Cyber-Challenge_main1.jpg" alt="Samsung" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p></description></item><item><title>🏆 Best Paper Finalist</title><link>http://localhost:1313/news/20250807-1-ckaia-award/</link><pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/news/20250807-1-ckaia-award/</guid><description>&lt;p>Congrat to Minjae and Yoonjae!
