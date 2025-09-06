@@ -1,6 +1,6 @@
 ---
 title: 🧑‍⚖️ Area Chair
-summary: I will serve as an area chair for ICLR 2025.
+summary: I will serve as an area chair for ICLR 2026.
 date: 2025-09-05
 
 authors:
