@@ -1,6 +1,6 @@
 ---
 title: Machine Unlearning 
-summary: 
+summary: Build a hammer for Trustworthy Agentic AI
 #date: 2025-02-18
 reading_time: false
 weight: 2
