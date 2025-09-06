@@ -34,21 +34,7 @@ One way could be leveraging conformal prediction and selective prediction to mea
 What other possibilities?
 
 
-**Keywords**: *LLMs*, *LRMs*, *Selective Prediction*, *Conformal Prediction*, *Uncertainty Quantification* 
-
-**Related Work**:
-[ICLR'20](https://openreview.net/forum?id=BJxVI04YvB),
-[AISTATS'20](http://proceedings.mlr.press/v108/park20b/park20b.pdf),
-[ICLR'21](https://openreview.net/forum?id=Qk-Wq5AIjpq),
-[ICLR'22](https://openreview.net/pdf?id=DhP9L8vIyLc),
-[arXiv'22](https://arxiv.org/abs/2204.07482),
-[NeurIPS'22](https://openreview.net/forum?id=s6ygs1UCOw1),
-[Security'23](https://www.usenix.org/conference/usenixsecurity23/presentation/park),
-[NeurIPS'24](https://arxiv.org/abs/2307.09254)
-[arXiv'25](https://arxiv.org/abs/2506.14067)
-[arXiv'25](https://arxiv.org/abs/2505.13553)
-
-**On-going/Potential Projects**:
+### On-going/Potential Projects
 
 * Mitigate the {halluciation, safety, security} of LRMs.
 * Quantify the correctness of the answers of LLMs or LRMs.    
@@ -57,3 +43,24 @@ What other possibilities?
 * Learn LLMs free from jailbreaking.
 
 What's your own project idea?
+
+
+### Keywords
+* LLMs
+* LRMs
+* Selective Prediction
+* Conformal Prediction
+* Uncertainty Quantification 
+
+### Related Work
+* [ICLR'20](https://openreview.net/forum?id=BJxVI04YvB)
+* [AISTATS'20](http://proceedings.mlr.press/v108/park20b/park20b.pdf)
+* [ICLR'21](https://openreview.net/forum?id=Qk-Wq5AIjpq)
+* [ICLR'22](https://openreview.net/pdf?id=DhP9L8vIyLc)
+* [arXiv'22](https://arxiv.org/abs/2204.07482)
+* [NeurIPS'22](https://openreview.net/forum?id=s6ygs1UCOw1)
+* [Security'23](https://www.usenix.org/conference/usenixsecurity23/presentation/park)
+* [NeurIPS'24](https://arxiv.org/abs/2307.09254)
+* [arXiv'25](https://arxiv.org/abs/2506.14067)
+* [arXiv'25](https://arxiv.org/abs/2505.13553)
+

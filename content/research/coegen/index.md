@@ -30,16 +30,23 @@ Large code models (LCMs) are pupularized as large language models (LLMs) are per
 
 We leverage traditional static or dynamic program analysis methods, including fuzzing, to specify functional specification (e.g., [arXiv'25](https://arxiv.org/abs/2505.13553)). Could we make this better?  
 
-**Keywords**: *Code Generator*, *Selective Prediction*, *Conformal Prediction* 
 
-**Related Work**:
-[NeurIPS'24](https://arxiv.org/abs/2307.09254),
-[arXiv'25](https://arxiv.org/abs/2505.13553),
-[AIxCC-Winner](https://www.darpa.mil/news/2025/aixcc-results)
 
-**On-going/Potential Projects**:
+### On-going/Potential Projects
 
 * Align LCMs via RL with unit tests. 
 * Learn agentic AI to fix github issues.
 
 Do you have creative ideas in making LCMs better or using LCMs for solving other tasks?
+
+
+### Keywords
+* Code Generator
+* Selective Prediction
+* Conformal Prediction 
+
+### Related Work
+* [NeurIPS'24](https://arxiv.org/abs/2307.09254)
+* [arXiv'25](https://arxiv.org/abs/2505.13553)
+* [AIxCC-Winner](https://www.darpa.mil/news/2025/aixcc-results)
+
