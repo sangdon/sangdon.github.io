@@ -34,9 +34,9 @@ We leverage traditional static or dynamic program analysis methods, including fu
 
 ### On-going/Potential Projects
 
-* Align LCMs via RL with unit tests. 
-* Learn agentic AI to fix github issues.
-* Learn a policy to call tools for fixing code vulnerabilities.
+* **Code Generator Learning**: Align LCMs via RL with unit tests. 
+* **Patch Generation**: Learn agentic AI with tool calling to fix github issues.
+* **Security Patch Generation**: Learn agentic AI with tool calling to fix security vulnerabilities.
 
 Do you have creative ideas in making LCMs better or using LCMs for solving other tasks?
 

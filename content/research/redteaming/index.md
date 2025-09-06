@@ -33,8 +33,8 @@ to build red Agentic AI for blue Agentic AI.
 
 ### On-going/Potential Projects
 
-* Learn red Agents for blue LLMs via RL.  
-* Learn continual red teaming Agents.  
+* **Red Agent Learning**: Learn red Agents for blue LLMs via RL.  
+* **Red Agent Continual Learning**: Learn continual red teaming Agents.  
 
 Do you have creative ideas in building red Agentic AI?
 

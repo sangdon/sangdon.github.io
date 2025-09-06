@@ -36,11 +36,12 @@ What other possibilities?
 
 ### On-going/Potential Projects
 
-* Mitigate the {hallucination, safety, security} of LRMs.
-* Quantify the correctness of the answers of LLMs or LRMs.    
-* Leverage bandits and Reinforcement Learning (RL) for building trustworthy LLMs.
-* Leverage theoretical results of bandits or RL to guarantee the trustworthiness.
-* Learn LLMs free from jailbreaking.
+* **Hallucination mitigation of LLM/LRMs**: Mitigate the hallucination of LRMs.
+* **Natural hamfulness mitigation of LLM/LRMs**: Mitigate the safety of LRMs from natrual jailbreaking.
+* **Adversarial hamfulness mitigation of LLM/LRMs**: Mitigate the security of LRMs from adversarial jailbreaking.
+* **Uncertainty quantification of LLM/LRMs**: Quantify the correctness of the answers of LLMs or LRMs.    
+* **RL-based Alignment**: Leverage bandits and Reinforcement Learning (RL) for building trustworthy LLMs.
+* **Trustworthiness Control**: Leverage theoretical results of bandits or RL to guarantee the trustworthiness.
 
 What's your own project idea?
 

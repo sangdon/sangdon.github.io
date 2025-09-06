@@ -31,10 +31,10 @@ Based on our previous experiments on trustworthy AI, we build ground breaking le
 
 ### On-going/Potential Projects
 
-* Learn safe humanoids.
-* Calibrate RL policies.
-* Guarantee safety in RL.    
-* Learn secure RL from jailbreaking.
+* **Safe Humanoid Learning**: Learn safe humanoids.
+* **Policy Calibration**: Calibrate RL policies.
+* **Safe RL with Certification**: Guarantee safety in RL.    
+* **Adversarially Robust Policy**: Learn a secure policy from jailbreaking.
 
 What's your own project idea?
 

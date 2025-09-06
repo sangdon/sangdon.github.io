@@ -30,10 +30,9 @@ Uncertainty quantification is a critical tool for building trustworthy AI. We co
 
 ### On-going/Potential Projects
 
-* Improve calibration methods for RL.
-* Improve conformal prediction methods for RL. 
-* Improve selective prediction methods for RL.
-
+* **Selective Prediction**: Improve selective prediction methods.
+* **Conformal Prediction**: Improve conformal prediction methods. 
+* **Calibration**: Improve calibration methods.
 
 ### Keywords
 * Uncertainty Quantification

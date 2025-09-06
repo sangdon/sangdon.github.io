@@ -29,8 +29,8 @@ Trust issues on Agentic AI would never end. Whenever we discover trust issues, h
 
 ### On-going/Potential Projects
 
-* Certify unlearning in LLMs. 
-* Unlearn efficiently with few gradient steps. 
+* **Certified Unlearning**: Certify unlearning in LLMs. 
+* **Efficient Unlearning**: Unlearn efficiently with few gradient steps. 
 
 What's your own project idea?
 
