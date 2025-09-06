@@ -23,16 +23,18 @@ toc: false
 ---
 
 
-> **How to mitigate the <mark>hallucination</mark>, <mark>safety</mark>, <mark>security</mark>, and <mark>bias</mark> problems of LLMs?**
+Large language models are amazingly performant and we use them our daily life. Simultaneously, they raises many practical issues, including halluciation and harmful responses. This raises the following question.
+
+> **How to mitigate the <mark>hallucination</mark>, <mark>safety</mark>, <mark>security</mark>, and <mark>bias</mark> problems of large language models (LLMs) or large reasoning models (LRMs)?**
 
 
-LMMs confidently generate wrong information, which undermines the trust of LLMs as a knowledge base.
+LLMs confidently generate wrong, biased, and harmful information, which undermines the trust of LLMs as a knowledge base.
 How to mitigate this?
 One way could be leveraging conformal prediction and selective prediction to measure uncertainty as a basis for trust (e.g., [NeurIPS'24](https://arxiv.org/abs/2307.09254)).
 What other possibilities?
 
 
-**Keywords**: *uncertainty quantification*, *conformal prediction*, *selective prediction*, *LLMs*
+**Keywords**: *LLMs*, *LRMs*, *Selective Prediction*, *Conformal Prediction*, *Uncertainty Quantification* 
 
 **Related Work**:
 [ICLR'20](https://openreview.net/forum?id=BJxVI04YvB),
@@ -43,3 +45,15 @@ What other possibilities?
 [NeurIPS'22](https://openreview.net/forum?id=s6ygs1UCOw1),
 [Security'23](https://www.usenix.org/conference/usenixsecurity23/presentation/park),
 [NeurIPS'24](https://arxiv.org/abs/2307.09254)
+[arXiv'25](https://arxiv.org/abs/2506.14067)
+[arXiv'25](https://arxiv.org/abs/2505.13553)
+
+**On-going/Potential Projects**:
+
+* Mitigate the {halluciation, safety, security} of LRMs.
+* Quantify the correctness of the answers of LLMs or LRMs.    
+* Leverage bandits and Reinforcment Learning (RL) for building trustworthy LLMs.
+* Lerverage theoretical results of bandits or RL to guarantee the trustworthiness.
+* Learn LLMs free from jailbreaking.
+
+What's your own project idea?

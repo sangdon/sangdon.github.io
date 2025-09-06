@@ -3,7 +3,7 @@ title: Uncertainty Quantification
 summary: Trustworthy decision making with reliable uncertainty.
 #date: 2025-02-18
 reading_time: false
-weight: 8
+weight: 1
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
