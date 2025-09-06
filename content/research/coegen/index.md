@@ -23,9 +23,9 @@ toc: false
 ---
 
 
-Large code models (LCMs) are pupularized as large language models (LLMs) are performant. LCMs may be treated as the same way as the LLMs, but we claim that LCMs have its unique **executable property**! Would this unique property helps to build LCMs more functional or vulerability-free? More precisely, 
+Large code models (LCMs) are popularized as large language models (LLMs) are performant. LCMs may be treated as the same way as the LLMs, but we claim that LCMs have its unique **executable property**! Would this unique property helps to build LCMs more functional or vulnerability-free? More precisely, 
 
-> **How to learn large code models (LCMs) that is <mark>functional</mark> (i.e., satisfy user specification) and <mark>free-from vulnerability</mark> by leveraging the executable property of code?**
+> **How to learn large code models (LCMs) that are <mark>functional</mark> (i.e., satisfy user specification) and <mark>free-from vulnerability</mark> by leveraging the executable property of code?**
 
 
 We leverage traditional static or dynamic program analysis methods, including fuzzing, to specify functional specification (e.g., [arXiv'25](https://arxiv.org/abs/2505.13553)). Could we make this better?  

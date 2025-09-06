@@ -23,7 +23,7 @@ toc: false
 ---
 
 It is the era of Agentic AI but Agentic AI still suffers from trustworthiness issues, including weakness on jailbreaking. 
-We advance the status of Agentic AI by debugging its issues via red teamning. In particular, we consider the following question:
+We advance the status of Agentic AI by debugging its issues via red teaming. In particular, we consider the following question:
 
 > **How to learn red agentic AI to debug target agentic AI continuously?**
   

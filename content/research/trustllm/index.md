@@ -23,7 +23,7 @@ toc: false
 ---
 
 
-Large language models are amazingly performant and we use them our daily life. Simultaneously, they raises many practical issues, including halluciation and harmful responses. This raises the following question.
+Large language models are amazingly performant and we use them in our daily life. Simultaneously, they raise many practical issues, including hallucination and harmful responses. This raises the following question.
 
 > **How to mitigate the <mark>hallucination</mark>, <mark>safety</mark>, <mark>security</mark>, and <mark>bias</mark> problems of large language models (LLMs) or large reasoning models (LRMs)?**
 
@@ -36,10 +36,10 @@ What other possibilities?
 
 ### On-going/Potential Projects
 
-* Mitigate the {halluciation, safety, security} of LRMs.
+* Mitigate the {hallucination, safety, security} of LRMs.
 * Quantify the correctness of the answers of LLMs or LRMs.    
-* Leverage bandits and Reinforcment Learning (RL) for building trustworthy LLMs.
-* Lerverage theoretical results of bandits or RL to guarantee the trustworthiness.
+* Leverage bandits and Reinforcement Learning (RL) for building trustworthy LLMs.
+* Leverage theoretical results of bandits or RL to guarantee the trustworthiness.
 * Learn LLMs free from jailbreaking.
 
 What's your own project idea?
