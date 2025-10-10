@@ -1,87 +1,160 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sangdon Park</title><link>http://localhost:1313/</link><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><description>Sangdon Park</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate><image><url>http://localhost:1313/media/icon_hu_5e0546d98affa013.png</url><title>Sangdon Park</title><link>http://localhost:1313/</link></image><item><title>Uncertainty Quantification</title><link>http://localhost:1313/research/uq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/research/uq/</guid><description>&lt;blockquote>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sangdon Park</title><link>http://localhost:1313/</link><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><description>Sangdon Park</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate><image><url>http://localhost:1313/media/icon_hu_5e0546d98affa013.png</url><title>Sangdon Park</title><link>http://localhost:1313/</link></image><item><title>Uncertainty Quantification</title><link>http://localhost:1313/research/uq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/research/uq/</guid><description>&lt;p>Uncertainty quantification is a critical tool for building trustworthy AI. We consider the following key question:&lt;/p>
+&lt;blockquote>
 &lt;p>&lt;strong>Can we rigorously learn and quantify the uncertainty of AI models, e.g., Large Language Models (LLMs), price predictors, or drones, under distribution shift and adversarial manipulation?&lt;/strong>&lt;/p>&lt;/blockquote>
-&lt;p>Quantified uncertainty of AI models&amp;rsquo; predictions provides a basis of the trust on predictions.
-To rigorously quantify uncertainty,
-we have mainly leveraged learning theory, calibration, and conformal prediction.&lt;/p>
-&lt;p>&lt;strong>Keywords&lt;/strong>: &lt;em>uncertainty quantification&lt;/em>, &lt;em>calibration&lt;/em>, &lt;em>conformal prediction&lt;/em>, &lt;em>learning theory&lt;/em>, &lt;em>distribution shift&lt;/em>&lt;/p>
-&lt;p>&lt;strong>Related Work&lt;/strong>:
-&lt;a href="https://openreview.net/forum?id=BJxVI04YvB" target="_blank" rel="noopener">ICLR'20&lt;/a>,
-&lt;a href="http://proceedings.mlr.press/v108/park20b/park20b.pdf" target="_blank" rel="noopener">AISTATS'20&lt;/a>,
-&lt;a href="https://openreview.net/forum?id=Qk-Wq5AIjpq" target="_blank" rel="noopener">ICLR'21&lt;/a>,
-&lt;a href="https://openreview.net/pdf?id=DhP9L8vIyLc" target="_blank" rel="noopener">ICLR'22&lt;/a>,
-&lt;a href="https://arxiv.org/abs/2204.07482" target="_blank" rel="noopener">arXiv'22&lt;/a>,
-&lt;a href="https://openreview.net/forum?id=s6ygs1UCOw1" target="_blank" rel="noopener">NeurIPS'22&lt;/a>,
-&lt;a href="https://www.usenix.org/conference/usenixsecurity23/presentation/park" target="_blank" rel="noopener">Security'23&lt;/a>,
-&lt;a href="https://arxiv.org/abs/2307.09254" target="_blank" rel="noopener">NeurIPS'24&lt;/a>&lt;/p></description></item><item><title>Machine Unlearning</title><link>http://localhost:1313/research/unlearning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/research/unlearning/</guid><description/></item><item><title>Red Teaming</title><link>http://localhost:1313/research/redteaming/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/research/redteaming/</guid><description/></item><item><title>Trustworthy Robotics</title><link>http://localhost:1313/research/trustrobots/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/research/trustrobots/</guid><description>&lt;p>The brain of AI has been replaced by large language models (LLMs). The next challenge (or long-standing challenge) is&lt;/p>
-&lt;p>Large language models are amazingly performant and we use them our daily life. Simultaneously, they raises many practical issues, including halluciation and harmful responses. This raises the following question.&lt;/p>
-&lt;blockquote>
-&lt;p>&lt;strong>How to mitigate the &lt;mark>hallucination&lt;/mark>, &lt;mark>safety&lt;/mark>, &lt;mark>security&lt;/mark>, and &lt;mark>bias&lt;/mark> problems of large language models (LLMs) or large reasoning models (LRMs)?&lt;/strong>&lt;/p>&lt;/blockquote>
-&lt;p>LLMs confidently generate wrong, biased, and harmful information, which undermines the trust of LLMs as a knowledge base.
-How to mitigate this?
-One way could be leveraging conformal prediction and selective prediction to measure uncertainty as a basis for trust (e.g., &lt;a href="https://arxiv.org/abs/2307.09254" target="_blank" rel="noopener">NeurIPS'24&lt;/a>).
-What other possibilities?&lt;/p>
-&lt;p>&lt;strong>Keywords&lt;/strong>: &lt;em>LLMs&lt;/em>, &lt;em>LRMs&lt;/em>, &lt;em>Selective Prediction&lt;/em>, &lt;em>Conformal Prediction&lt;/em>, &lt;em>Uncertainty Quantification&lt;/em>&lt;/p>
-&lt;p>&lt;strong>Related Work&lt;/strong>:
-&lt;a href="https://openreview.net/forum?id=BJxVI04YvB" target="_blank" rel="noopener">ICLR'20&lt;/a>,
-&lt;a href="http://proceedings.mlr.press/v108/park20b/park20b.pdf" target="_blank" rel="noopener">AISTATS'20&lt;/a>,
-&lt;a href="https://openreview.net/forum?id=Qk-Wq5AIjpq" target="_blank" rel="noopener">ICLR'21&lt;/a>,
-&lt;a href="https://openreview.net/pdf?id=DhP9L8vIyLc" target="_blank" rel="noopener">ICLR'22&lt;/a>,
-&lt;a href="https://arxiv.org/abs/2204.07482" target="_blank" rel="noopener">arXiv'22&lt;/a>,
-&lt;a href="https://openreview.net/forum?id=s6ygs1UCOw1" target="_blank" rel="noopener">NeurIPS'22&lt;/a>,
-&lt;a href="https://www.usenix.org/conference/usenixsecurity23/presentation/park" target="_blank" rel="noopener">Security'23&lt;/a>,
-&lt;a href="https://arxiv.org/abs/2307.09254" target="_blank" rel="noopener">NeurIPS'24&lt;/a>
-&lt;a href="https://arxiv.org/abs/2506.14067" target="_blank" rel="noopener">arXiv'25&lt;/a>
-&lt;a href="https://arxiv.org/abs/2505.13553" target="_blank" rel="noopener">arXiv'25&lt;/a>&lt;/p>
-&lt;p>&lt;strong>On-going/Potential Projects&lt;/strong>:&lt;/p>
+&lt;h3 id="on-goingpotential-projects">On-going/Potential Projects&lt;/h3>
 &lt;ul>
-&lt;li>Mitigate the {halluciation, safety, security} of LRMs.&lt;/li>
-&lt;li>Quantify the correctness of the answers of LLMs or LRMs.&lt;/li>
-&lt;li>Leverage bandits and Reinforcment Learning (RL) for building trustworthy LLMs.&lt;/li>
-&lt;li>Lerverage theoretical results of bandits or RL to guarantee the trustworthiness.&lt;/li>
-&lt;li>Learn LLMs free from jailbreaking.&lt;/li>
+&lt;li>&lt;strong>Selective Prediction&lt;/strong>: Improve selective prediction methods.&lt;/li>
+&lt;li>&lt;strong>Conformal Prediction&lt;/strong>: Improve conformal prediction methods.&lt;/li>
+&lt;li>&lt;strong>Calibration&lt;/strong>: Improve calibration methods.&lt;/li>
 &lt;/ul>
-&lt;p>What&amp;rsquo;s your own project idea?&lt;/p></description></item><item><title>Trustworthy Code Generation</title><link>http://localhost:1313/research/coegen/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/research/coegen/</guid><description>&lt;p>Large code models (LCMs) are pupularized as large language models (LLMs) are performant. LCMs may be treated as the same way as the LLMs, but we claim that LCMs have its unique &lt;strong>executable property&lt;/strong>! Would this unique property helps to build LCMs more functional or vulerability-free? More precisely,&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>Uncertainty Quantification&lt;/li>
+&lt;li>Calibration&lt;/li>
+&lt;li>Conformal Prediction&lt;/li>
+&lt;li>Learning Theory&lt;/li>
+&lt;li>Distribution Shift&lt;/li>
+&lt;/ul>
+&lt;h3 id="related-work">Related Work&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://openreview.net/forum?id=BJxVI04YvB" target="_blank" rel="noopener">ICLR'20&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://proceedings.mlr.press/v108/park20b/park20b.pdf" target="_blank" rel="noopener">AISTATS'20&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://openreview.net/forum?id=Qk-Wq5AIjpq" target="_blank" rel="noopener">ICLR'21&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://openreview.net/pdf?id=DhP9L8vIyLc" target="_blank" rel="noopener">ICLR'22&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2204.07482" target="_blank" rel="noopener">arXiv'22&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://openreview.net/forum?id=s6ygs1UCOw1" target="_blank" rel="noopener">NeurIPS'22&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.usenix.org/conference/usenixsecurity23/presentation/park" target="_blank" rel="noopener">Security'23&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2307.09254" target="_blank" rel="noopener">NeurIPS'24&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2506.14067" target="_blank" rel="noopener">arXiv'25&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Machine Unlearning</title><link>http://localhost:1313/research/unlearning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/research/unlearning/</guid><description>&lt;p>Trust issues on Agentic AI would never end. Whenever we discover trust issues, how can we mitigate this? We leverage machine unlearning for this. To this end, we consider the following question.&lt;/p>
 &lt;blockquote>
-&lt;p>&lt;strong>How to learn large code models (LCMs) that is &lt;mark>functional&lt;/mark> (i.e., satisfy user specification) and &lt;mark>free-from vulnerability&lt;/mark> by leveraging the executable property of code?&lt;/strong>&lt;/p>&lt;/blockquote>
+&lt;p>&lt;strong>How to efficiently unlearn trust issues and certify this?&lt;/strong>&lt;/p>&lt;/blockquote>
+&lt;h3 id="on-goingpotential-projects">On-going/Potential Projects&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Certified Unlearning&lt;/strong>: Certify unlearning in LLMs.&lt;/li>
+&lt;li>&lt;strong>Efficient Unlearning&lt;/strong>: Unlearn efficiently with few gradient steps.&lt;/li>
+&lt;/ul>
+&lt;p>What&amp;rsquo;s your own project idea?&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>Machine Unlearning&lt;/li>
+&lt;li>LLMs&lt;/li>
+&lt;li>Conformal Prediction&lt;/li>
+&lt;li>Online Learning&lt;/li>
+&lt;/ul>
+&lt;h3 id="related-work">Related Work&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://www.usenix.org/conference/usenixsecurity23/presentation/park" target="_blank" rel="noopener">Security'23&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2307.09254" target="_blank" rel="noopener">NeurIPS'24&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2506.14067" target="_blank" rel="noopener">arXiv'25&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Red Teaming on Agentic AI</title><link>http://localhost:1313/research/redteaming/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/research/redteaming/</guid><description>&lt;p>It is the era of Agentic AI but Agentic AI still suffers from trustworthiness issues, including weakness on jailbreaking.
+We advance the status of Agentic AI by debugging its issues via red teaming. In particular, we consider the following question:&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>How to learn red agentic AI to debug target agentic AI continuously?&lt;/strong>&lt;/p>&lt;/blockquote>
+&lt;p>We exploit our knowledge and experience on Trustworthy Agentic AI
+to build red Agentic AI for blue Agentic AI.&lt;/p>
+&lt;h3 id="on-goingpotential-projects">On-going/Potential Projects&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Red Agent Learning&lt;/strong>: Learn red Agents for blue LLMs via RL.&lt;/li>
+&lt;li>&lt;strong>Red Agent Continual Learning&lt;/strong>: Learn continual red teaming Agents.&lt;/li>
+&lt;/ul>
+&lt;p>Do you have creative ideas in building red Agentic AI?&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>Red Teaming&lt;/li>
+&lt;li>Agentic AI&lt;/li>
+&lt;li>Reinforcement Learning&lt;/li>
+&lt;/ul>
+&lt;h3 id="related-work">Related Work&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://arxiv.org/abs/2307.09254" target="_blank" rel="noopener">NeurIPS'24&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2505.13553" target="_blank" rel="noopener">arXiv'25&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.darpa.mil/news/2025/aixcc-results" target="_blank" rel="noopener">AIxCC-Winner&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Trustworthy Robotics</title><link>http://localhost:1313/research/trustrobots/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/research/trustrobots/</guid><description>&lt;p>The brain of AI has been replaced by large language models (LLMs). The next challenge (or long-standing challenge) is how to build Physical AI? We attach this challenge by making Physical AI trustworthy. In particular, we consider the following question.&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>How to build safe robots or humanoids that could live with us and even our kids?&lt;/strong>&lt;/p>&lt;/blockquote>
+&lt;p>Based on our previous experiments on trustworthy AI, we build ground breaking learning methods to achieve this goal.&lt;/p>
+&lt;h3 id="on-goingpotential-projects">On-going/Potential Projects&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Safe Humanoid Learning&lt;/strong>: Learn safe humanoids.&lt;/li>
+&lt;li>&lt;strong>Policy Calibration&lt;/strong>: Calibrate RL policies.&lt;/li>
+&lt;li>&lt;strong>Safe RL with Certification&lt;/strong>: Guarantee safety in RL.&lt;/li>
+&lt;li>&lt;strong>Adversarially Robust Policy&lt;/strong>: Learn a secure policy from jailbreaking.&lt;/li>
+&lt;/ul>
+&lt;p>What&amp;rsquo;s your own project idea?&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>Vision-Language-Action Models (VLAs)&lt;/li>
+&lt;li>Reinforcement Learning (RL)&lt;/li>
+&lt;li>Selective Prediction&lt;/li>
+&lt;li>Conformal Prediction&lt;/li>
+&lt;li>Uncertainty Quantification&lt;/li>
+&lt;/ul>
+&lt;h3 id="related-work">Related Work&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://www.usenix.org/conference/usenixsecurity23/presentation/park" target="_blank" rel="noopener">Security'23&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2307.09254" target="_blank" rel="noopener">NeurIPS'24&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2506.14067" target="_blank" rel="noopener">arXiv'25&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Trustworthy Code Generation</title><link>http://localhost:1313/research/coegen/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/research/coegen/</guid><description>&lt;p>Large code models (LCMs) are popularized as large language models (LLMs) are performant. LCMs may be treated as the same way as the LLMs, but we claim that LCMs have its unique &lt;strong>executable property&lt;/strong>! Would this unique property helps to build LCMs more functional or vulnerability-free? More precisely,&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>How to learn large code models (LCMs) that are &lt;mark>functional&lt;/mark> (i.e., satisfy user specification) and &lt;mark>free-from vulnerability&lt;/mark> by leveraging the executable property of code?&lt;/strong>&lt;/p>&lt;/blockquote>
 &lt;p>We leverage traditional static or dynamic program analysis methods, including fuzzing, to specify functional specification (e.g., &lt;a href="https://arxiv.org/abs/2505.13553" target="_blank" rel="noopener">arXiv'25&lt;/a>). Could we make this better?&lt;/p>
-&lt;p>&lt;strong>Keywords&lt;/strong>: &lt;em>Code Generator&lt;/em>, &lt;em>Selective Prediction&lt;/em>, &lt;em>Conformal Prediction&lt;/em>&lt;/p>
-&lt;p>&lt;strong>Related Work&lt;/strong>:
-&lt;a href="https://arxiv.org/abs/2307.09254" target="_blank" rel="noopener">NeurIPS'24&lt;/a>,
-&lt;a href="https://arxiv.org/abs/2505.13553" target="_blank" rel="noopener">arXiv'25&lt;/a>,
-&lt;a href="https://www.darpa.mil/news/2025/aixcc-results" target="_blank" rel="noopener">AIxCC-Winner&lt;/a>&lt;/p>
-&lt;p>&lt;strong>On-going/Potential Projects&lt;/strong>:&lt;/p>
+&lt;h3 id="on-goingpotential-projects">On-going/Potential Projects&lt;/h3>
 &lt;ul>
-&lt;li>Align LCMs via RL with unit tests.&lt;/li>
-&lt;li>Learn agentic AI to fix github issues.&lt;/li>
+&lt;li>&lt;strong>Code Generator Learning&lt;/strong>: Align LCMs via RL with unit tests.&lt;/li>
+&lt;li>&lt;strong>Patch Generation&lt;/strong>: Learn agentic AI with tool calling to fix github issues.&lt;/li>
+&lt;li>&lt;strong>Security Patch Generation&lt;/strong>: Learn agentic AI with tool calling to fix security vulnerabilities.&lt;/li>
 &lt;/ul>
-&lt;p>Do you have creative ideas in making LCMs better or using LCMs for solving other tasks?&lt;/p></description></item><item><title>Trustworthy LLMs</title><link>http://localhost:1313/research/trustllm/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/research/trustllm/</guid><description>&lt;p>Large language models are amazingly performant and we use them our daily life. Simultaneously, they raises many practical issues, including halluciation and harmful responses. This raises the following question.&lt;/p>
+&lt;p>Do you have creative ideas in making LCMs better or using LCMs for solving other tasks?&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>Code Generator&lt;/li>
+&lt;li>Selective Prediction&lt;/li>
+&lt;li>Conformal Prediction&lt;/li>
+&lt;/ul>
+&lt;h3 id="related-work">Related Work&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://arxiv.org/abs/2307.09254" target="_blank" rel="noopener">NeurIPS'24&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2505.13553" target="_blank" rel="noopener">arXiv'25&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.darpa.mil/news/2025/aixcc-results" target="_blank" rel="noopener">AIxCC-Winner&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Trustworthy LLMs</title><link>http://localhost:1313/research/trustllm/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/research/trustllm/</guid><description>&lt;p>Large language models are amazingly performant and we use them in our daily life. Simultaneously, they raise many practical issues, including hallucination and harmful responses. This raises the following question.&lt;/p>
 &lt;blockquote>
 &lt;p>&lt;strong>How to mitigate the &lt;mark>hallucination&lt;/mark>, &lt;mark>safety&lt;/mark>, &lt;mark>security&lt;/mark>, and &lt;mark>bias&lt;/mark> problems of large language models (LLMs) or large reasoning models (LRMs)?&lt;/strong>&lt;/p>&lt;/blockquote>
 &lt;p>LLMs confidently generate wrong, biased, and harmful information, which undermines the trust of LLMs as a knowledge base.
 How to mitigate this?
 One way could be leveraging conformal prediction and selective prediction to measure uncertainty as a basis for trust (e.g., &lt;a href="https://arxiv.org/abs/2307.09254" target="_blank" rel="noopener">NeurIPS'24&lt;/a>).
 What other possibilities?&lt;/p>
-&lt;p>&lt;strong>Keywords&lt;/strong>: &lt;em>LLMs&lt;/em>, &lt;em>LRMs&lt;/em>, &lt;em>Selective Prediction&lt;/em>, &lt;em>Conformal Prediction&lt;/em>, &lt;em>Uncertainty Quantification&lt;/em>&lt;/p>
-&lt;p>&lt;strong>Related Work&lt;/strong>:
-&lt;a href="https://openreview.net/forum?id=BJxVI04YvB" target="_blank" rel="noopener">ICLR'20&lt;/a>,
-&lt;a href="http://proceedings.mlr.press/v108/park20b/park20b.pdf" target="_blank" rel="noopener">AISTATS'20&lt;/a>,
-&lt;a href="https://openreview.net/forum?id=Qk-Wq5AIjpq" target="_blank" rel="noopener">ICLR'21&lt;/a>,
-&lt;a href="https://openreview.net/pdf?id=DhP9L8vIyLc" target="_blank" rel="noopener">ICLR'22&lt;/a>,
-&lt;a href="https://arxiv.org/abs/2204.07482" target="_blank" rel="noopener">arXiv'22&lt;/a>,
-&lt;a href="https://openreview.net/forum?id=s6ygs1UCOw1" target="_blank" rel="noopener">NeurIPS'22&lt;/a>,
-&lt;a href="https://www.usenix.org/conference/usenixsecurity23/presentation/park" target="_blank" rel="noopener">Security'23&lt;/a>,
-&lt;a href="https://arxiv.org/abs/2307.09254" target="_blank" rel="noopener">NeurIPS'24&lt;/a>
-&lt;a href="https://arxiv.org/abs/2506.14067" target="_blank" rel="noopener">arXiv'25&lt;/a>
-&lt;a href="https://arxiv.org/abs/2505.13553" target="_blank" rel="noopener">arXiv'25&lt;/a>&lt;/p>
-&lt;p>&lt;strong>On-going/Potential Projects&lt;/strong>:&lt;/p>
+&lt;h3 id="on-goingpotential-projects">On-going/Potential Projects&lt;/h3>
 &lt;ul>
-&lt;li>Mitigate the {halluciation, safety, security} of LRMs.&lt;/li>
-&lt;li>Quantify the correctness of the answers of LLMs or LRMs.&lt;/li>
-&lt;li>Leverage bandits and Reinforcment Learning (RL) for building trustworthy LLMs.&lt;/li>
-&lt;li>Lerverage theoretical results of bandits or RL to guarantee the trustworthiness.&lt;/li>
-&lt;li>Learn LLMs free from jailbreaking.&lt;/li>
+&lt;li>&lt;strong>Hallucination mitigation of LLM/LRMs&lt;/strong>: Mitigate the hallucination of LRMs.&lt;/li>
+&lt;li>&lt;strong>Natural hamfulness mitigation of LLM/LRMs&lt;/strong>: Mitigate the safety of LRMs from natrual jailbreaking.&lt;/li>
+&lt;li>&lt;strong>Adversarial hamfulness mitigation of LLM/LRMs&lt;/strong>: Mitigate the security of LRMs from adversarial jailbreaking.&lt;/li>
+&lt;li>&lt;strong>Uncertainty quantification of LLM/LRMs&lt;/strong>: Quantify the correctness of the answers of LLMs or LRMs.&lt;/li>
+&lt;li>&lt;strong>RL-based Alignment&lt;/strong>: Leverage bandits and Reinforcement Learning (RL) for building trustworthy LLMs.&lt;/li>
+&lt;li>&lt;strong>Trustworthiness Control&lt;/strong>: Leverage theoretical results of bandits or RL to guarantee the trustworthiness.&lt;/li>
 &lt;/ul>
-&lt;p>What&amp;rsquo;s your own project idea?&lt;/p></description></item><item><title>ChronoBias: A Benchmark for Evaluating Temporal Group Bias in Retrieval-augmented Language Models</title><link>http://localhost:1313/publication/kim-2025-chronobias/</link><pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/publication/kim-2025-chronobias/</guid><description>&lt;p>Add the &lt;strong>full text&lt;/strong> or &lt;strong>supplementary notes&lt;/strong> for the publication here using Markdown formatting.&lt;/p></description></item><item><title>Retrieval-Augmented Generation with Estimation of Source Reliability</title><link>http://localhost:1313/publication/hwang-2025-retrievalaugmented/</link><pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/publication/hwang-2025-retrievalaugmented/</guid><description>&lt;p>Add the &lt;strong>full text&lt;/strong> or &lt;strong>supplementary notes&lt;/strong> for the publication here using Markdown formatting.&lt;/p></description></item><item><title>Holistic Unlearning Benchmark: A Multi-Faceted Evaluation for Text-to-Image Diffusion Model Unlearning</title><link>http://localhost:1313/publication/moon-2025-holisticunlearningbenchmarkmultifaceted/</link><pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/publication/moon-2025-holisticunlearningbenchmarkmultifaceted/</guid><description>&lt;p>Add the &lt;strong>full text&lt;/strong> or &lt;strong>supplementary notes&lt;/strong> for the publication here using Markdown formatting.&lt;/p></description></item><item><title>🧑‍⚖️ Area Chair</title><link>http://localhost:1313/news/20250905-iclr-ac/</link><pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/news/20250905-iclr-ac/</guid><description/></item><item><title>🎉 Two EMNLP Papers</title><link>http://localhost:1313/news/20250821-emnlp/</link><pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/news/20250821-emnlp/</guid><description>&lt;p>Congrat to Kyungmin and Jeongyeon!&lt;/p></description></item><item><title>🏆 DARPA AIxCC Winner!</title><link>http://localhost:1313/news/20250808-2-aixcc-final/</link><pubDate>Fri, 08 Aug 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/news/20250808-2-aixcc-final/</guid><description>&lt;p>Our &lt;a href="https://team-atlanta.github.io/" target="_blank" rel="noopener">Team Atlanta&lt;/a> won &lt;a href="https://aicyberchallenge.com/" target="_blank" rel="noopener">DARPA AIxCC&lt;/a> with a $4M award &amp;ndash; &lt;a href="https://www.darpa.mil/news/2025/aixcc-results" target="_blank" rel="noopener">official announcement&lt;/a>. This team consists of Samsung, GaTech, KAIST, and POSTECH (us!), led by Taesoo Kim (Samsung and GaTech). I led the POSTECH team, which includes my students, Minjae Gwon (POSTECH CSE) and Minjae Lee (POSTECH AI). My team focuses on patch generation mainly leveraging custom models. We will continue our journey to build &lt;strong>trustworthy&lt;/strong> patch/code generation toward practical applications.&lt;/p>
+&lt;p>What&amp;rsquo;s your own project idea?&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>LLMs&lt;/li>
+&lt;li>LRMs&lt;/li>
+&lt;li>Selective Prediction&lt;/li>
+&lt;li>Conformal Prediction&lt;/li>
+&lt;li>Uncertainty Quantification&lt;/li>
+&lt;/ul>
+&lt;h3 id="related-work">Related Work&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://openreview.net/forum?id=BJxVI04YvB" target="_blank" rel="noopener">ICLR'20&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://proceedings.mlr.press/v108/park20b/park20b.pdf" target="_blank" rel="noopener">AISTATS'20&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://openreview.net/forum?id=Qk-Wq5AIjpq" target="_blank" rel="noopener">ICLR'21&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://openreview.net/pdf?id=DhP9L8vIyLc" target="_blank" rel="noopener">ICLR'22&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2204.07482" target="_blank" rel="noopener">arXiv'22&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://openreview.net/forum?id=s6ygs1UCOw1" target="_blank" rel="noopener">NeurIPS'22&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.usenix.org/conference/usenixsecurity23/presentation/park" target="_blank" rel="noopener">Security'23&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2307.09254" target="_blank" rel="noopener">NeurIPS'24&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2506.14067" target="_blank" rel="noopener">arXiv'25&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2505.13553" target="_blank" rel="noopener">arXiv'25&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>ChronoBias: A Benchmark for Evaluating Temporal Group Bias in Retrieval-augmented Language Models</title><link>http://localhost:1313/publication/kim-2025-chronobias/</link><pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/publication/kim-2025-chronobias/</guid><description>&lt;p>Add the &lt;strong>full text&lt;/strong> or &lt;strong>supplementary notes&lt;/strong> for the publication here using Markdown formatting.&lt;/p></description></item><item><title>Retrieval-Augmented Generation with Estimation of Source Reliability</title><link>http://localhost:1313/publication/hwang-2025-retrievalaugmented/</link><pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/publication/hwang-2025-retrievalaugmented/</guid><description>&lt;p>Add the &lt;strong>full text&lt;/strong> or &lt;strong>supplementary notes&lt;/strong> for the publication here using Markdown formatting.&lt;/p></description></item><item><title>Holistic Unlearning Benchmark: A Multi-Faceted Evaluation for Text-to-Image Diffusion Model Unlearning</title><link>http://localhost:1313/publication/moon-2025-holisticunlearningbenchmarkmultifaceted/</link><pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/publication/moon-2025-holisticunlearningbenchmarkmultifaceted/</guid><description>&lt;p>Add the &lt;strong>full text&lt;/strong> or &lt;strong>supplementary notes&lt;/strong> for the publication here using Markdown formatting.&lt;/p></description></item><item><title>ATLANTIS: AI-driven Threat Localization, Analysis, and Triage Intelligence System</title><link>http://localhost:1313/publication/kim-2025-atlantisaidriventhreatlocalization/</link><pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/publication/kim-2025-atlantisaidriventhreatlocalization/</guid><description>&lt;p>Add the &lt;strong>full text&lt;/strong> or &lt;strong>supplementary notes&lt;/strong> for the publication here using Markdown formatting.&lt;/p></description></item><item><title>🧑‍⚖️ Area Chair</title><link>http://localhost:1313/news/20250905-iclr-ac/</link><pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/news/20250905-iclr-ac/</guid><description/></item><item><title>🎉 Two EMNLP Papers</title><link>http://localhost:1313/news/20250821-emnlp/</link><pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/news/20250821-emnlp/</guid><description>&lt;p>Congrat to Kyungmin and Jeongyeon!&lt;/p></description></item><item><title>🏆 DARPA AIxCC Winner!</title><link>http://localhost:1313/news/20250808-2-aixcc-final/</link><pubDate>Fri, 08 Aug 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/news/20250808-2-aixcc-final/</guid><description>&lt;p>Our &lt;a href="https://team-atlanta.github.io/" target="_blank" rel="noopener">Team Atlanta&lt;/a> won &lt;a href="https://aicyberchallenge.com/" target="_blank" rel="noopener">DARPA AIxCC&lt;/a> with a $4M award &amp;ndash; &lt;a href="https://www.darpa.mil/news/2025/aixcc-results" target="_blank" rel="noopener">official announcement&lt;/a>. This team consists of Samsung, GaTech, KAIST, and POSTECH (us!), led by Taesoo Kim (Samsung and GaTech). I led the POSTECH team, which includes my students, Minjae Gwon (POSTECH CSE) and Minjae Lee (POSTECH AI). My team focuses on patch generation mainly leveraging custom models. We will continue our journey to build &lt;strong>trustworthy&lt;/strong> patch/code generation toward practical applications.&lt;/p>
 &lt;p>I&amp;rsquo;m fortunate to be in this amazing team and grateful to Prof. Taesoo Kim who built and led this amazing team!&lt;/p>
 &lt;p>POSTECH GSAI supports GPUs for our team.&lt;/p>
 &lt;p>

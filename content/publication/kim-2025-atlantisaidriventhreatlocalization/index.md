@@ -1,37 +1,75 @@
 ---
-title: 'SOUNDBOOST: Effective RCA and Attack Detection for UAV via Acoustic Side-Channel'
+title: 'ATLANTIS: AI-driven Threat Localization, Analysis, and Triage Intelligence
+  System'
 
 # Authors
 # A YAML list of author names
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- Haoran Wang
-- Zheng Yang
-- Sangdon Park
-- Yibin Yang
-- Seulbae Kim
-- Willian Lunardi
-- Martin Andreoni
 - Taesoo Kim
-- Wenke Lee
+- HyungSeok Han
+- Soyeon Park
+- Dae R. Jeong
+- Dohyeok Kim
+- Dongkwan Kim
+- Eunsoo Kim
+- Jiho Kim
+- Joshua Wang
+- Kangsu Kim
+- Sangwoo Ji
+- Woosun Song
+- Hanqing Zhao
+- Andrew Chin
+- Gyejin Lee
+- Kevin Stevens
+- Mansour Alharthi
+- Yizhuo Zhai
+- Cen Zhang
+- Joonun Jang
+- Yeongjin Jang
+- Ammar Askar
+- Dongju Kim
+- Fabian Fleischer
+- Jeongin Cho
+- Junsik Kim
+- Kyungjoon Ko
+- Insu Yun
+- Sangdon Park
+- Dowoo Baik
+- Haein Lee
+- Hyeon Heo
+- Minjae Gwon
+- Minjae Lee
+- Minwoo Baek
+- Seunggi Min
+- Wonyoung Kim
+- Yonghwi Jin
+- Younggi Park
+- Yunjae Choi
+- Jinho Jung
+- Gwanhyun Lee
+- Junyoung Jang
+- Kyuheon Kim
+- Yeonghyeon Cha
+- Youngjoon Kim
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2025-06-01'
+date: '2025-09-19'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-09-25T23:58:33.714496Z'
+publishDate: '2025-09-25T23:53:49.596029Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- paper-conference
+- manuscript
 
 # Publication name and optional abbreviated publication name.
-publication: '*International Conference on Dependable Systems and Networks*'
+publication: ''
 publication_short: ''
 
 doi: ''
@@ -41,8 +79,7 @@ abstract: ''
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags:
-- DSN
+tags: []
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -76,8 +113,10 @@ image:
 #   Otherwise, set `projects: []`.
 projects: []
 links:
+- name: arXiv
+  url: https://arxiv.org/abs/2509.14589
 - name: URL
-  url: https://ieeexplore.ieee.org/document/11068853
+  url: https://arxiv.org/abs/2509.14589
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
