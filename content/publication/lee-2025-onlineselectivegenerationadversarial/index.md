@@ -1,5 +1,5 @@
 ---
-title: A Regret Perspective on Online Selective Generation
+title: Online Selective Generation with Adversarial Bandit Feedback
 
 # Authors
 # A YAML list of author names
@@ -17,7 +17,7 @@ author_notes: []
 date: '2025-07-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-07-06T11:27:16.685426Z'
+publishDate: '2025-10-19T04:06:00.015618Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
