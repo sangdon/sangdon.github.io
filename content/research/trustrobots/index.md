@@ -48,6 +48,5 @@ What's your own project idea?
 
 ### Related Work
 * [Security'23](https://www.usenix.org/conference/usenixsecurity23/presentation/park)
-* [NeurIPS'24](https://arxiv.org/abs/2307.09254)
 * [arXiv'25](https://arxiv.org/abs/2506.14067)
 

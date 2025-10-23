@@ -47,7 +47,6 @@ Do you have creative ideas in making LCMs better or using LCMs for solving other
 * Conformal Prediction 
 
 ### Related Work
-* [NeurIPS'24](https://arxiv.org/abs/2307.09254)
 * [arXiv'25](https://arxiv.org/abs/2505.13553)
 * [AIxCC-Winner](https://www.darpa.mil/news/2025/aixcc-results)
 
