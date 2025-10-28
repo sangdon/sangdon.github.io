@@ -1,5 +1,5 @@
 ---
-title: Selective Code Generation for Functional Guarantees
+title: Ensuring Functional Correctness of Large Code Models with Selective Generation
 
 # Authors
 # A YAML list of author names
@@ -17,7 +17,7 @@ author_notes: []
 date: '2025-07-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-07-06T11:27:16.689625Z'
+publishDate: '2025-10-28T08:36:30.775896Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
