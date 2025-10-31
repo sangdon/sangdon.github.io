@@ -76,14 +76,14 @@ applications in physical AI, computer security, and cyber-physical
 systems.
 
 📣 **Hiring**: 
-I'm looking for self-motivated students, particularly interseted in the following:
+I'm looking for self-motivated students, who is particularlly interseted in
  
-* Foundation of [AI Alignment](https://en.wikipedia.org/wiki/AI_alignment) (e.g., RL, bandits, conformal/selective prediction)
-* Large Code Models 
-* Physical AI
-* [AI Red Teaming](https://roadmap.sh/ai-red-teaming)  
+* Foundation of AI Alignment / Trustworthy AI
+* Code Generation
+* Red Teaming  
 
 
 For **POSTECH undergraduate research** (intern/CSED399/CSED499), feel free to email me (possibly with your CV) for discussion on research directions.
+
 For **prospective MS/PhD/MS+PhD students**, please email me with your CV -- 
-undergraduate students who wish to apply, I recommend having an internship with me. 
+Undergraduate students who wish to apply, I recommend having an internship with me. 
