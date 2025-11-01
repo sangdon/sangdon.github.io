@@ -77,11 +77,12 @@ systems.
 
 📣 **Hiring**: 
 I'm looking for self-motivated students, particularly interseted in the following:
- 
-* Foundation of [AI Alignment](https://en.wikipedia.org/wiki/AI_alignment) (e.g., RL, bandits, conformal/selective prediction)
-* Large Code Models 
-* Physical AI
-* [AI Red Teaming](https://roadmap.sh/ai-red-teaming)  
+
+1. [AI Red Teaming](https://roadmap.sh/ai-red-teaming)
+2. Large Code Models 
+3. Foundation of [AI Alignment](https://en.wikipedia.org/wiki/AI_alignment) (e.g., RL, bandits, conformal/selective prediction)
+4. Physical AI
+  
 
 
 For **POSTECH undergraduate research** (intern/CSED399/CSED499), feel free to email me (possibly with your CV) for discussion on research directions.
