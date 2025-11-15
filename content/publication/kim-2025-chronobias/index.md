@@ -1,6 +1,6 @@
 ---
-title: 'ChronoBias: A Benchmark for Evaluating Temporal Group Bias in Retrieval-augmented
-  Language Models'
+title: 'ChronoBias: A Benchmark for Evaluating Time-conditional Group Bias in the
+  Time-sensitive Knowledge of Large Language Models'
 
 # Authors
 # A YAML list of author names
@@ -20,7 +20,7 @@ author_notes: []
 date: '2025-11-05'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-08-24T00:41:59.264117Z'
+publishDate: '2025-11-15T11:37:03.052068Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -28,18 +28,17 @@ publication_types:
 - paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication: '*Empirical Methods in Natural Language Processing*'
+publication: '*Findings of the Association for Computational Linguistics: EMNLP 2025*'
 publication_short: ''
 
-doi: ''
+doi: 10.18653/v1/2025.findings-emnlp.405
 
 abstract: ''
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags:
-- EMNLP Findings
+tags: []
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -74,7 +73,7 @@ image:
 projects: []
 links:
 - name: URL
-  url: https://openreview.net/forum?id=7vuMXtHBkB
+  url: https://aclanthology.org/2025.findings-emnlp.405/
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
