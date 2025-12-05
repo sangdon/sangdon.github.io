@@ -1,31 +1,30 @@
 ---
-title: Ensuring Functional Correctness of Large Code Models with Selective Generation
+title: AI Kill Switch for malicious web-based LLM agent
 
 # Authors
 # A YAML list of author names
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- Jaewoo Jeong
-- Taesoo Kim
+- Sechan Lee
 - Sangdon Park
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2025-12-01'
+date: '2025-09-26'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-12-05T00:18:18.813582Z'
+publishDate: '2025-12-05T00:18:18.808138Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- paper-conference
+- manuscript
 
 # Publication name and optional abbreviated publication name.
-publication: '*Neural Information Processing Systems*'
+publication: ''
 publication_short: ''
 
 doi: ''
@@ -35,8 +34,7 @@ abstract: ''
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags:
-- NeurIPS DL4C Workshop
+tags: []
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -70,8 +68,10 @@ image:
 #   Otherwise, set `projects: []`.
 projects: []
 links:
+- name: arXiv
+  url: https://arxiv.org/abs/2511.13725
 - name: URL
-  url: https://arxiv.org/abs/2505.13553
+  url: https://arxiv.org/abs/2511.13725
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

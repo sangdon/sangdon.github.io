@@ -17,10 +17,10 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2025-11-05'
+date: '2025-11-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-11-15T11:37:03.052068Z'
+publishDate: '2025-12-05T00:20:43.531522Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -28,7 +28,7 @@ publication_types:
 - paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication: '*Findings of the Association for Computational Linguistics: EMNLP 2025*'
+publication: '*Findings of the Association for Computational Linguistics*'
 publication_short: ''
 
 doi: 10.18653/v1/2025.findings-emnlp.405
@@ -38,7 +38,8 @@ abstract: ''
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags:
+- EMNLP Findings
 
 # Display this page in a list of Featured pages?
 featured: false
