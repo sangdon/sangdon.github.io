@@ -7,8 +7,8 @@ title: 'Holistic Unlearning Benchmark: A Multi-Faceted Evaluation for Text-to-Im
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- Saemi Moon
-- Minjong Lee
+- Saemi Moon*
+- Minjong Lee*
 - Sangdon Park
 - Dongwoo Kim
 

@@ -6,8 +6,8 @@ title: 'MedBN: Robust Test Time Adaptation against Malicious Test Samples'
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- Hyejin Park
-- Jeongyeon Hwang
+- Hyejin Park*
+- Jeongyeon Hwang*
 - Sunung Mun
 - Sangdon Park
 - Jungseul Ok
