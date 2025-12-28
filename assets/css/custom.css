@@ -30,11 +30,11 @@
   font-size: 1.2rem;
   line-height: 1.5;
   font-weight: 200;
-  color: #9f1239 !important;  /* muted rose */
+/*  color: #9f1239 !important;  /* muted rose */*/
   opacity: 0.85;
 }
 
 .dark .resume-biography .research-mission {
-  color: #fda4af !important;
+/*  color: #fda4af !important;*/
   opacity: 0.9;
 }

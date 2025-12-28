@@ -11,7 +11,7 @@ sections:
       spacing:
         padding: [0, 1rem, 0, 1rem] # top, right, bottom, left
       biography:
-        style: 'text-align: justify; font-size: 0.8em;'
+        style: 'text-align: left; font-size: 0.8em;'
   - block: collection
     content:
       title: 📣 Recent News
