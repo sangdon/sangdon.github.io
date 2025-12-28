@@ -13,5 +13,6 @@ publication_types:
 links:
 - name: URL
   url: https://arxiv.org/abs/2307.04642
+highlight: 🏆 ICML’23 TEACH Workshop Best Paper Award
 ---
 

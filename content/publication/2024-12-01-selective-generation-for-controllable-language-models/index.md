@@ -13,6 +13,6 @@ publication_types:
 links:
 - name: URL
   url: https://arxiv.org/abs/2307.09254
-highlight: 🏆 Spotlight -- Top 2.08\%
+highlight: 🏆 Spotlight -- Top 2.08\%, 🏆 POSTECH GSAI BK21 Best Paper Award
 ---
 

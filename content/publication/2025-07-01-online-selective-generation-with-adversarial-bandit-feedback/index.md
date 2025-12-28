@@ -10,5 +10,6 @@ publication_types:
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2506.14067
+highlight: 🏆 Best Paper Finalist from CKAIA
 ---
 

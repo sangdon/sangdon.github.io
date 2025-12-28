@@ -18,5 +18,6 @@ publication_types:
 links:
 - name: URL
   url: https://dl.acm.org/doi/10.1145/3576841.3585931
+highlight: 🏆 ICCPS’23 Best Paper Award Finalist
 ---
 
