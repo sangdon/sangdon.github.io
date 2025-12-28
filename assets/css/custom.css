@@ -7,6 +7,16 @@
   color: #bbbbbb;
 }
 
+.article-metadata.li-cite-highlight {
+  color: #9f2f2f;   /* burgundy */
+  font-size: 0.95rem;
+}
+
+.dark .article-metadata.li-cite-highlight {
+  color: #f1a1a1;
+}
+
+
 
 .page-body p {
   margin: 0.8em 0;

@@ -48,14 +48,17 @@
   {{ else }}
 
   <span class="font-bold">
-  {{ with $item.Params.links }}
-    <a href="{{ (index . 0).url }}" target="_blank" rel="noopener">
+    {{ with $item.Params.links }}
+      {{ with index . 0 }}
+        <a href="{{ .url }}" target="_blank" rel="noopener">
+          {{ $item.Title }}
+        </a>
+      {{ end }}
+    {{ else }}
       {{ $item.Title }}
-    </a>
-  {{ else }}
-    {{ $item.Title }}
-  {{ end }}
+    {{ end }}
   </span>
+
   
   </br>
   <span class="article-metadata li-cite-author">
@@ -64,14 +67,22 @@
   <br/>
   <span class="article-metadata li-cite-author">
   {{ if $item.Params.publication }}
-    {{- $item.Params.publication | markdownify -}}
-    {{ if $item.Params.tags }}
-    ({{ printf "**%s**" (index $item.Params.tags 0) | markdownify -}}),
+    {{ printf "*%s*" $item.Params.publication | markdownify -}}
+    {{ if $item.Params.publication_short }}
+    ({{ printf "**%s**" $item.Params.publication_short | markdownify -}}),
     {{ end }}
   {{ end }}
   
   {{- $item.Date.Format "2006" -}}
   </span>
+  
+  <br/>
+  {{ if $item.Params.highlight }}
+  <span class="article-metadata li-cite-highlight">
+      {{ printf "**%s**" $item.Params.highlight | markdownify -}}
+  </span>
+  {{ end }}
+  
 <!--  {{ if $has_attachments }}-->
 <!--  <div class="flex flex-wrap space-x-3">-->
 <!--    {{ partial "page_links" (dict "page" $item "is_list" 1) }}-->
