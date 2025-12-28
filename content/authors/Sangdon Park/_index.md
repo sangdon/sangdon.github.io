@@ -65,7 +65,7 @@ user_groups:
   
 disable_links: true
 
-research_mission: "We develop principled AI aligned with human values." 
+research_mission: "We develop trustworthy AI aligned with human values." 
 ---
 
 
