@@ -1,1 +1,26 @@
+.article-metadata.li-cite-author {
+  color: #666666;
+  font-size: 0.95rem;
+}
 
+.dark .article-metadata.li-cite-author {
+  color: #bbbbbb;
+}
+
+
+.page-body p {
+  margin: 0.4em 0;
+  line-height: 1.5;
+}
+
+/* Tighten list spacing in the bio section */
+.page-body ol,
+.page-body ul {
+  margin: 0.4em 0;      /* reduce top/bottom gap */
+  padding-left: 1.5em;  /* control indent */
+  line-height: 1.5;    /* match paragraphs */
+}
+
+.page-body li {
+  margin: 0.25em 0;     /* reduce gap between items */
+}
