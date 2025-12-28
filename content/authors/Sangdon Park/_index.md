@@ -64,7 +64,10 @@ user_groups:
   - Leader
   
 disable_links: true
+
+research_mission: "We develop principled AI aligned with human values." 
 ---
+
 
 Sangdon Park is an assistant professor of [Graduate School of Artificial Intelligence (GSAI)](https://ai.postech.ac.kr) and [Computer Science and Engineering (CSE)](https://cse.postech.ac.kr/) at POSTECH. 
 He leads [Machine Learning Lab](http://ml.postech.ac.kr/) with other faculties. 
@@ -73,6 +76,7 @@ He is also a member of [National AI Research Lab](https://nairl.kr/), [Global AI
 His research interest lies in machine learning and AI Alignment — aligning AI to trustwrothy values by understanding from theory to implementation and by considering practical
 applications in physical AI, computer security, and cyber-physical
 systems.
+
 
 📣 **Hiring**: 
 I'm looking for self-motivated students, particularly interseted in the following:
@@ -84,6 +88,6 @@ I'm looking for self-motivated students, particularly interseted in the followin
   
 
 
-For **POSTECH undergraduate research** (intern, CSED399, or CSED499), feel free to email me (possibly with your CV) for discussion on research directions.
-For **prospective MS, PhD, and MS+PhD students**, please email me with your CV -- 
+For *POSTECH undergraduate research* (intern, CSED399, or CSED499), feel free to email me (possibly with your CV) for discussion on research directions.
+For *prospective MS, PhD, and MS+PhD students*, please email me with your CV -- 
 undergraduate students who wish to apply, I recommend having an internship with me. 

@@ -92,6 +92,14 @@
     {{ end }}
   </ul>
 
+  {{ with $person.research_mission }}
+    <div class="not-prose mt-3 mb-5 text-center research-mission flex items-center justify-center gap-2">
+      <span class="opacity-70">🧭</span>
+      <span>{{ . }}</span>
+    </div>
+  {{ end }}
+
+  
   {{ with ($block.content.text | emojify | $page.RenderString) | default $person_page.Content }}
   <div class="pt-2 d-flex justify-content-center prose prose-slate lg:prose-xl dark:prose-invert">
     <div class="bio-text" {{ with $block.design.biography.style }}{{ (printf "style=\"%s\"" .) | safe.HTMLAttr }}{{end}}>
