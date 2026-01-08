@@ -28,7 +28,7 @@ role: POSTECH AI PhD+MS
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Korea Univ. Statistic BS
+  - name: Korea Univ. Statistics BS
     url: ai.postech.ac.kr
 
 # Short bio (displayed in user profile at end of posts)
