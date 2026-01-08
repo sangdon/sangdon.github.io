@@ -24,11 +24,11 @@ authors:
 superuser: false
 
 # Role/position/tagline
-role: PhD+MS
+role: POSTECH CSE PhD+MS
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: POSTECH CSE
+  - name: POSTECH CSE BS
     url: cse.postech.ac.kr
 
 # Short bio (displayed in user profile at end of posts)
