@@ -81,10 +81,10 @@ systems.
 📣 **Hiring**: 
 I'm looking for self-motivated students, particularly interseted in the following:
 
-1. [AI Red Teaming](https://roadmap.sh/ai-red-teaming)
-2. Large Code Models 
+1. Physical AI
+2. [AI Red Teaming](https://roadmap.sh/ai-red-teaming)
 3. Foundation of [AI Alignment](https://en.wikipedia.org/wiki/AI_alignment) (e.g., RL, bandits, conformal / selective prediction)
-4. Physical AI
+4. Large Code Models
   
 
 
