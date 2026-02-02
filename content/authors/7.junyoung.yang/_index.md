@@ -50,15 +50,15 @@ profiles:
   #- icon: academicons/cv
   #  url: 
   #  label: Download my CV
-  #- icon: house-chimney
-  #  url: 
+  - icon: house-chimney
+    url: https://sheepjun0330.github.io/
 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
 # Author's website URL
-website: https://sheepjun0330.github.io/
+website: 
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
