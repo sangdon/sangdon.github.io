@@ -1,6 +1,6 @@
 ---
 title: Trustworthy LLMs 
-summary: Make LLMs trustful, fair, safe, and secue.
+summary: Make LLMs trustful, safe, and secure.
 #date: 2025-02-18
 reading_time: false
 weight: 9
