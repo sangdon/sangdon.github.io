@@ -1,5 +1,5 @@
 ---
-title: Trustworthy Robotics 
+title: Physical AI Safety 
 summary: Live with Safe Robots.
 #date: 2025-02-18
 reading_time: false
