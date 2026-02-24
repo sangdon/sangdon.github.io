@@ -1,6 +1,6 @@
 ---
 title: 📚 Trustworthy ML (2023 Fall) 
-summary: Align AI with Humans.
+summary: Align AI to Human.
 date: 2023-09-05
 reading_time: false
 

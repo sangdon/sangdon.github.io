@@ -1,10 +1,10 @@
 ---
-title: 📚 Discrete Mathematics (2024 Sring) 
-summary: Basic math for CS
-date: 2024-02-01
+title: 📚 Machine Learning (2025 Fall) 
+summary: From Supervised Learning to Reinforcement Learning
+date: 2025-09-02
 reading_time: false
 
-external_link: "https://plms.postech.ac.kr/course/view.php?id=9586"
+external_link: "https://plms.postech.ac.kr/course/view.php?id=14109"
 
 
 # Featured image

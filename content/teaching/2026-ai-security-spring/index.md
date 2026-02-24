@@ -1,8 +1,11 @@
 ---
-title: 📚 Trustworthy ML (2024 Fall) 
-summary: Align AI with Humans.
-date: 2024-09-03
+title: 📚 AI Security (2026 Spring) 
+summary: AI Red Teaming to make AI Better
+date: 2026-02-24
 reading_time: false
+
+
+external_link: "https://ai-security-class.github.io/CSED490H/2026/"
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -20,6 +23,7 @@ share: false
 toc: false
 
 ---
+
 
 
 # Trustworthy ML (AIGS703L / CSED703L)

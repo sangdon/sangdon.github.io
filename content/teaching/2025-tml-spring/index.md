@@ -1,6 +1,6 @@
 ---
 title: 📚 Trustworthy ML (2025 Spring) 
-summary: Align AI to Human.
+summary: Align AI with Humans.
 date: 2025-02-18
 reading_time: false
 
