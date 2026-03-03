@@ -28,7 +28,7 @@ role: POSTECH CSE MS
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: POSTECH CiTE BS
+  - name: POSTECH CiTE/CSE BS
     url: cse.postech.ac.kr
 
 # Short bio (displayed in user profile at end of posts)
