@@ -6,6 +6,7 @@ profiles:
     - Jun Young Park, POSTECH CSE Undergrad (2025.03 - )
     - Minsoo Ha, POSTECH Math Undergrad (2025.09 - )
     - Juhwan Park, POSTECH CSE Undergrad (2026.01 - )
+    - Seongju Park, POSTECH CSE Undergrad (2026.03 - )
     
     
 
