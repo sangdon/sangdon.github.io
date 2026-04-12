@@ -79,14 +79,16 @@ systems.
 
 
 📣 **Hiring**: 
-I'm looking for self-motivated students, particularly interseted in the following:
+I'm looking for self-motivated **graduate students** and **postdocs (₩100M/year)**, particularly interseted in the following:
 
-1. Physical AI
-2. [AI Red Teaming](https://roadmap.sh/ai-red-teaming)
-3. Foundation of [AI Alignment](https://en.wikipedia.org/wiki/AI_alignment) (e.g., RL, bandits, conformal prediction)
-
+1. Foundation of [AI Alignment](https://en.wikipedia.org/wiki/AI_alignment) via Conformal Prediction and Abstention 
+2. Physical AI Safety
+3. [AI Red Teaming](https://roadmap.sh/ai-red-teaming)
 
 
 For *POSTECH undergraduate research* (intern, CSED399, or CSED499), feel free to email me (possibly with your CV) for discussion on research directions.
-For *prospective MS, PhD, and MS+PhD students*, please email me with your CV -- 
-undergraduate students who wish to apply, I recommend having an internship with me. 
+
+For *prospective PhD+MS, PhD, and MS  students*, please email me with your CV -- 
+undergraduate students who wish to apply, I recommend having an internship with me.
+ 
+For postdocs, please send your CV to https://forms.gle/gNhMAd6bWXVnDA4s6.
