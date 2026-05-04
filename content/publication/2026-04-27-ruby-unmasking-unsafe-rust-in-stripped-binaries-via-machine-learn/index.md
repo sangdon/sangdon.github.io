@@ -11,5 +11,8 @@ publication: International Conference on Dependable Systems and Networks
 publication_short: DSN
 publication_types:
 - '1'
+links:
+- name: URL
+  url: https://arxiv.org/abs/2211.00111
 ---
 

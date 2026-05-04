@@ -3,8 +3,8 @@ title: Online Conformal Prediction with Adversarial Semi-bandit Feedback via Reg
   Minimization
 date: '2026-01-26'
 authors:
-- Junyoung Yang
-- Kyungmin Kim
+- Junyoung Yang*
+- Kyungmin Kim*
 - Sangdon Park
 publication: International Conference on Learning Representations
 publication_short: ICLR
