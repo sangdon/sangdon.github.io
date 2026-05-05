@@ -1,5 +1,6 @@
 ---
-title: Online Selective Generation with Adversarial Bandit Feedback
+title: Online Conformal Abstention for Factuality Control Under Adversarial Bandit
+  Feedback
 date: '2025-07-01'
 authors:
 - Minjae Lee*
