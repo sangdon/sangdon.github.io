@@ -91,4 +91,4 @@ For *POSTECH undergraduate research* (intern, CSED399, or CSED499), feel free to
 For *prospective PhD+MS, PhD, and MS  students*, please email me with your CV -- 
 undergraduate students who wish to apply, I recommend having an internship with me.
  
-For postdocs, please send your CV to https://forms.gle/gNhMAd6bWXVnDA4s6.
+For postdocs, please send your CV to https://forms.gle/GGyGBE4fit9Rinnh8.
