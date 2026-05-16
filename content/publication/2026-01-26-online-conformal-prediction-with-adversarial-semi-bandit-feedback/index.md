@@ -12,6 +12,6 @@ publication_types:
 - '1'
 links:
 - name: URL
-  url: https://openreview.net/forum?id=RMWcdp5IUy
+  url: https://arxiv.org/abs/2604.17984
 ---
 
