@@ -1,5 +1,5 @@
 ---
-title: 🏆 DARPA AIxCC Semifinals
+title: 🏆 DARPA AIxCC Semifinals ($2M)
 summary: Our Team Atlanta advances to the DARPA AIxCC finals.
 date: 2024-08-12
 

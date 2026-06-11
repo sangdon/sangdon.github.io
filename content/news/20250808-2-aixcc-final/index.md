@@ -1,5 +1,5 @@
 ---
-title: 🏆 DARPA AIxCC Winner!
+title: 🏆 DARPA AIxCC Winner ($4M)!
 summary: Our Team Atlanta won the DARPA AIxCC.
 date: 2025-08-08
 
