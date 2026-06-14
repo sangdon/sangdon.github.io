@@ -54,6 +54,6 @@ publication_types:
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2509.14589
-highlight: 🏆 DARPA AIxCC Winner -- \$4M+\$2M Award
+highlight: 🏆 DARPA AIxCC Winner -- $(4+2)M Award
 ---
 
