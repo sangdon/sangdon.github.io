@@ -5,7 +5,7 @@ profiles:
     - Jaewan Choi, POSTECH CSE Undergrad (2025.01 - )
     - Junyoung Park, POSTECH CSE Undergrad (2025.03 - )
     - Juhwan Park, POSTECH CSE Undergrad (2026.01 - )
-    - Seongju Park, POSTECH CSE Undergrad (2026.03 - )
+
     
     
 
@@ -15,7 +15,7 @@ profiles:
 <!--    - Hayeon Kim, POSTECH CSE Undergrad (2025 September - 2025 December)-->
 <!--    - Juwon Ha, POSTECH CSE Undergrad (2025 September - 2025 December)-->
 <!--    - Minsoo Ha, POSTECH Math Undergrad (2025.09 - 2026.03)-->
-
+<!--    - Seongju Park, POSTECH CSE Undergrad (2026.03 - 2026.05) -->
 
 
 

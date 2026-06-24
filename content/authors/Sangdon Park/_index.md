@@ -79,7 +79,7 @@ systems.
 
 
 📣 **Hiring**: 
-I'm looking for self-motivated **graduate students** and **postdocs (₩100M/year)**, particularly interseted in the following:
+I'm looking for self-motivated **graduate students**, particularly interseted in the following:
 
 1. Foundation of [AI Alignment](https://en.wikipedia.org/wiki/AI_alignment) via Conformal Prediction and Abstention 
 2. Physical AI Safety
@@ -92,4 +92,3 @@ For *POSTECH undergraduate research* (intern, CSED399, or CSED499), feel free to
 For *prospective PhD+MS, PhD, and MS  students*, please email me with your CV -- 
 undergraduate students who wish to apply, I recommend having an internship with me.
  
-For postdocs, please send your CV to https://forms.gle/GGyGBE4fit9Rinnh8.
