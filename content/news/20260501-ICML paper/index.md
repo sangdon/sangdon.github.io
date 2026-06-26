@@ -1,6 +1,6 @@
 ---
-title: "🎉 Two ICML'26 Papers"
-summary: Selective Code Generation and LLM Watermarking Evasion are accepted to ICML'26.
+title: "🎉 Two ICML'26 Papers + One ICML'26 'Workshop"
+summary: Selective Code Generation, LLM Watermarking Evasion, and Harness Design are accepted to ICML'26.
 date: 2026-05-01
 
 authors:
