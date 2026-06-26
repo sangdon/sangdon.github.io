@@ -1,6 +1,6 @@
 ---
 title: The Interplay of Harness Design and Post-Training in LLM Agents
-date: '2026-06-03'
+date: '2026-05-01'
 authors:
 - Kyungmin Kim
 - Youngbin Choi
