@@ -220,12 +220,6 @@ def main():
             if abstract:
                 out.write(abstract + "\n")
 
-        cite_bib = pub_dir / "cite.bib"
-        with cite_bib.open("w", encoding="utf-8") as out:
-            db = bibtexparser.bibdatabase.BibDatabase()
-            db.entries = [entry]
-            out.write(bibtexparser.dumps(db))
-
         print(f"✓ {slug}")
 
     print("\nDone. Publications generated.")
