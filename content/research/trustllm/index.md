@@ -1,5 +1,5 @@
 ---
-title: Foundataion of AI Alignment 
+title: Foundation of AI Alignment 
 summary: Make LLMs trustful, safe, and secure.
 #date: 2025-02-18
 reading_time: false
