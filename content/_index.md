@@ -18,6 +18,10 @@ sections:
       filters: 
         folders:
           - news
+      archive:
+        enable: true
+        link: /news/
+        text: See all
     design:
       spacing:
         padding: ['3rem', 0, '0rem', 0] # top, right, bottom, left

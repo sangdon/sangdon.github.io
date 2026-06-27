@@ -1,86 +1,942 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sangdon Park</title><link>http://localhost:1313/</link><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><description>Sangdon Park</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate><image><url>http://localhost:1313/media/icon_hu_5e0546d98affa013.png</url><title>Sangdon Park</title><link>http://localhost:1313/</link></image><item><title>Red Teaming on Agentic AI</title><link>http://localhost:1313/research/redteaming/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/research/redteaming/</guid><description>&lt;p>It is the era of Agentic AI but Agentic AI still suffers from trustworthiness issues, including weakness on jailbreaking.
-We advance the status of Agentic AI by debugging its issues via red teaming. In particular, we consider the following question:&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sangdon Park</title><link>http://localhost:1313/</link><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><description>Sangdon Park</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate><image><url>http://localhost:1313/media/icon_hu_5e0546d98affa013.png</url><title>Sangdon Park</title><link>http://localhost:1313/</link></image><item><title>Foundation of AI Alignment</title><link>http://localhost:1313/research/alignment-foundation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/research/alignment-foundation/</guid><description>&lt;p>Large language models raise many practical issues, including hallucination and harmful responses. This raises the following question.&lt;/p>
 &lt;blockquote>
-&lt;p>&lt;strong>How to learn red agentic AI to debug target agentic AI continuously?&lt;/strong>&lt;/p>&lt;/blockquote>
-&lt;p>We exploit our knowledge and experience on Trustworthy Agentic AI
-to build red Agentic AI for blue Agentic AI.&lt;/p>
-&lt;h3 id="on-goingpotential-projects">On-going/Potential Projects&lt;/h3>
-&lt;ul>
-&lt;li>&lt;strong>Red Agent Learning&lt;/strong>: Learn red Agents for blue LLMs via RL.&lt;/li>
-&lt;li>&lt;strong>Red Agent Continual Learning&lt;/strong>: Learn continual red teaming Agents.&lt;/li>
-&lt;/ul>
-&lt;p>Do you have creative ideas in building red Agentic AI?&lt;/p>
+&lt;p>&lt;strong>How do we build AI systems that are reliably &lt;mark>truthful&lt;/mark>, &lt;mark>safe&lt;/mark>, and &lt;mark>secure&lt;/mark>?&lt;/strong>&lt;/p>&lt;/blockquote>
 &lt;h3 id="keywords">Keywords&lt;/h3>
 &lt;ul>
-&lt;li>Red Teaming&lt;/li>
+&lt;li>Large Language Models&lt;/li>
+&lt;li>Conformal Abstention&lt;/li>
+&lt;li>Conformal Prediction&lt;/li>
+&lt;li>Uncertainty Quantification&lt;/li>
+&lt;li>Reinforcement Learning&lt;/li>
+&lt;/ul>
+&lt;h3 id="related-publications">Related Publications&lt;/h3>
+&lt;div style="display:flex; flex-direction:column; gap:0.6rem; margin-top:0.5rem;">
+&lt;div style="padding:0.9rem 1.1rem; border:1px solid #e5e7eb; border-radius:12px; background:#f9fafb;">
+&lt;div style="font-size:14px; font-weight:600; line-height:1.4; margin-bottom:4px; color:#111827;">
+&lt;a href="https://arxiv.org/abs/2606.25447" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">The Interplay of Harness Design and Post-Training in LLM Agents&lt;/a>
+&lt;/div>
+&lt;div style="font-size:12px; color:#6b7280; margin-bottom:4px;">
+Kyungmin Kim
+,
+Youngbin Choi
+,
+Seoyeon Lee
+,
+Suhyeon Jun
+,
+Dongwoo Kim
+,
+&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
+&lt;/div>
+&lt;div style="font-size:12px; color:#374151; display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
+&lt;span style="display:inline-block; font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8; letter-spacing:0.01em; line-height:1.4;">ICML RLxF Workshop&lt;/span>
+&lt;span>2026&lt;/span>
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
+&lt;a href="https://arxiv.org/abs/2606.25447" target="_blank" rel="noopener" style="font-size:11px; padding:2px 10px; border-radius:20px; border:1px solid #d1d5db; color:#374151; text-decoration:none; background:#fff;">arXiv&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div style="padding:0.9rem 1.1rem; border:1px solid #e5e7eb; border-radius:12px; background:#f9fafb;">
+&lt;div style="font-size:14px; font-weight:600; line-height:1.4; margin-bottom:4px; color:#111827;">
+&lt;a href="https://arxiv.org/abs/2505.13553" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">Towards Functional Correctness of Large Code Models with Selective Generation&lt;/a>
+&lt;/div>
+&lt;div style="font-size:12px; color:#6b7280; margin-bottom:4px;">
+Jaewoo Jeong
+,
+Taesoo Kim
+,
+&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
+&lt;/div>
+&lt;div style="font-size:12px; color:#374151; display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
+&lt;span style="display:inline-block; font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8; letter-spacing:0.01em; line-height:1.4;">ICML&lt;/span>
+&lt;span>2026&lt;/span>
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
+&lt;a href="https://arxiv.org/abs/2505.13553" target="_blank" rel="noopener" style="font-size:11px; padding:2px 10px; border-radius:20px; border:1px solid #d1d5db; color:#374151; text-decoration:none; background:#fff;">arXiv&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div style="padding:0.9rem 1.1rem; border:1px solid #e5e7eb; border-radius:12px; background:#f9fafb;">
+&lt;div style="font-size:14px; font-weight:600; line-height:1.4; margin-bottom:4px; color:#111827;">
+&lt;a href="https://arxiv.org/abs/2604.17984" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">Online Conformal Prediction with Adversarial Semi-bandit Feedback via Regret Minimization&lt;/a>
+&lt;/div>
+&lt;div style="font-size:12px; color:#6b7280; margin-bottom:4px;">
+Junyoung Yang*
+,
+Kyungmin Kim*
+,
+&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
+&lt;/div>
+&lt;div style="font-size:12px; color:#374151; display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
+&lt;span style="display:inline-block; font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8; letter-spacing:0.01em; line-height:1.4;">ICLR&lt;/span>
+&lt;span>2026&lt;/span>
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
+&lt;a href="https://arxiv.org/abs/2604.17984" target="_blank" rel="noopener" style="font-size:11px; padding:2px 10px; border-radius:20px; border:1px solid #d1d5db; color:#374151; text-decoration:none; background:#fff;">arXiv&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div style="padding:0.9rem 1.1rem; border:1px solid #e5e7eb; border-radius:12px; background:#f9fafb;">
+&lt;div style="font-size:14px; font-weight:600; line-height:1.4; margin-bottom:4px; color:#111827;">
+&lt;a href="https://doi.org/10.18653/v1/2025.findings-emnlp.405" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">ChronoBias: A Benchmark for Evaluating Time-conditional Group Bias in the Time-sensitive Knowledge of Large Language Models&lt;/a>
+&lt;/div>
+&lt;div style="font-size:12px; color:#6b7280; margin-bottom:4px;">
+Kyungmin Kim
+,
+Youngbin Choi
+,
+Hyounghun Kim
+,
+Dongwoo Kim
+,
+&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
+&lt;/div>
+&lt;div style="font-size:12px; color:#374151; display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
+&lt;span style="display:inline-block; font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8; letter-spacing:0.01em; line-height:1.4;">EMNLP Findings&lt;/span>
+&lt;span>2025&lt;/span>
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
+&lt;a href="https://doi.org/10.18653/v1/2025.findings-emnlp.405" target="_blank" rel="noopener" style="font-size:11px; padding:2px 10px; border-radius:20px; border:1px solid #d1d5db; color:#374151; text-decoration:none; background:#fff;">DOI&lt;/a>
+&lt;a href="https://aclanthology.org/2025.findings-emnlp.405/" target="_blank" rel="noopener" style="font-size:11px; padding:2px 10px; border-radius:20px; border:1px solid #d1d5db; color:#374151; text-decoration:none; background:#fff;">ACL&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div style="padding:0.9rem 1.1rem; border:1px solid #e5e7eb; border-radius:12px; background:#f9fafb;">
+&lt;div style="font-size:14px; font-weight:600; line-height:1.4; margin-bottom:4px; color:#111827;">
+&lt;a href="https://arxiv.org/abs/2410.05664" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">Holistic Unlearning Benchmark: A Multi-Faceted Evaluation for Text-to-Image Diffusion Model Unlearning&lt;/a>
+&lt;/div>
+&lt;div style="font-size:12px; color:#6b7280; margin-bottom:4px;">
+Saemi Moon*
+,
+Minjong Lee*
+,
+&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
+,
+Dongwoo Kim
+&lt;/div>
+&lt;div style="font-size:12px; color:#374151; display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
+&lt;span style="display:inline-block; font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8; letter-spacing:0.01em; line-height:1.4;">ICCV&lt;/span>
+&lt;span>2025&lt;/span>
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
+&lt;a href="https://arxiv.org/abs/2410.05664" target="_blank" rel="noopener" style="font-size:11px; padding:2px 10px; border-radius:20px; border:1px solid #d1d5db; color:#374151; text-decoration:none; background:#fff;">arXiv&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div style="padding:0.9rem 1.1rem; border:1px solid #e5e7eb; border-radius:12px; background:#f9fafb;">
+&lt;div style="font-size:14px; font-weight:600; line-height:1.4; margin-bottom:4px; color:#111827;">
+&lt;a href="https://openreview.net/forum?id=SwfymlaTn3" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">Retrieval-Augmented Generation with Estimation of Source Reliability&lt;/a>
+&lt;/div>
+&lt;div style="font-size:12px; color:#6b7280; margin-bottom:4px;">
+Jeongyeon Hwang
+,
+Junyoung Park
+,
+Hyejin Park
+,
+Dongwoo Kim
+,
+&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
+,
+Jungseul Ok
+&lt;/div>
+&lt;div style="font-size:12px; color:#374151; display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
+&lt;span style="display:inline-block; font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8; letter-spacing:0.01em; line-height:1.4;">EMNLP&lt;/span>
+&lt;span>2025&lt;/span>
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
+&lt;a href="https://openreview.net/forum?id=SwfymlaTn3" target="_blank" rel="noopener" style="font-size:11px; padding:2px 10px; border-radius:20px; border:1px solid #d1d5db; color:#374151; text-decoration:none; background:#fff;">OpenReview&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div style="padding:0.9rem 1.1rem; border:1px solid #e5e7eb; border-radius:12px; background:#f9fafb;">
+&lt;div style="font-size:14px; font-weight:600; line-height:1.4; margin-bottom:4px; color:#111827;">
+&lt;a href="https://arxiv.org/abs/2506.14067" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">Online Conformal Abstention for Factuality Control Under Adversarial Bandit Feedback&lt;/a>
+&lt;/div>
+&lt;div style="font-size:12px; color:#6b7280; margin-bottom:4px;">
+Minjae Lee*
+,
+Yoonjae Jung*
+,
+&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
+&lt;/div>
+&lt;div style="font-size:12px; color:#374151; display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
+&lt;span>2025&lt;/span>
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#fee2e2; color:#b91c1c;">🏆 Best Paper Finalist from CKAIA&lt;/span>
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
+&lt;a href="https://arxiv.org/abs/2506.14067" target="_blank" rel="noopener" style="font-size:11px; padding:2px 10px; border-radius:20px; border:1px solid #d1d5db; color:#374151; text-decoration:none; background:#fff;">arXiv&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div style="padding:0.9rem 1.1rem; border:1px solid #e5e7eb; border-radius:12px; background:#f9fafb;">
+&lt;div style="font-size:14px; font-weight:600; line-height:1.4; margin-bottom:4px; color:#111827;">
+&lt;a href="https://arxiv.org/abs/2307.09254" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">Selective Generation for Controllable Language Models&lt;/a>
+&lt;/div>
+&lt;div style="font-size:12px; color:#6b7280; margin-bottom:4px;">
+Minjae Lee*
+,
+Kyungmin Kim*
+,
+Taesoo Kim
+,
+&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
+&lt;/div>
+&lt;div style="font-size:12px; color:#374151; display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
+&lt;span style="display:inline-block; font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8; letter-spacing:0.01em; line-height:1.4;">NeurIPS&lt;/span>
+&lt;span>2024&lt;/span>
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#fee2e2; color:#b91c1c;">🏆 Spotlight (Top 2.08%)&lt;/span>&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#fee2e2; color:#b91c1c;">🏆 POSTECH GSAI BK21 Best Paper Award&lt;/span>
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
+&lt;a href="https://arxiv.org/abs/2307.09254" target="_blank" rel="noopener" style="font-size:11px; padding:2px 10px; border-radius:20px; border:1px solid #d1d5db; color:#374151; text-decoration:none; background:#fff;">arXiv&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div style="padding:0.9rem 1.1rem; border:1px solid #e5e7eb; border-radius:12px; background:#f9fafb;">
+&lt;div style="font-size:14px; font-weight:600; line-height:1.4; margin-bottom:4px; color:#111827;">
+&lt;a href="https://arxiv.org/abs/2403.19326" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">MedBN: Robust Test Time Adaptation against Malicious Test Samples&lt;/a>
+&lt;/div>
+&lt;div style="font-size:12px; color:#6b7280; margin-bottom:4px;">
+Hyejin Park*
+,
+Jeongyeon Hwang*
+,
+Sunung Mun
+,
+&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
+,
+Jungseul Ok
+&lt;/div>
+&lt;div style="font-size:12px; color:#374151; display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
+&lt;span style="display:inline-block; font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8; letter-spacing:0.01em; line-height:1.4;">CVPR&lt;/span>
+&lt;span>2024&lt;/span>
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
+&lt;a href="https://arxiv.org/abs/2403.19326" target="_blank" rel="noopener" style="font-size:11px; padding:2px 10px; border-radius:20px; border:1px solid #d1d5db; color:#374151; text-decoration:none; background:#fff;">arXiv&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div style="padding:0.9rem 1.1rem; border:1px solid #e5e7eb; border-radius:12px; background:#f9fafb;">
+&lt;div style="font-size:14px; font-weight:600; line-height:1.4; margin-bottom:4px; color:#111827;">
+&lt;a href="https://arxiv.org/abs/2307.04642" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">TRAQ: Trustworthy Retrieval Augmented Question Answering via Conformal Prediction&lt;/a>
+&lt;/div>
+&lt;div style="font-size:12px; color:#6b7280; margin-bottom:4px;">
+Shuo Li
+,
+&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
+,
+Insup Lee
+,
+Osbert Bastani
+&lt;/div>
+&lt;div style="font-size:12px; color:#374151; display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
+&lt;span style="display:inline-block; font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8; letter-spacing:0.01em; line-height:1.4;">NAACL&lt;/span>
+&lt;span>2024&lt;/span>
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#fee2e2; color:#b91c1c;">🏆 ICML&amp;#39;23 TEACH Workshop Best Paper Award&lt;/span>
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
+&lt;a href="https://arxiv.org/abs/2307.04642" target="_blank" rel="noopener" style="font-size:11px; padding:2px 10px; border-radius:20px; border:1px solid #d1d5db; color:#374151; text-decoration:none; background:#fff;">arXiv&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div style="padding:0.9rem 1.1rem; border:1px solid #e5e7eb; border-radius:12px; background:#f9fafb;">
+&lt;div style="font-size:14px; font-weight:600; line-height:1.4; margin-bottom:4px; color:#111827;">
+&lt;a href="https://arxiv.org/abs/2310.12964" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">PAC Prediction Sets Under Label Shift&lt;/a>
+&lt;/div>
+&lt;div style="font-size:12px; color:#6b7280; margin-bottom:4px;">
+Wenwen Si
+,
+&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
+,
+Insup Lee
+,
+Edgar Dobriban
+,
+Osbert Bastani
+&lt;/div>
+&lt;div style="font-size:12px; color:#374151; display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
+&lt;span style="display:inline-block; font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8; letter-spacing:0.01em; line-height:1.4;">ICLR&lt;/span>
+&lt;span>2024&lt;/span>
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
+&lt;a href="https://arxiv.org/abs/2310.12964" target="_blank" rel="noopener" style="font-size:11px; padding:2px 10px; border-radius:20px; border:1px solid #d1d5db; color:#374151; text-decoration:none; background:#fff;">arXiv&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div style="padding:0.9rem 1.1rem; border:1px solid #e5e7eb; border-radius:12px; background:#f9fafb;">
+&lt;div style="font-size:14px; font-weight:600; line-height:1.4; margin-bottom:4px; color:#111827;">
+&lt;a href="https://ieeexplore.ieee.org/document/10203919" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">Angelic Patches for Improving Third-Party Object Detector Performance&lt;/a>
+&lt;/div>
+&lt;div style="font-size:12px; color:#6b7280; margin-bottom:4px;">
+Wenwen Si
+,
+Shuo Li
+,
+&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
+,
+Insup Lee
+,
+Osbert Bastani
+&lt;/div>
+&lt;div style="font-size:12px; color:#374151; display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
+&lt;span style="display:inline-block; font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8; letter-spacing:0.01em; line-height:1.4;">CVPR&lt;/span>
+&lt;span>2023&lt;/span>
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
+&lt;a href="https://ieeexplore.ieee.org/document/10203919" target="_blank" rel="noopener" style="font-size:11px; padding:2px 10px; border-radius:20px; border:1px solid #d1d5db; color:#374151; text-decoration:none; background:#fff;">IEEE&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div style="padding:0.9rem 1.1rem; border:1px solid #e5e7eb; border-radius:12px; background:#f9fafb;">
+&lt;div style="font-size:14px; font-weight:600; line-height:1.4; margin-bottom:4px; color:#111827;">
+&lt;a href="https://arxiv.org/abs/2211.09330" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">ACon$^2$: Adaptive Conformal Consensus for Provable Blockchain Oracles&lt;/a>
+&lt;/div>
+&lt;div style="font-size:12px; color:#6b7280; margin-bottom:4px;">
+&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
+,
+Osbert Bastani
+,
+Taesoo Kim
+&lt;/div>
+&lt;div style="font-size:12px; color:#374151; display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
+&lt;span style="display:inline-block; font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8; letter-spacing:0.01em; line-height:1.4;">Security&lt;/span>
+&lt;span>2023&lt;/span>
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
+&lt;a href="https://arxiv.org/abs/2211.09330" target="_blank" rel="noopener" style="font-size:11px; padding:2px 10px; border-radius:20px; border:1px solid #d1d5db; color:#374151; text-decoration:none; background:#fff;">arXiv&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div style="padding:0.9rem 1.1rem; border:1px solid #e5e7eb; border-radius:12px; background:#f9fafb;">
+&lt;div style="font-size:14px; font-weight:600; line-height:1.4; margin-bottom:4px; color:#111827;">
+&lt;a href="https://arxiv.org/abs/2207.02440" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">PAC Prediction Sets for Meta-Learning&lt;/a>
+&lt;/div>
+&lt;div style="font-size:12px; color:#6b7280; margin-bottom:4px;">
+&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
+,
+Edgar Dobriban
+,
+Insup Lee
+,
+Osbert Bastani
+&lt;/div>
+&lt;div style="font-size:12px; color:#374151; display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
+&lt;span style="display:inline-block; font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8; letter-spacing:0.01em; line-height:1.4;">NeurIPS&lt;/span>
+&lt;span>2022&lt;/span>
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
+&lt;a href="https://arxiv.org/abs/2207.02440" target="_blank" rel="noopener" style="font-size:11px; padding:2px 10px; border-radius:20px; border:1px solid #d1d5db; color:#374151; text-decoration:none; background:#fff;">arXiv&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div style="padding:0.9rem 1.1rem; border:1px solid #e5e7eb; border-radius:12px; background:#f9fafb;">
+&lt;div style="font-size:14px; font-weight:600; line-height:1.4; margin-bottom:4px; color:#111827;">
+&lt;a href="https://proceedings.mlr.press/v162/jang22a.html" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">Sequential Covariate Shift Detection Using Classifier Two-Sample Tests&lt;/a>
+&lt;/div>
+&lt;div style="font-size:12px; color:#6b7280; margin-bottom:4px;">
+Sooyong Jang
+,
+&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
+,
+Insup Lee
+,
+Osbert Bastani
+&lt;/div>
+&lt;div style="font-size:12px; color:#374151; display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
+&lt;span style="display:inline-block; font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8; letter-spacing:0.01em; line-height:1.4;">ICML&lt;/span>
+&lt;span>2022&lt;/span>
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
+&lt;a href="https://proceedings.mlr.press/v162/jang22a.html" target="_blank" rel="noopener" style="font-size:11px; padding:2px 10px; border-radius:20px; border:1px solid #d1d5db; color:#374151; text-decoration:none; background:#fff;">PMLR&lt;/a>
+&lt;a href="https://proceedings.mlr.press/v162/jang22a/jang22a.pdf" target="_blank" rel="noopener" style="font-size:11px; padding:2px 10px; border-radius:20px; border:1px solid #d1d5db; color:#374151; text-decoration:none; background:#fff;">PDF&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div style="padding:0.9rem 1.1rem; border:1px solid #e5e7eb; border-radius:12px; background:#f9fafb;">
+&lt;div style="font-size:14px; font-weight:600; line-height:1.4; margin-bottom:4px; color:#111827;">
+&lt;a href="https://arxiv.org/abs/2204.07482" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">Towards PAC Multi-Object Detection and Tracking&lt;/a>
+&lt;/div>
+&lt;div style="font-size:12px; color:#6b7280; margin-bottom:4px;">
+Shuo Li
+,
+&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
+,
+Xiayan Ji
+,
+Insup Lee
+,
+Osbert Bastani
+&lt;/div>
+&lt;div style="font-size:12px; color:#374151; display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
+&lt;span>2022&lt;/span>
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
+&lt;a href="https://arxiv.org/abs/2204.07482" target="_blank" rel="noopener" style="font-size:11px; padding:2px 10px; border-radius:20px; border:1px solid #d1d5db; color:#374151; text-decoration:none; background:#fff;">arXiv&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div style="padding:0.9rem 1.1rem; border:1px solid #e5e7eb; border-radius:12px; background:#f9fafb;">
+&lt;div style="font-size:14px; font-weight:600; line-height:1.4; margin-bottom:4px; color:#111827;">
+&lt;a href="https://arxiv.org/abs/2106.09848" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">PAC Prediction Sets Under Covariate Shift&lt;/a>
+&lt;/div>
+&lt;div style="font-size:12px; color:#6b7280; margin-bottom:4px;">
+&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
+,
+Edgar Dobriban
+,
+Insup Lee
+,
+Osbert Bastani
+&lt;/div>
+&lt;div style="font-size:12px; color:#374151; display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
+&lt;span style="display:inline-block; font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8; letter-spacing:0.01em; line-height:1.4;">ICLR&lt;/span>
+&lt;span>2022&lt;/span>
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
+&lt;a href="https://arxiv.org/abs/2106.09848" target="_blank" rel="noopener" style="font-size:11px; padding:2px 10px; border-radius:20px; border:1px solid #d1d5db; color:#374151; text-decoration:none; background:#fff;">arXiv&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div style="padding:0.9rem 1.1rem; border:1px solid #e5e7eb; border-radius:12px; background:#f9fafb;">
+&lt;div style="font-size:14px; font-weight:600; line-height:1.4; margin-bottom:4px; color:#111827;">
+&lt;a href="https://arxiv.org/abs/2011.00716" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">PAC Confidence Predictions for Deep Neural Network Classifiers&lt;/a>
+&lt;/div>
+&lt;div style="font-size:12px; color:#6b7280; margin-bottom:4px;">
+&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
+,
+Shuo Li
+,
+Insup Lee
+,
+Osbert Bastani
+&lt;/div>
+&lt;div style="font-size:12px; color:#374151; display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
+&lt;span style="display:inline-block; font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8; letter-spacing:0.01em; line-height:1.4;">ICLR&lt;/span>
+&lt;span>2021&lt;/span>
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
+&lt;a href="https://arxiv.org/abs/2011.00716" target="_blank" rel="noopener" style="font-size:11px; padding:2px 10px; border-radius:20px; border:1px solid #d1d5db; color:#374151; text-decoration:none; background:#fff;">arXiv&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div style="padding:0.9rem 1.1rem; border:1px solid #e5e7eb; border-radius:12px; background:#f9fafb;">
+&lt;div style="font-size:14px; font-weight:600; line-height:1.4; margin-bottom:4px; color:#111827;">
+&lt;a href="https://arxiv.org/abs/2201.02331" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">iDECODe: In-distribution Equivariance for Conformal Out-of-distribution Detection&lt;/a>
+&lt;/div>
+&lt;div style="font-size:12px; color:#6b7280; margin-bottom:4px;">
+Ramneet Kaur
+,
+Susmit Jha
+,
+Anirban Roy
+,
+&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
+,
+Edgar Dobriban
+,
+Oleg Sokolsky
+,
+Insup Lee
+&lt;/div>
+&lt;div style="font-size:12px; color:#374151; display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
+&lt;span style="display:inline-block; font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8; letter-spacing:0.01em; line-height:1.4;">AAAI&lt;/span>
+&lt;span>2021&lt;/span>
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
+&lt;a href="https://arxiv.org/abs/2201.02331" target="_blank" rel="noopener" style="font-size:11px; padding:2px 10px; border-radius:20px; border:1px solid #d1d5db; color:#374151; text-decoration:none; background:#fff;">arXiv&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div style="padding:0.9rem 1.1rem; border:1px solid #e5e7eb; border-radius:12px; background:#f9fafb;">
+&lt;div style="font-size:14px; font-weight:600; line-height:1.4; margin-bottom:4px; color:#111827;">
+&lt;a href="https://arxiv.org/abs/2003.00343" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">Calibrated prediction with covariate shift via unsupervised domain adaptation&lt;/a>
+&lt;/div>
+&lt;div style="font-size:12px; color:#6b7280; margin-bottom:4px;">
+&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
+,
+Osbert Bastani
+,
+James Weimer
+,
+Insup Lee
+&lt;/div>
+&lt;div style="font-size:12px; color:#374151; display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
+&lt;span style="display:inline-block; font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8; letter-spacing:0.01em; line-height:1.4;">AISTATS&lt;/span>
+&lt;span>2020&lt;/span>
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
+&lt;a href="https://arxiv.org/abs/2003.00343" target="_blank" rel="noopener" style="font-size:11px; padding:2px 10px; border-radius:20px; border:1px solid #d1d5db; color:#374151; text-decoration:none; background:#fff;">arXiv&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div style="padding:0.9rem 1.1rem; border:1px solid #e5e7eb; border-radius:12px; background:#f9fafb;">
+&lt;div style="font-size:14px; font-weight:600; line-height:1.4; margin-bottom:4px; color:#111827;">
+&lt;a href="https://arxiv.org/abs/2001.00106" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">PAC Confidence Sets for Deep Neural Networks via Calibrated Prediction&lt;/a>
+&lt;/div>
+&lt;div style="font-size:12px; color:#6b7280; margin-bottom:4px;">
+&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
+,
+Osbert Bastani
+,
+Nikolai Matni
+,
+Insup Lee
+&lt;/div>
+&lt;div style="font-size:12px; color:#374151; display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
+&lt;span style="display:inline-block; font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8; letter-spacing:0.01em; line-height:1.4;">ICLR&lt;/span>
+&lt;span>2020&lt;/span>
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
+&lt;a href="https://arxiv.org/abs/2001.00106" target="_blank" rel="noopener" style="font-size:11px; padding:2px 10px; border-radius:20px; border:1px solid #d1d5db; color:#374151; text-decoration:none; background:#fff;">arXiv&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div style="padding:0.9rem 1.1rem; border:1px solid #e5e7eb; border-radius:12px; background:#f9fafb;">
+&lt;div style="font-size:14px; font-weight:600; line-height:1.4; margin-bottom:4px; color:#111827;">
+&lt;a href="https://arxiv.org/abs/1708.03366v2" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">Resilient linear classification: an approach to deal with attacks on training data&lt;/a>
+&lt;/div>
+&lt;div style="font-size:12px; color:#6b7280; margin-bottom:4px;">
+&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
+,
+James Weimer
+,
+Insup Lee
+&lt;/div>
+&lt;div style="font-size:12px; color:#374151; display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
+&lt;span style="display:inline-block; font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8; letter-spacing:0.01em; line-height:1.4;">ICCPS&lt;/span>
+&lt;span>2017&lt;/span>
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
+&lt;a href="https://arxiv.org/abs/1708.03366v2" target="_blank" rel="noopener" style="font-size:11px; padding:2px 10px; border-radius:20px; border:1px solid #d1d5db; color:#374151; text-decoration:none; background:#fff;">arXiv&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;/div></description></item><item><title>Physical AI Safety</title><link>http://localhost:1313/research/physical-ai-safety/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/research/physical-ai-safety/</guid><description>&lt;p>Physical AI systems such as robots and humanoids are increasingly capable, yet deploying them safely around humans remains an open challenge. This raises the following question.&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>How do we build physical AI that are reliably &lt;mark>safe&lt;/mark>?&lt;/strong>&lt;/p>&lt;/blockquote>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>Vision-Language-Action Models&lt;/li>
+&lt;li>Reinforcement Learning&lt;/li>
+&lt;li>Conformal Abstention&lt;/li>
+&lt;li>Conformal Prediction&lt;/li>
+&lt;li>Uncertainty Quantification&lt;/li>
+&lt;/ul>
+&lt;h3 id="related-publications">Related Publications&lt;/h3>
+&lt;div style="display:flex; flex-direction:column; gap:0.6rem; margin-top:0.5rem;">
+&lt;div style="padding:0.9rem 1.1rem; border:1px solid #e5e7eb; border-radius:12px; background:#f9fafb;">
+&lt;div style="font-size:14px; font-weight:600; line-height:1.4; margin-bottom:4px; color:#111827;">
+&lt;a href="https://arxiv.org/abs/2604.17984" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">Online Conformal Prediction with Adversarial Semi-bandit Feedback via Regret Minimization&lt;/a>
+&lt;/div>
+&lt;div style="font-size:12px; color:#6b7280; margin-bottom:4px;">
+Junyoung Yang*
+,
+Kyungmin Kim*
+,
+&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
+&lt;/div>
+&lt;div style="font-size:12px; color:#374151; display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
+&lt;span style="display:inline-block; font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8; letter-spacing:0.01em; line-height:1.4;">ICLR&lt;/span>
+&lt;span>2026&lt;/span>
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
+&lt;a href="https://arxiv.org/abs/2604.17984" target="_blank" rel="noopener" style="font-size:11px; padding:2px 10px; border-radius:20px; border:1px solid #d1d5db; color:#374151; text-decoration:none; background:#fff;">arXiv&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div style="padding:0.9rem 1.1rem; border:1px solid #e5e7eb; border-radius:12px; background:#f9fafb;">
+&lt;div style="font-size:14px; font-weight:600; line-height:1.4; margin-bottom:4px; color:#111827;">
+&lt;a href="https://arxiv.org/abs/2506.14067" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">Online Conformal Abstention for Factuality Control Under Adversarial Bandit Feedback&lt;/a>
+&lt;/div>
+&lt;div style="font-size:12px; color:#6b7280; margin-bottom:4px;">
+Minjae Lee*
+,
+Yoonjae Jung*
+,
+&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
+&lt;/div>
+&lt;div style="font-size:12px; color:#374151; display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
+&lt;span>2025&lt;/span>
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#fee2e2; color:#b91c1c;">🏆 Best Paper Finalist from CKAIA&lt;/span>
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
+&lt;a href="https://arxiv.org/abs/2506.14067" target="_blank" rel="noopener" style="font-size:11px; padding:2px 10px; border-radius:20px; border:1px solid #d1d5db; color:#374151; text-decoration:none; background:#fff;">arXiv&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div style="padding:0.9rem 1.1rem; border:1px solid #e5e7eb; border-radius:12px; background:#f9fafb;">
+&lt;div style="font-size:14px; font-weight:600; line-height:1.4; margin-bottom:4px; color:#111827;">
+&lt;a href="https://ieeexplore.ieee.org/document/11068853" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">SOUNDBOOST: Effective RCA and Attack Detection for UAV via Acoustic Side-Channel&lt;/a>
+&lt;/div>
+&lt;div style="font-size:12px; color:#6b7280; margin-bottom:4px;">
+Haoran Wang
+,
+Zheng Yang
+,
+&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
+,
+Yibin Yang
+,
+Seulbae Kim
+,
+Willian Lunardi
+,
+Martin Andreoni
+,
+Taesoo Kim
+,
+Wenke Lee
+&lt;/div>
+&lt;div style="font-size:12px; color:#374151; display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
+&lt;span style="display:inline-block; font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8; letter-spacing:0.01em; line-height:1.4;">DSN&lt;/span>
+&lt;span>2025&lt;/span>
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
+&lt;a href="https://ieeexplore.ieee.org/document/11068853" target="_blank" rel="noopener" style="font-size:11px; padding:2px 10px; border-radius:20px; border:1px solid #d1d5db; color:#374151; text-decoration:none; background:#fff;">IEEE&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div style="padding:0.9rem 1.1rem; border:1px solid #e5e7eb; border-radius:12px; background:#f9fafb;">
+&lt;div style="font-size:14px; font-weight:600; line-height:1.4; margin-bottom:4px; color:#111827;">
+&lt;a href="https://dl.acm.org/doi/10.1145/3576841.3585931" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">CODiT: Conformal Out-of-Distribution Detection in Time-Series Data for Cyber-Physical Systems&lt;/a>
+&lt;/div>
+&lt;div style="font-size:12px; color:#6b7280; margin-bottom:4px;">
+Ramneet Kaur
+,
+Kaustubh Sridhar
+,
+&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
+,
+Yahan Yang
+,
+Susmit Jha
+,
+Anirban Roy
+,
+Oleg Sokolsky
+,
+Insup Lee
+&lt;/div>
+&lt;div style="font-size:12px; color:#374151; display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
+&lt;span style="display:inline-block; font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8; letter-spacing:0.01em; line-height:1.4;">ICCPS&lt;/span>
+&lt;span>2023&lt;/span>
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#fee2e2; color:#b91c1c;">🏆 ICCPS&amp;#39;23 Best Paper Award Finalist&lt;/span>
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
+&lt;a href="https://dl.acm.org/doi/10.1145/3576841.3585931" target="_blank" rel="noopener" style="font-size:11px; padding:2px 10px; border-radius:20px; border:1px solid #d1d5db; color:#374151; text-decoration:none; background:#fff;">ACM&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div style="padding:0.9rem 1.1rem; border:1px solid #e5e7eb; border-radius:12px; background:#f9fafb;">
+&lt;div style="font-size:14px; font-weight:600; line-height:1.4; margin-bottom:4px; color:#111827;">
+&lt;a href="https://proceedings.mlr.press/v162/jang22a.html" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">Sequential Covariate Shift Detection Using Classifier Two-Sample Tests&lt;/a>
+&lt;/div>
+&lt;div style="font-size:12px; color:#6b7280; margin-bottom:4px;">
+Sooyong Jang
+,
+&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
+,
+Insup Lee
+,
+Osbert Bastani
+&lt;/div>
+&lt;div style="font-size:12px; color:#374151; display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
+&lt;span style="display:inline-block; font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8; letter-spacing:0.01em; line-height:1.4;">ICML&lt;/span>
+&lt;span>2022&lt;/span>
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
+&lt;a href="https://proceedings.mlr.press/v162/jang22a.html" target="_blank" rel="noopener" style="font-size:11px; padding:2px 10px; border-radius:20px; border:1px solid #d1d5db; color:#374151; text-decoration:none; background:#fff;">PMLR&lt;/a>
+&lt;a href="https://proceedings.mlr.press/v162/jang22a/jang22a.pdf" target="_blank" rel="noopener" style="font-size:11px; padding:2px 10px; border-radius:20px; border:1px solid #d1d5db; color:#374151; text-decoration:none; background:#fff;">PDF&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div style="padding:0.9rem 1.1rem; border:1px solid #e5e7eb; border-radius:12px; background:#f9fafb;">
+&lt;div style="font-size:14px; font-weight:600; line-height:1.4; margin-bottom:4px; color:#111827;">
+&lt;a href="https://arxiv.org/abs/2204.07482" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">Towards PAC Multi-Object Detection and Tracking&lt;/a>
+&lt;/div>
+&lt;div style="font-size:12px; color:#6b7280; margin-bottom:4px;">
+Shuo Li
+,
+&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
+,
+Xiayan Ji
+,
+Insup Lee
+,
+Osbert Bastani
+&lt;/div>
+&lt;div style="font-size:12px; color:#374151; display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
+&lt;span>2022&lt;/span>
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
+&lt;a href="https://arxiv.org/abs/2204.07482" target="_blank" rel="noopener" style="font-size:11px; padding:2px 10px; border-radius:20px; border:1px solid #d1d5db; color:#374151; text-decoration:none; background:#fff;">arXiv&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div style="padding:0.9rem 1.1rem; border:1px solid #e5e7eb; border-radius:12px; background:#f9fafb;">
+&lt;div style="font-size:14px; font-weight:600; line-height:1.4; margin-bottom:4px; color:#111827;">
+&lt;a href="https://arxiv.org/abs/2201.02331" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">iDECODe: In-distribution Equivariance for Conformal Out-of-distribution Detection&lt;/a>
+&lt;/div>
+&lt;div style="font-size:12px; color:#6b7280; margin-bottom:4px;">
+Ramneet Kaur
+,
+Susmit Jha
+,
+Anirban Roy
+,
+&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
+,
+Edgar Dobriban
+,
+Oleg Sokolsky
+,
+Insup Lee
+&lt;/div>
+&lt;div style="font-size:12px; color:#374151; display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
+&lt;span style="display:inline-block; font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8; letter-spacing:0.01em; line-height:1.4;">AAAI&lt;/span>
+&lt;span>2021&lt;/span>
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
+&lt;a href="https://arxiv.org/abs/2201.02331" target="_blank" rel="noopener" style="font-size:11px; padding:2px 10px; border-radius:20px; border:1px solid #d1d5db; color:#374151; text-decoration:none; background:#fff;">arXiv&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div style="padding:0.9rem 1.1rem; border:1px solid #e5e7eb; border-radius:12px; background:#f9fafb;">
+&lt;div style="font-size:14px; font-weight:600; line-height:1.4; margin-bottom:4px; color:#111827;">
+&lt;a href="https://link.springer.com/chapter/10.1007/978-3-319-50115-4_28" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">Integrated intelligence for human-robot teams&lt;/a>
+&lt;/div>
+&lt;div style="font-size:12px; color:#6b7280; margin-bottom:4px;">
+Jean Oh
+,
+Thomas M Howard
+,
+Matthew R Walter
+,
+Daniel Barber
+,
+Menglong Zhu
+,
+&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
+,
+Arne Suppe
+,
+Luis Navarro-Serment
+,
+Felix Duvallet
+,
+Abdeslam Boularias
+,
+others
+&lt;/div>
+&lt;div style="font-size:12px; color:#374151; display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
+&lt;span style="display:inline-block; font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8; letter-spacing:0.01em; line-height:1.4;">ISER&lt;/span>
+&lt;span>2016&lt;/span>
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
+&lt;a href="https://link.springer.com/chapter/10.1007/978-3-319-50115-4_28" target="_blank" rel="noopener" style="font-size:11px; padding:2px 10px; border-radius:20px; border:1px solid #d1d5db; color:#374151; text-decoration:none; background:#fff;">Springer&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div style="padding:0.9rem 1.1rem; border:1px solid #e5e7eb; border-radius:12px; background:#f9fafb;">
+&lt;div style="font-size:14px; font-weight:600; line-height:1.4; margin-bottom:4px; color:#111827;">
+&lt;a href="https://link.springer.com/chapter/10.1007/978-3-642-33712-3_47" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">Abnormal object detection by canonical scene-based contextual model&lt;/a>
+&lt;/div>
+&lt;div style="font-size:12px; color:#6b7280; margin-bottom:4px;">
+&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
+,
+Wonsik Kim
+,
+Kyoung Mu Lee
+&lt;/div>
+&lt;div style="font-size:12px; color:#374151; display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
+&lt;span style="display:inline-block; font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8; letter-spacing:0.01em; line-height:1.4;">ECCV&lt;/span>
+&lt;span>2012&lt;/span>
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
+&lt;a href="https://link.springer.com/chapter/10.1007/978-3-642-33712-3_47" target="_blank" rel="noopener" style="font-size:11px; padding:2px 10px; border-radius:20px; border:1px solid #d1d5db; color:#374151; text-decoration:none; background:#fff;">Springer&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;/div></description></item><item><title>Red Teaming</title><link>http://localhost:1313/research/redteaming/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/research/redteaming/</guid><description>&lt;p>Agentic AI systems are powerful but remain vulnerable to adversarial manipulation and jailbreaking. We advance their robustness by continuously probing and debugging them through red teaming. This raises the following question.&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>How do we build red agents that continuously &lt;mark>debug&lt;/mark> and &lt;mark>harden&lt;/mark> target AI systems?&lt;/strong>&lt;/p>&lt;/blockquote>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
 &lt;li>Agentic AI&lt;/li>
 &lt;li>Reinforcement Learning&lt;/li>
 &lt;/ul>
-&lt;h3 id="related-work">Related Work&lt;/h3>
-&lt;ul>
-&lt;li>&lt;a href="https://www.darpa.mil/news/2025/aixcc-results" target="_blank" rel="noopener">AIxCC-Winner&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Physical AI Safety</title><link>http://localhost:1313/research/trustrobots/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/research/trustrobots/</guid><description>&lt;p>The brain of AI has been replaced by large language models (LLMs). The next challenge (or long-standing challenge) is how to build Physical AI? We tackle this challenge by making Physical AI trustworthy. In particular, we consider the following question.&lt;/p>
-&lt;blockquote>
-&lt;p>&lt;strong>How to build safe robots or humanoids that could live with us and even our kids?&lt;/strong>&lt;/p>&lt;/blockquote>
-&lt;p>Based on our previous experiments on trustworthy AI, we build groundbreaking learning methods to achieve this goal.&lt;/p>
-&lt;h3 id="on-goingpotential-projects">On-going/Potential Projects&lt;/h3>
-&lt;ul>
-&lt;li>&lt;strong>Safe Humanoid Learning&lt;/strong>: Learn safe humanoids.&lt;/li>
-&lt;li>&lt;strong>Policy Calibration&lt;/strong>: Calibrate RL policies.&lt;/li>
-&lt;li>&lt;strong>Safe RL with Certification&lt;/strong>: Guarantee safety in RL.&lt;/li>
-&lt;li>&lt;strong>Adversarially Robust Policy&lt;/strong>: Learn a secure policy from jailbreaking.&lt;/li>
-&lt;/ul>
-&lt;p>What&amp;rsquo;s your own project idea?&lt;/p>
-&lt;h3 id="keywords">Keywords&lt;/h3>
-&lt;ul>
-&lt;li>Vision-Language-Action Models (VLAs)&lt;/li>
-&lt;li>Reinforcement Learning (RL)&lt;/li>
-&lt;li>Selective Prediction&lt;/li>
-&lt;li>Conformal Prediction&lt;/li>
-&lt;li>Uncertainty Quantification&lt;/li>
-&lt;/ul>
-&lt;h3 id="related-work">Related Work&lt;/h3>
-&lt;ul>
-&lt;li>&lt;a href="https://www.usenix.org/conference/usenixsecurity23/presentation/park" target="_blank" rel="noopener">Security'23&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://arxiv.org/abs/2506.14067" target="_blank" rel="noopener">arXiv'25&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Foundation of AI Alignment</title><link>http://localhost:1313/research/trustllm/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/research/trustllm/</guid><description>&lt;p>Large language models are remarkably capable and we use them in our daily life. Simultaneously, they raise many practical issues, including hallucination and harmful responses. This raises the following question.&lt;/p>
-&lt;blockquote>
-&lt;p>&lt;strong>How to mitigate the &lt;mark>hallucination&lt;/mark>, &lt;mark>safety&lt;/mark>, &lt;mark>security&lt;/mark>, and &lt;mark>bias&lt;/mark> problems of large language models (LLMs) or large reasoning models (LRMs)?&lt;/strong>&lt;/p>&lt;/blockquote>
-&lt;p>LLMs confidently generate wrong, biased, and harmful information, which undermines the trust of LLMs as a knowledge base.
-How to mitigate this?
-One way could be leveraging conformal prediction and selective prediction to measure uncertainty as a basis for trust (e.g., &lt;a href="https://arxiv.org/abs/2307.09254" target="_blank" rel="noopener">NeurIPS'24&lt;/a>).
-What other possibilities?&lt;/p>
-&lt;h3 id="on-goingpotential-projects">On-going/Potential Projects&lt;/h3>
-&lt;ul>
-&lt;li>&lt;strong>Hallucination mitigation of LLM/LRMs&lt;/strong>: Mitigate the hallucination of LRMs.&lt;/li>
-&lt;li>&lt;strong>Natural harmfulness mitigation of LLM/LRMs&lt;/strong>: Mitigate the safety of LRMs from natural jailbreaking.&lt;/li>
-&lt;li>&lt;strong>Adversarial harmfulness mitigation of LLM/LRMs&lt;/strong>: Mitigate the security of LRMs from adversarial jailbreaking.&lt;/li>
-&lt;li>&lt;strong>Uncertainty quantification of LLM/LRMs&lt;/strong>: Quantify the correctness of the answers of LLMs or LRMs.&lt;/li>
-&lt;li>&lt;strong>RL-based Alignment&lt;/strong>: Leverage bandits and Reinforcement Learning (RL) for building trustworthy LLMs.&lt;/li>
-&lt;li>&lt;strong>Trustworthiness Control&lt;/strong>: Leverage theoretical results of bandits or RL to guarantee the trustworthiness.&lt;/li>
-&lt;/ul>
-&lt;p>What&amp;rsquo;s your own project idea?&lt;/p>
-&lt;h3 id="keywords">Keywords&lt;/h3>
-&lt;ul>
-&lt;li>LLMs&lt;/li>
-&lt;li>LRMs&lt;/li>
-&lt;li>Selective Prediction&lt;/li>
-&lt;li>Conformal Prediction&lt;/li>
-&lt;li>Uncertainty Quantification&lt;/li>
-&lt;/ul>
-&lt;h3 id="related-work">Related Work&lt;/h3>
-&lt;ul>
-&lt;li>&lt;a href="https://openreview.net/forum?id=BJxVI04YvB" target="_blank" rel="noopener">ICLR'20&lt;/a>&lt;/li>
-&lt;li>&lt;a href="http://proceedings.mlr.press/v108/park20b/park20b.pdf" target="_blank" rel="noopener">AISTATS'20&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://openreview.net/forum?id=Qk-Wq5AIjpq" target="_blank" rel="noopener">ICLR'21&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://openreview.net/pdf?id=DhP9L8vIyLc" target="_blank" rel="noopener">ICLR'22&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://arxiv.org/abs/2204.07482" target="_blank" rel="noopener">arXiv'22&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://openreview.net/forum?id=s6ygs1UCOw1" target="_blank" rel="noopener">NeurIPS'22&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.usenix.org/conference/usenixsecurity23/presentation/park" target="_blank" rel="noopener">Security'23&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://arxiv.org/abs/2307.09254" target="_blank" rel="noopener">NeurIPS'24&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://arxiv.org/abs/2506.14067" target="_blank" rel="noopener">arXiv'25&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://arxiv.org/abs/2505.13553" target="_blank" rel="noopener">arXiv'25&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>The Illusion of Rust Safety: Detecting Modular Unsafe Functions with LLMs</title><link>http://localhost:1313/publication/2026-05-16-the-illusion-of-rust-safety-detecting-modular-unsafe-functions-wi/</link><pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/publication/2026-05-16-the-illusion-of-rust-safety-detecting-modular-unsafe-functions-wi/</guid><description/></item><item><title>The Interplay of Harness Design and Post-Training in LLM Agents</title><link>http://localhost:1313/publication/2026-05-02-the-interplay-of-harness-design-and-post-training-in-llm-agents/</link><pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/publication/2026-05-02-the-interplay-of-harness-design-and-post-training-in-llm-agents/</guid><description/></item><item><title>🎉 Two ICML'26 Papers + One ICML'26 Workshop</title><link>http://localhost:1313/news/20260501-icml-paper/</link><pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/news/20260501-icml-paper/</guid><description/></item><item><title>LLM Watermark Evasion via Bias Inversion</title><link>http://localhost:1313/publication/2026-05-01-llm-watermark-evasion-via-bias-inversion/</link><pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/publication/2026-05-01-llm-watermark-evasion-via-bias-inversion/</guid><description/></item><item><title>Towards Functional Correctness of Large Code Models with Selective Generation</title><link>http://localhost:1313/publication/2026-05-01-towards-functional-correctness-of-large-code-models-with-selectiv/</link><pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/publication/2026-05-01-towards-functional-correctness-of-large-code-models-with-selectiv/</guid><description/></item><item><title>Ruby: Unmasking Unsafe Rust in Stripped Binaries via Machine Learning</title><link>http://localhost:1313/publication/2026-04-27-ruby-unmasking-unsafe-rust-in-stripped-binaries-via-machine-learn/</link><pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/publication/2026-04-27-ruby-unmasking-unsafe-rust-in-stripped-binaries-via-machine-learn/</guid><description/></item><item><title>📚 AI Security (2026 Spring)</title><link>http://localhost:1313/teaching/2026-ai-security-spring/</link><pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/teaching/2026-ai-security-spring/</guid><description>&lt;h1 id="trustworthy-ml-aigs703l--csed703l">Trustworthy ML (AIGS703L / CSED703L)&lt;/h1>
+&lt;h3 id="related-publications">Related Publications&lt;/h3>
+&lt;div style="display:flex; flex-direction:column; gap:0.6rem; margin-top:0.5rem;">
+&lt;div style="padding:0.9rem 1.1rem; border:1px solid #e5e7eb; border-radius:12px; background:#f9fafb;">
+&lt;div style="font-size:14px; font-weight:600; line-height:1.4; margin-bottom:4px; color:#111827;">
+The Illusion of Rust Safety: Detecting Modular Unsafe Functions with LLMs
+&lt;/div>
+&lt;div style="font-size:12px; color:#6b7280; margin-bottom:4px;">
+Xiang Cheng
+,
+Fan Sang
+,
+Yibin Yang
+,
+Hang Zhang
+,
+&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
+,
+Xiaokuan Zhang
+,
+Taesoo Kim
+&lt;/div>
+&lt;div style="font-size:12px; color:#374151; display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
+&lt;span style="display:inline-block; font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8; letter-spacing:0.01em; line-height:1.4;">CCS&lt;/span>
+&lt;span>2026&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div style="padding:0.9rem 1.1rem; border:1px solid #e5e7eb; border-radius:12px; background:#f9fafb;">
+&lt;div style="font-size:14px; font-weight:600; line-height:1.4; margin-bottom:4px; color:#111827;">
+&lt;a href="https://arxiv.org/abs/2509.23019" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">LLM Watermark Evasion via Bias Inversion&lt;/a>
+&lt;/div>
+&lt;div style="font-size:12px; color:#6b7280; margin-bottom:4px;">
+Jeongyeon Hwang
+,
+&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
+,
+Jungseul Ok
+&lt;/div>
+&lt;div style="font-size:12px; color:#374151; display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
+&lt;span style="display:inline-block; font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8; letter-spacing:0.01em; line-height:1.4;">ICML&lt;/span>
+&lt;span>2026&lt;/span>
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
+&lt;a href="https://arxiv.org/abs/2509.23019" target="_blank" rel="noopener" style="font-size:11px; padding:2px 10px; border-radius:20px; border:1px solid #d1d5db; color:#374151; text-decoration:none; background:#fff;">arXiv&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div style="padding:0.9rem 1.1rem; border:1px solid #e5e7eb; border-radius:12px; background:#f9fafb;">
+&lt;div style="font-size:14px; font-weight:600; line-height:1.4; margin-bottom:4px; color:#111827;">
+&lt;a href="https://arxiv.org/abs/2211.00111" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">Ruby: Unmasking Unsafe Rust in Stripped Binaries via Machine Learning&lt;/a>
+&lt;/div>
+&lt;div style="font-size:12px; color:#6b7280; margin-bottom:4px;">
+Xiang Cheng*
+,
+&lt;span style="text-decoration:underline;">Sangdon Park*&lt;/span>
+,
+HyungSeok Han
+,
+Xiaokuan Zhang
+,
+Taesoo Kim
+&lt;/div>
+&lt;div style="font-size:12px; color:#374151; display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
+&lt;span style="display:inline-block; font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8; letter-spacing:0.01em; line-height:1.4;">DSN&lt;/span>
+&lt;span>2026&lt;/span>
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
+&lt;a href="https://arxiv.org/abs/2211.00111" target="_blank" rel="noopener" style="font-size:11px; padding:2px 10px; border-radius:20px; border:1px solid #d1d5db; color:#374151; text-decoration:none; background:#fff;">arXiv&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div style="padding:0.9rem 1.1rem; border:1px solid #e5e7eb; border-radius:12px; background:#f9fafb;">
+&lt;div style="font-size:14px; font-weight:600; line-height:1.4; margin-bottom:4px; color:#111827;">
+&lt;a href="https://arxiv.org/abs/2511.13725" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">AI Kill Switch for Malicious Web-based LLM Agent&lt;/a>
+&lt;/div>
+&lt;div style="font-size:12px; color:#6b7280; margin-bottom:4px;">
+Sechan Lee
+,
+&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
+&lt;/div>
+&lt;div style="font-size:12px; color:#374151; display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
+&lt;span>2025&lt;/span>
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
+&lt;a href="https://arxiv.org/abs/2511.13725" target="_blank" rel="noopener" style="font-size:11px; padding:2px 10px; border-radius:20px; border:1px solid #d1d5db; color:#374151; text-decoration:none; background:#fff;">arXiv&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div style="padding:0.9rem 1.1rem; border:1px solid #e5e7eb; border-radius:12px; background:#f9fafb;">
+&lt;div style="font-size:14px; font-weight:600; line-height:1.4; margin-bottom:4px; color:#111827;">
+&lt;a href="https://arxiv.org/abs/2509.14589" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">ATLANTIS: AI-driven Threat Localization, Analysis, and Triage Intelligence System&lt;/a>
+&lt;/div>
+&lt;div style="font-size:12px; color:#6b7280; margin-bottom:4px;">
+Taesoo Kim
+,
+HyungSeok Han
+,
+Soyeon Park
+,
+Dae R. Jeong
+,
+Dohyeok Kim
+,
+Dongkwan Kim
+,
+Eunsoo Kim
+,
+Jiho Kim
+,
+Joshua Wang
+,
+Kangsu Kim
+,
+Sangwoo Ji
+,
+Woosun Song
+,
+Hanqing Zhao
+,
+Andrew Chin
+,
+Gyejin Lee
+,
+Kevin Stevens
+,
+Mansour Alharthi
+,
+Yizhuo Zhai
+,
+Cen Zhang
+,
+Joonun Jang
+,
+Yeongjin Jang
+,
+Ammar Askar
+,
+Dongju Kim
+,
+Fabian Fleischer
+,
+Jeongin Cho
+,
+Junsik Kim
+,
+Kyungjoon Ko
+,
+Insu Yun
+,
+&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
+,
+Dowoo Baik
+,
+Haein Lee
+,
+Hyeon Heo
+,
+Minjae Gwon
+,
+Minjae Lee
+,
+Minwoo Baek
+,
+Seunggi Min
+,
+Wonyoung Kim
+,
+Yonghwi Jin
+,
+Younggi Park
+,
+Yunjae Choi
+,
+Jinho Jung
+,
+Gwanhyun Lee
+,
+Junyoung Jang
+,
+Kyuheon Kim
+,
+Yeonghyeon Cha
+,
+Youngjoon Kim
+&lt;/div>
+&lt;div style="font-size:12px; color:#374151; display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
+&lt;span>2025&lt;/span>
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#fee2e2; color:#b91c1c;">🏆 DARPA AIxCC Winner - $(4&amp;#43;2)M Award&lt;/span>
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
+&lt;a href="https://arxiv.org/abs/2509.14589" target="_blank" rel="noopener" style="font-size:11px; padding:2px 10px; border-radius:20px; border:1px solid #d1d5db; color:#374151; text-decoration:none; background:#fff;">arXiv&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;/div></description></item><item><title>The Illusion of Rust Safety: Detecting Modular Unsafe Functions with LLMs</title><link>http://localhost:1313/publication/2026-05-16-the-illusion-of-rust-safety-detecting-modular-unsafe-functions-wi/</link><pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/publication/2026-05-16-the-illusion-of-rust-safety-detecting-modular-unsafe-functions-wi/</guid><description/></item><item><title>The Interplay of Harness Design and Post-Training in LLM Agents</title><link>http://localhost:1313/publication/2026-05-02-the-interplay-of-harness-design-and-post-training-in-llm-agents/</link><pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/publication/2026-05-02-the-interplay-of-harness-design-and-post-training-in-llm-agents/</guid><description/></item><item><title>🎉 Two ICML'26 Papers + One ICML'26 Workshop</title><link>http://localhost:1313/news/20260501-icml-paper/</link><pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/news/20260501-icml-paper/</guid><description/></item><item><title>LLM Watermark Evasion via Bias Inversion</title><link>http://localhost:1313/publication/2026-05-01-llm-watermark-evasion-via-bias-inversion/</link><pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/publication/2026-05-01-llm-watermark-evasion-via-bias-inversion/</guid><description/></item><item><title>Towards Functional Correctness of Large Code Models with Selective Generation</title><link>http://localhost:1313/publication/2026-05-01-towards-functional-correctness-of-large-code-models-with-selectiv/</link><pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/publication/2026-05-01-towards-functional-correctness-of-large-code-models-with-selectiv/</guid><description/></item><item><title>Ruby: Unmasking Unsafe Rust in Stripped Binaries via Machine Learning</title><link>http://localhost:1313/publication/2026-04-27-ruby-unmasking-unsafe-rust-in-stripped-binaries-via-machine-learn/</link><pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/publication/2026-04-27-ruby-unmasking-unsafe-rust-in-stripped-binaries-via-machine-learn/</guid><description/></item><item><title>📚 AI Security (2026 Spring)</title><link>http://localhost:1313/teaching/2026-ai-security-spring/</link><pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/teaching/2026-ai-security-spring/</guid><description>&lt;h1 id="trustworthy-ml-aigs703l--csed703l">Trustworthy ML (AIGS703L / CSED703L)&lt;/h1>
 &lt;p>As machine learning and deep learning models are impacting on real world environments (e.g., ChatGPT), concerns on the trustworthiness of machine-learned models are rising. In this course, we explore whether popular machine-learned models are trustworthy and then study various learning methods to enchant the models to be trustworthy. To this end, we will learn basic knowledge on machine learning theory, uncertainty learning via conformal prediction, adversarial examples/learning, machine unlearning, differentially private learning, fairness in learning, and miscellaneous topics on trustworthy generative AI.&lt;/p>
 &lt;h3 id="location">Location&lt;/h3>
 &lt;p>TJ Park Lib. Room 501&lt;/p>
