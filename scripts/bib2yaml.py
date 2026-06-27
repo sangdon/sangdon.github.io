@@ -3,6 +3,8 @@ from __future__ import annotations
 import re
 from pathlib import Path
 
+REPO_ROOT = Path(__file__).parent.parent
+
 import bibtexparser
 from slugify import slugify
 import yaml
@@ -11,8 +13,8 @@ import yaml
 # =========================
 # CONFIG
 # =========================
-BIB_PATH = Path("../../team-src/papers.bib")  # input BibTeX
-OUT_DIR = Path(".")                                   # output bundles (current dir)
+BIB_PATH = REPO_ROOT / "team-src" / "papers.bib"
+OUT_DIR = REPO_ROOT / "content" / "publication"
 
 
 # =========================

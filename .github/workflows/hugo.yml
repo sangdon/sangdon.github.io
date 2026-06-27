@@ -57,7 +57,7 @@ jobs:
       - name: Compile BibTeX to publications
         run: |
           pip install bibtexparser python-slugify pyyaml
-          cd content/publication && python3 bib2yaml.py
+          python3 scripts/bib2yaml.py
       - name: Build with Hugo
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
