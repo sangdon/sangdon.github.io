@@ -3,6 +3,11 @@
   <article class="w-full min-w-0 justify-center pb-8">
     <main class="w-full min-w-0 max-w-2xl mx-auto px-6 pt-4">
 
+      <div style="padding:1.25rem 1.5rem; border:1px solid #e5e7eb; border-radius:14px; background:#fff; margin-bottom:1rem;">
+        <div style="font-size:15px; font-weight:700; color:#b91c1c; margin-bottom:10px;">Research Overview</div>
+        <img src="{{ ($.Site.BaseURL) }}research/research-overview.png" alt="Research Overview" style="width:100%; border-radius:8px;">
+      </div>
+
       <div style="display:flex; flex-direction:column; gap:1rem;">
         {{ range .Pages.ByParam "weight" }}
         <a href="{{ .RelPermalink }}" style="text-decoration:none; color:inherit;">
