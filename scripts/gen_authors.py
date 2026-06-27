@@ -6,9 +6,10 @@ import os
 import shutil
 
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-TEAM_JSON = os.path.join(REPO_ROOT, "data", "team", "team.json")
-TEAM_BODY_DIR = os.path.join(REPO_ROOT, "team-src", "body")
-TEAM_AVATARS_DIR = os.path.join(REPO_ROOT, "team-src", "avatars")
+TEAM_SRC = os.path.join(REPO_ROOT, "team-src")
+TEAM_JSON = os.path.join(TEAM_SRC, "team.json")
+TEAM_BODY_DIR = os.path.join(TEAM_SRC, "body")
+TEAM_AVATARS_DIR = os.path.join(TEAM_SRC, "avatars")
 AUTHORS_DIR = os.path.join(REPO_ROOT, "content", "authors")
 
 
