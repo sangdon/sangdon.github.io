@@ -1,0 +1,80 @@
+{{ define "main" }}
+
+<div class="mx-auto flex max-w-screen-xl">
+  {{ partial "components/sidebar.html" (dict "context" . "no_sidebar" true) }}
+  <article class="w-full break-words flex min-h-[calc(100vh-var(--navbar-height))] min-w-0 justify-center pb-8 pr-[calc(env(safe-area-inset-right)-1.5rem)]">
+    <main class="w-full min-w-0 max-w-6xl px-6 pt-4 md:px-12">
+
+      <h1 class="mt-2 text-4xl font-bold tracking-tight text-slate-900 dark:text-slate-100">
+        {{- .Title -}}
+      </h1>
+
+      <div class="mt-4 mb-8">
+        <div class="text-gray-500 dark:text-gray-300 text-sm flex items-center flex-wrap gap-y-2">
+          {{ $taxonomy := "authors" }}
+          {{ range $i, $author_obj := (.GetTerms $taxonomy) }}
+            {{ $author_page := $author_obj.Page }}
+            {{- if $i }}<span class="mr-1">,</span>{{ end -}}
+            {{ with $author_page.Params.website }}
+            <a href="{{.}}" target="_blank" rel="noreferrer">
+            {{ end }}
+            <div class="group inline-flex items-center text-current gap-x-1.5 mx-1">
+              <div {{if $author_page.Params.website}}class="group-hover:underline"{{end}}>{{ $author_page.Title }}</div>
+            </div>
+            {{ with $author_page.Params.website }}
+            </a>
+            {{ end }}
+          {{ end }}
+        </div>
+
+        {{/* Venue */}}
+        <div class="mt-2 text-sm text-gray-700 dark:text-gray-300">
+          {{ if .Params.publication_short }}
+            <strong>{{ .Params.publication_short | markdownify }}</strong>
+          {{ else if .Params.publication }}
+            <em>{{ .Params.publication | markdownify }}</em>
+          {{ end }}
+          {{ if or .Params.publication_short .Params.publication }}, {{ end }}
+          {{ .Date.Format "2006" }}
+        </div>
+
+        {{/* Awards */}}
+        {{ with .Params.awards }}
+        <div class="mt-2 flex flex-wrap gap-2">
+          {{ if reflect.IsSlice . }}
+            {{ range . }}
+            <span style="font-size:12px; font-weight:600; padding:2px 10px; border-radius:20px; background:#dcfce7; color:#15803d;">{{ . }}</span>
+            {{ end }}
+          {{ else }}
+            <span style="font-size:12px; font-weight:600; padding:2px 10px; border-radius:20px; background:#dcfce7; color:#15803d;">{{ . }}</span>
+          {{ end }}
+        </div>
+        {{ end }}
+
+        <div class="mt-4">
+          {{ partial "page_links_div.html" . }}
+        </div>
+      </div>
+
+      {{ if .Params.abstract }}
+      <div class="max-w-prose my-6">
+        <div class="font-bold text-xl mb-2">Abstract</div>
+        <div class="text-sm leading-relaxed">{{ .Params.abstract | markdownify }}</div>
+      </div>
+      {{ end }}
+
+      <div class="prose prose-slate lg:prose-xl dark:prose-invert">
+        {{ .Content }}
+      </div>
+
+      {{ partial "components/last-edited.html" . }}
+
+      <div class="container mx-auto prose prose-slate lg:prose-xl dark:prose-invert mt-5">
+        {{ .Scratch.Set "invert_pager" true }}
+        {{ partial "page_footer" . }}
+      </div>
+
+    </main>
+  </article>
+</div>
+{{ end }}

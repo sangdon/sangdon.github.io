@@ -1,43 +1,18 @@
 {{ $item := .item }}
-
-{{ $link := $item.RelPermalink }}
-{{ $target := "" }}
-{{ if $item.Params.external_link }}
-  {{ $link = $item.Params.external_link }}
-  {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
-{{ end }}
-
 {{ $resource := partial "functions/get_featured_image.html" $item }}
 
-<a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="mb-5">
-  <div class="md:flex">
-    <div class="md:flex-shrink-0 overflow-hidden">
-      {{ with $resource }}
-        {{ $image := .Fit "655x655" }}
-        {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
-        <img class="h-28 w-full md:w-48 object-contain hover:scale-105 transition duration-300 cursor-pointer"
-             loading="lazy"
-             src="{{ $image.RelPermalink }}"
-             height="{{ $image.Height }}" width="{{ $image.Width }}"
-             alt="{{ $item.Title | plainify }}">
-      {{ end }}
-    </div>
-
-    <!-- Vertically center text block -->
-    <div class="p-4 flex flex-col justify-center">
-      <div class="tracking-wide text-md text-primary-700 dark:text-primary-200 font-semibold">
-        {{ $item.Title }}
-      </div>
-
-      <p class="block mt-1 text-sm leading-tight font-medium text-black dark:text-white line-clamp-2">
-        {{ ($item.Params.summary | default $item.Summary) | plainify | htmlUnescape | chomp }}
-      </p>
-
-      {{ if and $item.Date (ne ($item.Date.Year) 1) }}
-        <p class="mt-2 text-gray-500 dark:text-gray-400 text-sm">
-          {{ $item.Date | time.Format (site.Params.locale.date_format | default ":date_long") }}
-        </p>
-      {{ end }}
-    </div>
+<div style="display:flex; align-items:flex-start; gap:1rem; padding:0.9rem 1.1rem; border:1px solid #e5e7eb; border-radius:12px; background:#fdfdfd;">
+  {{ with $resource }}
+  {{ $image := .Fit "80x80 webp" }}
+  <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" style="width:80px; height:80px; object-fit:contain; flex-shrink:0; border-radius:8px;" loading="lazy">
+  {{ end }}
+  <div style="flex:1; min-width:0;">
+    <div style="font-size:14px; font-weight:700; color:#b91c1c; margin-bottom:4px;">{{ $item.Title }}</div>
+    {{ with ($item.Params.summary | default $item.Summary) }}
+    <div style="font-size:13px; color:#374151; margin-bottom:6px;">{{ . | plainify | htmlUnescape }}</div>
+    {{ end }}
+    {{ if and $item.Date (ne ($item.Date.Year) 1) }}
+    <div style="font-size:11px; color:#9ca3af;">{{ $item.Date | time.Format "Jan 2, 2006" }}</div>
+    {{ end }}
   </div>
-</a>
+</div>

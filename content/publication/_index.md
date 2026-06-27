@@ -19,6 +19,19 @@ sections:
       spacing:
         padding: ['0rem', '0rem', '0rem', '0rem']  # top, right, bottom, left
       
-  
+top_conferences:
+    - NeurIPS
+    - ICML
+    - ICLR
+    - AAAI
+    - ACL
+    - NAACL
+    - EMNLP
+    - Security
+    - CCS
+    - S&P
+    - CVPR
+    - ECCV
+    - ICCV
 ---
 

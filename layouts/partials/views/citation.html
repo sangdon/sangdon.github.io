@@ -77,10 +77,13 @@
   </span>
   
   <br/>
-  {{ if $item.Params.highlight }}
-  <span class="article-metadata li-cite-highlight">
-      {{ printf "**%s**" $item.Params.highlight | markdownify -}}
-  </span>
+  {{ with $item.Params.awards }}
+  <div style="margin-top:4px; display:flex; flex-wrap:wrap; gap:4px;">
+  {{ if reflect.IsSlice . }}
+    {{ range . }}<span style="font-size:11px; font-weight:600; padding:2px 9px; border-radius:20px; background:#fee2e2; color:#b91c1c;">{{ . }}</span>{{ end }}
+  {{ else }}<span style="font-size:11px; font-weight:600; padding:2px 9px; border-radius:20px; background:#fee2e2; color:#b91c1c;">{{ . }}</span>
+  {{ end }}
+  </div>
   {{ end }}
   
 <!--  {{ if $has_attachments }}-->

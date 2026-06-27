@@ -1,3 +1,37 @@
+/* Override prose-xl to prose-base size */
+.prose :where(p):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
+  font-size: 0.95rem !important;
+  line-height: 1.7 !important;
+}
+.prose :where(li):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
+  font-size: 0.95rem !important;
+  line-height: 1.6 !important;
+}
+.prose :where(h1):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
+  font-size: 1.75rem !important;
+}
+.prose :where(h2):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
+  font-size: 1.35rem !important;
+}
+.prose :where(h3):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
+  font-size: 1.1rem !important;
+}
+.prose :where(blockquote):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
+  font-size: 0.95rem !important;
+}
+
+mark {
+  background: transparent !important;
+  color: rgb(37 99 235) !important;
+  font-weight: 600 !important;
+  border-radius: 0 !important;
+  padding: 0 !important;
+}
+
+.dark mark {
+  color: rgb(147 197 253) !important;
+}
+
 .article-metadata.li-cite-author {
   color: #666666;
   font-size: 0.95rem;

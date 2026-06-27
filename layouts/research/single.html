@@ -1,0 +1,17 @@
+{{ define "main" }}
+<div class="mx-auto flex max-w-screen-xl">
+  <article class="w-full min-w-0 justify-center pb-8">
+    <main class="w-full min-w-0 max-w-2xl mx-auto px-6 pt-4">
+
+      <h1 class="mt-2 text-4xl font-bold tracking-tight text-slate-900 dark:text-slate-100">
+        {{- .Title -}}
+      </h1>
+
+      <div class="mt-8 prose prose-slate lg:prose-xl dark:prose-invert">
+        {{ .Content }}
+      </div>
+
+    </main>
+  </article>
+</div>
+{{ end }}

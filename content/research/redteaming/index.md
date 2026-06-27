@@ -1,52 +1,22 @@
 ---
-title: Red Teaming on Agentic AI 
-summary: Make Agentic AI better by Red Teaming
-#date: 2025-02-18
+title: Red Teaming
+summary: Make Agentic AI better by Red Teaming.
 reading_time: false
 weight: 3
 
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:
-  caption: 'GPT-5'
-
-authors:
-  - Sangdon Park
-
-#tags:
-#  - Academic
-#  - Markdown
-  
 share: false
 toc: false
 
 ---
 
-It is the era of Agentic AI but Agentic AI still suffers from trustworthiness issues, including weakness on jailbreaking. 
-We advance the status of Agentic AI by debugging its issues via red teaming. In particular, we consider the following question:
+Agentic AI systems are powerful but remain vulnerable to adversarial manipulation and jailbreaking. We advance their robustness by continuously probing and debugging them through red teaming. This raises the following question.
 
-> **How to learn red agentic AI to debug target agentic AI continuously?**
-  
-We exploit our knowledge and experience on Trustworthy Agentic AI 
-to build red Agentic AI for blue Agentic AI.
-
-
-### On-going/Potential Projects
-
-* **Red Agent Learning**: Learn red Agents for blue LLMs via RL.  
-* **Red Agent Continual Learning**: Learn continual red teaming Agents.  
-
-Do you have creative ideas in building red Agentic AI?
-
+> **How do we build red agents that continuously <mark>debug</mark> and <mark>harden</mark> target AI systems?**
 
 ### Keywords
-* Red Teaming
 * Agentic AI
-* Reinforcement Learning 
+* Reinforcement Learning
 
-### Related Work
-* [AIxCC-Winner](https://www.darpa.mil/news/2025/aixcc-results)
+### Related Publications
 
-
-
-
+{{< research-papers area="redteaming" >}}

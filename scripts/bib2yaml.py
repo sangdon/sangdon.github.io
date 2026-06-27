@@ -25,6 +25,7 @@ def clean_latex(s: str) -> str:
         return ""
     s = s.replace("{", "").replace("}", "")
     s = re.sub(r"\\&", "&", s)
+    s = re.sub(r"\\%", "%", s)
     return s.strip()
 
 
@@ -132,7 +133,25 @@ def build_links(entry: dict) -> list[dict]:
 
     if url:
         if not (doi and url.lower().startswith("https://doi.org/")):
-            links.append({"name": "URL", "url": url})
+            if "arxiv.org" in url.lower():
+                name = "arXiv"
+            elif "openreview.net" in url.lower():
+                name = "OpenReview"
+            elif "aclanthology.org" in url.lower():
+                name = "ACL"
+            elif "proceedings.mlr.press" in url.lower():
+                name = "PMLR"
+            elif "ieeexplore.ieee.org" in url.lower():
+                name = "IEEE"
+            elif "dl.acm.org" in url.lower():
+                name = "ACM"
+            elif "usenix.org" in url.lower():
+                name = "USENIX"
+            elif "link.springer.com" in url.lower():
+                name = "Springer"
+            else:
+                name = "URL"
+            links.append({"name": name, "url": url})
 
     pdf = (entry.get("pdf") or "").strip()
     code = (entry.get("code") or "").strip()
@@ -155,21 +174,8 @@ def build_links(entry: dict) -> list[dict]:
     return deduped
 
 
-def parse_highlight(entry: dict) -> str:
-    """
-    BibTeX `highlight` is a short note to show in text (badge/annotation).
-    Examples: "Oral", "Best Paper", "Spotlight", "Invited"
-    """
-    raw = (entry.get("highlight") or "").strip()
-    if not raw:
-        return ""
-
-    low = raw.lower()
-    if low in {"0", "false", "no", "n", "off"}:
-        return ""
-    if low in {"1", "true", "yes", "y", "on", "*"}:
-        return "Highlight"
-
+def parse_badge(entry: dict) -> str:
+    raw = (entry.get("note") or "").strip()
     return clean_latex(raw)
 
 
@@ -196,7 +202,16 @@ def main():
         venue_short = publication_nickname(entry)
         abstract = clean_latex(entry.get("abstract", ""))
 
-        highlight = parse_highlight(entry)
+        badge = parse_badge(entry)
+        raw_awards = clean_latex((entry.get("awards") or "").strip())
+        if raw_awards:
+            parts = [p.strip() for p in raw_awards.split(",") if p.strip()]
+            awards = parts if len(parts) > 1 else parts[0]
+        else:
+            awards = None
+
+        raw_areas = (entry.get("research_areas") or "").strip()
+        research_areas = [a.strip() for a in raw_areas.split(",") if a.strip()] if raw_areas else None
 
         front_matter = {
             "title": title,
@@ -207,7 +222,9 @@ def main():
             "publication_types": publication_type(entry),
             "doi": (entry.get("doi") or "").strip() or None,
             "links": build_links(entry) or None,
-            "highlight": highlight or None,  # ✅ text annotation
+            "badge": badge or None,
+            "awards": awards or None,
+            "research_areas": research_areas,
         }
 
         front_matter = {k: v for k, v in front_matter.items() if v not in (None, "", [])}

@@ -1,0 +1,25 @@
+{{ define "main" }}
+<div class="mx-auto flex max-w-screen-xl">
+  <article class="w-full min-w-0 justify-center pb-8">
+    <main class="w-full min-w-0 max-w-2xl mx-auto px-6 pt-4">
+
+      <div style="display:flex; flex-direction:column; gap:0.6rem; margin-top:0.5rem;">
+        {{ range .Pages.ByDate.Reverse }}
+        {{ $link := .Params.external_link | default .RelPermalink }}
+        {{ $target := cond (isset .Params "external_link") "_blank" "_self" }}
+        <a href="{{ $link }}" target="{{ $target }}" rel="noopener" style="text-decoration:none; color:inherit;">
+          <div style="padding:0.9rem 1.1rem; border:1px solid #e5e7eb; border-radius:12px; background:#fdfdfd; transition:box-shadow 0.15s;" onmouseover="this.style.boxShadow='0 4px 16px rgba(0,0,0,0.08)'" onmouseout="this.style.boxShadow='none'">
+            <div style="font-size:14px; font-weight:700; color:#b91c1c; margin-bottom:4px;">{{ .Title }}</div>
+            {{ with .Params.summary }}
+            <div style="font-size:13px; color:#374151; margin-bottom:4px;">{{ . }}</div>
+            {{ end }}
+            <div style="font-size:11px; color:#9ca3af;">{{ .Date | time.Format "Jan 2006" }}</div>
+          </div>
+        </a>
+        {{ end }}
+      </div>
+
+    </main>
+  </article>
+</div>
+{{ end }}

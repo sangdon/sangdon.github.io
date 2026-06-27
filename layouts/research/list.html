@@ -1,0 +1,40 @@
+{{ define "main" }}
+<div class="mx-auto flex max-w-screen-xl">
+  <article class="w-full min-w-0 justify-center pb-8">
+    <main class="w-full min-w-0 max-w-2xl mx-auto px-6 pt-4">
+
+      <div style="display:flex; flex-direction:column; gap:1rem;">
+        {{ range .Pages.ByParam "weight" }}
+        <a href="{{ .RelPermalink }}" style="text-decoration:none; color:inherit;">
+          <div style="padding:1.25rem 1.5rem; border:1px solid #e5e7eb; border-radius:14px; background:#fff; transition:box-shadow 0.15s;" onmouseover="this.style.boxShadow='0 4px 16px rgba(0,0,0,0.08)'" onmouseout="this.style.boxShadow='none'">
+            <div style="font-size:15px; font-weight:700; color:#b91c1c; margin-bottom:6px;">{{ .Title }}</div>
+            {{ with .Params.summary }}
+            <div style="font-size:13px; color:#64748b; margin-bottom:10px;">{{ . }}</div>
+            {{ end }}
+            {{ $keywords := slice }}
+            {{ if strings.Contains .RawContent "### Keywords" }}
+              {{ $after := index (split .RawContent "### Keywords") 1 }}
+              {{ $section := index (split $after "###") 0 }}
+              {{ range split $section "\n" }}
+                {{ $line := trim . " \r" }}
+                {{ if strings.HasPrefix $line "* " }}
+                  {{ $keywords = $keywords | append (strings.TrimPrefix "* " $line) }}
+                {{ end }}
+              {{ end }}
+            {{ end }}
+            {{ with $keywords }}
+            <div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:8px;">
+              {{ range . }}
+              <span style="font-size:11px; font-weight:500; padding:2px 9px; border-radius:20px; background:#eff6ff; color:#1d4ed8;">{{ . }}</span>
+              {{ end }}
+            </div>
+            {{ end }}
+          </div>
+        </a>
+        {{ end }}
+      </div>
+
+    </main>
+  </article>
+</div>
+{{ end }}
