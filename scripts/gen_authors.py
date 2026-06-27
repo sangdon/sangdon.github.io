@@ -133,7 +133,18 @@ profiles:
 """
 
 
+def copy_static_assets():
+    uploads_dir = os.path.join(REPO_ROOT, "static", "uploads")
+    os.makedirs(uploads_dir, exist_ok=True)
+    for fname in os.listdir(TEAM_SRC):
+        if fname.endswith(".pdf"):
+            shutil.copy2(os.path.join(TEAM_SRC, fname), os.path.join(uploads_dir, fname))
+            print(f"Copied: static/uploads/{fname}")
+
+
 def main():
+    copy_static_assets()
+
     with open(TEAM_JSON, encoding="utf-8") as f:
         members = json.load(f)
 
