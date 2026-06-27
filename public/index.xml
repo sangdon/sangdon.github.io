@@ -19,10 +19,10 @@ to build red Agentic AI for blue Agentic AI.&lt;/p>
 &lt;h3 id="related-work">Related Work&lt;/h3>
 &lt;ul>
 &lt;li>&lt;a href="https://www.darpa.mil/news/2025/aixcc-results" target="_blank" rel="noopener">AIxCC-Winner&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Physical AI Safety</title><link>http://localhost:1313/research/trustrobots/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/research/trustrobots/</guid><description>&lt;p>The brain of AI has been replaced by large language models (LLMs). The next challenge (or long-standing challenge) is how to build Physical AI? We attach this challenge by making Physical AI trustworthy. In particular, we consider the following question.&lt;/p>
+&lt;/ul></description></item><item><title>Physical AI Safety</title><link>http://localhost:1313/research/trustrobots/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/research/trustrobots/</guid><description>&lt;p>The brain of AI has been replaced by large language models (LLMs). The next challenge (or long-standing challenge) is how to build Physical AI? We tackle this challenge by making Physical AI trustworthy. In particular, we consider the following question.&lt;/p>
 &lt;blockquote>
 &lt;p>&lt;strong>How to build safe robots or humanoids that could live with us and even our kids?&lt;/strong>&lt;/p>&lt;/blockquote>
-&lt;p>Based on our previous experiments on trustworthy AI, we build ground breaking learning methods to achieve this goal.&lt;/p>
+&lt;p>Based on our previous experiments on trustworthy AI, we build groundbreaking learning methods to achieve this goal.&lt;/p>
 &lt;h3 id="on-goingpotential-projects">On-going/Potential Projects&lt;/h3>
 &lt;ul>
 &lt;li>&lt;strong>Safe Humanoid Learning&lt;/strong>: Learn safe humanoids.&lt;/li>
@@ -43,7 +43,7 @@ to build red Agentic AI for blue Agentic AI.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://www.usenix.org/conference/usenixsecurity23/presentation/park" target="_blank" rel="noopener">Security'23&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://arxiv.org/abs/2506.14067" target="_blank" rel="noopener">arXiv'25&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Foundation of AI Alignment</title><link>http://localhost:1313/research/trustllm/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/research/trustllm/</guid><description>&lt;p>Large language models are amazingly performant and we use them in our daily life. Simultaneously, they raise many practical issues, including hallucination and harmful responses. This raises the following question.&lt;/p>
+&lt;/ul></description></item><item><title>Foundation of AI Alignment</title><link>http://localhost:1313/research/trustllm/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/research/trustllm/</guid><description>&lt;p>Large language models are remarkably capable and we use them in our daily life. Simultaneously, they raise many practical issues, including hallucination and harmful responses. This raises the following question.&lt;/p>
 &lt;blockquote>
 &lt;p>&lt;strong>How to mitigate the &lt;mark>hallucination&lt;/mark>, &lt;mark>safety&lt;/mark>, &lt;mark>security&lt;/mark>, and &lt;mark>bias&lt;/mark> problems of large language models (LLMs) or large reasoning models (LRMs)?&lt;/strong>&lt;/p>&lt;/blockquote>
 &lt;p>LLMs confidently generate wrong, biased, and harmful information, which undermines the trust of LLMs as a knowledge base.
@@ -53,8 +53,8 @@ What other possibilities?&lt;/p>
 &lt;h3 id="on-goingpotential-projects">On-going/Potential Projects&lt;/h3>
 &lt;ul>
 &lt;li>&lt;strong>Hallucination mitigation of LLM/LRMs&lt;/strong>: Mitigate the hallucination of LRMs.&lt;/li>
-&lt;li>&lt;strong>Natural hamfulness mitigation of LLM/LRMs&lt;/strong>: Mitigate the safety of LRMs from natrual jailbreaking.&lt;/li>
-&lt;li>&lt;strong>Adversarial hamfulness mitigation of LLM/LRMs&lt;/strong>: Mitigate the security of LRMs from adversarial jailbreaking.&lt;/li>
+&lt;li>&lt;strong>Natural harmfulness mitigation of LLM/LRMs&lt;/strong>: Mitigate the safety of LRMs from natural jailbreaking.&lt;/li>
+&lt;li>&lt;strong>Adversarial harmfulness mitigation of LLM/LRMs&lt;/strong>: Mitigate the security of LRMs from adversarial jailbreaking.&lt;/li>
 &lt;li>&lt;strong>Uncertainty quantification of LLM/LRMs&lt;/strong>: Quantify the correctness of the answers of LLMs or LRMs.&lt;/li>
 &lt;li>&lt;strong>RL-based Alignment&lt;/strong>: Leverage bandits and Reinforcement Learning (RL) for building trustworthy LLMs.&lt;/li>
 &lt;li>&lt;strong>Trustworthiness Control&lt;/strong>: Leverage theoretical results of bandits or RL to guarantee the trustworthiness.&lt;/li>
