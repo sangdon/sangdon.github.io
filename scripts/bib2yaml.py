@@ -213,6 +213,8 @@ def main():
         raw_areas = (entry.get("research_areas") or "").strip()
         research_areas = [a.strip() for a in raw_areas.split(",") if a.strip()] if raw_areas else None
 
+        selected = (entry.get("selected_publication") or "").strip().lower() == "true"
+
         front_matter = {
             "title": title,
             "date": date,
@@ -225,6 +227,7 @@ def main():
             "badge": badge or None,
             "awards": awards or None,
             "research_areas": research_areas,
+            "selected": True if selected else None,
         }
 
         front_matter = {k: v for k, v in front_matter.items() if v not in (None, "", [])}

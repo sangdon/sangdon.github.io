@@ -14,6 +14,21 @@ sections:
         style: 'text-align: left; font-size: 0.8em;'
   - block: collection
     content:
+      title: 📄 Selected Publications
+      filters:
+        folders:
+          - publication
+        selected_only: true
+      archive:
+        enable: true
+        link: /publication/
+        text: See all
+    design:
+      view: pub-card
+      spacing:
+        padding: ['3rem', 0, '0rem', 0]
+  - block: collection
+    content:
       title: 📣 Recent News
       filters: 
         folders:

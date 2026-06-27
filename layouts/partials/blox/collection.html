@@ -53,6 +53,9 @@
 {{ if $block.content.filters.featured_only }}
   {{ $query = where $query "Params.featured" "==" true }}
 {{ end }}
+{{ if $block.content.filters.selected_only }}
+  {{ $query = where $query "Params.selected" "==" true }}
+{{ end }}
 {{ if $block.content.filters.exclude_featured }}
   {{ $query = where $query "Params.featured" "!=" true }}
 {{ end }}
