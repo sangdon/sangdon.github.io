@@ -11,7 +11,7 @@ import yaml
 # =========================
 # CONFIG
 # =========================
-BIB_PATH = Path("../authors/Sangdon Park/papers.bib")  # input BibTeX
+BIB_PATH = Path("../../team-src/papers.bib")  # input BibTeX
 OUT_DIR = Path(".")                                   # output bundles (current dir)
 
 

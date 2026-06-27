@@ -1,0 +1,356 @@
+[
+  {
+    "id": 0,
+    "first_name": "Sangdon",
+    "last_name": "Park",
+    "name_pronunciation": "박상돈",
+    "role": "Assistant Professor",
+    "organizations": [
+      {
+        "name": "POSTECH AI/CSE",
+        "url": "ai.postech.ac.kr"
+      }
+    ],
+    "profiles": [
+      {
+        "icon": "at-symbol",
+        "url": "mailto:sangdon@postech.ac.kr",
+        "label": "E-mail Me"
+      },
+      {
+        "icon": "academicons/orcid",
+        "url": "https://orcid.org/0000-0002-9184-5652"
+      },
+      {
+        "icon": "academicons/dblp",
+        "url": "https://dblp.org/pid/119/1530-1.html"
+      },
+      {
+        "icon": "academicons/google-scholar",
+        "url": "https://scholar.google.com/citations?user=Vi2E2F4AAAAJ&hl=en"
+      },
+      {
+        "icon": "academicons/cv",
+        "url": "uploads/CV.pdf",
+        "label": "Download my CV"
+      }
+    ],
+    "website": "https://sangdon.github.io/",
+    "user_groups": [
+      "Leader"
+    ],
+    "extra_frontmatter": {
+      "research_mission": "We develop Trustworthy Cyber-Physical AI Agents aligned with human values."
+    }
+  },
+  {
+    "id": 1,
+    "first_name": "Minjae",
+    "last_name": "Lee",
+    "name_pronunciation": "이민재",
+    "role": "POSTECH AI PhD+MS",
+    "organizations": [
+      {
+        "name": "POSTECH CSE BS",
+        "url": "ai.postech.ac.kr"
+      }
+    ],
+    "profiles": [
+      {
+        "icon": "house-chimney",
+        "url": "https://saemin21.github.io/"
+      }
+    ],
+    "user_groups": [
+      "PhD"
+    ]
+  },
+  {
+    "id": 2,
+    "first_name": "Kyungmin",
+    "last_name": "Kim",
+    "name_pronunciation": "김경민",
+    "role": "POSTECH AI PhD+MS",
+    "organizations": [
+      {
+        "name": "Korea Univ. Statistics BS",
+        "url": ""
+      }
+    ],
+    "profiles": [
+      {
+        "icon": "house-chimney",
+        "url": "https://kmkim95.github.io/"
+      }
+    ],
+    "user_groups": [
+      "PhD"
+    ]
+  },
+  {
+    "id": 3,
+    "first_name": "Minjae",
+    "last_name": "Gwon",
+    "name_pronunciation": "권민재",
+    "role": "POSTECH CSE MS",
+    "organizations": [
+      {
+        "name": "POSTECH CSE BS",
+        "url": "cse.postech.ac.kr"
+      }
+    ],
+    "profiles": [
+      {
+        "icon": "house-chimney",
+        "url": "https://bxta.kr/"
+      }
+    ],
+    "user_groups": [
+      "MS"
+    ]
+  },
+  {
+    "id": 4,
+    "first_name": "Namgyu",
+    "last_name": "Park",
+    "name_pronunciation": "박남규",
+    "role": "Samsung SDS",
+    "organizations": [
+      {
+        "name": "POSTECH CSE PhD+MS",
+        "url": ""
+      },
+      {
+        "name": "POSTECH CSE BS",
+        "url": "cse.postech.ac.kr"
+      }
+    ],
+    "profiles": [],
+    "user_groups": [
+      "Alumni"
+    ]
+  },
+  {
+    "id": 5,
+    "first_name": "Byeonggyu",
+    "last_name": "Kim",
+    "name_pronunciation": "김병규",
+    "role": "POSTECH CSE MS",
+    "organizations": [
+      {
+        "name": "POSTECH ME/CSE BS",
+        "url": "cse.postech.ac.kr"
+      }
+    ],
+    "profiles": [
+      {
+        "icon": "house-chimney",
+        "url": "https://byeonggyu-kim.github.io/"
+      }
+    ],
+    "user_groups": [
+      "MS"
+    ]
+  },
+  {
+    "id": 6,
+    "first_name": "Jaewoo",
+    "last_name": "Jeong",
+    "name_pronunciation": "정재우",
+    "role": "POSTECH CSE MS",
+    "organizations": [
+      {
+        "name": "POSTECH CSE BS",
+        "url": "cse.postech.ac.kr"
+      }
+    ],
+    "profiles": [
+      {
+        "icon": "house-chimney",
+        "url": "https://scientific-houseboat-759.notion.site/"
+      }
+    ],
+    "user_groups": [
+      "MS"
+    ]
+  },
+  {
+    "id": 7,
+    "first_name": "Junyoung",
+    "last_name": "Yang",
+    "name_pronunciation": "양준영",
+    "role": "POSTECH CSE PhD+MS",
+    "organizations": [
+      {
+        "name": "POSTECH CSE BS",
+        "url": "cse.postech.ac.kr"
+      }
+    ],
+    "profiles": [
+      {
+        "icon": "house-chimney",
+        "url": "https://sheepjun0330.github.io/"
+      }
+    ],
+    "user_groups": [
+      "PhD"
+    ]
+  },
+  {
+    "id": 9,
+    "first_name": "Yoonjae",
+    "last_name": "Jung",
+    "name_pronunciation": "정윤재",
+    "role": "POSTECH AI PhD+MS",
+    "organizations": [
+      {
+        "name": "POSTECH CSE BS",
+        "url": "ai.postech.ac.kr"
+      }
+    ],
+    "profiles": [],
+    "user_groups": [
+      "PhD"
+    ]
+  },
+  {
+    "id": 10,
+    "first_name": "Minseok",
+    "last_name": "Kim",
+    "name_pronunciation": "김민석",
+    "role": "POSTECH CSE MS",
+    "organizations": [
+      {
+        "name": "POSTECH CiTE/CSE BS",
+        "url": "cse.postech.ac.kr"
+      }
+    ],
+    "profiles": [
+      {
+        "icon": "house-chimney",
+        "url": "https://bigmbigk.github.io/"
+      }
+    ],
+    "user_groups": [
+      "MS"
+    ]
+  },
+  {
+    "id": 11,
+    "first_name": "Sechan",
+    "last_name": "Lee",
+    "name_pronunciation": "이세찬",
+    "role": "POSTECH AI MS",
+    "organizations": [
+      {
+        "name": "SKKU CE BS",
+        "url": ""
+      }
+    ],
+    "profiles": [
+      {
+        "icon": "house-chimney",
+        "url": "https://www.linkedin.com/in/sechan-lee-6b168b224"
+      }
+    ],
+    "user_groups": [
+      "MS"
+    ]
+  },
+  {
+    "id": 12,
+    "first_name": "Amir",
+    "last_name": "",
+    "name_pronunciation": "Amir",
+    "role": "POSTECH AI Postdoc.",
+    "organizations": [
+      {
+        "name": "OpenClaw Univ.",
+        "url": ""
+      }
+    ],
+    "profiles": [
+      {
+        "icon": "house-chimney",
+        "url": "https://openclaw.ai/"
+      }
+    ],
+    "user_groups": [
+      "Leader"
+    ]
+  },
+  {
+    "id": 13,
+    "first_name": "Deokhyung",
+    "last_name": "Kang",
+    "name_pronunciation": "강덕형",
+    "role": "POSTECH AI Postdoc.",
+    "organizations": [
+      {
+        "name": "POSTECH AI PhD",
+        "url": ""
+      }
+    ],
+    "profiles": [
+      {
+        "icon": "house-chimney",
+        "url": "https://deokhk.github.io/"
+      }
+    ],
+    "user_groups": [
+      "Leader"
+    ]
+  },
+  {
+    "type": "group",
+    "user_groups": [
+      "Admin"
+    ],
+    "profiles": [
+      {
+        "name": "Jiyoung Choi",
+        "active": true
+      }
+    ]
+  },
+  {
+    "type": "group",
+    "user_groups": [
+      "Intern"
+    ],
+    "profiles": [
+      {
+        "name": "Jaewan Choi, POSTECH CSE Undergrad (2025.01 - )",
+        "active": true
+      },
+      {
+        "name": "Junyoung Park, POSTECH CSE Undergrad (2025.03 - )",
+        "active": true
+      },
+      {
+        "name": "Sechan Lee, SKKU CE Undergrad (2025.06 - 2026.02)",
+        "active": false
+      },
+      {
+        "name": "Hayeon Kim, POSTECH CSE Undergrad (2025.09 - 2025.12)",
+        "active": false
+      },
+      {
+        "name": "Juwon Ha, POSTECH CSE Undergrad (2025.09 - 2025.12)",
+        "active": false
+      },
+      {
+        "name": "Minsoo Ha, POSTECH Math Undergrad (2025.09 - 2026.03)",
+        "active": false
+      },
+      {
+        "name": "Juhwan Park, POSTECH CSE Undergrad (2026.01 - )",
+        "active": true
+      },
+      {
+        "name": "Seongju Park, POSTECH CSE Undergrad (2026.03 - 2026.05)",
+        "active": false
+      }
+    ]
+  }
+]
