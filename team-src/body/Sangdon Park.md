@@ -8,7 +8,7 @@ systems.
 
 
 📣 **Hiring**: 
-I'm looking for self-motivated **graduate students**, particularly interseted in the following:
+I'm looking for self-motivated **graduate students**, particularly interested in the following:
 
 1. Foundation of [AI Alignment](https://en.wikipedia.org/wiki/AI_alignment) via Conformal Prediction and Abstention 
 2. Physical AI Safety
