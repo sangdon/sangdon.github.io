@@ -22,11 +22,11 @@ toc: false
 
 ---
 
-The brain of AI has been replaced by large language models (LLMs). The next challenge (or long-standing challenge) is how to build Physical AI? We attach this challenge by making Physical AI trustworthy. In particular, we consider the following question.     
+The brain of AI has been replaced by large language models (LLMs). The next challenge (or long-standing challenge) is how to build Physical AI? We tackle this challenge by making Physical AI trustworthy. In particular, we consider the following question.     
 
 > **How to build safe robots or humanoids that could live with us and even our kids?**
 
-Based on our previous experiments on trustworthy AI, we build ground breaking learning methods to achieve this goal. 
+Based on our previous experiments on trustworthy AI, we build groundbreaking learning methods to achieve this goal. 
 
 
 ### On-going/Potential Projects

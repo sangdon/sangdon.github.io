@@ -1,6 +1,6 @@
 ---
 title: Foundation of AI Alignment 
-summary: Make LLMs trustful, safe, and secure.
+summary: Make LLMs trustworthy, safe, and secure.
 #date: 2025-02-18
 reading_time: false
 weight: 9
@@ -23,7 +23,7 @@ toc: false
 ---
 
 
-Large language models are amazingly performant and we use them in our daily life. Simultaneously, they raise many practical issues, including hallucination and harmful responses. This raises the following question.
+Large language models are remarkably capable and we use them in our daily life. Simultaneously, they raise many practical issues, including hallucination and harmful responses. This raises the following question.
 
 > **How to mitigate the <mark>hallucination</mark>, <mark>safety</mark>, <mark>security</mark>, and <mark>bias</mark> problems of large language models (LLMs) or large reasoning models (LRMs)?**
 
@@ -37,8 +37,8 @@ What other possibilities?
 ### On-going/Potential Projects
 
 * **Hallucination mitigation of LLM/LRMs**: Mitigate the hallucination of LRMs.
-* **Natural hamfulness mitigation of LLM/LRMs**: Mitigate the safety of LRMs from natrual jailbreaking.
-* **Adversarial hamfulness mitigation of LLM/LRMs**: Mitigate the security of LRMs from adversarial jailbreaking.
+* **Natural harmfulness mitigation of LLM/LRMs**: Mitigate the safety of LRMs from natural jailbreaking.
+* **Adversarial harmfulness mitigation of LLM/LRMs**: Mitigate the security of LRMs from adversarial jailbreaking.
 * **Uncertainty quantification of LLM/LRMs**: Quantify the correctness of the answers of LLMs or LRMs.    
 * **RL-based Alignment**: Leverage bandits and Reinforcement Learning (RL) for building trustworthy LLMs.
 * **Trustworthiness Control**: Leverage theoretical results of bandits or RL to guarantee the trustworthiness.
