@@ -1,5 +1,5 @@
 ---
-title: Foundation of AI Alignment
+title: Foundations of AI Alignment
 summary: Build truthful, safe, and secure AI systems.
 reading_time: false
 weight: 1
