@@ -1,0 +1,44 @@
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+{{ $images := resources.Match "lab-photos/*" }}
+
+{{ if $images }}
+<div class="flex flex-col items-center px-6">
+  <div class="w-full max-w-2xl mx-auto">
+
+    {{ if $block.content.title }}
+    <div class="mb-6 text-3xl font-bold text-gray-900 dark:text-white text-center">
+      {{ $block.content.title | emojify }}
+    </div>
+    {{ end }}
+
+    <div id="lab-photo-grid" style="display:grid; grid-template-columns: repeat(2, 1fr); gap:0.6rem;">
+      {{ range $images }}
+      {{ $oriented := .Filter (images.AutoOrient) }}
+      {{ $img := $oriented.Fit "400x400 webp" }}
+      <div class="lab-photo-item" style="aspect-ratio:4/3; overflow:hidden; border-radius:10px;">
+        <img src="{{ $img.RelPermalink }}" style="width:100%; height:100%; object-fit:cover; display:block; image-orientation:from-image;" loading="lazy">
+      </div>
+      {{ end }}
+    </div>
+
+  </div>
+</div>
+
+<script>
+(function() {
+  var grid = document.getElementById('lab-photo-grid');
+  if (!grid) return;
+  var items = Array.from(grid.children);
+  for (var i = items.length - 1; i > 0; i--) {
+    var j = Math.floor(Math.random() * (i + 1));
+    var tmp = items[i]; items[i] = items[j]; items[j] = tmp;
+  }
+  items.forEach(function(el, idx) {
+    grid.appendChild(el);
+    if (idx >= 4) el.style.display = 'none';
+  });
+})();
+</script>
+
+{{ end }}

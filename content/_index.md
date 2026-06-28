@@ -40,6 +40,12 @@ sections:
     design:
       spacing:
         padding: ['3rem', 0, '0rem', 0] # top, right, bottom, left
+  - block: lab-photos
+    content:
+      title: 📸 Lab Photos
+    design:
+      spacing:
+        padding: ['3rem', 0, '3rem', 0]
 ---
 
 
