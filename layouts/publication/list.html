@@ -4,10 +4,14 @@
     <main class="w-full min-w-0 max-w-3xl mx-auto px-6 pt-4">
 
       {{ $pubs := .Pages.ByDate.Reverse }}
+      {{ $cutoff := 2020 }}
       {{ $years := slice }}
       {{ range $pubs }}
         {{ $y := .Date.Format "2006" }}
-        {{ if not (in $years $y) }}{{ $years = $years | append $y }}{{ end }}
+        {{ $yi := int $y }}
+        {{ if ge $yi $cutoff }}
+          {{ if not (in $years $y) }}{{ $years = $years | append $y }}{{ end }}
+        {{ end }}
       {{ end }}
 
       {{ range $years }}
@@ -53,14 +57,84 @@
             {{ if $isTop }}
               <span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8;">{{ .Params.publication_short }}</span>
             {{ end }}
-            {{ with .Params.note }}
+            {{ with .Params.awards }}
+              {{ if reflect.IsSlice . }}
+                {{ range . }}<span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#fee2e2; color:#b91c1c;">{{ . }}</span>{{ end }}
+              {{ else }}<span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#fee2e2; color:#b91c1c;">{{ . }}</span>
+              {{ end }}
+            {{ end }}
+            {{ with .Params.badge }}
               <span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dcfce7; color:#15803d;">{{ . }}</span>
+            {{ end }}
+          </div>
+          {{ end }}
+          {{ with .Params.links }}
+          <div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
+            {{ range . }}
+            <a href="{{ .url }}" target="_blank" rel="noopener" style="font-size:11px; padding:2px 10px; border-radius:20px; border:1px solid #d1d5db; color:#374151; text-decoration:none; background:#fff;">{{ .name }}</a>
+            {{ end }}
+          </div>
+          {{ end }}
+        </div>
+        {{ end }}
+        {{ end }}
+        </div>
+      </div>
+      {{ end }}
+
+      {{/* "2019 and Before" group */}}
+      {{ $hasBefore := false }}
+      {{ range $pubs }}{{ if lt (int (.Date.Format "2006")) $cutoff }}{{ $hasBefore = true }}{{ end }}{{ end }}
+      {{ if $hasBefore }}
+      <div style="display:flex; gap:1.5rem; margin-top:1.5rem;">
+        <div style="width:60px; flex-shrink:0; padding-top:0.9rem;">
+          <span style="font-size:1.4rem; font-weight:700; color:#111827;">2019</span><br><span style="font-size:0.95rem; font-weight:700; color:#111827;">and<br>Before</span>
+        </div>
+        <div style="flex:1; display:flex; flex-direction:column; gap:0.6rem;">
+        {{ range $pubs }}
+        {{ if lt (int (.Date.Format "2006")) $cutoff }}
+        {{ $firstLink := "" }}
+        {{ with .Params.links }}{{ with index . 0 }}{{ $firstLink = .url }}{{ end }}{{ end }}
+        <div style="padding:0.9rem 1.1rem; border:1px solid #e5e7eb; border-radius:12px; background:#fdfdfd;">
+          <div style="font-size:14px; font-weight:600; line-height:1.4; margin-bottom:4px; color:#111827;">
+            {{ if $firstLink }}<a href="{{ $firstLink }}" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">{{ .Title }}</a>{{ else }}{{ .Title }}{{ end }}
+          </div>
+          <div style="font-size:12px; color:#6b7280; margin-bottom:4px;">
+            {{ range $i, $author := .Params.authors }}
+              {{- if $i }}, {{ end -}}
+              {{ $clean := strings.TrimRight "*" $author }}
+              {{ if eq $clean "Sangdon Park" -}}
+                <span style="text-decoration:underline;">{{ $author }}</span>
+              {{- else -}}
+                {{ $author }}
+              {{- end }}
+            {{ end }}
+          </div>
+          <div style="font-size:12px; color:#374151;">
+            {{ with .Params.publication }}<em>{{ . }}</em>{{ end -}}
+            {{- if and .Params.publication .Params.publication_short }} (<strong>{{ .Params.publication_short }}</strong>){{ else if .Params.publication_short }}<strong>{{ .Params.publication_short }}</strong>{{ end -}}
+            {{- if or .Params.publication .Params.publication_short }}, {{ end -}}
+            {{ .Date.Format "2006" }}
+          </div>
+          {{ $topConfs := site.GetPage "publication" }}
+          {{ $topConfs = $topConfs.Params.top_conferences }}
+          {{ $isTop := false }}
+          {{ with .Params.publication_short }}
+            {{ if in $topConfs . }}{{ $isTop = true }}{{ end }}
+          {{ end }}
+          {{ if or .Params.awards $isTop .Params.badge }}
+          <div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
+            {{ if $isTop }}
+              <span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8;">{{ .Params.publication_short }}</span>
             {{ end }}
             {{ with .Params.awards }}
               {{ if reflect.IsSlice . }}
                 {{ range . }}<span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#fee2e2; color:#b91c1c;">{{ . }}</span>{{ end }}
               {{ else }}<span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#fee2e2; color:#b91c1c;">{{ . }}</span>
               {{ end }}
+            {{ end }}
+            {{ with .Params.badge }}
+              <span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dcfce7; color:#15803d;">{{ . }}</span>
             {{ end }}
           </div>
           {{ end }}

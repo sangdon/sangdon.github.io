@@ -26,16 +26,16 @@
   {{ $topConfs := (site.GetPage "publication").Params.top_conferences }}
   {{ $isTop := false }}
   {{ with $item.Params.publication_short }}{{ if in $topConfs . }}{{ $isTop = true }}{{ end }}{{ end }}
-  {{ if or $item.Params.awards $isTop $item.Params.note }}
+  {{ if or $item.Params.awards $isTop $item.Params.badge }}
   <div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
     {{ if $isTop }}<span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8;">{{ $item.Params.publication_short }}</span>{{ end }}
-    {{ with $item.Params.note }}<span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dcfce7; color:#15803d;">{{ . }}</span>{{ end }}
     {{ with $item.Params.awards }}
       {{ if reflect.IsSlice . }}
         {{ range . }}<span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#fee2e2; color:#b91c1c;">{{ . }}</span>{{ end }}
       {{ else }}<span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#fee2e2; color:#b91c1c;">{{ . }}</span>
       {{ end }}
     {{ end }}
+    {{ with $item.Params.badge }}<span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dcfce7; color:#15803d;">{{ . }}</span>{{ end }}
   </div>
   {{ end }}
   {{ with $item.Params.links }}
