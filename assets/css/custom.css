@@ -133,6 +133,69 @@ mark {
   background: #2d3748;
   border-color: #4b5563;
 }
+.hiring-card-wrapper {
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+.hiring-card-tape {
+  position: absolute;
+  top: -14px;
+  left: 50%;
+  transform: translateX(-50%) rotate(-1.5deg);
+  width: 80px;
+  height: 28px;
+  background: rgba(220, 210, 170, 0.55);
+  border-radius: 3px;
+  z-index: 2;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+  backdrop-filter: blur(1px);
+}
+.dark .hiring-card-tape {
+  background: rgba(160, 145, 100, 0.35);
+}
+.hiring-card {
+  position: relative;
+  background: linear-gradient(160deg, #fffef0 0%, #fdfbea 100%);
+  border: 1px solid #e8e0c4;
+  border-top: none;
+  color: #1c1917;
+  box-shadow:
+    0 6px 20px rgba(0,0,0,0.10),
+    0 2px 6px rgba(0,0,0,0.06),
+    inset 0 1px 0 rgba(255,255,255,0.8);
+  transform: rotate(-0.4deg);
+  width: 100%;
+}
+.hiring-card::before {
+  content: none;
+}
+.hiring-card::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 44px;
+  height: 44px;
+  background: linear-gradient(225deg, #ddd8c0 46%, #e8e0c4 46%);
+  border-radius: 0 14px 0 0;
+  box-shadow: -3px 3px 6px rgba(0,0,0,0.10);
+}
+.dark .hiring-card {
+  background: linear-gradient(160deg, #27241a 0%, #231f14 100%);
+  border-color: #3d3720;
+  color: #f0ead0;
+  box-shadow:
+    0 6px 20px rgba(0,0,0,0.35),
+    0 2px 6px rgba(0,0,0,0.2),
+    inset 0 1px 0 rgba(255,255,255,0.05);
+}
+.dark .hiring-card::before {
+  background: linear-gradient(90deg, #7a6530, #9a8040);
+}
+.dark .hiring-card::after {
+  background: linear-gradient(225deg, #18160e 46%, #2a2618 46%);
+}
 .research-card {
   background: #fff;
   border: 1px solid #e5e7eb;

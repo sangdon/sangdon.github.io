@@ -12,6 +12,12 @@ sections:
         padding: [0, 1rem, 0, 1rem] # top, right, bottom, left
       biography:
         style: 'text-align: left; font-size: 0.8em;'
+  - block: hiring
+    content:
+      title: 📣 Hiring
+    design:
+      spacing:
+        padding: ['2rem', 0, '0rem', 0]
   - block: collection
     content:
       title: 📄 Selected Publications
@@ -43,6 +49,12 @@ sections:
   - block: lab-photos
     content:
       title: 📸 Lab Photos
+    design:
+      spacing:
+        padding: ['3rem', 0, '3rem', 0]
+  - block: sponsors
+    content:
+      title: 🤝 Sponsors
     design:
       spacing:
         padding: ['3rem', 0, '3rem', 0]
