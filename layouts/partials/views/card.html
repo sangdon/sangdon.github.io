@@ -1,18 +1,18 @@
 {{ $item := .item }}
 {{ $resource := partial "functions/get_featured_image.html" $item }}
 
-<div style="display:flex; align-items:flex-start; gap:1rem; padding:0.9rem 1.1rem; border:1px solid #e5e7eb; border-radius:12px; background:#fdfdfd;">
+<div class="news-card" style="display:flex; align-items:flex-start; gap:1rem; padding:0.9rem 1.1rem; border-radius:12px;">
   {{ with $resource }}
   {{ $image := .Fit "80x80 webp" }}
   <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" style="width:80px; height:80px; object-fit:contain; flex-shrink:0; border-radius:8px;" loading="lazy">
   {{ end }}
   <div style="flex:1; min-width:0;">
-    <div style="font-size:14px; font-weight:700; color:#b91c1c; margin-bottom:4px;">{{ $item.Title }}</div>
+    <div class="news-card-title" style="font-size:14px; font-weight:700; margin-bottom:4px;">{{ $item.Title }}</div>
     {{ with ($item.Params.summary | default $item.Summary) }}
-    <div style="font-size:13px; color:#374151; margin-bottom:6px;">{{ . | plainify | htmlUnescape }}</div>
+    <div class="news-card-body" style="font-size:13px; margin-bottom:6px;">{{ . | plainify | htmlUnescape }}</div>
     {{ end }}
     {{ if and $item.Date (ne ($item.Date.Year) 1) }}
-    <div style="font-size:11px; color:#9ca3af;">{{ $item.Date | time.Format "Jan 2, 2006" }}</div>
+    <div class="news-card-date" style="font-size:11px;">{{ $item.Date | time.Format "Jan 2, 2006" }}</div>
     {{ end }}
   </div>
 </div>

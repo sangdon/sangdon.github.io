@@ -81,3 +81,88 @@ mark {
 /*  color: #f1a1a1 !important;*/
   opacity: 0.9;
 }
+
+/* Publication / news cards dark mode */
+.pub-card {
+  background: #fdfdfd;
+  border: 1px solid #e5e7eb;
+  color: inherit;
+}
+.dark .pub-card {
+  background: #1e2433;
+  border-color: #374151;
+}
+.pub-card-title {
+  color: #111827;
+}
+.dark .pub-card-title {
+  color: #f3f4f6;
+}
+.pub-card-authors {
+  color: #6b7280;
+}
+.dark .pub-card-authors {
+  color: #9ca3af;
+}
+.pub-card-venue {
+  color: #374151;
+}
+.dark .pub-card-venue {
+  color: #d1d5db;
+}
+.pub-card-link {
+  color: #374151;
+  background: #fff;
+  border: 1px solid #d1d5db;
+}
+.dark .pub-card-link {
+  color: #d1d5db;
+  background: #2d3748;
+  border-color: #4b5563;
+}
+.research-card {
+  background: #fff;
+  border: 1px solid #e5e7eb;
+}
+.dark .research-card {
+  background: #1e2433;
+  border-color: #374151;
+}
+.research-card-title {
+  color: #b91c1c;
+}
+.dark .research-card-title {
+  color: #f87171;
+}
+.news-card {
+  background: #fdfdfd;
+  border: 1px solid #e5e7eb;
+}
+.dark .news-card {
+  background: #1e2433;
+  border-color: #374151;
+}
+.news-card-title {
+  color: #b91c1c;
+}
+.dark .news-card-title {
+  color: #f87171;
+}
+.news-card-body {
+  color: #374151;
+}
+.dark .news-card-body {
+  color: #d1d5db;
+}
+.news-card-date {
+  color: #9ca3af;
+}
+.dark .news-card-date {
+  color: #6b7280;
+}
+.pub-year-label {
+  color: #111827;
+}
+.dark .pub-year-label {
+  color: #f3f4f6;
+}

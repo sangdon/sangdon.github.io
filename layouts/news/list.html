@@ -6,17 +6,17 @@
       <div style="display:flex; flex-direction:column; gap:0.6rem; margin-top:0.5rem;">
         {{ range .Pages.ByDate.Reverse }}
         {{ $featured := (.Resources.ByType "image").GetMatch "*featured*" }}
-        <div style="display:flex; align-items:flex-start; gap:1rem; padding:0.9rem 1.1rem; border:1px solid #e5e7eb; border-radius:12px; background:#fdfdfd;">
+        <div class="news-card" style="display:flex; align-items:flex-start; gap:1rem; padding:0.9rem 1.1rem; border-radius:12px;">
           {{ if $featured }}
           {{ $img := $featured.Fit "80x80 webp" }}
           <img src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}" style="width:80px; height:80px; object-fit:contain; flex-shrink:0; border-radius:8px;" loading="lazy">
           {{ end }}
           <div style="flex:1; min-width:0;">
-            <div style="font-size:14px; font-weight:700; color:#b91c1c; margin-bottom:4px;">{{ .Title }}</div>
+            <div class="news-card-title" style="font-size:14px; font-weight:700; margin-bottom:4px;">{{ .Title }}</div>
             {{ with .Params.summary }}
-            <div style="font-size:13px; color:#374151; margin-bottom:6px;">{{ . | markdownify }}</div>
+            <div class="news-card-body" style="font-size:13px; margin-bottom:6px;">{{ . | markdownify }}</div>
             {{ end }}
-            <div style="font-size:11px; color:#9ca3af;">{{ .Date | time.Format "Jan 2, 2006" }}</div>
+            <div class="news-card-date" style="font-size:11px;">{{ .Date | time.Format "Jan 2, 2006" }}</div>
           </div>
         </div>
         {{ end }}
