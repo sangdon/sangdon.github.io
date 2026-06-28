@@ -25,3 +25,5 @@ mounts:
     target: assets
   - source: team-src/lab-photos
     target: assets/lab-photos
+  - source: team-src/sponsors
+    target: assets/sponsors
