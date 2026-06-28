@@ -14,10 +14,9 @@
         {{ end }}
       {{ end }}
 
-      {{ range $years }}
-      {{ $year := . }}
-      <div style="display:flex; gap:1.5rem; margin-top:1.5rem;">
-        <div style="width:60px; flex-shrink:0; padding-top:0.9rem;">
+      {{ range $i, $year := $years }}
+      <div style="display:flex; gap:1.5rem; {{ if $i }}margin-top:1.5rem;{{ end }}">
+        <div style="width:60px; flex-shrink:0; padding-top:0;">
           <span style="font-size:1.4rem; font-weight:700; color:#111827;">{{ $year }}</span>
         </div>
         <div style="flex:1; display:flex; flex-direction:column; gap:0.6rem;">
@@ -87,7 +86,7 @@
       {{ range $pubs }}{{ if lt (int (.Date.Format "2006")) $cutoff }}{{ $hasBefore = true }}{{ end }}{{ end }}
       {{ if $hasBefore }}
       <div style="display:flex; gap:1.5rem; margin-top:1.5rem;">
-        <div style="width:60px; flex-shrink:0; padding-top:0.9rem;">
+        <div style="width:60px; flex-shrink:0; padding-top:0;">
           <span style="font-size:1.4rem; font-weight:700; color:#111827;">2019</span><br><span style="font-size:0.95rem; font-weight:700; color:#111827;">and<br>Before</span>
         </div>
         <div style="flex:1; display:flex; flex-direction:column; gap:0.6rem;">
