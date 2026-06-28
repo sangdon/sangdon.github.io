@@ -3,47 +3,10 @@
 {{ $pubs := where (where site.RegularPages "Section" "publication") ".Params.research_areas" "intersect" (slice $area) }}
 {{ $pubs = sort $pubs "Date" "desc" }}
 {{ if $pubs }}
-<div style="display:flex; flex-direction:column; gap:0.6rem; margin-top:0.5rem;">
+<h3><span style="font-size:1.3em; font-weight:800; margin-right:0.2em;">{{ len $pubs }}</span> Related Publications</h3>
+<div style="margin-top:0.5rem;">
   {{ range $pubs }}
-  {{ $firstLink := "" }}
-  {{ with .Params.links }}{{ with index . 0 }}{{ $firstLink = .url }}{{ end }}{{ end }}
-  <div style="padding:0.9rem 1.1rem; border:1px solid #e5e7eb; border-radius:12px; background:#f9fafb;">
-    <div style="font-size:14px; font-weight:600; line-height:1.4; margin-bottom:4px; color:#111827;">
-      {{ if $firstLink }}<a href="{{ $firstLink }}" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">{{ .Title }}</a>{{ else }}{{ .Title }}{{ end }}
-    </div>
-    <div style="font-size:12px; color:#6b7280; margin-bottom:4px;">
-      {{ range $i, $author := .Params.authors }}
-        {{- if $i }}, {{ end -}}
-        {{ $clean := strings.TrimRight "*" $author }}
-        {{ if eq $clean "Sangdon Park" -}}
-          <span style="text-decoration:underline;">{{ $author }}</span>
-        {{- else -}}
-          {{ $author }}
-        {{- end }}
-      {{ end }}
-    </div>
-    <div style="font-size:12px; color:#374151; display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
-      {{ if .Params.publication_short }}
-      <span style="display:inline-block; font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8; letter-spacing:0.01em; line-height:1.4;">{{ .Params.publication_short }}</span>
-      {{ else }}{{ with .Params.publication }}<em>{{ . }}</em>{{ end }}{{ end -}}
-      <span>{{- .Date.Format "2006" }}</span>
-    </div>
-    {{ with .Params.awards }}
-    <div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
-      {{ if reflect.IsSlice . }}
-        {{ range . }}<span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#fee2e2; color:#b91c1c;">{{ . }}</span>{{ end }}
-      {{ else }}<span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#fee2e2; color:#b91c1c;">{{ . }}</span>
-      {{ end }}
-    </div>
-    {{ end }}
-    {{ with .Params.links }}
-    <div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
-      {{ range . }}
-      <a href="{{ .url }}" target="_blank" rel="noopener" style="font-size:11px; padding:2px 10px; border-radius:20px; border:1px solid #d1d5db; color:#374151; text-decoration:none; background:#fff;">{{ .name }}</a>
-      {{ end }}
-    </div>
-    {{ end }}
-  </div>
+  {{ partial "views/pub-card.html" (dict "item" .) }}
   {{ end }}
 </div>
 {{ end }}

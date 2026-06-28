@@ -20,6 +20,5 @@ Large language models raise many practical issues, including hallucination and h
 * Uncertainty Quantification
 * Reinforcement Learning
 
-### Related Publications
 
 {{< research-papers area="alignment-foundation" >}}

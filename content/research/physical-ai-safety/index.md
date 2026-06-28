@@ -20,6 +20,5 @@ Physical AI systems such as robots and humanoids are increasingly capable, yet d
 * Conformal Prediction
 * Uncertainty Quantification
 
-### Related Publications
 
 {{< research-papers area="physical-ai-safety" >}}
