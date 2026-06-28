@@ -14,7 +14,7 @@ sections:
         style: 'text-align: left; font-size: 0.8em;'
   - block: hiring
     content:
-      title: 📣 Hiring
+      title: 📌 Notice
     design:
       spacing:
         padding: ['2rem', 0, '0rem', 0]

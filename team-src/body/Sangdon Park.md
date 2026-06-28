@@ -2,18 +2,4 @@ Sangdon Park is an assistant professor of [Graduate School of Artificial Intelli
 He leads [Machine Learning Lab](http://ml.postech.ac.kr/) in collaboration with other faculty members. 
 He is also a member of [National AI Research Lab](https://nairl.kr/), [Global AI Frontier Lab](https://www.nyu.edu/research/research-centers-and-institutes/global-ai-frontier-lab.html), and [Team Atlanta](https://team-atlanta.github.io/).
 
-His research focuses on machine learning for AI alignment, developing trustworthy AI from theoretical foundations to real-world cyber-physical applications.
-
-📣 **Hiring**: 
-I'm looking for self-motivated **graduate students**, particularly interested in the following:
-
-1. Foundation of [AI Alignment](https://en.wikipedia.org/wiki/AI_alignment) via Conformal Prediction and Abstention 
-2. Physical AI Safety
-3. Agentic AI Alignment
-4. [AI Red Teaming](https://roadmap.sh/ai-red-teaming)
-
-
-For *POSTECH undergraduate research* (intern, CSED399, or CSED499), feel free to email me (possibly with your CV) for discussion on research directions.
-
-For *prospective PhD+MS, PhD, and MS  students*, please email me with your CV -- 
-undergraduate students who wish to apply, I recommend having an internship with me.
+His research focuses on **machine learning for AI alignment**, developing trustworthy AI from theoretical foundations to real-world cyber-physical applications. 

@@ -1,5 +1,5 @@
 {{ $block := .wcBlock }}
-{{ $hiring := site.Data.hiring }}
+{{ $notice := resources.Get "team-src/notice.md" }}
 
 <div class="flex flex-col items-center px-6">
   <div class="w-full max-w-2xl mx-auto">
@@ -10,27 +10,14 @@
     </div>
     {{ end }}
 
+    {{ if $notice }}
     <div class="hiring-card-wrapper mt-4">
       <div class="hiring-card-tape"></div>
       <div class="hiring-card prose prose-slate lg:prose-xl dark:prose-invert max-w-none" style="padding:1.5rem 1.75rem; border-radius:14px;">
-      <p style="margin:0 0 0.75rem 0; font-size:0.95rem;">
-        I'm looking for self-motivated <strong>graduate students</strong>, particularly interested in the following:
-      </p>
-      <ol style="margin:0 0 1rem 0; padding-left:1.5rem; font-size:0.95rem; list-style:decimal;">
-        {{ range $hiring.topics }}
-        <li style="margin-bottom:0.2rem;">
-          {{ if .url }}<a href="{{ .url }}" target="_blank">{{ .text }}</a>{{ else }}{{ .text }}{{ end }}
-        </li>
-        {{ end }}
-      </ol>
-      {{ with $hiring.undergraduate }}
-      <p style="margin:0 0 0.5rem 0; font-size:0.9rem;">{{ . | markdownify }}</p>
-      {{ end }}
-      {{ with $hiring.graduate }}
-      <p style="margin:0; font-size:0.9rem;">{{ . | markdownify }}</p>
-      {{ end }}
+        {{ $notice.Content | markdownify }}
+      </div>
     </div>
-    </div>
+    {{ end }}
 
   </div>
 </div>

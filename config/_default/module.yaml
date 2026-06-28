@@ -27,3 +27,6 @@ mounts:
     target: assets/lab-photos
   - source: team-src/sponsors
     target: assets/sponsors
+  - source: team-src/body
+    target: assets/team-src
+    includeFiles: '**.md'
