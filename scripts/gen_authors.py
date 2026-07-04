@@ -67,6 +67,11 @@ def generate(member):
     for k, v in member.get("extra_frontmatter", {}).items():
         extra += f'\n{k}: "{v}"'
 
+    research_areas = member.get("research_areas", [])
+    if research_areas:
+        areas_yaml = "\n".join(f"  - {a}" for a in research_areas)
+        extra += f"\nresearch_areas:\n{areas_yaml}"
+
     content = f"""---
 id: {member['id']}
 

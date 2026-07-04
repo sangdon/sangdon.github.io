@@ -63,7 +63,8 @@
     ],
     "user_groups": [
       "PhD"
-    ]
+    ],
+    "research_areas": ["alignment-foundation", "physical-ai-safety"]
   },
   {
     "id": 2,
@@ -85,7 +86,8 @@
     ],
     "user_groups": [
       "PhD"
-    ]
+    ],
+    "research_areas": ["alignment-foundation", "physical-ai-safety"]
   },
   {
     "id": 3,
@@ -107,7 +109,8 @@
     ],
     "user_groups": [
       "MS"
-    ]
+    ],
+    "research_areas": ["alignment-foundation"]
   },
   {
     "id": 4,
@@ -128,7 +131,8 @@
     "profiles": [],
     "user_groups": [
       "Alumni"
-    ]
+    ],
+    "research_areas": []
   },
   {
     "id": 5,
@@ -150,7 +154,8 @@
     ],
     "user_groups": [
       "MS"
-    ]
+    ],
+    "research_areas": ["physical-ai-safety"]
   },
   {
     "id": 6,
@@ -172,7 +177,8 @@
     ],
     "user_groups": [
       "MS"
-    ]
+    ],
+    "research_areas": ["alignment-foundation"]
   },
   {
     "id": 7,
@@ -194,7 +200,8 @@
     ],
     "user_groups": [
       "PhD"
-    ]
+    ],
+    "research_areas": ["alignment-foundation"]
   },
   {
     "id": 9,
@@ -211,7 +218,8 @@
     "profiles": [],
     "user_groups": [
       "PhD"
-    ]
+    ],
+    "research_areas": ["physical-ai-safety"]
   },
   {
     "id": 10,
@@ -233,7 +241,8 @@
     ],
     "user_groups": [
       "MS"
-    ]
+    ],
+    "research_areas": ["physical-ai-safety"]
   },
   {
     "id": 11,
@@ -255,7 +264,8 @@
     ],
     "user_groups": [
       "MS"
-    ]
+    ],
+    "research_areas": ["redteaming"]
   },
   {
     "id": 12,
@@ -277,7 +287,8 @@
     ],
     "user_groups": [
       "Leader"
-    ]
+    ],
+    "research_areas": []
   },
   {
     "id": 13,
@@ -299,7 +310,8 @@
     ],
     "user_groups": [
       "Leader"
-    ]
+    ],
+    "research_areas": ["alignment-foundation"]
   },
   {
     "type": "group",

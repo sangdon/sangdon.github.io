@@ -91,8 +91,27 @@
               <p class="mt-1 text-sm text-slate-600 dark:text-slate-300">{{ delimit $person.Params.interests ", " }}</p>
             {{ end }}
 
+            {{ with $person.Params.research_areas }}
+              {{ $areaColors := dict
+                "alignment-foundation"  (dict "bg" "#eff6ff" "text" "#1d4ed8" "label" "Alignment Foundation")
+                "agentic-ai-alignment"  (dict "bg" "#faf5ff" "text" "#7e22ce" "label" "Agentic AI Alignment")
+                "physical-ai-safety"    (dict "bg" "#f0fdf4" "text" "#15803d" "label" "Physical AI Safety")
+                "redteaming"            (dict "bg" "#fff7ed" "text" "#c2410c" "label" "Red Teaming")
+              }}
+              <div class="mt-0 flex flex-wrap justify-center gap-0.5">
+                {{ range . }}
+                  {{ $c := index $areaColors . }}
+                  {{ if $c }}
+                    <a href="/research/{{ . }}/" style="text-decoration:none;">
+                      <span style="font-size:12px; font-weight:600; padding:2px 9px; border-radius:20px; background:{{ $c.bg }}; color:{{ $c.text }}; white-space:nowrap;">{{ $c.label }}</span>
+                    </a>
+                  {{ end }}
+                {{ end }}
+              </div>
+            {{ end }}
+
             {{ if $show_social }}
-              <div class="mt-2 text-xl">
+              <div class="mt-3 text-xl">
                 {{ partial "social_links" $person }}
               </div>
             {{ end }}
