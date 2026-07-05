@@ -9,8 +9,9 @@
   <div class="pub-card-authors" style="font-size:12px; margin-bottom:4px;">
     {{ range $i, $author := $item.Params.authors }}
       {{- if $i }}, {{ end -}}
-      {{ $clean := strings.TrimRight "*" $author }}
-      {{ if eq $clean "Sangdon Park" -}}
+      {{ $clean := strings.TrimRight "*^" $author }}
+      {{ $isHighlight := or (eq $clean "Sangdon Park") (strings.Contains $author "^") -}}
+      {{ if $isHighlight -}}
         <span style="text-decoration:underline;">{{ $author }}</span>
       {{- else -}}
         {{ $author }}
