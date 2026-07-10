@@ -11,7 +11,7 @@ toc: false
 
 Large language models and Agentic AI raise many practical issues, including hallucination and harmful responses. This raises the following question.
 
-> **How do we build AI systems that are reliably <mark>truthful</mark>, <mark>safe</mark>, and <mark>secure</mark>?**
+> **How do we train AI systems that are reliably <mark>truthful</mark>, <mark>safe</mark>, and <mark>secure</mark>?**
 
 ### Keywords
 * Large Language Models

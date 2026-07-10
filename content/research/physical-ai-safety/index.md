@@ -11,7 +11,7 @@ toc: false
 
 Physical AI systems such as robots and humanoids are increasingly capable, yet deploying them safely around humans remains an open challenge. This raises the following question.
 
-> **How do we build physical AI that are reliably <mark>safe</mark>?**
+> **How do we train physical AI that are reliably <mark>safe</mark>?**
 
 ### Keywords
 * Vision-Language-Action Models
