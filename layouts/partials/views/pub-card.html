@@ -7,15 +7,11 @@
     {{ if $firstLink }}<a href="{{ $firstLink }}" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">{{ $item.Title }}</a>{{ else }}{{ $item.Title }}{{ end }}
   </div>
   <div class="pub-card-authors" style="font-size:12px; margin-bottom:4px;">
-    {{ range $i, $author := $item.Params.authors }}
+    {{ range $i, $author := $item.Params.authors -}}
       {{- if $i }}, {{ end -}}
-      {{ $clean := strings.TrimRight "*^" $author }}
-      {{ if eq $clean "Sangdon Park" -}}
-        <span style="text-decoration:underline;">{{ $author }}</span>
-      {{- else -}}
-        {{ $author }}
-      {{- end }}
-    {{ end }}
+      {{- $clean := strings.TrimRight "*^" $author -}}
+      {{- if eq $clean "Sangdon Park" -}}<span style="text-decoration:underline;">{{ $author }}</span>{{- else -}}{{ $author }}{{- end -}}
+    {{- end }}
   </div>
   <div class="pub-card-venue" style="font-size:12px;">
     {{ with $item.Params.publication }}<em>{{ . }}</em>{{ end -}}
