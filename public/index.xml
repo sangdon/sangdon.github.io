@@ -3,12 +3,13 @@
 &lt;p>&lt;strong>How do we train AI systems that are &lt;mark>truthful&lt;/mark>, &lt;mark>safe&lt;/mark>, and &lt;mark>secure&lt;/mark> with theoretical guarantees?&lt;/strong>&lt;/p>&lt;/blockquote>
 &lt;h3 id="keywords">Keywords&lt;/h3>
 &lt;ul>
-&lt;li>Large Language Models&lt;/li>
-&lt;li>Agentic AI&lt;/li>
 &lt;li>Conformal Abstention&lt;/li>
 &lt;li>Conformal Prediction&lt;/li>
 &lt;li>Uncertainty Quantification&lt;/li>
 &lt;li>Reinforcement Learning&lt;/li>
+&lt;li>Large Language Models&lt;/li>
+&lt;li>Agentic AI&lt;/li>
+&lt;li>Physical AI&lt;/li>
 &lt;/ul>
 &lt;h3>&lt;span style="font-size:1.3em; font-weight:800; margin-right:0.2em;">22&lt;/span> Related Publications&lt;/h3>
 &lt;div style="margin-top:0.5rem;">
@@ -377,6 +378,62 @@ Ramneet Kaur, Susmit Jha, Anirban Roy, &lt;span style="text-decoration:underline
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
 &lt;a href="https://arxiv.org/abs/1708.03366v2" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">arXiv&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;/div></description></item><item><title>Agentic AI Alignment</title><link>http://localhost:1313/research/agentic-ai-alignment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/research/agentic-ai-alignment/</guid><description>&lt;p>Agentic AI systems act autonomously over long horizons, making alignment increasingly critical and challenging. We develop principled methods to ensure these agents remain truthful, safe, and secure — aligned with human intent throughout deployment.&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>How do we build AI agents that remain &lt;mark>trustworthy&lt;/mark> as they act in the open world?&lt;/strong>&lt;/p>&lt;/blockquote>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>Agentic AI&lt;/li>
+&lt;li>AI Alignment&lt;/li>
+&lt;li>Reinforcement Learning&lt;/li>
+&lt;/ul>
+&lt;h3>&lt;span style="font-size:1.3em; font-weight:800; margin-right:0.2em;">3&lt;/span> Related Publications&lt;/h3>
+&lt;div style="margin-top:0.5rem;">
+&lt;div class="pub-card" style="padding:0.9rem 1.1rem; border-radius:12px; margin-bottom:0.6rem;">
+&lt;div class="pub-card-title" style="font-size:14px; font-weight:600; line-height:1.4; margin-bottom:4px;">
+&lt;a href="https://arxiv.org/abs/2511.13725" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">Can We Stop Malicious AI? KILLBENCH: A Benchmark for External AI Kill Switch Feasibility&lt;/a>
+&lt;/div>
+&lt;div class="pub-card-authors" style="font-size:12px; margin-bottom:4px;">
+Sechan Lee, Hyounghun Kim, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
+&lt;/div>
+&lt;div class="pub-card-venue" style="font-size:12px;">
+2026
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
+&lt;a href="https://arxiv.org/abs/2511.13725" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">arXiv&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="pub-card" style="padding:0.9rem 1.1rem; border-radius:12px; margin-bottom:0.6rem;">
+&lt;div class="pub-card-title" style="font-size:14px; font-weight:600; line-height:1.4; margin-bottom:4px;">
+&lt;a href="https://arxiv.org/abs/2606.25447" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">The Interplay of Harness Design and Post-Training in LLM Agents&lt;/a>
+&lt;/div>
+&lt;div class="pub-card-authors" style="font-size:12px; margin-bottom:4px;">
+Kyungmin Kim*, Youngbin Choi*, Seoyeon Lee, Suhyeon Jun, Dongwoo Kim^, &lt;span style="text-decoration:underline;">Sangdon Park^&lt;/span>
+&lt;/div>
+&lt;div class="pub-card-venue" style="font-size:12px;">
+&lt;em>International Conference on Machine Learning Workshop&lt;/em> (&lt;strong>ICML RLxF Workshop&lt;/strong>), 2026
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
+&lt;a href="https://arxiv.org/abs/2606.25447" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">arXiv&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="pub-card" style="padding:0.9rem 1.1rem; border-radius:12px; margin-bottom:0.6rem;">
+&lt;div class="pub-card-title" style="font-size:14px; font-weight:600; line-height:1.4; margin-bottom:4px;">
+&lt;a href="https://arxiv.org/abs/2509.14589" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">ATLANTIS: AI-driven Threat Localization, Analysis, and Triage Intelligence System&lt;/a>
+&lt;/div>
+&lt;div class="pub-card-authors" style="font-size:12px; margin-bottom:4px;">
+Taesoo Kim, HyungSeok Han, Soyeon Park, Dae R. Jeong, Dohyeok Kim, Dongkwan Kim, Eunsoo Kim, Jiho Kim, Joshua Wang, Kangsu Kim, Sangwoo Ji, Woosun Song, Hanqing Zhao, Andrew Chin, Gyejin Lee, Kevin Stevens, Mansour Alharthi, Yizhuo Zhai, Cen Zhang, Joonun Jang, Yeongjin Jang, Ammar Askar, Dongju Kim, Fabian Fleischer, Jeongin Cho, Junsik Kim, Kyungjoon Ko, Insu Yun, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Dowoo Baik, Haein Lee, Hyeon Heo, Minjae Gwon, Minjae Lee, Minwoo Baek, Seunggi Min, Wonyoung Kim, Yonghwi Jin, Younggi Park, Yunjae Choi, Jinho Jung, Gwanhyun Lee, Junyoung Jang, Kyuheon Kim, Yeonghyeon Cha, Youngjoon Kim
+&lt;/div>
+&lt;div class="pub-card-venue" style="font-size:12px;">
+2025
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#fee2e2; color:#b91c1c;">🏆 DARPA AIxCC Winner - $(4&amp;#43;2)M Award&lt;/span>
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
+&lt;a href="https://arxiv.org/abs/2509.14589" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">arXiv&lt;/a>
 &lt;/div>
 &lt;/div>
 &lt;/div></description></item><item><title>Physical AI Safety</title><link>http://localhost:1313/research/physical-ai-safety/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/research/physical-ai-safety/</guid><description>&lt;p>Physical AI systems such as robots and humanoids are increasingly capable, yet deploying them safely around humans remains an open challenge. This raises the following question.&lt;/p>
