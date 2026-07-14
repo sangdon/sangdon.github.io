@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sangdon Park</title><link>http://localhost:1313/</link><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><description>Sangdon Park</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate><image><url>http://localhost:1313/media/icon_hu_5e0546d98affa013.png</url><title>Sangdon Park</title><link>http://localhost:1313/</link></image><item><title>Foundations of AI Alignment</title><link>http://localhost:1313/research/alignment-foundation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/research/alignment-foundation/</guid><description>&lt;p>Large language models and Agentic AI raise many practical issues, including hallucination and harmful responses. This raises the following question.&lt;/p>
 &lt;blockquote>
-&lt;p>&lt;strong>How do we build AI systems that are reliably &lt;mark>truthful&lt;/mark>, &lt;mark>safe&lt;/mark>, and &lt;mark>secure&lt;/mark>?&lt;/strong>&lt;/p>&lt;/blockquote>
+&lt;p>&lt;strong>How do we train AI systems that are &lt;mark>truthful&lt;/mark>, &lt;mark>safe&lt;/mark>, and &lt;mark>secure&lt;/mark> with theoretical guarantees?&lt;/strong>&lt;/p>&lt;/blockquote>
 &lt;h3 id="keywords">Keywords&lt;/h3>
 &lt;ul>
 &lt;li>Large Language Models&lt;/li>
@@ -17,17 +17,7 @@
 &lt;a href="https://arxiv.org/abs/2606.25447" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">The Interplay of Harness Design and Post-Training in LLM Agents&lt;/a>
 &lt;/div>
 &lt;div class="pub-card-authors" style="font-size:12px; margin-bottom:4px;">
-Kyungmin Kim*
-,
-Youngbin Choi*
-,
-Seoyeon Lee
-,
-Suhyeon Jun
-,
-Dongwoo Kim^
-,
-&lt;span style="text-decoration:underline;">Sangdon Park^&lt;/span>
+Kyungmin Kim*, Youngbin Choi*, Seoyeon Lee, Suhyeon Jun, Dongwoo Kim^, &lt;span style="text-decoration:underline;">Sangdon Park^&lt;/span>
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
 &lt;em>International Conference on Machine Learning Workshop&lt;/em> (&lt;strong>ICML RLxF Workshop&lt;/strong>), 2026
@@ -41,11 +31,7 @@ Dongwoo Kim^
 &lt;a href="https://arxiv.org/abs/2505.13553" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">Towards Functional Correctness of Large Code Models with Selective Generation&lt;/a>
 &lt;/div>
 &lt;div class="pub-card-authors" style="font-size:12px; margin-bottom:4px;">
-Jaewoo Jeong
-,
-Taesoo Kim
-,
-&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
+Jaewoo Jeong, Taesoo Kim, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
 &lt;em>International Conference on Machine Learning&lt;/em> (&lt;strong>ICML&lt;/strong>), 2026
@@ -63,11 +49,7 @@ Taesoo Kim
 &lt;a href="https://arxiv.org/abs/2604.17984" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">Online Conformal Prediction with Adversarial Semi-bandit Feedback via Regret Minimization&lt;/a>
 &lt;/div>
 &lt;div class="pub-card-authors" style="font-size:12px; margin-bottom:4px;">
-Junyoung Yang*
-,
-Kyungmin Kim*
-,
-&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
+Junyoung Yang*, Kyungmin Kim*, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
 &lt;em>International Conference on Learning Representations&lt;/em> (&lt;strong>ICLR&lt;/strong>), 2026
@@ -85,15 +67,7 @@ Kyungmin Kim*
 &lt;a href="https://doi.org/10.18653/v1/2025.findings-emnlp.405" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">ChronoBias: A Benchmark for Evaluating Time-conditional Group Bias in the Time-sensitive Knowledge of Large Language Models&lt;/a>
 &lt;/div>
 &lt;div class="pub-card-authors" style="font-size:12px; margin-bottom:4px;">
-Kyungmin Kim
-,
-Youngbin Choi
-,
-Hyounghun Kim
-,
-Dongwoo Kim
-,
-&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
+Kyungmin Kim, Youngbin Choi, Hyounghun Kim, Dongwoo Kim, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
 &lt;em>Findings of the Association for Computational Linguistics: EMNLP&lt;/em> (&lt;strong>EMNLP Findings&lt;/strong>), 2025
@@ -108,13 +82,7 @@ Dongwoo Kim
 &lt;a href="https://arxiv.org/abs/2410.05664" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">Holistic Unlearning Benchmark: A Multi-Faceted Evaluation for Text-to-Image Diffusion Model Unlearning&lt;/a>
 &lt;/div>
 &lt;div class="pub-card-authors" style="font-size:12px; margin-bottom:4px;">
-Saemi Moon*
-,
-Minjong Lee*
-,
-&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
-,
-Dongwoo Kim
+Saemi Moon*, Minjong Lee*, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Dongwoo Kim
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
 &lt;em>International Conference on Computer Vision&lt;/em> (&lt;strong>ICCV&lt;/strong>), 2025
@@ -131,17 +99,7 @@ Dongwoo Kim
 &lt;a href="https://openreview.net/forum?id=SwfymlaTn3" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">Retrieval-Augmented Generation with Estimation of Source Reliability&lt;/a>
 &lt;/div>
 &lt;div class="pub-card-authors" style="font-size:12px; margin-bottom:4px;">
-Jeongyeon Hwang
-,
-Junyoung Park
-,
-Hyejin Park
-,
-Dongwoo Kim
-,
-&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
-,
-Jungseul Ok
+Jeongyeon Hwang, Junyoung Park, Hyejin Park, Dongwoo Kim, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Jungseul Ok
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
 &lt;em>Empirical Methods in Natural Language Processing&lt;/em> (&lt;strong>EMNLP&lt;/strong>), 2025
@@ -158,11 +116,7 @@ Jungseul Ok
 &lt;a href="https://arxiv.org/abs/2506.14067" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">Online Conformal Abstention for Factuality Control Under Adversarial Bandit Feedback&lt;/a>
 &lt;/div>
 &lt;div class="pub-card-authors" style="font-size:12px; margin-bottom:4px;">
-Minjae Lee*
-,
-Yoonjae Jung*
-,
-&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
+Minjae Lee*, Yoonjae Jung*, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
 2025
@@ -180,13 +134,7 @@ Yoonjae Jung*
 &lt;a href="https://arxiv.org/abs/2307.09254" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">Selective Generation for Controllable Language Models&lt;/a>
 &lt;/div>
 &lt;div class="pub-card-authors" style="font-size:12px; margin-bottom:4px;">
-Minjae Lee*
-,
-Kyungmin Kim*
-,
-Taesoo Kim
-,
-&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
+Minjae Lee*, Kyungmin Kim*, Taesoo Kim, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
 &lt;em>Neural Information Processing Systems&lt;/em> (&lt;strong>NeurIPS&lt;/strong>), 2024
@@ -204,15 +152,7 @@ Taesoo Kim
 &lt;a href="https://arxiv.org/abs/2403.19326" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">MedBN: Robust Test Time Adaptation against Malicious Test Samples&lt;/a>
 &lt;/div>
 &lt;div class="pub-card-authors" style="font-size:12px; margin-bottom:4px;">
-Hyejin Park*
-,
-Jeongyeon Hwang*
-,
-Sunung Mun
-,
-&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
-,
-Jungseul Ok
+Hyejin Park*, Jeongyeon Hwang*, Sunung Mun, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Jungseul Ok
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
 &lt;em>Computer Vision and Pattern Recognition&lt;/em> (&lt;strong>CVPR&lt;/strong>), 2024
@@ -229,13 +169,7 @@ Jungseul Ok
 &lt;a href="https://arxiv.org/abs/2307.04642" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">TRAQ: Trustworthy Retrieval Augmented Question Answering via Conformal Prediction&lt;/a>
 &lt;/div>
 &lt;div class="pub-card-authors" style="font-size:12px; margin-bottom:4px;">
-Shuo Li
-,
-&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
-,
-Insup Lee
-,
-Osbert Bastani
+Shuo Li, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Insup Lee, Osbert Bastani
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
 &lt;em>North American Chapter of the Association for Computational Linguistics&lt;/em> (&lt;strong>NAACL&lt;/strong>), 2024
@@ -254,15 +188,7 @@ Osbert Bastani
 &lt;a href="https://arxiv.org/abs/2310.12964" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">PAC Prediction Sets Under Label Shift&lt;/a>
 &lt;/div>
 &lt;div class="pub-card-authors" style="font-size:12px; margin-bottom:4px;">
-Wenwen Si
-,
-&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
-,
-Insup Lee
-,
-Edgar Dobriban
-,
-Osbert Bastani
+Wenwen Si, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Insup Lee, Edgar Dobriban, Osbert Bastani
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
 &lt;em>International Conference on Learning Representations&lt;/em> (&lt;strong>ICLR&lt;/strong>), 2024
@@ -279,15 +205,7 @@ Osbert Bastani
 &lt;a href="https://ieeexplore.ieee.org/document/10203919" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">Angelic Patches for Improving Third-Party Object Detector Performance&lt;/a>
 &lt;/div>
 &lt;div class="pub-card-authors" style="font-size:12px; margin-bottom:4px;">
-Wenwen Si
-,
-Shuo Li
-,
-&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
-,
-Insup Lee
-,
-Osbert Bastani
+Wenwen Si, Shuo Li, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Insup Lee, Osbert Bastani
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
 &lt;em>Computer Vision and Pattern Recognition&lt;/em> (&lt;strong>CVPR&lt;/strong>), 2023
@@ -304,11 +222,7 @@ Osbert Bastani
 &lt;a href="https://arxiv.org/abs/2211.09330" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">ACon$^2$: Adaptive Conformal Consensus for Provable Blockchain Oracles&lt;/a>
 &lt;/div>
 &lt;div class="pub-card-authors" style="font-size:12px; margin-bottom:4px;">
-&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
-,
-Osbert Bastani
-,
-Taesoo Kim
+&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Osbert Bastani, Taesoo Kim
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
 &lt;em>USENIX Security Symposium&lt;/em> (&lt;strong>Security&lt;/strong>), 2023
@@ -325,13 +239,7 @@ Taesoo Kim
 &lt;a href="https://arxiv.org/abs/2207.02440" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">PAC Prediction Sets for Meta-Learning&lt;/a>
 &lt;/div>
 &lt;div class="pub-card-authors" style="font-size:12px; margin-bottom:4px;">
-&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
-,
-Edgar Dobriban
-,
-Insup Lee
-,
-Osbert Bastani
+&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Edgar Dobriban, Insup Lee, Osbert Bastani
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
 &lt;em>Neural Information Processing Systems&lt;/em> (&lt;strong>NeurIPS&lt;/strong>), 2022
@@ -348,13 +256,7 @@ Osbert Bastani
 &lt;a href="https://proceedings.mlr.press/v162/jang22a.html" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">Sequential Covariate Shift Detection Using Classifier Two-Sample Tests&lt;/a>
 &lt;/div>
 &lt;div class="pub-card-authors" style="font-size:12px; margin-bottom:4px;">
-Sooyong Jang
-,
-&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
-,
-Insup Lee
-,
-Osbert Bastani
+Sooyong Jang, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Insup Lee, Osbert Bastani
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
 &lt;em>International Conference on Machine Learning&lt;/em> (&lt;strong>ICML&lt;/strong>), 2022
@@ -372,15 +274,7 @@ Osbert Bastani
 &lt;a href="https://arxiv.org/abs/2204.07482" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">Towards PAC Multi-Object Detection and Tracking&lt;/a>
 &lt;/div>
 &lt;div class="pub-card-authors" style="font-size:12px; margin-bottom:4px;">
-Shuo Li
-,
-&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
-,
-Xiayan Ji
-,
-Insup Lee
-,
-Osbert Bastani
+Shuo Li, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Xiayan Ji, Insup Lee, Osbert Bastani
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
 2022
@@ -394,13 +288,7 @@ Osbert Bastani
 &lt;a href="https://arxiv.org/abs/2106.09848" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">PAC Prediction Sets Under Covariate Shift&lt;/a>
 &lt;/div>
 &lt;div class="pub-card-authors" style="font-size:12px; margin-bottom:4px;">
-&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
-,
-Edgar Dobriban
-,
-Insup Lee
-,
-Osbert Bastani
+&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Edgar Dobriban, Insup Lee, Osbert Bastani
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
 &lt;em>International Conference on Learning Representations&lt;/em> (&lt;strong>ICLR&lt;/strong>), 2022
@@ -417,13 +305,7 @@ Osbert Bastani
 &lt;a href="https://arxiv.org/abs/2011.00716" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">PAC Confidence Predictions for Deep Neural Network Classifiers&lt;/a>
 &lt;/div>
 &lt;div class="pub-card-authors" style="font-size:12px; margin-bottom:4px;">
-&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
-,
-Shuo Li
-,
-Insup Lee
-,
-Osbert Bastani
+&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Shuo Li, Insup Lee, Osbert Bastani
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
 &lt;em>International Conference on Learning Representations&lt;/em> (&lt;strong>ICLR&lt;/strong>), 2021
@@ -440,19 +322,7 @@ Osbert Bastani
 &lt;a href="https://arxiv.org/abs/2201.02331" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">iDECODe: In-distribution Equivariance for Conformal Out-of-distribution Detection&lt;/a>
 &lt;/div>
 &lt;div class="pub-card-authors" style="font-size:12px; margin-bottom:4px;">
-Ramneet Kaur
-,
-Susmit Jha
-,
-Anirban Roy
-,
-&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
-,
-Edgar Dobriban
-,
-Oleg Sokolsky
-,
-Insup Lee
+Ramneet Kaur, Susmit Jha, Anirban Roy, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Edgar Dobriban, Oleg Sokolsky, Insup Lee
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
 &lt;em>Association for the Advancement of Artificial Intelligence&lt;/em> (&lt;strong>AAAI&lt;/strong>), 2021
@@ -469,13 +339,7 @@ Insup Lee
 &lt;a href="https://arxiv.org/abs/2003.00343" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">Calibrated prediction with covariate shift via unsupervised domain adaptation&lt;/a>
 &lt;/div>
 &lt;div class="pub-card-authors" style="font-size:12px; margin-bottom:4px;">
-&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
-,
-Osbert Bastani
-,
-James Weimer
-,
-Insup Lee
+&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Osbert Bastani, James Weimer, Insup Lee
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
 &lt;em>International Conference on Artificial Intelligence and Statistics&lt;/em> (&lt;strong>AISTATS&lt;/strong>), 2020
@@ -489,13 +353,7 @@ Insup Lee
 &lt;a href="https://arxiv.org/abs/2001.00106" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">PAC Confidence Sets for Deep Neural Networks via Calibrated Prediction&lt;/a>
 &lt;/div>
 &lt;div class="pub-card-authors" style="font-size:12px; margin-bottom:4px;">
-&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
-,
-Osbert Bastani
-,
-Nikolai Matni
-,
-Insup Lee
+&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Osbert Bastani, Nikolai Matni, Insup Lee
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
 &lt;em>International Conference on Learning Representations&lt;/em> (&lt;strong>ICLR&lt;/strong>), 2020
@@ -512,11 +370,7 @@ Insup Lee
 &lt;a href="https://arxiv.org/abs/1708.03366v2" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">Resilient linear classification: an approach to deal with attacks on training data&lt;/a>
 &lt;/div>
 &lt;div class="pub-card-authors" style="font-size:12px; margin-bottom:4px;">
-&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
-,
-James Weimer
-,
-Insup Lee
+&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, James Weimer, Insup Lee
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
 &lt;em>International Conference on Cyber-Physical Systems&lt;/em> (&lt;strong>ICCPS&lt;/strong>), 2017
@@ -527,10 +381,11 @@ Insup Lee
 &lt;/div>
 &lt;/div></description></item><item><title>Physical AI Safety</title><link>http://localhost:1313/research/physical-ai-safety/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/research/physical-ai-safety/</guid><description>&lt;p>Physical AI systems such as robots and humanoids are increasingly capable, yet deploying them safely around humans remains an open challenge. This raises the following question.&lt;/p>
 &lt;blockquote>
-&lt;p>&lt;strong>How do we build physical AI that are reliably &lt;mark>safe&lt;/mark>?&lt;/strong>&lt;/p>&lt;/blockquote>
+&lt;p>&lt;strong>How do we train physical AI that are &lt;mark>safely&lt;/mark> adapt to new envirnoments?&lt;/strong>&lt;/p>&lt;/blockquote>
 &lt;h3 id="keywords">Keywords&lt;/h3>
 &lt;ul>
 &lt;li>Vision-Language-Action Models&lt;/li>
+&lt;li>Sim-to-Real Adaptation&lt;/li>
 &lt;li>Reinforcement Learning&lt;/li>
 &lt;li>Conformal Abstention&lt;/li>
 &lt;li>Conformal Prediction&lt;/li>
@@ -543,11 +398,7 @@ Insup Lee
 &lt;a href="https://arxiv.org/abs/2604.17984" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">Online Conformal Prediction with Adversarial Semi-bandit Feedback via Regret Minimization&lt;/a>
 &lt;/div>
 &lt;div class="pub-card-authors" style="font-size:12px; margin-bottom:4px;">
-Junyoung Yang*
-,
-Kyungmin Kim*
-,
-&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
+Junyoung Yang*, Kyungmin Kim*, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
 &lt;em>International Conference on Learning Representations&lt;/em> (&lt;strong>ICLR&lt;/strong>), 2026
@@ -565,11 +416,7 @@ Kyungmin Kim*
 &lt;a href="https://arxiv.org/abs/2506.14067" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">Online Conformal Abstention for Factuality Control Under Adversarial Bandit Feedback&lt;/a>
 &lt;/div>
 &lt;div class="pub-card-authors" style="font-size:12px; margin-bottom:4px;">
-Minjae Lee*
-,
-Yoonjae Jung*
-,
-&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
+Minjae Lee*, Yoonjae Jung*, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
 2025
@@ -587,23 +434,7 @@ Yoonjae Jung*
 &lt;a href="https://ieeexplore.ieee.org/document/11068853" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">SOUNDBOOST: Effective RCA and Attack Detection for UAV via Acoustic Side-Channel&lt;/a>
 &lt;/div>
 &lt;div class="pub-card-authors" style="font-size:12px; margin-bottom:4px;">
-Haoran Wang
-,
-Zheng Yang
-,
-&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
-,
-Yibin Yang
-,
-Seulbae Kim
-,
-Willian Lunardi
-,
-Martin Andreoni
-,
-Taesoo Kim
-,
-Wenke Lee
+Haoran Wang, Zheng Yang, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Yibin Yang, Seulbae Kim, Willian Lunardi, Martin Andreoni, Taesoo Kim, Wenke Lee
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
 &lt;em>International Conference on Dependable Systems and Networks&lt;/em> (&lt;strong>DSN&lt;/strong>), 2025
@@ -617,21 +448,7 @@ Wenke Lee
 &lt;a href="https://dl.acm.org/doi/10.1145/3576841.3585931" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">CODiT: Conformal Out-of-Distribution Detection in Time-Series Data for Cyber-Physical Systems&lt;/a>
 &lt;/div>
 &lt;div class="pub-card-authors" style="font-size:12px; margin-bottom:4px;">
-Ramneet Kaur
-,
-Kaustubh Sridhar
-,
-&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
-,
-Yahan Yang
-,
-Susmit Jha
-,
-Anirban Roy
-,
-Oleg Sokolsky
-,
-Insup Lee
+Ramneet Kaur, Kaustubh Sridhar, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Yahan Yang, Susmit Jha, Anirban Roy, Oleg Sokolsky, Insup Lee
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
 &lt;em>International Conference on Cyber-Physical Systems&lt;/em> (&lt;strong>ICCPS&lt;/strong>), 2023
@@ -648,13 +465,7 @@ Insup Lee
 &lt;a href="https://proceedings.mlr.press/v162/jang22a.html" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">Sequential Covariate Shift Detection Using Classifier Two-Sample Tests&lt;/a>
 &lt;/div>
 &lt;div class="pub-card-authors" style="font-size:12px; margin-bottom:4px;">
-Sooyong Jang
-,
-&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
-,
-Insup Lee
-,
-Osbert Bastani
+Sooyong Jang, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Insup Lee, Osbert Bastani
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
 &lt;em>International Conference on Machine Learning&lt;/em> (&lt;strong>ICML&lt;/strong>), 2022
@@ -672,15 +483,7 @@ Osbert Bastani
 &lt;a href="https://arxiv.org/abs/2204.07482" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">Towards PAC Multi-Object Detection and Tracking&lt;/a>
 &lt;/div>
 &lt;div class="pub-card-authors" style="font-size:12px; margin-bottom:4px;">
-Shuo Li
-,
-&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
-,
-Xiayan Ji
-,
-Insup Lee
-,
-Osbert Bastani
+Shuo Li, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Xiayan Ji, Insup Lee, Osbert Bastani
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
 2022
@@ -694,19 +497,7 @@ Osbert Bastani
 &lt;a href="https://arxiv.org/abs/2201.02331" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">iDECODe: In-distribution Equivariance for Conformal Out-of-distribution Detection&lt;/a>
 &lt;/div>
 &lt;div class="pub-card-authors" style="font-size:12px; margin-bottom:4px;">
-Ramneet Kaur
-,
-Susmit Jha
-,
-Anirban Roy
-,
-&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
-,
-Edgar Dobriban
-,
-Oleg Sokolsky
-,
-Insup Lee
+Ramneet Kaur, Susmit Jha, Anirban Roy, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Edgar Dobriban, Oleg Sokolsky, Insup Lee
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
 &lt;em>Association for the Advancement of Artificial Intelligence&lt;/em> (&lt;strong>AAAI&lt;/strong>), 2021
@@ -723,27 +514,7 @@ Insup Lee
 &lt;a href="https://link.springer.com/chapter/10.1007/978-3-319-50115-4_28" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">Integrated intelligence for human-robot teams&lt;/a>
 &lt;/div>
 &lt;div class="pub-card-authors" style="font-size:12px; margin-bottom:4px;">
-Jean Oh
-,
-Thomas M Howard
-,
-Matthew R Walter
-,
-Daniel Barber
-,
-Menglong Zhu
-,
-&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
-,
-Arne Suppe
-,
-Luis Navarro-Serment
-,
-Felix Duvallet
-,
-Abdeslam Boularias
-,
-others
+Jean Oh, Thomas M Howard, Matthew R Walter, Daniel Barber, Menglong Zhu, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Arne Suppe, Luis Navarro-Serment, Felix Duvallet, Abdeslam Boularias, others
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
 &lt;em>International Symposium on Experimental Robotics&lt;/em> (&lt;strong>ISER&lt;/strong>), 2016
@@ -757,11 +528,7 @@ others
 &lt;a href="https://link.springer.com/chapter/10.1007/978-3-642-33712-3_47" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">Abnormal object detection by canonical scene-based contextual model&lt;/a>
 &lt;/div>
 &lt;div class="pub-card-authors" style="font-size:12px; margin-bottom:4px;">
-&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
-,
-Wonsik Kim
-,
-Kyoung Mu Lee
+&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Wonsik Kim, Kyoung Mu Lee
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
 &lt;em>European Conference on Computer Vision&lt;/em> (&lt;strong>ECCV&lt;/strong>), 2012
@@ -776,24 +543,34 @@ Kyoung Mu Lee
 &lt;/div>
 &lt;/div></description></item><item><title>Red Teaming</title><link>http://localhost:1313/research/redteaming/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/research/redteaming/</guid><description>&lt;p>Agentic AI systems are powerful but remain vulnerable to adversarial manipulation and jailbreaking. We advance their robustness by continuously probing and debugging them through red teaming. This raises the following question.&lt;/p>
 &lt;blockquote>
-&lt;p>&lt;strong>How do we build red agents that continuously &lt;mark>debug&lt;/mark> and &lt;mark>harden&lt;/mark> target AI systems?&lt;/strong>&lt;/p>&lt;/blockquote>
+&lt;p>&lt;strong>How do we train red agents that continuously &lt;mark>debug&lt;/mark> target AI systems for &lt;mark>hardening&lt;/mark>?&lt;/strong>&lt;/p>&lt;/blockquote>
 &lt;h3 id="keywords">Keywords&lt;/h3>
 &lt;ul>
 &lt;li>Agentic AI&lt;/li>
 &lt;li>Reinforcement Learning&lt;/li>
 &lt;/ul>
-&lt;h3>&lt;span style="font-size:1.3em; font-weight:800; margin-right:0.2em;">5&lt;/span> Related Publications&lt;/h3>
+&lt;h3>&lt;span style="font-size:1.3em; font-weight:800; margin-right:0.2em;">6&lt;/span> Related Publications&lt;/h3>
 &lt;div style="margin-top:0.5rem;">
+&lt;div class="pub-card" style="padding:0.9rem 1.1rem; border-radius:12px; margin-bottom:0.6rem;">
+&lt;div class="pub-card-title" style="font-size:14px; font-weight:600; line-height:1.4; margin-bottom:4px;">
+&lt;a href="https://arxiv.org/abs/2607.11070" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">MJ: Multi-turn LLM Jailbreaking via Decomposed Credit Assignment&lt;/a>
+&lt;/div>
+&lt;div class="pub-card-authors" style="font-size:12px; margin-bottom:4px;">
+Junyoung Park, Namgyu Park, Sechan Lee, Yoon-Chan Jhi, Jihoon Cho, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
+&lt;/div>
+&lt;div class="pub-card-venue" style="font-size:12px;">
+2026
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
+&lt;a href="https://arxiv.org/abs/2607.11070" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">arXiv&lt;/a>
+&lt;/div>
+&lt;/div>
 &lt;div class="pub-card" style="padding:0.9rem 1.1rem; border-radius:12px; margin-bottom:0.6rem;">
 &lt;div class="pub-card-title" style="font-size:14px; font-weight:600; line-height:1.4; margin-bottom:4px;">
 &lt;a href="https://arxiv.org/abs/2511.13725" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">Can We Stop Malicious AI? KILLBENCH: A Benchmark for External AI Kill Switch Feasibility&lt;/a>
 &lt;/div>
 &lt;div class="pub-card-authors" style="font-size:12px; margin-bottom:4px;">
-Sechan Lee
-,
-Hyounghun Kim
-,
-&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
+Sechan Lee, Hyounghun Kim, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
 2026
@@ -807,19 +584,7 @@ Hyounghun Kim
 The Illusion of Rust Safety: Detecting Modular Unsafe Functions with LLMs
 &lt;/div>
 &lt;div class="pub-card-authors" style="font-size:12px; margin-bottom:4px;">
-Xiang Cheng
-,
-Fan Sang
-,
-Yibin Yang
-,
-Hang Zhang
-,
-&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
-,
-Xiaokuan Zhang
-,
-Taesoo Kim
+Xiang Cheng, Fan Sang, Yibin Yang, Hang Zhang, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Xiaokuan Zhang, Taesoo Kim
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
 &lt;em>The ACM Conference on Computer and Communications Security&lt;/em> (&lt;strong>CCS&lt;/strong>), 2026
@@ -833,11 +598,7 @@ Taesoo Kim
 &lt;a href="https://arxiv.org/abs/2509.23019" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">LLM Watermark Evasion via Bias Inversion&lt;/a>
 &lt;/div>
 &lt;div class="pub-card-authors" style="font-size:12px; margin-bottom:4px;">
-Jeongyeon Hwang
-,
-&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
-,
-Jungseul Ok
+Jeongyeon Hwang, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Jungseul Ok
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
 &lt;em>International Conference on Machine Learning&lt;/em> (&lt;strong>ICML&lt;/strong>), 2026
@@ -854,15 +615,7 @@ Jungseul Ok
 &lt;a href="https://arxiv.org/abs/2211.00111" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">Ruby: Unmasking Unsafe Rust in Stripped Binaries via Machine Learning&lt;/a>
 &lt;/div>
 &lt;div class="pub-card-authors" style="font-size:12px; margin-bottom:4px;">
-Xiang Cheng*
-,
-&lt;span style="text-decoration:underline;">Sangdon Park*&lt;/span>
-,
-HyungSeok Han
-,
-Xiaokuan Zhang
-,
-Taesoo Kim
+Xiang Cheng*, &lt;span style="text-decoration:underline;">Sangdon Park*&lt;/span>, HyungSeok Han, Xiaokuan Zhang, Taesoo Kim
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
 &lt;em>International Conference on Dependable Systems and Networks&lt;/em> (&lt;strong>DSN&lt;/strong>), 2026
@@ -876,97 +629,7 @@ Taesoo Kim
 &lt;a href="https://arxiv.org/abs/2509.14589" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">ATLANTIS: AI-driven Threat Localization, Analysis, and Triage Intelligence System&lt;/a>
 &lt;/div>
 &lt;div class="pub-card-authors" style="font-size:12px; margin-bottom:4px;">
-Taesoo Kim
-,
-HyungSeok Han
-,
-Soyeon Park
-,
-Dae R. Jeong
-,
-Dohyeok Kim
-,
-Dongkwan Kim
-,
-Eunsoo Kim
-,
-Jiho Kim
-,
-Joshua Wang
-,
-Kangsu Kim
-,
-Sangwoo Ji
-,
-Woosun Song
-,
-Hanqing Zhao
-,
-Andrew Chin
-,
-Gyejin Lee
-,
-Kevin Stevens
-,
-Mansour Alharthi
-,
-Yizhuo Zhai
-,
-Cen Zhang
-,
-Joonun Jang
-,
-Yeongjin Jang
-,
-Ammar Askar
-,
-Dongju Kim
-,
-Fabian Fleischer
-,
-Jeongin Cho
-,
-Junsik Kim
-,
-Kyungjoon Ko
-,
-Insu Yun
-,
-&lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
-,
-Dowoo Baik
-,
-Haein Lee
-,
-Hyeon Heo
-,
-Minjae Gwon
-,
-Minjae Lee
-,
-Minwoo Baek
-,
-Seunggi Min
-,
-Wonyoung Kim
-,
-Yonghwi Jin
-,
-Younggi Park
-,
-Yunjae Choi
-,
-Jinho Jung
-,
-Gwanhyun Lee
-,
-Junyoung Jang
-,
-Kyuheon Kim
-,
-Yeonghyeon Cha
-,
-Youngjoon Kim
+Taesoo Kim, HyungSeok Han, Soyeon Park, Dae R. Jeong, Dohyeok Kim, Dongkwan Kim, Eunsoo Kim, Jiho Kim, Joshua Wang, Kangsu Kim, Sangwoo Ji, Woosun Song, Hanqing Zhao, Andrew Chin, Gyejin Lee, Kevin Stevens, Mansour Alharthi, Yizhuo Zhai, Cen Zhang, Joonun Jang, Yeongjin Jang, Ammar Askar, Dongju Kim, Fabian Fleischer, Jeongin Cho, Junsik Kim, Kyungjoon Ko, Insu Yun, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Dowoo Baik, Haein Lee, Hyeon Heo, Minjae Gwon, Minjae Lee, Minwoo Baek, Seunggi Min, Wonyoung Kim, Yonghwi Jin, Younggi Park, Yunjae Choi, Jinho Jung, Gwanhyun Lee, Junyoung Jang, Kyuheon Kim, Yeonghyeon Cha, Youngjoon Kim
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
 2025
@@ -978,7 +641,7 @@ Youngjoon Kim
 &lt;a href="https://arxiv.org/abs/2509.14589" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">arXiv&lt;/a>
 &lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>Can We Stop Malicious AI? KILLBENCH: A Benchmark for External AI Kill Switch Feasibility</title><link>http://localhost:1313/publication/2026-06-16-can-we-stop-malicious-ai-killbench-a-benchmark-for-external-ai-ki/</link><pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/publication/2026-06-16-can-we-stop-malicious-ai-killbench-a-benchmark-for-external-ai-ki/</guid><description/></item><item><title>The Illusion of Rust Safety: Detecting Modular Unsafe Functions with LLMs</title><link>http://localhost:1313/publication/2026-05-16-the-illusion-of-rust-safety-detecting-modular-unsafe-functions-wi/</link><pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/publication/2026-05-16-the-illusion-of-rust-safety-detecting-modular-unsafe-functions-wi/</guid><description/></item><item><title>The Interplay of Harness Design and Post-Training in LLM Agents</title><link>http://localhost:1313/publication/2026-05-02-the-interplay-of-harness-design-and-post-training-in-llm-agents/</link><pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/publication/2026-05-02-the-interplay-of-harness-design-and-post-training-in-llm-agents/</guid><description/></item><item><title>🎉 Two ICML'26 Papers + One ICML'26 Workshop</title><link>http://localhost:1313/news/20260501-icml-paper/</link><pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/news/20260501-icml-paper/</guid><description/></item><item><title>LLM Watermark Evasion via Bias Inversion</title><link>http://localhost:1313/publication/2026-05-01-llm-watermark-evasion-via-bias-inversion/</link><pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/publication/2026-05-01-llm-watermark-evasion-via-bias-inversion/</guid><description/></item><item><title>Towards Functional Correctness of Large Code Models with Selective Generation</title><link>http://localhost:1313/publication/2026-05-01-towards-functional-correctness-of-large-code-models-with-selectiv/</link><pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/publication/2026-05-01-towards-functional-correctness-of-large-code-models-with-selectiv/</guid><description/></item><item><title>Ruby: Unmasking Unsafe Rust in Stripped Binaries via Machine Learning</title><link>http://localhost:1313/publication/2026-04-27-ruby-unmasking-unsafe-rust-in-stripped-binaries-via-machine-learn/</link><pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/publication/2026-04-27-ruby-unmasking-unsafe-rust-in-stripped-binaries-via-machine-learn/</guid><description/></item><item><title>📚 AI Security (2026 Spring)</title><link>http://localhost:1313/teaching/2026-ai-security-spring/</link><pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/teaching/2026-ai-security-spring/</guid><description>&lt;h1 id="trustworthy-ml-aigs703l--csed703l">Trustworthy ML (AIGS703L / CSED703L)&lt;/h1>
+&lt;/div></description></item><item><title>MJ: Multi-turn LLM Jailbreaking via Decomposed Credit Assignment</title><link>http://localhost:1313/publication/2026-07-14-mj-multi-turn-llm-jailbreaking-via-decomposed-credit-assignment/</link><pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/publication/2026-07-14-mj-multi-turn-llm-jailbreaking-via-decomposed-credit-assignment/</guid><description/></item><item><title>Can We Stop Malicious AI? KILLBENCH: A Benchmark for External AI Kill Switch Feasibility</title><link>http://localhost:1313/publication/2026-06-16-can-we-stop-malicious-ai-killbench-a-benchmark-for-external-ai-ki/</link><pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/publication/2026-06-16-can-we-stop-malicious-ai-killbench-a-benchmark-for-external-ai-ki/</guid><description/></item><item><title>The Illusion of Rust Safety: Detecting Modular Unsafe Functions with LLMs</title><link>http://localhost:1313/publication/2026-05-16-the-illusion-of-rust-safety-detecting-modular-unsafe-functions-wi/</link><pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/publication/2026-05-16-the-illusion-of-rust-safety-detecting-modular-unsafe-functions-wi/</guid><description/></item><item><title>The Interplay of Harness Design and Post-Training in LLM Agents</title><link>http://localhost:1313/publication/2026-05-02-the-interplay-of-harness-design-and-post-training-in-llm-agents/</link><pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/publication/2026-05-02-the-interplay-of-harness-design-and-post-training-in-llm-agents/</guid><description/></item><item><title>🎉 Two ICML'26 Papers + One ICML'26 Workshop</title><link>http://localhost:1313/news/20260501-icml-paper/</link><pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/news/20260501-icml-paper/</guid><description/></item><item><title>LLM Watermark Evasion via Bias Inversion</title><link>http://localhost:1313/publication/2026-05-01-llm-watermark-evasion-via-bias-inversion/</link><pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/publication/2026-05-01-llm-watermark-evasion-via-bias-inversion/</guid><description/></item><item><title>Towards Functional Correctness of Large Code Models with Selective Generation</title><link>http://localhost:1313/publication/2026-05-01-towards-functional-correctness-of-large-code-models-with-selectiv/</link><pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/publication/2026-05-01-towards-functional-correctness-of-large-code-models-with-selectiv/</guid><description/></item><item><title>Ruby: Unmasking Unsafe Rust in Stripped Binaries via Machine Learning</title><link>http://localhost:1313/publication/2026-04-27-ruby-unmasking-unsafe-rust-in-stripped-binaries-via-machine-learn/</link><pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/publication/2026-04-27-ruby-unmasking-unsafe-rust-in-stripped-binaries-via-machine-learn/</guid><description/></item><item><title>📚 AI Security (2026 Spring)</title><link>http://localhost:1313/teaching/2026-ai-security-spring/</link><pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/teaching/2026-ai-security-spring/</guid><description>&lt;h1 id="trustworthy-ml-aigs703l--csed703l">Trustworthy ML (AIGS703L / CSED703L)&lt;/h1>
 &lt;p>As machine learning and deep learning models are impacting on real world environments (e.g., ChatGPT), concerns on the trustworthiness of machine-learned models are rising. In this course, we explore whether popular machine-learned models are trustworthy and then study various learning methods to enchant the models to be trustworthy. To this end, we will learn basic knowledge on machine learning theory, uncertainty learning via conformal prediction, adversarial examples/learning, machine unlearning, differentially private learning, fairness in learning, and miscellaneous topics on trustworthy generative AI.&lt;/p>
 &lt;h3 id="location">Location&lt;/h3>
 &lt;p>TJ Park Lib. Room 501&lt;/p>
