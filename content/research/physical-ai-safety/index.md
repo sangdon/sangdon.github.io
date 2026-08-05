@@ -11,7 +11,7 @@ toc: false
 
 Physical AI systems such as robots and humanoids are increasingly capable, yet deploying them safely around humans remains an open challenge. This raises the following question.
 
-> **How do we train physical AI that are <mark>safely</mark> adapt to new envirnoments?**
+> **How do we train physical AI to <mark>safely</mark> adapt to new environments?**
 
 ### Keywords
 * Vision-Language-Action Models

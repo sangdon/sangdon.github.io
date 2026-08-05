@@ -438,7 +438,7 @@ Taesoo Kim, HyungSeok Han, Soyeon Park, Dae R. Jeong, Dohyeok Kim, Dongkwan Kim,
 &lt;/div>
 &lt;/div></description></item><item><title>Physical AI Safety</title><link>http://localhost:1313/research/physical-ai-safety/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/research/physical-ai-safety/</guid><description>&lt;p>Physical AI systems such as robots and humanoids are increasingly capable, yet deploying them safely around humans remains an open challenge. This raises the following question.&lt;/p>
 &lt;blockquote>
-&lt;p>&lt;strong>How do we train physical AI that are &lt;mark>safely&lt;/mark> adapt to new envirnoments?&lt;/strong>&lt;/p>&lt;/blockquote>
+&lt;p>&lt;strong>How do we train physical AI to &lt;mark>safely&lt;/mark> adapt to new environments?&lt;/strong>&lt;/p>&lt;/blockquote>
 &lt;h3 id="keywords">Keywords&lt;/h3>
 &lt;ul>
 &lt;li>Vision-Language-Action Models&lt;/li>
