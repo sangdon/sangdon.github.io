@@ -1,5 +1,5 @@
 ---
-title: Foundations of AI Alignment
+title: Foundation of TML
 summary: Build truthful, safe, and secure AI systems with theoretical guarantees.
 reading_time: false
 weight: 1
@@ -22,4 +22,4 @@ Large language models and Agentic AI raise many practical issues, including hall
 * Agentic AI
 * Physical AI
 
-{{< research-papers area="alignment-foundation" >}}
+{{< research-papers area="foundation-of-tml" >}}

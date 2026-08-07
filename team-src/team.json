@@ -64,7 +64,7 @@
     "user_groups": [
       "PhD"
     ],
-    "research_areas": ["alignment-foundation", "physical-ai-safety"]
+    "research_areas": ["foundation-of-tml", "physical-ai-safety"]
   },
   {
     "id": 2,
@@ -87,7 +87,7 @@
     "user_groups": [
       "PhD"
     ],
-    "research_areas": ["alignment-foundation", "physical-ai-safety"]
+    "research_areas": ["foundation-of-tml", "physical-ai-safety"]
   },
   {
     "id": 3,
@@ -110,7 +110,7 @@
     "user_groups": [
       "MS"
     ],
-    "research_areas": ["alignment-foundation"]
+    "research_areas": ["foundation-of-tml"]
   },
   {
     "id": 4,
@@ -178,7 +178,7 @@
     "user_groups": [
       "MS"
     ],
-    "research_areas": ["alignment-foundation"]
+    "research_areas": ["foundation-of-tml"]
   },
   {
     "id": 7,
@@ -201,7 +201,7 @@
     "user_groups": [
       "PhD"
     ],
-    "research_areas": ["alignment-foundation"]
+    "research_areas": ["foundation-of-tml"]
   },
   {
     "id": 9,
@@ -311,7 +311,7 @@
     "user_groups": [
       "Leader"
     ],
-    "research_areas": ["alignment-foundation"]
+    "research_areas": ["foundation-of-tml"]
   },
   {
     "type": "group",
