@@ -1,6 +1,6 @@
 ---
 title: Trustworthy Learning Theory
-summary: Build truthful, safe, and secure AI systems with theoretical guarantees.
+summary: Learn to build truthful, safe, and secure AI systems with theoretical guarantees.
 reading_time: false
 weight: 1
 
@@ -22,4 +22,4 @@ Large language models and Agentic AI raise many practical issues, including hall
 * Agentic AI
 * Physical AI
 
-{{< research-papers area="foundation-of-tml" >}}
+{{< research-papers area="trustworthy-learning-theory" >}}

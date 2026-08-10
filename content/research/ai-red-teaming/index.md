@@ -18,4 +18,4 @@ Agentic AI systems are powerful but remain vulnerable to adversarial manipulatio
 * Reinforcement Learning
 
 
-{{< research-papers area="redteaming" >}}
+{{< research-papers area="ai-red-teaming" >}}

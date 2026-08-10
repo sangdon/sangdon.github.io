@@ -64,7 +64,7 @@
     "user_groups": [
       "PhD"
     ],
-    "research_areas": ["foundation-of-tml", "physical-ai-safety"]
+    "research_areas": ["trustworthy-learning-theory", "physical-ai-safety"]
   },
   {
     "id": 2,
@@ -87,7 +87,7 @@
     "user_groups": [
       "PhD"
     ],
-    "research_areas": ["foundation-of-tml", "physical-ai-safety"]
+    "research_areas": ["trustworthy-learning-theory", "physical-ai-safety"]
   },
   {
     "id": 3,
@@ -110,7 +110,7 @@
     "user_groups": [
       "MS"
     ],
-    "research_areas": ["foundation-of-tml"]
+    "research_areas": ["trustworthy-learning-theory"]
   },
   {
     "id": 4,
@@ -178,7 +178,7 @@
     "user_groups": [
       "MS"
     ],
-    "research_areas": ["foundation-of-tml"]
+    "research_areas": ["trustworthy-learning-theory"]
   },
   {
     "id": 7,
@@ -201,7 +201,7 @@
     "user_groups": [
       "PhD"
     ],
-    "research_areas": ["foundation-of-tml"]
+    "research_areas": ["trustworthy-learning-theory"]
   },
   {
     "id": 9,
@@ -265,7 +265,7 @@
     "user_groups": [
       "MS"
     ],
-    "research_areas": ["redteaming"]
+    "research_areas": ["ai-red-teaming"]
   },
   {
     "id": 12,
@@ -311,7 +311,7 @@
     "user_groups": [
       "Leader"
     ],
-    "research_areas": ["foundation-of-tml"]
+    "research_areas": ["trustworthy-learning-theory"]
   },
   {
     "type": "group",
