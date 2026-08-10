@@ -1,5 +1,5 @@
 ---
-title: Foundation of TML
+title: Trustworthy Learning Theory
 summary: Build truthful, safe, and secure AI systems with theoretical guarantees.
 reading_time: false
 weight: 1

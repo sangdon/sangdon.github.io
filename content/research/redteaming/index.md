@@ -1,5 +1,5 @@
 ---
-title: Red Teaming
+title: AI Red Teaming
 summary: Make Agentic AI better by Red Teaming.
 reading_time: false
 weight: 3

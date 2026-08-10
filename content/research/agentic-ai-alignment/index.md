@@ -1,5 +1,5 @@
 ---
-title: Agentic AI Alignment
+title: Agentic AI Security
 summary: Align AI agents to be truthful, safe, and secure.
 reading_time: false
 weight: 2
