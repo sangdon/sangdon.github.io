@@ -13,7 +13,7 @@ Physical AI systems such as robots and humanoids are increasingly capable, yet d
 
 > **How do we train physical AI to <mark>safely</mark> adapt to new environments?**
 
-### Keywords
+### Problems
 * Safe Reinforcement Learning
 * Sim-to-Real Adaptation
 

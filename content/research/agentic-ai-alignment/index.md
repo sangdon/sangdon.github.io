@@ -13,9 +13,9 @@ Agentic AI systems act autonomously over long horizons, making alignment increas
 
 > **How do we train AI agents that remain <mark>aligned with multiple objectives</mark>?**
 
-### Keywords
-* Multi-objective Learning
+### Problems
 * Constrained Learning
+* Multi-objective Learning
 * Learning for Planning
 * SW Bug Discovery and Patching
 

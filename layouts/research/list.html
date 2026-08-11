@@ -17,8 +17,8 @@
             <div style="font-size:13px; color:#64748b; margin-bottom:10px;">{{ . }}</div>
             {{ end }}
             {{ $keywords := slice }}
-            {{ if strings.Contains .RawContent "### Keywords" }}
-              {{ $after := index (split .RawContent "### Keywords") 1 }}
+            {{ if strings.Contains .RawContent "### Problems" }}
+              {{ $after := index (split .RawContent "### Problems") 1 }}
               {{ $section := index (split $after "###") 0 }}
               {{ range split $section "\n" }}
                 {{ $line := trim . " \r" }}
