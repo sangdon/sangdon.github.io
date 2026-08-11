@@ -9,17 +9,16 @@ toc: false
 
 ---
 
-Large language models and Agentic AI raise many practical issues, including hallucination and harmful responses. This raises the following question.
+Modern AI systems introduces practical issues, including hallucinated, harmful, unsafe, and insecure responses. This raises the following question.
 
 > **How do we train AI systems that are <mark>truthful</mark>, <mark>safe</mark>, and <mark>secure</mark> with theoretical guarantees?**
 
 ### Keywords
-* Conformal Abstention
 * Conformal Prediction
+* Conformal Abstention
 * Uncertainty Quantification
 * Reinforcement Learning
-* Large Language Models
-* Agentic AI
-* Physical AI
+* Meta-learning
+
 
 {{< research-papers area="trustworthy-learning-theory" >}}

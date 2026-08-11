@@ -19,4 +19,4 @@ Agentic AI systems act autonomously over long horizons, making alignment increas
 * Reinforcement Learning
 
 
-{{< research-papers area="agentic-ai-security" >}}
+{{< research-papers area="agentic-ai-alignment" >}}
