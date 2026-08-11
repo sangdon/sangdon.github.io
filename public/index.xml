@@ -620,8 +620,8 @@ Jean Oh, Thomas M Howard, Matthew R Walter, Daniel Barber, Menglong Zhu, &lt;spa
 &lt;p>&lt;strong>How do we train red agents that continuously &lt;mark>debug&lt;/mark> target AI systems to &lt;mark>harden&lt;/mark> them?&lt;/strong>&lt;/p>&lt;/blockquote>
 &lt;h3 id="problems">Problems&lt;/h3>
 &lt;ul>
-&lt;li>Learning for Jailbreaking&lt;/li>
-&lt;li>Learning for Indirect Prompt Injection&lt;/li>
+&lt;li>Learning for LLM Jailbreaking&lt;/li>
+&lt;li>Learning for Agentic AI Jailbreaking&lt;/li>
 &lt;/ul>
 &lt;h3>&lt;span style="font-size:1.3em; font-weight:800; margin-right:0.2em;">3&lt;/span> Related Publications&lt;/h3>
 &lt;div style="margin-top:0.5rem;">

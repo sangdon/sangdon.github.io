@@ -14,8 +14,8 @@ Agentic AI systems are powerful but remain vulnerable to adversarial manipulatio
 > **How do we train red agents that continuously <mark>debug</mark> target AI systems to <mark>harden</mark> them?**
 
 ### Problems
-* Learning for Jailbreaking
-* Learning for Indirect Prompt Injection
+* Learning for LLM Jailbreaking 
+* Learning for Agentic AI Jailbreaking
 
 
 {{< research-papers area="ai-red-teaming" >}}
