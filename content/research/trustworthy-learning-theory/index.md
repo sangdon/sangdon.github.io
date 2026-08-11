@@ -19,7 +19,7 @@ Modern AI systems introduce practical issues, including hallucination, harmful r
 * Uncertainty Quantification
 * Reinforcement Learning
 * Online Learning
-* Meta-learning
+* Meta Learning
 
 
 {{< research-papers area="trustworthy-learning-theory" >}}
