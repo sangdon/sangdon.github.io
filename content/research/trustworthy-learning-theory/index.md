@@ -18,6 +18,7 @@ Modern AI systems introduces practical issues, including hallucinated, harmful, 
 * Conformal Abstention
 * Uncertainty Quantification
 * Reinforcement Learning
+* Online Learning
 * Meta-learning
 
 

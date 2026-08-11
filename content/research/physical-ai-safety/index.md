@@ -1,6 +1,6 @@
 ---
 title: Physical AI Safety
-summary: Live with safe robots.
+summary: Learn to build safe robots.
 reading_time: false
 weight: 2
 
@@ -14,12 +14,8 @@ Physical AI systems such as robots and humanoids are increasingly capable, yet d
 > **How do we train physical AI to <mark>safely</mark> adapt to new environments?**
 
 ### Keywords
-* Vision-Language-Action Models
+* Safe Reinforcement Learning
 * Sim-to-Real Adaptation
-* Reinforcement Learning
-* Conformal Abstention
-* Conformal Prediction
-* Uncertainty Quantification
 
 
 {{< research-papers area="physical-ai-safety" >}}

@@ -1,6 +1,6 @@
 ---
 title: AI Red Teaming
-summary: Make Agentic AI better by Red Teaming.
+summary: Make AI better by red teaming.
 reading_time: false
 weight: 3
 
@@ -14,8 +14,8 @@ Agentic AI systems are powerful but remain vulnerable to adversarial manipulatio
 > **How do we train red agents that continuously <mark>debug</mark> target AI systems for <mark>hardening</mark>?**
 
 ### Keywords
-* Agentic AI
-* Reinforcement Learning
+* Learning for Jailbreaking
+* Learning for Indirect Prompt Injection
 
 
 {{< research-papers area="ai-red-teaming" >}}

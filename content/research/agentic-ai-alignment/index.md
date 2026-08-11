@@ -1,6 +1,6 @@
 ---
 title: Agentic AI Alignment
-summary: Align AI agents to be truthful, safe, and secure.
+summary: Learn to align AI agents with multiple objectives.
 reading_time: false
 weight: 2
 
@@ -9,14 +9,15 @@ toc: false
 
 ---
 
-Agentic AI systems act autonomously over long horizons, making alignment increasingly critical and challenging. We develop principled methods to ensure these agents remain truthful, safe, and secure — aligned with human intent throughout deployment.
+Agentic AI systems act autonomously over long horizons, making alignment increasingly critical and challenging. We develop principled methods to ensure these agents remain truthful, safe, and secure — aligned with muptiple objectives throughout deployment.
 
-> **How do we build AI agents that remain <mark>trustworthy</mark> as they act in the open world?**
+> **How do we train AI agents that remain <mark>aligned with multiple objectives</mark>?**
 
 ### Keywords
-* Agentic AI
-* AI Alignment
-* Reinforcement Learning
+* Multi-objective Learning
+* Constrained Learning
+* Learning for Planning
+* SW Vulnerability Discovery and Patching
 
 
 {{< research-papers area="agentic-ai-alignment" >}}
