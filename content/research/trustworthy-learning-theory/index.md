@@ -9,7 +9,7 @@ toc: false
 
 ---
 
-Modern AI systems introduces practical issues, including hallucinated, harmful, unsafe, and insecure responses. This raises the following question.
+Modern AI systems introduce practical issues, including hallucination, harmful responses, and safety and security risks. This raises the following question.
 
 > **How do we train AI systems that are <mark>truthful</mark>, <mark>safe</mark>, and <mark>secure</mark> with theoretical guarantees?**
 

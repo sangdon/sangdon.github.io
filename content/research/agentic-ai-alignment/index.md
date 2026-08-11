@@ -9,7 +9,7 @@ toc: false
 
 ---
 
-Agentic AI systems act autonomously over long horizons, making alignment increasingly critical and challenging. We develop principled methods to ensure these agents remain truthful, safe, and secure — aligned with muptiple objectives throughout deployment.
+Agentic AI systems act autonomously over long horizons, making alignment increasingly critical and challenging. We develop principled methods to ensure these agents remain truthful, safe, and secure — aligned with multiple objectives throughout deployment.
 
 > **How do we train AI agents that remain <mark>aligned with multiple objectives</mark>?**
 
