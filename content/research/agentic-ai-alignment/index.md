@@ -17,7 +17,7 @@ Agentic AI systems act autonomously over long horizons, making alignment increas
 * Multi-objective Learning
 * Constrained Learning
 * Learning for Planning
-* SW Vulnerability Discovery and Patching
+* SW Bug Discovery and Patching
 
 
 {{< research-papers area="agentic-ai-alignment" >}}
