@@ -1,6 +1,6 @@
 ---
 title: AI Red Teaming
-summary: Make AI better by red teaming.
+summary: Learn to red-team AI systems.
 reading_time: false
 weight: 3
 
