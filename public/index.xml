@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sangdon Park</title><link>http://localhost:1313/</link><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><description>Sangdon Park</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate><image><url>http://localhost:1313/media/icon_hu_5e0546d98affa013.png</url><title>Sangdon Park</title><link>http://localhost:1313/</link></image><item><title>Trustworthy Learning Theory</title><link>http://localhost:1313/research/trustworthy-learning-theory/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/research/trustworthy-learning-theory/</guid><description>&lt;p>Modern AI systems introduces practical issues, including hallucinated, harmful, unsafe, and insecure responses. This raises the following question.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sangdon Park</title><link>http://localhost:1313/</link><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><description>Sangdon Park</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate><image><url>http://localhost:1313/media/icon_hu_5e0546d98affa013.png</url><title>Sangdon Park</title><link>http://localhost:1313/</link></image><item><title>Trustworthy Learning Theory</title><link>http://localhost:1313/research/trustworthy-learning-theory/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/research/trustworthy-learning-theory/</guid><description>&lt;p>Modern AI systems introduce practical issues, including hallucination, harmful responses, and safety and security risks. This raises the following question.&lt;/p>
 &lt;blockquote>
 &lt;p>&lt;strong>How do we train AI systems that are &lt;mark>truthful&lt;/mark>, &lt;mark>safe&lt;/mark>, and &lt;mark>secure&lt;/mark> with theoretical guarantees?&lt;/strong>&lt;/p>&lt;/blockquote>
 &lt;h3 id="keywords">Keywords&lt;/h3>
@@ -7,6 +7,7 @@
 &lt;li>Conformal Abstention&lt;/li>
 &lt;li>Uncertainty Quantification&lt;/li>
 &lt;li>Reinforcement Learning&lt;/li>
+&lt;li>Online Learning&lt;/li>
 &lt;li>Meta-learning&lt;/li>
 &lt;/ul>
 &lt;h3>&lt;span style="font-size:1.3em; font-weight:800; margin-right:0.2em;">22&lt;/span> Related Publications&lt;/h3>
@@ -378,14 +379,15 @@ Ramneet Kaur, Susmit Jha, Anirban Roy, &lt;span style="text-decoration:underline
 &lt;a href="https://arxiv.org/abs/1708.03366v2" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">arXiv&lt;/a>
 &lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>Agentic AI Security</title><link>http://localhost:1313/research/agentic-ai-alignment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/research/agentic-ai-alignment/</guid><description>&lt;p>Agentic AI systems act autonomously over long horizons, making alignment increasingly critical and challenging. We develop principled methods to ensure these agents remain truthful, safe, and secure — aligned with human intent throughout deployment.&lt;/p>
+&lt;/div></description></item><item><title>Agentic AI Alignment</title><link>http://localhost:1313/research/agentic-ai-alignment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/research/agentic-ai-alignment/</guid><description>&lt;p>Agentic AI systems act autonomously over long horizons, making alignment increasingly critical and challenging. We develop principled methods to ensure these agents remain truthful, safe, and secure — aligned with multiple objectives throughout deployment.&lt;/p>
 &lt;blockquote>
-&lt;p>&lt;strong>How do we build AI agents that remain &lt;mark>trustworthy&lt;/mark> as they act in the open world?&lt;/strong>&lt;/p>&lt;/blockquote>
+&lt;p>&lt;strong>How do we train AI agents that remain &lt;mark>aligned with multiple objectives&lt;/mark>?&lt;/strong>&lt;/p>&lt;/blockquote>
 &lt;h3 id="keywords">Keywords&lt;/h3>
 &lt;ul>
-&lt;li>Agentic AI&lt;/li>
-&lt;li>AI Alignment&lt;/li>
-&lt;li>Reinforcement Learning&lt;/li>
+&lt;li>Multi-objective Learning&lt;/li>
+&lt;li>Constrained Learning&lt;/li>
+&lt;li>Learning for Planning&lt;/li>
+&lt;li>SW Vulnerability Discovery and Patching&lt;/li>
 &lt;/ul>
 &lt;h3>&lt;span style="font-size:1.3em; font-weight:800; margin-right:0.2em;">3&lt;/span> Related Publications&lt;/h3>
 &lt;div style="margin-top:0.5rem;">
@@ -439,12 +441,8 @@ Taesoo Kim, HyungSeok Han, Soyeon Park, Dae R. Jeong, Dohyeok Kim, Dongkwan Kim,
 &lt;p>&lt;strong>How do we train physical AI to &lt;mark>safely&lt;/mark> adapt to new environments?&lt;/strong>&lt;/p>&lt;/blockquote>
 &lt;h3 id="keywords">Keywords&lt;/h3>
 &lt;ul>
-&lt;li>Vision-Language-Action Models&lt;/li>
+&lt;li>Safe Reinforcement Learning&lt;/li>
 &lt;li>Sim-to-Real Adaptation&lt;/li>
-&lt;li>Reinforcement Learning&lt;/li>
-&lt;li>Conformal Abstention&lt;/li>
-&lt;li>Conformal Prediction&lt;/li>
-&lt;li>Uncertainty Quantification&lt;/li>
 &lt;/ul>
 &lt;h3>&lt;span style="font-size:1.3em; font-weight:800; margin-right:0.2em;">9&lt;/span> Related Publications&lt;/h3>
 &lt;div style="margin-top:0.5rem;">
@@ -598,11 +596,11 @@ Jean Oh, Thomas M Howard, Matthew R Walter, Daniel Barber, Menglong Zhu, &lt;spa
 &lt;/div>
 &lt;/div></description></item><item><title>AI Red Teaming</title><link>http://localhost:1313/research/ai-red-teaming/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/research/ai-red-teaming/</guid><description>&lt;p>Agentic AI systems are powerful but remain vulnerable to adversarial manipulation and jailbreaking. We advance their robustness by continuously probing and debugging them through red teaming. This raises the following question.&lt;/p>
 &lt;blockquote>
-&lt;p>&lt;strong>How do we train red agents that continuously &lt;mark>debug&lt;/mark> target AI systems for &lt;mark>hardening&lt;/mark>?&lt;/strong>&lt;/p>&lt;/blockquote>
+&lt;p>&lt;strong>How do we train red agents that continuously &lt;mark>debug&lt;/mark> target AI systems to &lt;mark>harden&lt;/mark> them?&lt;/strong>&lt;/p>&lt;/blockquote>
 &lt;h3 id="keywords">Keywords&lt;/h3>
 &lt;ul>
-&lt;li>Agentic AI&lt;/li>
-&lt;li>Reinforcement Learning&lt;/li>
+&lt;li>Learning for Jailbreaking&lt;/li>
+&lt;li>Learning for Indirect Prompt Injection&lt;/li>
 &lt;/ul>
 &lt;h3>&lt;span style="font-size:1.3em; font-weight:800; margin-right:0.2em;">6&lt;/span> Related Publications&lt;/h3>
 &lt;div style="margin-top:0.5rem;">
