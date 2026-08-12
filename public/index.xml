@@ -36,7 +36,6 @@ Jaewoo Jeong, Taesoo Kim, &lt;span style="text-decoration:underline;">Sangdon Pa
 &lt;div class="pub-card" style="padding:0.9rem 1.1rem; border-radius:12px; margin-bottom:0.6rem;">
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-bottom:6px;">
 &lt;a href="http://localhost:1313/research/trustworthy-learning-theory/" style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#eff6ff; color:#1d4ed8; text-decoration:none;">Trustworthy Learning Theory&lt;/a>
-&lt;a href="http://localhost:1313/research/physical-ai-safety/" style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#f0fdf4; color:#15803d; text-decoration:none;">Physical AI Safety&lt;/a>
 &lt;/div>
 &lt;div class="pub-card-title" style="font-size:14px; font-weight:600; line-height:1.4; margin-bottom:4px;">
 &lt;a href="https://arxiv.org/abs/2604.17984" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">Online Conformal Prediction with Adversarial Semi-bandit Feedback via Regret Minimization&lt;/a>
@@ -547,30 +546,8 @@ Minjae Lee*, Yoonjae Jung*, &lt;span style="text-decoration:underline;">Sangdon 
 &lt;li>Safe Reinforcement Learning&lt;/li>
 &lt;li>Sim-to-Real Adaptation&lt;/li>
 &lt;/ul>
-&lt;h3>&lt;span style="font-size:1.3em; font-weight:800; margin-right:0.2em;">11&lt;/span> Related Publications&lt;/h3>
+&lt;h3>&lt;span style="font-size:1.3em; font-weight:800; margin-right:0.2em;">10&lt;/span> Related Publications&lt;/h3>
 &lt;div style="margin-top:0.5rem;">
-&lt;div class="pub-card" style="padding:0.9rem 1.1rem; border-radius:12px; margin-bottom:0.6rem;">
-&lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-bottom:6px;">
-&lt;a href="http://localhost:1313/research/trustworthy-learning-theory/" style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#eff6ff; color:#1d4ed8; text-decoration:none;">Trustworthy Learning Theory&lt;/a>
-&lt;a href="http://localhost:1313/research/physical-ai-safety/" style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#f0fdf4; color:#15803d; text-decoration:none;">Physical AI Safety&lt;/a>
-&lt;/div>
-&lt;div class="pub-card-title" style="font-size:14px; font-weight:600; line-height:1.4; margin-bottom:4px;">
-&lt;a href="https://arxiv.org/abs/2604.17984" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">Online Conformal Prediction with Adversarial Semi-bandit Feedback via Regret Minimization&lt;/a>
-&lt;/div>
-&lt;div class="pub-card-authors" style="font-size:12px; margin-bottom:4px;">
-Junyoung Yang*, Kyungmin Kim*, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
-&lt;/div>
-&lt;div class="pub-card-venue" style="font-size:12px;">
-&lt;em>International Conference on Learning Representations&lt;/em> (&lt;strong>ICLR&lt;/strong>), 2026
-&lt;/div>
-&lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
-&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8;">ICLR&lt;/span>
-&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#e5e7eb; color:#1f2937;">ICLR&amp;#39;26 Reliable Autonomy Workshop&lt;/span>
-&lt;/div>
-&lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
-&lt;a href="https://arxiv.org/abs/2604.17984" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">arXiv&lt;/a>
-&lt;/div>
-&lt;/div>
 &lt;div class="pub-card" style="padding:0.9rem 1.1rem; border-radius:12px; margin-bottom:0.6rem;">
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-bottom:6px;">
 &lt;a href="http://localhost:1313/research/trustworthy-learning-theory/" style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#eff6ff; color:#1d4ed8; text-decoration:none;">Trustworthy Learning Theory&lt;/a>
