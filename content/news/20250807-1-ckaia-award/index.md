@@ -1,6 +1,6 @@
 ---
 title: 🏆 Best Paper Finalist
-summary: Online Selective Generation got the Best Paper Finalist Award from CKAIA.
+summary: Online Selective Generation got the Best Paper Finalist Award from CKAIA'25'.
 date: 2025-08-07
 
 authors:
