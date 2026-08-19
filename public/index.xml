@@ -381,6 +381,9 @@ Jaewan Choi, Junyoung Yang, &lt;span style="text-decoration:underline;">Sangdon 
 &lt;div class="pub-card-venue" style="font-size:12px;">
 2026
 &lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#fee2e2; color:#b91c1c;">🏆 Best Paper Award from CKAIA&lt;/span>
+&lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
 &lt;a href="https://arxiv.org/abs/2608.16249" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">arXiv&lt;/a>
 &lt;/div>
