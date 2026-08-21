@@ -1,21 +1,8 @@
 {{ $item := .item }}
 {{ $firstLink := "" }}
 {{ with $item.Params.links }}{{ with index . 0 }}{{ $firstLink = .url }}{{ end }}{{ end }}
-{{ $areaColors := dict
-  "trustworthy-learning-theory" (dict "bg" "#eff6ff" "text" "#1d4ed8" "label" "Trustworthy Learning Theory")
-  "agentic-ai-alignment"        (dict "bg" "#faf5ff" "text" "#7e22ce" "label" "Agentic AI Alignment")
-  "physical-ai-safety"          (dict "bg" "#f0fdf4" "text" "#15803d" "label" "Physical AI Safety")
-  "ai-red-teaming"              (dict "bg" "#fff7ed" "text" "#c2410c" "label" "AI Red Teaming")
-}}
 
 <div class="pub-card" style="padding:0.9rem 1.1rem; border-radius:12px; margin-bottom:0.6rem;">
-  {{ with $item.Params.research_areas }}
-  <div style="display:flex; flex-wrap:wrap; gap:4px; margin-bottom:6px;">
-    {{ range $slug := . }}
-      {{ with index $areaColors $slug }}<a href="{{ "research/" | relLangURL }}{{ $slug }}/" style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:{{ .bg }}; color:{{ .text }}; text-decoration:none;">{{ .label }}</a>{{ end }}
-    {{ end }}
-  </div>
-  {{ end }}
   <div class="pub-card-title" style="font-size:14px; font-weight:600; line-height:1.4; margin-bottom:4px;">
     {{ if $firstLink }}<a href="{{ $firstLink }}" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">{{ $item.Title }}</a>{{ else }}{{ $item.Title }}{{ end }}
   </div>
@@ -44,7 +31,7 @@
       {{ else }}<span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#fee2e2; color:#b91c1c;">{{ . }}</span>
       {{ end }}
     {{ end }}
-    {{ with $item.Params.badge }}<span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#e5e7eb; color:#1f2937;">{{ . }}</span>{{ end }}
+    {{ with $item.Params.badge }}<span style="font-size:11px; font-weight:400; padding:1px 8px; border-radius:20px; border:1px solid #d1d5db; color:#6b7280;">{{ . }}</span>{{ end }}
   </div>
   {{ end }}
   {{ with $item.Params.links }}
