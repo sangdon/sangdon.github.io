@@ -24,20 +24,20 @@
   {{ with $item.Params.publication_short }}{{ if in $topConfs . }}{{ $isTop = true }}{{ end }}{{ end }}
   {{ if or $item.Params.awards $isTop $item.Params.badge }}
   <div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
-    {{ if $isTop }}<span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8;">{{ $item.Params.publication_short }}</span>{{ end }}
+    {{ if $isTop }}<span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#dbeafe; color:#1d4ed8;">{{ $item.Params.publication_short }}</span>{{ end }}
     {{ with $item.Params.awards }}
       {{ if reflect.IsSlice . }}
-        {{ range . }}<span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#fee2e2; color:#b91c1c;">{{ . }}</span>{{ end }}
-      {{ else }}<span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#fee2e2; color:#b91c1c;">{{ . }}</span>
+        {{ range . }}<span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#fee2e2; color:#b91c1c;">{{ . }}</span>{{ end }}
+      {{ else }}<span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#fee2e2; color:#b91c1c;">{{ . }}</span>
       {{ end }}
     {{ end }}
-    {{ with $item.Params.badge }}<span style="font-size:11px; font-weight:400; padding:1px 8px; border-radius:20px; border:1px solid #d1d5db; color:#6b7280;">{{ . }}</span>{{ end }}
+    {{ with $item.Params.badge }}<span style="font-size:11px; font-weight:400; padding:1px 8px; border-radius:6px; border:1px solid #d1d5db; color:#6b7280;">{{ . }}</span>{{ end }}
   </div>
   {{ end }}
   {{ with $item.Params.links }}
   <div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
     {{ range . }}
-    <a href="{{ .url }}" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">{{ .name }}</a>
+    <a href="{{ .url }}" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">{{ .name }}</a>
     {{ end }}
   </div>
   {{ end }}

@@ -23,11 +23,11 @@ Jaewoo Jeong, Taesoo Kim, &lt;span style="text-decoration:underline;">Sangdon Pa
 &lt;em>International Conference on Machine Learning&lt;/em> (&lt;strong>ICML&lt;/strong>), 2026
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
-&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8;">ICML&lt;/span>
-&lt;span style="font-size:11px; font-weight:400; padding:1px 8px; border-radius:20px; border:1px solid #d1d5db; color:#6b7280;">NeurIPS&amp;#39;25 DL4C Workshop&lt;/span>
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#dbeafe; color:#1d4ed8;">ICML&lt;/span>
+&lt;span style="font-size:11px; font-weight:400; padding:1px 8px; border-radius:6px; border:1px solid #d1d5db; color:#6b7280;">NeurIPS&amp;#39;25 DL4C Workshop&lt;/span>
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
-&lt;a href="https://arxiv.org/abs/2505.13553" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">arXiv&lt;/a>
+&lt;a href="https://arxiv.org/abs/2505.13553" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">arXiv&lt;/a>
 &lt;/div>
 &lt;/div>
 &lt;div class="pub-card" style="padding:0.9rem 1.1rem; border-radius:12px; margin-bottom:0.6rem;">
@@ -41,11 +41,11 @@ Junyoung Yang*, Kyungmin Kim*, &lt;span style="text-decoration:underline;">Sangd
 &lt;em>International Conference on Learning Representations&lt;/em> (&lt;strong>ICLR&lt;/strong>), 2026
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
-&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8;">ICLR&lt;/span>
-&lt;span style="font-size:11px; font-weight:400; padding:1px 8px; border-radius:20px; border:1px solid #d1d5db; color:#6b7280;">ICLR&amp;#39;26 Reliable Autonomy Workshop&lt;/span>
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#dbeafe; color:#1d4ed8;">ICLR&lt;/span>
+&lt;span style="font-size:11px; font-weight:400; padding:1px 8px; border-radius:6px; border:1px solid #d1d5db; color:#6b7280;">ICLR&amp;#39;26 Reliable Autonomy Workshop&lt;/span>
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
-&lt;a href="https://arxiv.org/abs/2604.17984" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">arXiv&lt;/a>
+&lt;a href="https://arxiv.org/abs/2604.17984" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">arXiv&lt;/a>
 &lt;/div>
 &lt;/div>
 &lt;div class="pub-card" style="padding:0.9rem 1.1rem; border-radius:12px; margin-bottom:0.6rem;">
@@ -59,11 +59,11 @@ Minjae Lee*, Yoonjae Jung*, &lt;span style="text-decoration:underline;">Sangdon 
 2025
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
-&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#fee2e2; color:#b91c1c;">🏆 Best Paper Finalist from CKAIA&lt;/span>
-&lt;span style="font-size:11px; font-weight:400; padding:1px 8px; border-radius:20px; border:1px solid #d1d5db; color:#6b7280;">ICLR&amp;#39;26 Reliable Autonomy Workshop&lt;/span>
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#fee2e2; color:#b91c1c;">🏆 Best Paper Finalist from CKAIA&lt;/span>
+&lt;span style="font-size:11px; font-weight:400; padding:1px 8px; border-radius:6px; border:1px solid #d1d5db; color:#6b7280;">ICLR&amp;#39;26 Reliable Autonomy Workshop&lt;/span>
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
-&lt;a href="https://arxiv.org/abs/2506.14067" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">arXiv&lt;/a>
+&lt;a href="https://arxiv.org/abs/2506.14067" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">arXiv&lt;/a>
 &lt;/div>
 &lt;/div>
 &lt;div class="pub-card" style="padding:0.9rem 1.1rem; border-radius:12px; margin-bottom:0.6rem;">
@@ -77,11 +77,11 @@ Minjae Lee*, Kyungmin Kim*, Taesoo Kim, &lt;span style="text-decoration:underlin
 &lt;em>Neural Information Processing Systems&lt;/em> (&lt;strong>NeurIPS&lt;/strong>), 2024
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
-&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8;">NeurIPS&lt;/span>
-&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#fee2e2; color:#b91c1c;">🏆 Spotlight (Top 2.08%)&lt;/span>&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#fee2e2; color:#b91c1c;">🏆 POSTECH GSAI BK21 Best Paper Award&lt;/span>
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#dbeafe; color:#1d4ed8;">NeurIPS&lt;/span>
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#fee2e2; color:#b91c1c;">🏆 Spotlight (Top 2.08%)&lt;/span>&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#fee2e2; color:#b91c1c;">🏆 POSTECH GSAI BK21 Best Paper Award&lt;/span>
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
-&lt;a href="https://arxiv.org/abs/2307.09254" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">arXiv&lt;/a>
+&lt;a href="https://arxiv.org/abs/2307.09254" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">arXiv&lt;/a>
 &lt;/div>
 &lt;/div>
 &lt;div class="pub-card" style="padding:0.9rem 1.1rem; border-radius:12px; margin-bottom:0.6rem;">
@@ -95,12 +95,12 @@ Shuo Li, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Ins
 &lt;em>North American Chapter of the Association for Computational Linguistics&lt;/em> (&lt;strong>NAACL&lt;/strong>), 2024
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
-&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8;">NAACL&lt;/span>
-&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#fee2e2; color:#b91c1c;">🏆 ICML&amp;#39;23 TEACH Workshop Best Paper Award&lt;/span>
-&lt;span style="font-size:11px; font-weight:400; padding:1px 8px; border-radius:20px; border:1px solid #d1d5db; color:#6b7280;">ICML&amp;#39;23 TEACH Workshop&lt;/span>
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#dbeafe; color:#1d4ed8;">NAACL&lt;/span>
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#fee2e2; color:#b91c1c;">🏆 ICML&amp;#39;23 TEACH Workshop Best Paper Award&lt;/span>
+&lt;span style="font-size:11px; font-weight:400; padding:1px 8px; border-radius:6px; border:1px solid #d1d5db; color:#6b7280;">ICML&amp;#39;23 TEACH Workshop&lt;/span>
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
-&lt;a href="https://arxiv.org/abs/2307.04642" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">arXiv&lt;/a>
+&lt;a href="https://arxiv.org/abs/2307.04642" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">arXiv&lt;/a>
 &lt;/div>
 &lt;/div>
 &lt;div class="pub-card" style="padding:0.9rem 1.1rem; border-radius:12px; margin-bottom:0.6rem;">
@@ -114,10 +114,10 @@ Wenwen Si, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, I
 &lt;em>International Conference on Learning Representations&lt;/em> (&lt;strong>ICLR&lt;/strong>), 2024
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
-&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8;">ICLR&lt;/span>
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#dbeafe; color:#1d4ed8;">ICLR&lt;/span>
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
-&lt;a href="https://arxiv.org/abs/2310.12964" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">arXiv&lt;/a>
+&lt;a href="https://arxiv.org/abs/2310.12964" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">arXiv&lt;/a>
 &lt;/div>
 &lt;/div>
 &lt;div class="pub-card" style="padding:0.9rem 1.1rem; border-radius:12px; margin-bottom:0.6rem;">
@@ -131,10 +131,10 @@ Wenwen Si, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, I
 &lt;em>USENIX Security Symposium&lt;/em> (&lt;strong>Security&lt;/strong>), 2023
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
-&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8;">Security&lt;/span>
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#dbeafe; color:#1d4ed8;">Security&lt;/span>
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
-&lt;a href="https://arxiv.org/abs/2211.09330" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">arXiv&lt;/a>
+&lt;a href="https://arxiv.org/abs/2211.09330" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">arXiv&lt;/a>
 &lt;/div>
 &lt;/div>
 &lt;div class="pub-card" style="padding:0.9rem 1.1rem; border-radius:12px; margin-bottom:0.6rem;">
@@ -148,10 +148,10 @@ Ramneet Kaur, Kaustubh Sridhar, &lt;span style="text-decoration:underline;">Sang
 &lt;em>International Conference on Cyber-Physical Systems&lt;/em> (&lt;strong>ICCPS&lt;/strong>), 2023
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
-&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#fee2e2; color:#b91c1c;">🏆 ICCPS&amp;#39;23 Best Paper Award Finalist&lt;/span>
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#fee2e2; color:#b91c1c;">🏆 ICCPS&amp;#39;23 Best Paper Award Finalist&lt;/span>
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
-&lt;a href="https://dl.acm.org/doi/10.1145/3576841.3585931" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">ACM&lt;/a>
+&lt;a href="https://dl.acm.org/doi/10.1145/3576841.3585931" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">ACM&lt;/a>
 &lt;/div>
 &lt;/div>
 &lt;div class="pub-card" style="padding:0.9rem 1.1rem; border-radius:12px; margin-bottom:0.6rem;">
@@ -165,10 +165,10 @@ Ramneet Kaur, Kaustubh Sridhar, &lt;span style="text-decoration:underline;">Sang
 &lt;em>Neural Information Processing Systems&lt;/em> (&lt;strong>NeurIPS&lt;/strong>), 2022
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
-&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8;">NeurIPS&lt;/span>
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#dbeafe; color:#1d4ed8;">NeurIPS&lt;/span>
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
-&lt;a href="https://arxiv.org/abs/2207.02440" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">arXiv&lt;/a>
+&lt;a href="https://arxiv.org/abs/2207.02440" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">arXiv&lt;/a>
 &lt;/div>
 &lt;/div>
 &lt;div class="pub-card" style="padding:0.9rem 1.1rem; border-radius:12px; margin-bottom:0.6rem;">
@@ -182,11 +182,11 @@ Sooyong Jang, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
 &lt;em>International Conference on Machine Learning&lt;/em> (&lt;strong>ICML&lt;/strong>), 2022
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
-&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8;">ICML&lt;/span>
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#dbeafe; color:#1d4ed8;">ICML&lt;/span>
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
-&lt;a href="https://proceedings.mlr.press/v162/jang22a.html" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">PMLR&lt;/a>
-&lt;a href="https://proceedings.mlr.press/v162/jang22a/jang22a.pdf" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">PDF&lt;/a>
+&lt;a href="https://proceedings.mlr.press/v162/jang22a.html" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">PMLR&lt;/a>
+&lt;a href="https://proceedings.mlr.press/v162/jang22a/jang22a.pdf" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">PDF&lt;/a>
 &lt;/div>
 &lt;/div>
 &lt;div class="pub-card" style="padding:0.9rem 1.1rem; border-radius:12px; margin-bottom:0.6rem;">
@@ -200,7 +200,7 @@ Shuo Li, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Xia
 2022
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
-&lt;a href="https://arxiv.org/abs/2204.07482" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">arXiv&lt;/a>
+&lt;a href="https://arxiv.org/abs/2204.07482" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">arXiv&lt;/a>
 &lt;/div>
 &lt;/div>
 &lt;div class="pub-card" style="padding:0.9rem 1.1rem; border-radius:12px; margin-bottom:0.6rem;">
@@ -214,10 +214,10 @@ Shuo Li, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Xia
 &lt;em>International Conference on Learning Representations&lt;/em> (&lt;strong>ICLR&lt;/strong>), 2022
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
-&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8;">ICLR&lt;/span>
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#dbeafe; color:#1d4ed8;">ICLR&lt;/span>
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
-&lt;a href="https://arxiv.org/abs/2106.09848" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">arXiv&lt;/a>
+&lt;a href="https://arxiv.org/abs/2106.09848" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">arXiv&lt;/a>
 &lt;/div>
 &lt;/div>
 &lt;div class="pub-card" style="padding:0.9rem 1.1rem; border-radius:12px; margin-bottom:0.6rem;">
@@ -231,10 +231,10 @@ Shuo Li, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Xia
 &lt;em>International Conference on Learning Representations&lt;/em> (&lt;strong>ICLR&lt;/strong>), 2021
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
-&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8;">ICLR&lt;/span>
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#dbeafe; color:#1d4ed8;">ICLR&lt;/span>
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
-&lt;a href="https://arxiv.org/abs/2011.00716" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">arXiv&lt;/a>
+&lt;a href="https://arxiv.org/abs/2011.00716" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">arXiv&lt;/a>
 &lt;/div>
 &lt;/div>
 &lt;div class="pub-card" style="padding:0.9rem 1.1rem; border-radius:12px; margin-bottom:0.6rem;">
@@ -248,10 +248,10 @@ Ramneet Kaur, Susmit Jha, Anirban Roy, &lt;span style="text-decoration:underline
 &lt;em>Association for the Advancement of Artificial Intelligence&lt;/em> (&lt;strong>AAAI&lt;/strong>), 2021
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
-&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8;">AAAI&lt;/span>
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#dbeafe; color:#1d4ed8;">AAAI&lt;/span>
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
-&lt;a href="https://arxiv.org/abs/2201.02331" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">arXiv&lt;/a>
+&lt;a href="https://arxiv.org/abs/2201.02331" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">arXiv&lt;/a>
 &lt;/div>
 &lt;/div>
 &lt;div class="pub-card" style="padding:0.9rem 1.1rem; border-radius:12px; margin-bottom:0.6rem;">
@@ -265,7 +265,7 @@ Ramneet Kaur, Susmit Jha, Anirban Roy, &lt;span style="text-decoration:underline
 &lt;em>International Conference on Artificial Intelligence and Statistics&lt;/em> (&lt;strong>AISTATS&lt;/strong>), 2020
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
-&lt;a href="https://arxiv.org/abs/2003.00343" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">arXiv&lt;/a>
+&lt;a href="https://arxiv.org/abs/2003.00343" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">arXiv&lt;/a>
 &lt;/div>
 &lt;/div>
 &lt;div class="pub-card" style="padding:0.9rem 1.1rem; border-radius:12px; margin-bottom:0.6rem;">
@@ -279,10 +279,10 @@ Ramneet Kaur, Susmit Jha, Anirban Roy, &lt;span style="text-decoration:underline
 &lt;em>International Conference on Learning Representations&lt;/em> (&lt;strong>ICLR&lt;/strong>), 2020
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
-&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8;">ICLR&lt;/span>
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#dbeafe; color:#1d4ed8;">ICLR&lt;/span>
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
-&lt;a href="https://arxiv.org/abs/2001.00106" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">arXiv&lt;/a>
+&lt;a href="https://arxiv.org/abs/2001.00106" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">arXiv&lt;/a>
 &lt;/div>
 &lt;/div>
 &lt;div class="pub-card" style="padding:0.9rem 1.1rem; border-radius:12px; margin-bottom:0.6rem;">
@@ -296,7 +296,7 @@ Ramneet Kaur, Susmit Jha, Anirban Roy, &lt;span style="text-decoration:underline
 &lt;em>International Conference on Cyber-Physical Systems&lt;/em> (&lt;strong>ICCPS&lt;/strong>), 2017
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
-&lt;a href="https://arxiv.org/abs/1708.03366v2" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">arXiv&lt;/a>
+&lt;a href="https://arxiv.org/abs/1708.03366v2" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">arXiv&lt;/a>
 &lt;/div>
 &lt;/div>
 &lt;/div></description></item><item><title>Agentic AI Alignment</title><link>http://localhost:1313/research/agentic-ai-alignment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/research/agentic-ai-alignment/</guid><description>&lt;p>Agentic AI systems act autonomously over long horizons, making alignment increasingly critical and challenging. We develop principled methods to ensure these agents remain truthful, safe, and secure — aligned with multiple objectives throughout deployment.&lt;/p>
@@ -322,7 +322,7 @@ Sechan Lee, Hyounghun Kim, &lt;span style="text-decoration:underline;">Sangdon P
 &lt;em>The 2026 Conference on Empirical Methods in Natural Language Processing&lt;/em> (&lt;strong>EMNLP Findings&lt;/strong>), 2026
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
-&lt;a href="https://arxiv.org/abs/2511.13725" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">arXiv&lt;/a>
+&lt;a href="https://arxiv.org/abs/2511.13725" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">arXiv&lt;/a>
 &lt;/div>
 &lt;/div>
 &lt;div class="pub-card" style="padding:0.9rem 1.1rem; border-radius:12px; margin-bottom:0.6rem;">
@@ -336,10 +336,10 @@ Jaewan Choi*, Junyoung Yang*, &lt;span style="text-decoration:underline;">Sangdo
 &lt;em>The 2026 Conference on Empirical Methods in Natural Language Processing&lt;/em> (&lt;strong>EMNLP Findings&lt;/strong>), 2026
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
-&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#fee2e2; color:#b91c1c;">🏆 Best Paper Award from CKAIA&lt;/span>
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#fee2e2; color:#b91c1c;">🏆 Best Paper Award from CKAIA&lt;/span>
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
-&lt;a href="https://arxiv.org/abs/2608.16249" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">arXiv&lt;/a>
+&lt;a href="https://arxiv.org/abs/2608.16249" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">arXiv&lt;/a>
 &lt;/div>
 &lt;/div>
 &lt;div class="pub-card" style="padding:0.9rem 1.1rem; border-radius:12px; margin-bottom:0.6rem;">
@@ -353,10 +353,10 @@ Kyungmin Kim*, Youngbin Choi*, Seoyeon Lee, Suhyeon Jun, Dongwoo Kim^, &lt;span 
 &lt;em>The 2026 Conference on Empirical Methods in Natural Language Processing&lt;/em> (&lt;strong>EMNLP Findings&lt;/strong>), 2026
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
-&lt;span style="font-size:11px; font-weight:400; padding:1px 8px; border-radius:20px; border:1px solid #d1d5db; color:#6b7280;">ICML26&amp;#39; RLxF Workshop&lt;/span>
+&lt;span style="font-size:11px; font-weight:400; padding:1px 8px; border-radius:6px; border:1px solid #d1d5db; color:#6b7280;">ICML26&amp;#39; RLxF Workshop&lt;/span>
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
-&lt;a href="https://arxiv.org/abs/2606.25447" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">arXiv&lt;/a>
+&lt;a href="https://arxiv.org/abs/2606.25447" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">arXiv&lt;/a>
 &lt;/div>
 &lt;/div>
 &lt;div class="pub-card" style="padding:0.9rem 1.1rem; border-radius:12px; margin-bottom:0.6rem;">
@@ -370,7 +370,7 @@ Xiang Cheng, Fan Sang, Yibin Yang, Hang Zhang, &lt;span style="text-decoration:u
 &lt;em>The ACM Conference on Computer and Communications Security&lt;/em> (&lt;strong>CCS&lt;/strong>), 2026
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
-&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8;">CCS&lt;/span>
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#dbeafe; color:#1d4ed8;">CCS&lt;/span>
 &lt;/div>
 &lt;/div>
 &lt;div class="pub-card" style="padding:0.9rem 1.1rem; border-radius:12px; margin-bottom:0.6rem;">
@@ -384,7 +384,7 @@ Xiang Cheng*, &lt;span style="text-decoration:underline;">Sangdon Park*&lt;/span
 &lt;em>International Conference on Dependable Systems and Networks&lt;/em> (&lt;strong>DSN&lt;/strong>), 2026
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
-&lt;a href="https://arxiv.org/abs/2211.00111" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">arXiv&lt;/a>
+&lt;a href="https://arxiv.org/abs/2211.00111" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">arXiv&lt;/a>
 &lt;/div>
 &lt;/div>
 &lt;div class="pub-card" style="padding:0.9rem 1.1rem; border-radius:12px; margin-bottom:0.6rem;">
@@ -398,8 +398,8 @@ Kyungmin Kim, Youngbin Choi, Hyounghun Kim, Dongwoo Kim, &lt;span style="text-de
 &lt;em>Findings of the Association for Computational Linguistics: EMNLP&lt;/em> (&lt;strong>EMNLP Findings&lt;/strong>), 2025
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
-&lt;a href="https://doi.org/10.18653/v1/2025.findings-emnlp.405" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">DOI&lt;/a>
-&lt;a href="https://aclanthology.org/2025.findings-emnlp.405/" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">ACL&lt;/a>
+&lt;a href="https://doi.org/10.18653/v1/2025.findings-emnlp.405" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">DOI&lt;/a>
+&lt;a href="https://aclanthology.org/2025.findings-emnlp.405/" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">ACL&lt;/a>
 &lt;/div>
 &lt;/div>
 &lt;div class="pub-card" style="padding:0.9rem 1.1rem; border-radius:12px; margin-bottom:0.6rem;">
@@ -413,10 +413,10 @@ Saemi Moon*, Minjong Lee*, &lt;span style="text-decoration:underline;">Sangdon P
 &lt;em>International Conference on Computer Vision&lt;/em> (&lt;strong>ICCV&lt;/strong>), 2025
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
-&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8;">ICCV&lt;/span>
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#dbeafe; color:#1d4ed8;">ICCV&lt;/span>
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
-&lt;a href="https://arxiv.org/abs/2410.05664" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">arXiv&lt;/a>
+&lt;a href="https://arxiv.org/abs/2410.05664" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">arXiv&lt;/a>
 &lt;/div>
 &lt;/div>
 &lt;div class="pub-card" style="padding:0.9rem 1.1rem; border-radius:12px; margin-bottom:0.6rem;">
@@ -430,10 +430,10 @@ Jeongyeon Hwang, Junyoung Park, Hyejin Park, Dongwoo Kim, &lt;span style="text-d
 &lt;em>Empirical Methods in Natural Language Processing&lt;/em> (&lt;strong>EMNLP&lt;/strong>), 2025
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
-&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8;">EMNLP&lt;/span>
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#dbeafe; color:#1d4ed8;">EMNLP&lt;/span>
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
-&lt;a href="https://openreview.net/forum?id=SwfymlaTn3" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">OpenReview&lt;/a>
+&lt;a href="https://openreview.net/forum?id=SwfymlaTn3" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">OpenReview&lt;/a>
 &lt;/div>
 &lt;/div>
 &lt;div class="pub-card" style="padding:0.9rem 1.1rem; border-radius:12px; margin-bottom:0.6rem;">
@@ -447,10 +447,10 @@ Taesoo Kim, HyungSeok Han, Soyeon Park, Dae R. Jeong, Dohyeok Kim, Dongkwan Kim,
 2025
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
-&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#fee2e2; color:#b91c1c;">🏆 DARPA AIxCC Winner - $(4&amp;#43;2)M Award&lt;/span>
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#fee2e2; color:#b91c1c;">🏆 DARPA AIxCC Winner - $(4&amp;#43;2)M Award&lt;/span>
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
-&lt;a href="https://arxiv.org/abs/2509.14589" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">arXiv&lt;/a>
+&lt;a href="https://arxiv.org/abs/2509.14589" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">arXiv&lt;/a>
 &lt;/div>
 &lt;/div>
 &lt;div class="pub-card" style="padding:0.9rem 1.1rem; border-radius:12px; margin-bottom:0.6rem;">
@@ -464,11 +464,11 @@ Minjae Lee*, Yoonjae Jung*, &lt;span style="text-decoration:underline;">Sangdon 
 2025
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
-&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#fee2e2; color:#b91c1c;">🏆 Best Paper Finalist from CKAIA&lt;/span>
-&lt;span style="font-size:11px; font-weight:400; padding:1px 8px; border-radius:20px; border:1px solid #d1d5db; color:#6b7280;">ICLR&amp;#39;26 Reliable Autonomy Workshop&lt;/span>
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#fee2e2; color:#b91c1c;">🏆 Best Paper Finalist from CKAIA&lt;/span>
+&lt;span style="font-size:11px; font-weight:400; padding:1px 8px; border-radius:6px; border:1px solid #d1d5db; color:#6b7280;">ICLR&amp;#39;26 Reliable Autonomy Workshop&lt;/span>
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
-&lt;a href="https://arxiv.org/abs/2506.14067" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">arXiv&lt;/a>
+&lt;a href="https://arxiv.org/abs/2506.14067" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">arXiv&lt;/a>
 &lt;/div>
 &lt;/div>
 &lt;/div></description></item><item><title>Physical AI Safety</title><link>http://localhost:1313/research/physical-ai-safety/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/research/physical-ai-safety/</guid><description>&lt;p>Physical AI systems such as robots and humanoids are increasingly capable, yet deploying them safely around humans remains an open challenge. This raises the following question.&lt;/p>
@@ -492,11 +492,11 @@ Minjae Lee*, Yoonjae Jung*, &lt;span style="text-decoration:underline;">Sangdon 
 2025
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
-&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#fee2e2; color:#b91c1c;">🏆 Best Paper Finalist from CKAIA&lt;/span>
-&lt;span style="font-size:11px; font-weight:400; padding:1px 8px; border-radius:20px; border:1px solid #d1d5db; color:#6b7280;">ICLR&amp;#39;26 Reliable Autonomy Workshop&lt;/span>
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#fee2e2; color:#b91c1c;">🏆 Best Paper Finalist from CKAIA&lt;/span>
+&lt;span style="font-size:11px; font-weight:400; padding:1px 8px; border-radius:6px; border:1px solid #d1d5db; color:#6b7280;">ICLR&amp;#39;26 Reliable Autonomy Workshop&lt;/span>
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
-&lt;a href="https://arxiv.org/abs/2506.14067" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">arXiv&lt;/a>
+&lt;a href="https://arxiv.org/abs/2506.14067" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">arXiv&lt;/a>
 &lt;/div>
 &lt;/div>
 &lt;div class="pub-card" style="padding:0.9rem 1.1rem; border-radius:12px; margin-bottom:0.6rem;">
@@ -510,7 +510,7 @@ Haoran Wang, Zheng Yang, &lt;span style="text-decoration:underline;">Sangdon Par
 &lt;em>International Conference on Dependable Systems and Networks&lt;/em> (&lt;strong>DSN&lt;/strong>), 2025
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
-&lt;a href="https://ieeexplore.ieee.org/document/11068853" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">IEEE&lt;/a>
+&lt;a href="https://ieeexplore.ieee.org/document/11068853" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">IEEE&lt;/a>
 &lt;/div>
 &lt;/div>
 &lt;div class="pub-card" style="padding:0.9rem 1.1rem; border-radius:12px; margin-bottom:0.6rem;">
@@ -524,10 +524,10 @@ Hyejin Park*, Jeongyeon Hwang*, Sunung Mun, &lt;span style="text-decoration:unde
 &lt;em>Computer Vision and Pattern Recognition&lt;/em> (&lt;strong>CVPR&lt;/strong>), 2024
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
-&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8;">CVPR&lt;/span>
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#dbeafe; color:#1d4ed8;">CVPR&lt;/span>
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
-&lt;a href="https://arxiv.org/abs/2403.19326" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">arXiv&lt;/a>
+&lt;a href="https://arxiv.org/abs/2403.19326" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">arXiv&lt;/a>
 &lt;/div>
 &lt;/div>
 &lt;div class="pub-card" style="padding:0.9rem 1.1rem; border-radius:12px; margin-bottom:0.6rem;">
@@ -541,10 +541,10 @@ Wenwen Si, Shuo Li, &lt;span style="text-decoration:underline;">Sangdon Park&lt;
 &lt;em>Computer Vision and Pattern Recognition&lt;/em> (&lt;strong>CVPR&lt;/strong>), 2023
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
-&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8;">CVPR&lt;/span>
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#dbeafe; color:#1d4ed8;">CVPR&lt;/span>
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
-&lt;a href="https://ieeexplore.ieee.org/document/10203919" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">IEEE&lt;/a>
+&lt;a href="https://ieeexplore.ieee.org/document/10203919" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">IEEE&lt;/a>
 &lt;/div>
 &lt;/div>
 &lt;div class="pub-card" style="padding:0.9rem 1.1rem; border-radius:12px; margin-bottom:0.6rem;">
@@ -558,10 +558,10 @@ Ramneet Kaur, Kaustubh Sridhar, &lt;span style="text-decoration:underline;">Sang
 &lt;em>International Conference on Cyber-Physical Systems&lt;/em> (&lt;strong>ICCPS&lt;/strong>), 2023
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
-&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#fee2e2; color:#b91c1c;">🏆 ICCPS&amp;#39;23 Best Paper Award Finalist&lt;/span>
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#fee2e2; color:#b91c1c;">🏆 ICCPS&amp;#39;23 Best Paper Award Finalist&lt;/span>
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
-&lt;a href="https://dl.acm.org/doi/10.1145/3576841.3585931" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">ACM&lt;/a>
+&lt;a href="https://dl.acm.org/doi/10.1145/3576841.3585931" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">ACM&lt;/a>
 &lt;/div>
 &lt;/div>
 &lt;div class="pub-card" style="padding:0.9rem 1.1rem; border-radius:12px; margin-bottom:0.6rem;">
@@ -575,11 +575,11 @@ Sooyong Jang, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
 &lt;em>International Conference on Machine Learning&lt;/em> (&lt;strong>ICML&lt;/strong>), 2022
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
-&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8;">ICML&lt;/span>
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#dbeafe; color:#1d4ed8;">ICML&lt;/span>
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
-&lt;a href="https://proceedings.mlr.press/v162/jang22a.html" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">PMLR&lt;/a>
-&lt;a href="https://proceedings.mlr.press/v162/jang22a/jang22a.pdf" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">PDF&lt;/a>
+&lt;a href="https://proceedings.mlr.press/v162/jang22a.html" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">PMLR&lt;/a>
+&lt;a href="https://proceedings.mlr.press/v162/jang22a/jang22a.pdf" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">PDF&lt;/a>
 &lt;/div>
 &lt;/div>
 &lt;div class="pub-card" style="padding:0.9rem 1.1rem; border-radius:12px; margin-bottom:0.6rem;">
@@ -593,7 +593,7 @@ Shuo Li, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Xia
 2022
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
-&lt;a href="https://arxiv.org/abs/2204.07482" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">arXiv&lt;/a>
+&lt;a href="https://arxiv.org/abs/2204.07482" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">arXiv&lt;/a>
 &lt;/div>
 &lt;/div>
 &lt;div class="pub-card" style="padding:0.9rem 1.1rem; border-radius:12px; margin-bottom:0.6rem;">
@@ -607,10 +607,10 @@ Ramneet Kaur, Susmit Jha, Anirban Roy, &lt;span style="text-decoration:underline
 &lt;em>Association for the Advancement of Artificial Intelligence&lt;/em> (&lt;strong>AAAI&lt;/strong>), 2021
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
-&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8;">AAAI&lt;/span>
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#dbeafe; color:#1d4ed8;">AAAI&lt;/span>
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
-&lt;a href="https://arxiv.org/abs/2201.02331" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">arXiv&lt;/a>
+&lt;a href="https://arxiv.org/abs/2201.02331" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">arXiv&lt;/a>
 &lt;/div>
 &lt;/div>
 &lt;div class="pub-card" style="padding:0.9rem 1.1rem; border-radius:12px; margin-bottom:0.6rem;">
@@ -624,7 +624,7 @@ Jean Oh, Thomas M Howard, Matthew R Walter, Daniel Barber, Menglong Zhu, &lt;spa
 &lt;em>International Symposium on Experimental Robotics&lt;/em> (&lt;strong>ISER&lt;/strong>), 2016
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
-&lt;a href="https://link.springer.com/chapter/10.1007/978-3-319-50115-4_28" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">Springer&lt;/a>
+&lt;a href="https://link.springer.com/chapter/10.1007/978-3-319-50115-4_28" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">Springer&lt;/a>
 &lt;/div>
 &lt;/div>
 &lt;div class="pub-card" style="padding:0.9rem 1.1rem; border-radius:12px; margin-bottom:0.6rem;">
@@ -638,11 +638,11 @@ Jean Oh, Thomas M Howard, Matthew R Walter, Daniel Barber, Menglong Zhu, &lt;spa
 &lt;em>European Conference on Computer Vision&lt;/em> (&lt;strong>ECCV&lt;/strong>), 2012
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
-&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8;">ECCV&lt;/span>
-&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#fee2e2; color:#b91c1c;">🏆 Distinguished MS Dissertation Award&lt;/span>
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#dbeafe; color:#1d4ed8;">ECCV&lt;/span>
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#fee2e2; color:#b91c1c;">🏆 Distinguished MS Dissertation Award&lt;/span>
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
-&lt;a href="https://link.springer.com/chapter/10.1007/978-3-642-33712-3_47" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">Springer&lt;/a>
+&lt;a href="https://link.springer.com/chapter/10.1007/978-3-642-33712-3_47" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">Springer&lt;/a>
 &lt;/div>
 &lt;/div>
 &lt;/div></description></item><item><title>AI Red Teaming</title><link>http://localhost:1313/research/ai-red-teaming/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/research/ai-red-teaming/</guid><description>&lt;p>Agentic AI systems are powerful but remain vulnerable to adversarial manipulation and jailbreaking. We advance their robustness by continuously probing and debugging them through red teaming. This raises the following question.&lt;/p>
@@ -666,7 +666,7 @@ Junyoung Park, Namgyu Park, Sechan Lee, Yoon-Chan Jhi, Jihoon Cho, &lt;span styl
 2026
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
-&lt;a href="https://arxiv.org/abs/2607.11070" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">arXiv&lt;/a>
+&lt;a href="https://arxiv.org/abs/2607.11070" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">arXiv&lt;/a>
 &lt;/div>
 &lt;/div>
 &lt;div class="pub-card" style="padding:0.9rem 1.1rem; border-radius:12px; margin-bottom:0.6rem;">
@@ -680,10 +680,10 @@ Jeongyeon Hwang, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/sp
 &lt;em>International Conference on Machine Learning&lt;/em> (&lt;strong>ICML&lt;/strong>), 2026
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
-&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; background:#dbeafe; color:#1d4ed8;">ICML&lt;/span>
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#dbeafe; color:#1d4ed8;">ICML&lt;/span>
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
-&lt;a href="https://arxiv.org/abs/2509.23019" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:20px; text-decoration:none;">arXiv&lt;/a>
+&lt;a href="https://arxiv.org/abs/2509.23019" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">arXiv&lt;/a>
 &lt;/div>
 &lt;/div>
 &lt;/div></description></item><item><title>🎉 Three EMNLP Findings Papers</title><link>http://localhost:1313/news/20260821-emnlp-findings/</link><pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/news/20260821-emnlp-findings/</guid><description>&lt;p>Congrat to Jaewan, Junyoung, Kyungmin, Youngbin, Seoyeon, Suhyeon, Sechan, and Hyounghun!&lt;/p></description></item><item><title>Can We Stop Malicious AI? KILLBENCH: A Benchmark for External AI Kill Switch Feasibility</title><link>http://localhost:1313/publication/2026-08-21-can-we-stop-malicious-ai-killbench-a-benchmark-for-external-ai-ki/</link><pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/publication/2026-08-21-can-we-stop-malicious-ai-killbench-a-benchmark-for-external-ai-ki/</guid><description/></item><item><title>SAUL: Sharpness-Aware Augmented-Lagrangian Unlearning</title><link>http://localhost:1313/publication/2026-08-21-saul-sharpness-aware-augmented-lagrangian-unlearning/</link><pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/publication/2026-08-21-saul-sharpness-aware-augmented-lagrangian-unlearning/</guid><description/></item><item><title>The Interplay of Harness Design and Post-Training in LLM Agents</title><link>http://localhost:1313/publication/2026-08-21-the-interplay-of-harness-design-and-post-training-in-llm-agents/</link><pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/publication/2026-08-21-the-interplay-of-harness-design-and-post-training-in-llm-agents/</guid><description/></item><item><title>🧑‍⚖️ Area Chair</title><link>http://localhost:1313/news/20260813-iclr-ac/</link><pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/news/20260813-iclr-ac/</guid><description/></item><item><title>🏆 Best Paper Award</title><link>http://localhost:1313/news/20260806-ckaia-award/</link><pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/news/20260806-ckaia-award/</guid><description>&lt;p>Congrat to Jaewan and Junyoung!&lt;/p></description></item><item><title>MJ: Multi-turn LLM Jailbreaking via Decomposed Credit Assignment</title><link>http://localhost:1313/publication/2026-07-14-mj-multi-turn-llm-jailbreaking-via-decomposed-credit-assignment/</link><pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/publication/2026-07-14-mj-multi-turn-llm-jailbreaking-via-decomposed-credit-assignment/</guid><description/></item><item><title>🧑‍⚖️ Area Chair</title><link>http://localhost:1313/news/20260525-neurips-ac/</link><pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/news/20260525-neurips-ac/</guid><description/></item><item><title>The Illusion of Rust Safety: Detecting Modular Unsafe Functions with LLMs</title><link>http://localhost:1313/publication/2026-05-16-the-illusion-of-rust-safety-detecting-modular-unsafe-functions-wi/</link><pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/publication/2026-05-16-the-illusion-of-rust-safety-detecting-modular-unsafe-functions-wi/</guid><description/></item><item><title>🎉 Two ICML'26 Papers + One ICML'26 Workshop</title><link>http://localhost:1313/news/20260501-icml-paper/</link><pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/news/20260501-icml-paper/</guid><description/></item><item><title>LLM Watermark Evasion via Bias Inversion</title><link>http://localhost:1313/publication/2026-05-01-llm-watermark-evasion-via-bias-inversion/</link><pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/publication/2026-05-01-llm-watermark-evasion-via-bias-inversion/</guid><description/></item><item><title>Towards Functional Correctness of Large Code Models with Selective Generation</title><link>http://localhost:1313/publication/2026-05-01-towards-functional-correctness-of-large-code-models-with-selectiv/</link><pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/publication/2026-05-01-towards-functional-correctness-of-large-code-models-with-selectiv/</guid><description/></item><item><title>Ruby: Unmasking Unsafe Rust in Stripped Binaries via Machine Learning</title><link>http://localhost:1313/publication/2026-04-27-ruby-unmasking-unsafe-rust-in-stripped-binaries-via-machine-learn/</link><pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/publication/2026-04-27-ruby-unmasking-unsafe-rust-in-stripped-binaries-via-machine-learn/</guid><description/></item><item><title>📚 AI Security (2026 Spring)</title><link>http://localhost:1313/teaching/2026-ai-security-spring/</link><pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/teaching/2026-ai-security-spring/</guid><description>&lt;h1 id="trustworthy-ml-aigs703l--csed703l">Trustworthy ML (AIGS703L / CSED703L)&lt;/h1>
