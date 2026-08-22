@@ -5,6 +5,7 @@
 
 title: "Sangdon Park" # Website name
 baseURL: 'https://sangdon.github.io/' # Website URL
+buildFuture: true
 
 ############################
 ## PAGE OPTIONS
