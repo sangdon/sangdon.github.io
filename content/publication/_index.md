@@ -33,5 +33,12 @@ top_conferences:
     - CVPR
     - ECCV
     - ICCV
+
+non_top_conferences:
+    - DSN
+    - AISTATS
+    - EMNLP Findings
+    - ICCPS
+    - ISER
 ---
 

@@ -20,7 +20,7 @@
 Jaewoo Jeong, Taesoo Kim, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
-&lt;em>International Conference on Machine Learning&lt;/em> (&lt;strong>ICML&lt;/strong>), 2026
+&lt;em>International Conference on Machine Learning&lt;/em>, 2026
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
 &lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#dbeafe; color:#1d4ed8;">ICML&lt;/span>
@@ -38,7 +38,7 @@ Jaewoo Jeong, Taesoo Kim, &lt;span style="text-decoration:underline;">Sangdon Pa
 Junyoung Yang*, Kyungmin Kim*, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
-&lt;em>International Conference on Learning Representations&lt;/em> (&lt;strong>ICLR&lt;/strong>), 2026
+&lt;em>International Conference on Learning Representations&lt;/em>, 2026
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
 &lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#dbeafe; color:#1d4ed8;">ICLR&lt;/span>
@@ -74,7 +74,7 @@ Minjae Lee*, Yoonjae Jung*, &lt;span style="text-decoration:underline;">Sangdon 
 Minjae Lee*, Kyungmin Kim*, Taesoo Kim, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
-&lt;em>Neural Information Processing Systems&lt;/em> (&lt;strong>NeurIPS&lt;/strong>), 2024
+&lt;em>Neural Information Processing Systems&lt;/em>, 2024
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
 &lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#dbeafe; color:#1d4ed8;">NeurIPS&lt;/span>
@@ -92,7 +92,7 @@ Minjae Lee*, Kyungmin Kim*, Taesoo Kim, &lt;span style="text-decoration:underlin
 Shuo Li, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Insup Lee, Osbert Bastani
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
-&lt;em>North American Chapter of the Association for Computational Linguistics&lt;/em> (&lt;strong>NAACL&lt;/strong>), 2024
+&lt;em>North American Chapter of the Association for Computational Linguistics&lt;/em>, 2024
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
 &lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#dbeafe; color:#1d4ed8;">NAACL&lt;/span>
@@ -111,7 +111,7 @@ Shuo Li, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Ins
 Wenwen Si, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Insup Lee, Edgar Dobriban, Osbert Bastani
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
-&lt;em>International Conference on Learning Representations&lt;/em> (&lt;strong>ICLR&lt;/strong>), 2024
+&lt;em>International Conference on Learning Representations&lt;/em>, 2024
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
 &lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#dbeafe; color:#1d4ed8;">ICLR&lt;/span>
@@ -128,7 +128,7 @@ Wenwen Si, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, I
 &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Osbert Bastani, Taesoo Kim
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
-&lt;em>USENIX Security Symposium&lt;/em> (&lt;strong>Security&lt;/strong>), 2023
+&lt;em>USENIX Security Symposium&lt;/em>, 2023
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
 &lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#dbeafe; color:#1d4ed8;">Security&lt;/span>
@@ -145,9 +145,10 @@ Wenwen Si, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, I
 Ramneet Kaur, Kaustubh Sridhar, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Yahan Yang, Susmit Jha, Anirban Roy, Oleg Sokolsky, Insup Lee
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
-&lt;em>International Conference on Cyber-Physical Systems&lt;/em> (&lt;strong>ICCPS&lt;/strong>), 2023
+&lt;em>International Conference on Cyber-Physical Systems&lt;/em>, 2023
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#e5e7eb; color:#1f2937;">ICCPS&lt;/span>
 &lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#fee2e2; color:#b91c1c;">🏆 ICCPS&amp;#39;23 Best Paper Award Finalist&lt;/span>
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
@@ -162,7 +163,7 @@ Ramneet Kaur, Kaustubh Sridhar, &lt;span style="text-decoration:underline;">Sang
 &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Edgar Dobriban, Insup Lee, Osbert Bastani
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
-&lt;em>Neural Information Processing Systems&lt;/em> (&lt;strong>NeurIPS&lt;/strong>), 2022
+&lt;em>Neural Information Processing Systems&lt;/em>, 2022
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
 &lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#dbeafe; color:#1d4ed8;">NeurIPS&lt;/span>
@@ -179,7 +180,7 @@ Ramneet Kaur, Kaustubh Sridhar, &lt;span style="text-decoration:underline;">Sang
 Sooyong Jang, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Insup Lee, Osbert Bastani
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
-&lt;em>International Conference on Machine Learning&lt;/em> (&lt;strong>ICML&lt;/strong>), 2022
+&lt;em>International Conference on Machine Learning&lt;/em>, 2022
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
 &lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#dbeafe; color:#1d4ed8;">ICML&lt;/span>
@@ -211,7 +212,7 @@ Shuo Li, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Xia
 &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Edgar Dobriban, Insup Lee, Osbert Bastani
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
-&lt;em>International Conference on Learning Representations&lt;/em> (&lt;strong>ICLR&lt;/strong>), 2022
+&lt;em>International Conference on Learning Representations&lt;/em>, 2022
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
 &lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#dbeafe; color:#1d4ed8;">ICLR&lt;/span>
@@ -228,7 +229,7 @@ Shuo Li, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Xia
 &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Shuo Li, Insup Lee, Osbert Bastani
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
-&lt;em>International Conference on Learning Representations&lt;/em> (&lt;strong>ICLR&lt;/strong>), 2021
+&lt;em>International Conference on Learning Representations&lt;/em>, 2021
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
 &lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#dbeafe; color:#1d4ed8;">ICLR&lt;/span>
@@ -245,7 +246,7 @@ Shuo Li, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Xia
 Ramneet Kaur, Susmit Jha, Anirban Roy, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Edgar Dobriban, Oleg Sokolsky, Insup Lee
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
-&lt;em>Association for the Advancement of Artificial Intelligence&lt;/em> (&lt;strong>AAAI&lt;/strong>), 2021
+&lt;em>Association for the Advancement of Artificial Intelligence&lt;/em>, 2021
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
 &lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#dbeafe; color:#1d4ed8;">AAAI&lt;/span>
@@ -262,7 +263,10 @@ Ramneet Kaur, Susmit Jha, Anirban Roy, &lt;span style="text-decoration:underline
 &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Osbert Bastani, James Weimer, Insup Lee
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
-&lt;em>International Conference on Artificial Intelligence and Statistics&lt;/em> (&lt;strong>AISTATS&lt;/strong>), 2020
+&lt;em>International Conference on Artificial Intelligence and Statistics&lt;/em>, 2020
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#e5e7eb; color:#1f2937;">AISTATS&lt;/span>
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
 &lt;a href="https://arxiv.org/abs/2003.00343" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">arXiv&lt;/a>
@@ -276,7 +280,7 @@ Ramneet Kaur, Susmit Jha, Anirban Roy, &lt;span style="text-decoration:underline
 &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Osbert Bastani, Nikolai Matni, Insup Lee
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
-&lt;em>International Conference on Learning Representations&lt;/em> (&lt;strong>ICLR&lt;/strong>), 2020
+&lt;em>International Conference on Learning Representations&lt;/em>, 2020
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
 &lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#dbeafe; color:#1d4ed8;">ICLR&lt;/span>
@@ -293,7 +297,10 @@ Ramneet Kaur, Susmit Jha, Anirban Roy, &lt;span style="text-decoration:underline
 &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, James Weimer, Insup Lee
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
-&lt;em>International Conference on Cyber-Physical Systems&lt;/em> (&lt;strong>ICCPS&lt;/strong>), 2017
+&lt;em>International Conference on Cyber-Physical Systems&lt;/em>, 2017
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#e5e7eb; color:#1f2937;">ICCPS&lt;/span>
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
 &lt;a href="https://arxiv.org/abs/1708.03366v2" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">arXiv&lt;/a>
@@ -319,7 +326,10 @@ Ramneet Kaur, Susmit Jha, Anirban Roy, &lt;span style="text-decoration:underline
 Sechan Lee, Hyounghun Kim, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
-&lt;em>The 2026 Conference on Empirical Methods in Natural Language Processing&lt;/em> (&lt;strong>EMNLP Findings&lt;/strong>), 2026
+&lt;em>The 2026 Conference on Empirical Methods in Natural Language Processing&lt;/em>, 2026
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#e5e7eb; color:#1f2937;">EMNLP Findings&lt;/span>
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
 &lt;a href="https://arxiv.org/abs/2511.13725" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">arXiv&lt;/a>
@@ -333,9 +343,10 @@ Sechan Lee, Hyounghun Kim, &lt;span style="text-decoration:underline;">Sangdon P
 Jaewan Choi*, Junyoung Yang*, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
-&lt;em>The 2026 Conference on Empirical Methods in Natural Language Processing&lt;/em> (&lt;strong>EMNLP Findings&lt;/strong>), 2026
+&lt;em>The 2026 Conference on Empirical Methods in Natural Language Processing&lt;/em>, 2026
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#e5e7eb; color:#1f2937;">EMNLP Findings&lt;/span>
 &lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#fee2e2; color:#b91c1c;">🏆 Best Paper Award from CKAIA&lt;/span>
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
@@ -350,9 +361,10 @@ Jaewan Choi*, Junyoung Yang*, &lt;span style="text-decoration:underline;">Sangdo
 Kyungmin Kim*, Youngbin Choi*, Seoyeon Lee, Suhyeon Jun, Dongwoo Kim^, &lt;span style="text-decoration:underline;">Sangdon Park^&lt;/span>
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
-&lt;em>The 2026 Conference on Empirical Methods in Natural Language Processing&lt;/em> (&lt;strong>EMNLP Findings&lt;/strong>), 2026
+&lt;em>The 2026 Conference on Empirical Methods in Natural Language Processing&lt;/em>, 2026
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#e5e7eb; color:#1f2937;">EMNLP Findings&lt;/span>
 &lt;span style="font-size:11px; font-weight:400; padding:1px 8px; border-radius:6px; border:1px solid #d1d5db; color:#6b7280;">ICML&amp;#39;26 RLxF Workshop&lt;/span>
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
@@ -367,7 +379,7 @@ The Illusion of Rust Safety: Detecting Modular Unsafe Functions with LLMs
 Xiang Cheng, Fan Sang, Yibin Yang, Hang Zhang, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Xiaokuan Zhang, Taesoo Kim
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
-&lt;em>The ACM Conference on Computer and Communications Security&lt;/em> (&lt;strong>CCS&lt;/strong>), 2026
+&lt;em>The ACM Conference on Computer and Communications Security&lt;/em>, 2026
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
 &lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#dbeafe; color:#1d4ed8;">CCS&lt;/span>
@@ -381,7 +393,10 @@ Xiang Cheng, Fan Sang, Yibin Yang, Hang Zhang, &lt;span style="text-decoration:u
 Xiang Cheng*, &lt;span style="text-decoration:underline;">Sangdon Park*&lt;/span>, HyungSeok Han, Xiaokuan Zhang, Taesoo Kim
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
-&lt;em>International Conference on Dependable Systems and Networks&lt;/em> (&lt;strong>DSN&lt;/strong>), 2026
+&lt;em>International Conference on Dependable Systems and Networks&lt;/em>, 2026
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#e5e7eb; color:#1f2937;">DSN&lt;/span>
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
 &lt;a href="https://arxiv.org/abs/2211.00111" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">arXiv&lt;/a>
@@ -395,7 +410,10 @@ Xiang Cheng*, &lt;span style="text-decoration:underline;">Sangdon Park*&lt;/span
 Kyungmin Kim, Youngbin Choi, Hyounghun Kim, Dongwoo Kim, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
-&lt;em>Findings of the Association for Computational Linguistics: EMNLP&lt;/em> (&lt;strong>EMNLP Findings&lt;/strong>), 2025
+&lt;em>Findings of the Association for Computational Linguistics: EMNLP&lt;/em>, 2025
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#e5e7eb; color:#1f2937;">EMNLP Findings&lt;/span>
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
 &lt;a href="https://doi.org/10.18653/v1/2025.findings-emnlp.405" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">DOI&lt;/a>
@@ -410,7 +428,7 @@ Kyungmin Kim, Youngbin Choi, Hyounghun Kim, Dongwoo Kim, &lt;span style="text-de
 Saemi Moon*, Minjong Lee*, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Dongwoo Kim
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
-&lt;em>International Conference on Computer Vision&lt;/em> (&lt;strong>ICCV&lt;/strong>), 2025
+&lt;em>International Conference on Computer Vision&lt;/em>, 2025
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
 &lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#dbeafe; color:#1d4ed8;">ICCV&lt;/span>
@@ -427,7 +445,7 @@ Saemi Moon*, Minjong Lee*, &lt;span style="text-decoration:underline;">Sangdon P
 Jeongyeon Hwang, Junyoung Park, Hyejin Park, Dongwoo Kim, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Jungseul Ok
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
-&lt;em>Empirical Methods in Natural Language Processing&lt;/em> (&lt;strong>EMNLP&lt;/strong>), 2025
+&lt;em>Empirical Methods in Natural Language Processing&lt;/em>, 2025
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
 &lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#dbeafe; color:#1d4ed8;">EMNLP&lt;/span>
@@ -507,7 +525,10 @@ Minjae Lee*, Yoonjae Jung*, &lt;span style="text-decoration:underline;">Sangdon 
 Haoran Wang, Zheng Yang, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Yibin Yang, Seulbae Kim, Willian Lunardi, Martin Andreoni, Taesoo Kim, Wenke Lee
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
-&lt;em>International Conference on Dependable Systems and Networks&lt;/em> (&lt;strong>DSN&lt;/strong>), 2025
+&lt;em>International Conference on Dependable Systems and Networks&lt;/em>, 2025
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#e5e7eb; color:#1f2937;">DSN&lt;/span>
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
 &lt;a href="https://ieeexplore.ieee.org/document/11068853" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">IEEE&lt;/a>
@@ -521,7 +542,7 @@ Haoran Wang, Zheng Yang, &lt;span style="text-decoration:underline;">Sangdon Par
 Hyejin Park*, Jeongyeon Hwang*, Sunung Mun, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Jungseul Ok
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
-&lt;em>Computer Vision and Pattern Recognition&lt;/em> (&lt;strong>CVPR&lt;/strong>), 2024
+&lt;em>Computer Vision and Pattern Recognition&lt;/em>, 2024
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
 &lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#dbeafe; color:#1d4ed8;">CVPR&lt;/span>
@@ -538,7 +559,7 @@ Hyejin Park*, Jeongyeon Hwang*, Sunung Mun, &lt;span style="text-decoration:unde
 Wenwen Si, Shuo Li, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Insup Lee, Osbert Bastani
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
-&lt;em>Computer Vision and Pattern Recognition&lt;/em> (&lt;strong>CVPR&lt;/strong>), 2023
+&lt;em>Computer Vision and Pattern Recognition&lt;/em>, 2023
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
 &lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#dbeafe; color:#1d4ed8;">CVPR&lt;/span>
@@ -555,9 +576,10 @@ Wenwen Si, Shuo Li, &lt;span style="text-decoration:underline;">Sangdon Park&lt;
 Ramneet Kaur, Kaustubh Sridhar, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Yahan Yang, Susmit Jha, Anirban Roy, Oleg Sokolsky, Insup Lee
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
-&lt;em>International Conference on Cyber-Physical Systems&lt;/em> (&lt;strong>ICCPS&lt;/strong>), 2023
+&lt;em>International Conference on Cyber-Physical Systems&lt;/em>, 2023
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#e5e7eb; color:#1f2937;">ICCPS&lt;/span>
 &lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#fee2e2; color:#b91c1c;">🏆 ICCPS&amp;#39;23 Best Paper Award Finalist&lt;/span>
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
@@ -572,7 +594,7 @@ Ramneet Kaur, Kaustubh Sridhar, &lt;span style="text-decoration:underline;">Sang
 Sooyong Jang, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Insup Lee, Osbert Bastani
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
-&lt;em>International Conference on Machine Learning&lt;/em> (&lt;strong>ICML&lt;/strong>), 2022
+&lt;em>International Conference on Machine Learning&lt;/em>, 2022
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
 &lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#dbeafe; color:#1d4ed8;">ICML&lt;/span>
@@ -604,7 +626,7 @@ Shuo Li, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Xia
 Ramneet Kaur, Susmit Jha, Anirban Roy, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Edgar Dobriban, Oleg Sokolsky, Insup Lee
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
-&lt;em>Association for the Advancement of Artificial Intelligence&lt;/em> (&lt;strong>AAAI&lt;/strong>), 2021
+&lt;em>Association for the Advancement of Artificial Intelligence&lt;/em>, 2021
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
 &lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#dbeafe; color:#1d4ed8;">AAAI&lt;/span>
@@ -621,7 +643,10 @@ Ramneet Kaur, Susmit Jha, Anirban Roy, &lt;span style="text-decoration:underline
 Jean Oh, Thomas M Howard, Matthew R Walter, Daniel Barber, Menglong Zhu, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Arne Suppe, Luis Navarro-Serment, Felix Duvallet, Abdeslam Boularias, others
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
-&lt;em>International Symposium on Experimental Robotics&lt;/em> (&lt;strong>ISER&lt;/strong>), 2016
+&lt;em>International Symposium on Experimental Robotics&lt;/em>, 2016
+&lt;/div>
+&lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
+&lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#e5e7eb; color:#1f2937;">ISER&lt;/span>
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:7px;">
 &lt;a href="https://link.springer.com/chapter/10.1007/978-3-319-50115-4_28" target="_blank" rel="noopener" class="pub-card-link" style="font-size:11px; padding:2px 10px; border-radius:6px; text-decoration:none;">Springer&lt;/a>
@@ -635,7 +660,7 @@ Jean Oh, Thomas M Howard, Matthew R Walter, Daniel Barber, Menglong Zhu, &lt;spa
 &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Wonsik Kim, Kyoung Mu Lee
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
-&lt;em>European Conference on Computer Vision&lt;/em> (&lt;strong>ECCV&lt;/strong>), 2012
+&lt;em>European Conference on Computer Vision&lt;/em>, 2012
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
 &lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#dbeafe; color:#1d4ed8;">ECCV&lt;/span>
@@ -677,7 +702,7 @@ Junyoung Park, Namgyu Park, Sechan Lee, Yoon-Chan Jhi, Jihoon Cho, &lt;span styl
 Jeongyeon Hwang, &lt;span style="text-decoration:underline;">Sangdon Park&lt;/span>, Jungseul Ok
 &lt;/div>
 &lt;div class="pub-card-venue" style="font-size:12px;">
-&lt;em>International Conference on Machine Learning&lt;/em> (&lt;strong>ICML&lt;/strong>), 2026
+&lt;em>International Conference on Machine Learning&lt;/em>, 2026
 &lt;/div>
 &lt;div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
 &lt;span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#dbeafe; color:#1d4ed8;">ICML&lt;/span>

@@ -13,18 +13,24 @@
       {{- if eq $clean "Sangdon Park" -}}<span style="text-decoration:underline;">{{ $author }}</span>{{- else -}}{{ $author }}{{- end -}}
     {{- end }}
   </div>
+  {{ $topConfs := (site.GetPage "publication").Params.top_conferences }}
+  {{ $nonTopConfs := (site.GetPage "publication").Params.non_top_conferences }}
+  {{ $isTop := false }}
+  {{ $isNonTop := false }}
+  {{ with $item.Params.publication_short }}
+    {{ if in $topConfs . }}{{ $isTop = true }}{{ else if in $nonTopConfs . }}{{ $isNonTop = true }}{{ end }}
+  {{ end }}
+  {{ $showShortInline := and $item.Params.publication_short (not $isTop) (not $isNonTop) }}
   <div class="pub-card-venue" style="font-size:12px;">
     {{ with $item.Params.publication }}<em>{{ . }}</em>{{ end -}}
-    {{- if and $item.Params.publication $item.Params.publication_short }} (<strong>{{ $item.Params.publication_short }}</strong>){{ else if $item.Params.publication_short }}<strong>{{ $item.Params.publication_short }}</strong>{{ end -}}
-    {{- if or $item.Params.publication $item.Params.publication_short }}, {{ end -}}
+    {{- if and $item.Params.publication $showShortInline }} (<strong>{{ $item.Params.publication_short }}</strong>){{ else if $showShortInline }}<strong>{{ $item.Params.publication_short }}</strong>{{ end -}}
+    {{- if or $item.Params.publication $showShortInline }}, {{ end -}}
     {{ $item.Date.Format "2006" }}
   </div>
-  {{ $topConfs := (site.GetPage "publication").Params.top_conferences }}
-  {{ $isTop := false }}
-  {{ with $item.Params.publication_short }}{{ if in $topConfs . }}{{ $isTop = true }}{{ end }}{{ end }}
-  {{ if or $item.Params.awards $isTop $item.Params.badge }}
+  {{ if or $item.Params.awards $isTop $isNonTop $item.Params.badge }}
   <div style="display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;">
     {{ if $isTop }}<span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#dbeafe; color:#1d4ed8;">{{ $item.Params.publication_short }}</span>{{ end }}
+    {{ if $isNonTop }}<span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#e5e7eb; color:#1f2937;">{{ $item.Params.publication_short }}</span>{{ end }}
     {{ with $item.Params.awards }}
       {{ if reflect.IsSlice . }}
         {{ range . }}<span style="font-size:11px; font-weight:600; padding:2px 8px; border-radius:6px; background:#fee2e2; color:#b91c1c;">{{ . }}</span>{{ end }}
