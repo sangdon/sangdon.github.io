@@ -56,7 +56,7 @@ jobs:
         run: python3 scripts/gen_authors.py
       - name: Compile BibTeX to publications
         run: |
-          pip install bibtexparser python-slugify pyyaml
+          pip install "bibtexparser<2" python-slugify pyyaml
           python3 scripts/bib2yaml.py
       - name: Build with Hugo
         env:
