@@ -188,7 +188,7 @@ def main():
     with BIB_PATH.open("r", encoding="utf-8") as f:
         bib = bibtexparser.load(f)
 
-    for entry in bib.entries:
+    for idx, entry in enumerate(bib.entries):
         title = clean_latex(entry.get("title", "untitled"))
 
         date = guess_date(entry)
@@ -217,7 +217,7 @@ def main():
 
         front_matter = {
             "title": title,
-            "date": date,
+            "date": f"{date}T{(23 - idx // 60) % 24:02d}:{59 - idx % 60:02d}:00",
             "authors": authors,
             "publication": venue_full,
             "publication_short": venue_short or None,
