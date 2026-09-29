@@ -215,7 +215,12 @@
         "url": "ai.postech.ac.kr"
       }
     ],
-    "profiles": [],
+    "profiles": [
+      {
+        "icon": "house-chimney",
+        "url": "https://jyj1025.github.io"
+      }
+    ],
     "user_groups": [
       "PhD"
     ],
@@ -345,6 +350,10 @@
       }
     ],
     "profiles": [
+      {
+        "icon": "house-chimney",
+        "url": "https://pjy0422.github.io"
+      }
     ],
     "user_groups": [
       "PhD"
