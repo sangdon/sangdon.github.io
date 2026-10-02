@@ -426,8 +426,8 @@
         "active": false
       },
       {
-        "name": "Juhwan Park, POSTECH CSE Undergrad (2026.01 - )",
-        "active": true
+        "name": "Juhwan Park, POSTECH CSE Undergrad (2026.01 - 2026.08)",
+        "active": false
       },
       {
         "name": "Seongju Park, POSTECH CSE Undergrad (2026.03 - 2026.05)",
@@ -439,6 +439,14 @@
       },
       {
         "name": "Yohan Lee, SKKU CSE Undergrad (2026.08 - )",
+        "active": true
+      },
+      {
+        "name": "Chaehyeon Chung, POSTECH CSE Undergrad (2026.09 - )",
+        "active": true
+      },
+      {
+        "name": "Yeonjin Kim, POSTECH CSE Undergrad (2026.09 - )",
         "active": true
       }
 
