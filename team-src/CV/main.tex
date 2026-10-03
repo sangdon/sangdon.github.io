@@ -49,6 +49,19 @@
 
 \boldname{Park}{Sangdon}{S.}
 
+% Bold my name even when the family name carries a marker (e.g., "Park*" or "Park$\dagger$")
+\usepackage{xstring}
+\newcommand{\ifmyname}[2]{%
+  \IfBeginWith{\namepartfamily}{\lastname}
+    {\ifboolexpr{ test {\ifdefequal{\firstname}{\namepartgiven}} or test {\ifdefequal{\firstinit}{\namepartgiven}} }
+      {#1}{#2}}
+    {#2}}
+\newcommand{\mkmygiven}[1]{\ifmyname{\mkbibbold{#1}}{#1}}
+% keep the marker (*, $\dagger$) after the family name regular weight
+\newcommand{\mkmyfamily}[1]{\ifmyname{\mkbibbold{\lastname}\StrBehind{#1}{\lastname}}{#1}}
+\renewcommand{\mkbibnamegiven}[1]{\mkmygiven{#1}}
+\renewcommand{\mkbibnamefamily}[1]{\mkmyfamily{#1}}
+
 \begin{document}
 
 % Heading
