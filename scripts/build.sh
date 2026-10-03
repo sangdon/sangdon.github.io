@@ -5,6 +5,9 @@ cd "$(dirname "$0")/.."
 echo "=== Compiling BibTeX ==="
 python3 scripts/bib2yaml.py
 
+echo "=== Compiling CV ==="
+bash scripts/build_cv.sh
+
 echo "=== Generating authors ==="
 python3 scripts/gen_authors.py
 

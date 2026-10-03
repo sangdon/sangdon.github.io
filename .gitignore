@@ -6,3 +6,6 @@
 /static/uploads/CV.pdf
 team-src/.DS_Store
 .DS_Store
+
+team-src/CV/.build/
+team-src/CV/.build.log

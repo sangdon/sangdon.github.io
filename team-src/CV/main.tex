@@ -1,0 +1,87 @@
+
+\documentclass[letterpaper,11pt]{article}
+
+% Choose bibliography style for formatting list of publications
+\usepackage[style=ieee,url=false,doi=false,maxbibnames=99,sorting=none,dashed=false]{biblatex}
+
+\bibliography{../papers}
+
+% Show the bib `nickname` in bold parentheses after the booktitle, e.g. "... Systems (\textbf{NeurIPS})"
+\DeclareSourcemap{
+  \maps[datatype=bibtex]{
+    \map{
+      \step[fieldsource=nickname, fieldtarget=usera]
+    }
+  }
+}
+\DeclareFieldFormat{booktitle}{%
+  #1\iffieldundef{usera}{}{ (\textbf{\thefield{usera}})}}
+
+% Keep titles exactly as written in the bib (no sentence-case conversion)
+\DeclareFieldFormat{sentencecase}{#1}
+
+% Do not print the bib `note` field; show only the year (no month/day);
+% hide editor/location/publisher/pages/isbn so every entry has the same compact form
+\AtEveryBibitem{%
+  \clearfield{note}\clearfield{month}\clearfield{day}%
+  \clearname{editor}\clearlist{location}\clearlist{publisher}%
+  \clearfield{pages}\clearfield{isbn}}
+
+% Choose theme, e.g. black, RedViolet, ForestGreen, MidnightBlue
+\def\theme{black}
+
+% More predefined colors can be found in 
+% https://en.wikibooks.org/wiki/LaTeX/Colors
+% Example photograph taken from Wikimedia Commons
+% https://commons.wikimedia.org/wiki/File:Kiara_Krit_passport.jpg
+
+\usepackage{simplecv}
+\newcommand{\chg}[1]{#1}
+\usepackage{fontawesome}
+\usepackage{academicons}
+\usepackage{kotex}
+
+\boldname{Park}{Sangdon}{S.}
+
+\begin{document}
+
+% Heading
+\headinginline{\textbf{Sangdon Park}}{
+    \faHome~\website{sangdon.github.io} \\ 
+    \faEnvelopeSquare~\email{sangdon@postech.ac.kr} 
+    \\
+    %LinkedIn: \linkedin{name-surname} \\
+    \faGithub~\github{sangdon}
+    \\
+    \aiGoogleScholar\href{https://scholar.google.com/citations?user=Vi2E2F4AAAAJ&hl=en}{Google Scholar}
+    \\
+}
+
+% \headingphoto{Name Surname}{
+%     Website: \website{example.com} \\ 
+%     Email: \email{example@example.edu} \\
+%     LinkedIn: \linkedin{name-surname} \\
+%     GitHub: \github{example}
+% }{photo.jpg}
+
+% Page One
+\import{sections/}{objective.tex}
+\import{sections/}{education.tex}
+\import{sections/}{employment.tex}
+\import{sections/}{publications.tex}
+
+%\pagebreak
+
+% Page Two
+% \sidebyside
+%     {\import{sections/}{skills.tex}}
+%     {\import{sections/}{languages.tex}}
+%\import{sections/}{projects.tex}
+\import{sections/}{awards.tex}
+\import{sections/}{service.tex}
+%\import{sections/}{projects.tex}
+\import{sections/}{teaching.tex}
+%\import{sections/}{skills.tex}
+\import{sections/}{talk.tex}
+
+\end{document}

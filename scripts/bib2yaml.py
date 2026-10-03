@@ -34,7 +34,7 @@ def parse_authors(author_field: str) -> list[str]:
         return []
     authors: list[str] = []
     for a in author_field.split(" and "):
-        a = a.strip()
+        a = a.strip().replace("$\\dagger$", "†")
         if "," in a:
             last, first = a.split(",", 1)
             authors.append(f"{first.strip()} {last.strip()}")
