@@ -36,17 +36,23 @@
 % https://commons.wikimedia.org/wiki/File:Kiara_Krit_passport.jpg
 
 \usepackage{simplecv}
-\newcommand{\chg}[1]{#1}
+\hypersetup{urlcolor=RoyalBlue!70!black, linkcolor=black, citecolor=black}
+\usepackage{needspace}
+% Keep the two lines of an \entrymid together across page breaks
+\renewcommand{\entrymid}[4][]{\Needspace*{3\baselineskip}%
+    \item[#1] \small{#2} \hfill \small{#3}
+    \vspace{-\smallskipamount} \item[]\small{{#4}}}
 \usepackage{fontawesome}
 \usepackage{academicons}
 \usepackage{kotex}
+\setmainfont{TeX Gyre Pagella}
 
 \boldname{Park}{Sangdon}{S.}
 
 \begin{document}
 
 % Heading
-\headinginline{\textbf{Sangdon Park}}{
+\headinginline{\textbf{Sangdon Park}\\[-8pt]{\normalsize Assistant Professor, POSTECH GSAI/CSE}}{
     \faHome~\website{sangdon.github.io} \\ 
     \faEnvelopeSquare~\email{sangdon@postech.ac.kr} 
     \\
