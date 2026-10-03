@@ -1,5 +1,5 @@
 ---
-title: 🎉 Three EMNLP Findings Papers
+title: 🎉 Three EMNLP Findings'26 Papers
 summary: SAUL, The Interplay of Harness Design, and KILLBENCH are accepted to EMNLP Findings'26.
 date: 2026-08-21
 
