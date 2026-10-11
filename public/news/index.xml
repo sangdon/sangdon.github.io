@@ -3,7 +3,7 @@
 &lt;li>&lt;strong>Online Conformal Prediction with Adversarial Semi-bandit Feedback via Regret Minimization&lt;/strong> — ICLR'26&lt;/li>
 &lt;li>&lt;strong>Ruby: Unmasking Unsafe Rust in Stripped Binaries via Machine Learning&lt;/strong> — DSN'26&lt;/li>
 &lt;li>&lt;strong>LLM Watermark Evasion via Bias Inversion&lt;/strong> — ICML'26&lt;/li>
-&lt;li>&lt;strong>Towards Functional Correctness of Large Code Models with Selective Generation&lt;/strong> — ICML'26&lt;/li>
+&lt;li>&lt;strong>Towards Functional Correctness of Code Models with Selective Generation&lt;/strong> — ICML'26&lt;/li>
 &lt;li>&lt;strong>The Illusion of Rust Safety: Detecting Modular Unsafe Functions with LLMs&lt;/strong> — CCS'26&lt;/li>
 &lt;li>&lt;strong>SAUL: Sharpness-Aware Augmented-Lagrangian Unlearning&lt;/strong> — EMNLP Findings'26 (🏆 Best Paper Award from CKAIA)&lt;/li>
 &lt;li>&lt;strong>Can We Stop Malicious AI? KILLBENCH: A Benchmark for External AI Kill Switch Feasibility&lt;/strong> — EMNLP Findings'26&lt;/li>
