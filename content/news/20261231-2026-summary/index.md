@@ -18,7 +18,7 @@ A quick recap of what our lab has accepted so far in 2026:
 1. **Online Conformal Prediction with Adversarial Semi-bandit Feedback via Regret Minimization** — ICLR'26
 2. **Ruby: Unmasking Unsafe Rust in Stripped Binaries via Machine Learning** — DSN'26
 3. **LLM Watermark Evasion via Bias Inversion** — ICML'26
-4. **Towards Functional Correctness of Large Code Models with Selective Generation** — ICML'26
+4. **Towards Functional Correctness of Code Models with Selective Generation** — ICML'26
 5. **The Illusion of Rust Safety: Detecting Modular Unsafe Functions with LLMs** — CCS'26
 6. **SAUL: Sharpness-Aware Augmented-Lagrangian Unlearning** — EMNLP Findings'26 (🏆 Best Paper Award from CKAIA)
 7. **Can We Stop Malicious AI? KILLBENCH: A Benchmark for External AI Kill Switch Feasibility** — EMNLP Findings'26
