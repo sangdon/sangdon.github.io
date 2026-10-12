@@ -1,0 +1,6 @@
+[0] Config.pm:308> INFO - This is Biber 2.20 running in TOOL mode
+[0] Config.pm:311> INFO - Logfile is '../team-src/papers.bib.blg'
+[34] biber-darwin:340> INFO - === Mon Oct 12, 2026, 17:05:07
+[47] Biber.pm:4650> INFO - Looking for bibtex file '../team-src/papers.bib'
+[49] bibtex.pm:1713> INFO - LaTeX decoding ...
+[72] bibtex.pm:1519> INFO - Found BibTeX data source '../team-src/papers.bib'
